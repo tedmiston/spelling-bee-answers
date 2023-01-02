@@ -45,7 +45,7 @@ jobs:
           poetry run python app.py
 
       - name: Git commit
-        uses: endbug/add-and-commit@v7.4.0
+        uses: endbug/add-and-commit@v9.1.1
         with:
           cwd: days
           add: .
