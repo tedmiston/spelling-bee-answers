@@ -1,0 +1,55 @@
+name: Spelling Bee Answers
+
+on:
+  push:
+    branches: main  # todo: remove after verified working
+  schedule:
+    - cron: 0 8 * * *  # daily at 8 am UTC (== 3 am EST) [the new daily game starts at 3 am EST]
+concurrency: ci-spelling-bee-answers
+
+jobs:
+  ci:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Git checkout
+        uses: actions/checkout@v2.3.4
+
+      - name: Python setup
+        id: python-setup
+        uses: actions/setup-python@v2.2.2
+        with:
+          python-version: 3.10.5
+
+      - name: Poetry setup
+        uses: gr1n/setup-poetry@v7
+        with:
+          poetry-version: 1.1.14
+
+      - name: Cache dependencies
+        id: cache-dependencies
+        uses: actions/cache@v3.0.7
+        with:
+          path: ~/.cache/pypoetry/virtualenvs
+          key: ${{ runner.os }}-python-${{ steps.python-setup.outputs.python-version }}-poetry-${{ hashFiles('poetry.lock') }}
+
+      - name: Install dependencies
+        if: steps.cache-dependencies.outputs.cache-hit != 'true'
+        run: |
+          pip install --upgrade pip
+          poetry install
+
+      - name: Run scraper
+        timeout-minutes: 2
+        run: |
+          poetry run python app.py
+
+      - name: Git commit
+        uses: endbug/add-and-commit@v7.4.0
+        with:
+          cwd: days
+          add: .
+          author_name: Robot
+          author_email: ci@taylore.dev
+          message: Add answers
+          branch: main
