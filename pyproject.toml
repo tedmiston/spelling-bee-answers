@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "nytimes-spelling-bee-answers"
-version = "0.1.0"
+version = "1.0.0"
 description = ""
 authors = ["Taylor D. Edmiston <tedmiston@gmail.com>"]
 
