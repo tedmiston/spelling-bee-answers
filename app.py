@@ -6,11 +6,16 @@ Fetch the Yesterday's Answers to the NYTimes Spelling Bee puzzle each day for ar
 
 import datetime
 import json
+import logging
 import re
 from pprint import pprint
 
 import requests
 from bs4 import BeautifulSoup
+
+logging.basicConfig(
+    level=logging.INFO,
+)
 
 
 def fetch_page():
@@ -21,8 +26,16 @@ def fetch_page():
 
 
 def extract_game_data(response):
+    if not response.ok:
+        logging.error("HTTP response code was not successful")
+        exit(1)
+
     soup = BeautifulSoup(response.content, "html.parser")
     game_data_script = soup.find("script", string=re.compile("^window.gameData.*"))
+
+    if not game_data_script:
+        logging.error("Game data script was not found")
+        exit(1)
 
     return game_data_script
 
@@ -33,7 +46,16 @@ def parse_game_data(game_data_script):
     yesterday_end_index = yesterday_script_text.find("}") + 1
     yesterday_script_text = yesterday_script_text[:yesterday_end_index]
 
-    yesterday_dict = json.loads("{" + yesterday_script_text + "}")
+    if yesterday_start_index < 0 or yesterday_end_index < 0:
+        logging.error("Yesterday game data could not be parsed")
+        exit(1)
+
+    try:
+        yesterday_dict = json.loads("{" + yesterday_script_text + "}")
+    except json.decoder.JSONDecodeError:
+        logging.error('JSON decoding of yesterday game data failed')
+        exit(1)
+
     pprint(yesterday_dict["yesterday"], sort_dicts=False)
 
     return yesterday_dict
