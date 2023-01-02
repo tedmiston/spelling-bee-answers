@@ -1,4 +1,4 @@
-# NYTimes Spelling Bee answers.
+# NYTimes Spelling Bee answers
 
 Fetch the Yesterday's Answers to the [NYTimes Spelling Bee][1] puzzle each day for archival purposes.
 
