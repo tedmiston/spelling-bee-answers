@@ -1,3 +1,7 @@
+"""
+Integration tests.
+"""
+
 import datetime
 import json
 from datetime import timedelta
