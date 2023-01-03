@@ -19,7 +19,7 @@ logging.basicConfig(
 
 
 def fetch_page():
-    logging.info('Fetching puzzle')
+    logging.info("Fetching puzzle")
 
     url = "https://www.nytimes.com/puzzles/spelling-bee"
     response = requests.get(url)
@@ -28,10 +28,10 @@ def fetch_page():
 
 
 def extract_game_data(response):
-    logging.info('Extracting game data')
+    logging.info("Extracting game data")
 
     if not response.ok:
-        raise Exception('HTTP response code was not successful')
+        raise Exception("HTTP response code was not successful")
 
     soup = BeautifulSoup(response.content, "html.parser")
     game_data_script = soup.find("script", string=re.compile("^window.gameData.*"))
@@ -43,7 +43,7 @@ def extract_game_data(response):
 
 
 def parse_game_data(game_data_script):
-    logging.info('Parsing game data')
+    logging.info("Parsing game data")
 
     yesterday_start_index = game_data_script.text.find('"yesterday"')
     yesterday_script_text = game_data_script.text[yesterday_start_index:]
@@ -64,7 +64,7 @@ def parse_game_data(game_data_script):
 
 
 def output_game_answers_data(yesterday_dict):
-    logging.info('Writing game data')
+    logging.info("Writing game data")
 
     yesterday_date = datetime.date.today() - datetime.timedelta(days=1)
     output = json.dumps(yesterday_dict["yesterday"], indent=2)
