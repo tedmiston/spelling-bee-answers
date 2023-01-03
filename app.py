@@ -60,14 +60,14 @@ def parse_game_data(game_data_script):
 
     pprint(yesterday_dict["yesterday"], sort_dicts=False)
 
-    return yesterday_dict
+    return yesterday_dict["yesterday"]
 
 
 def output_game_answers_data(yesterday_dict):
     logging.info("Writing game data")
 
     yesterday_date = datetime.date.today() - datetime.timedelta(days=1)
-    output = json.dumps(yesterday_dict["yesterday"], indent=2)
+    output = json.dumps(yesterday_dict, indent=2)
     with open(f"days/{yesterday_date}.json", "w") as fp:
         fp.write(output + "\n")
 

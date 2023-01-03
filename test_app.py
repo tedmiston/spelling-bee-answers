@@ -9,7 +9,8 @@ def test_output_json_schema():
     Assert that the JSON output file format is being maintained.
     """
     # todo: update this to use the most recent available day filepath
-    # note: 2023-01-02 also has "expiration" key which 2023-01-01 does not
+    # note: 2023-01-02 also has "expiration" key when pulled remotely, but not when
+    # pulled locally for some reason
     with open("days/2023-01-01.json") as fp:
         doc = json.load(fp)
 
