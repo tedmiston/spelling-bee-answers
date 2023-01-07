@@ -1,0 +1,62 @@
+{
+  "expiration": 1673078400,
+  "displayWeekday": "Friday",
+  "displayDate": "January 6, 2023",
+  "printDate": "2023-01-06",
+  "centerLetter": "m",
+  "outerLetters": [
+    "a",
+    "c",
+    "i",
+    "o",
+    "t",
+    "x"
+  ],
+  "validLetters": [
+    "m",
+    "a",
+    "c",
+    "i",
+    "o",
+    "t",
+    "x"
+  ],
+  "pangrams": [
+    "axiomatic"
+  ],
+  "answers": [
+    "axiomatic",
+    "ammo",
+    "atom",
+    "atomic",
+    "axiom",
+    "cami",
+    "camo",
+    "coma",
+    "comic",
+    "comma",
+    "commit",
+    "imam",
+    "maim",
+    "mama",
+    "mamma",
+    "maxi",
+    "maxim",
+    "maxima",
+    "mica",
+    "mimic",
+    "mitt",
+    "moat",
+    "momma",
+    "moot",
+    "motto",
+    "omit",
+    "tatami",
+    "tomato",
+    "tomcat",
+    "tomtit"
+  ],
+  "id": 23569,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
