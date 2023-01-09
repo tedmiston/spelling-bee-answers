@@ -1,0 +1,55 @@
+{
+  "expiration": 1673251200,
+  "displayWeekday": "Sunday",
+  "displayDate": "January 8, 2023",
+  "printDate": "2023-01-08",
+  "centerLetter": "a",
+  "outerLetters": [
+    "c",
+    "d",
+    "i",
+    "j",
+    "l",
+    "u"
+  ],
+  "validLetters": [
+    "a",
+    "c",
+    "d",
+    "i",
+    "j",
+    "l",
+    "u"
+  ],
+  "pangrams": [
+    "judicial"
+  ],
+  "answers": [
+    "judicial",
+    "acacia",
+    "acai",
+    "acid",
+    "acidic",
+    "calculi",
+    "call",
+    "calla",
+    "caudal",
+    "caul",
+    "cicada",
+    "cilia",
+    "clad",
+    "dial",
+    "dual",
+    "iliac",
+    "jail",
+    "laic",
+    "laical",
+    "laid",
+    "laud",
+    "lilac",
+    "luau"
+  ],
+  "id": 21112,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
