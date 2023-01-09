@@ -43,7 +43,11 @@ def test_daily_answers_complete():
     Assert that a daily answer file exists for each day from the start through the present (yesterday).
     """
     start_date = datetime.date(2023, 1, 1)
-    end_date = datetime.date.today() - timedelta(days=1)
+    # fix for when the test is run between midnight and 3 am on the following day when
+    # the previous day's puzzle hasn't closed yet (it's live until just before 3 am
+    # eastern on the following day)
+    days_offset = 2 if datetime.datetime.now().hour < 3 else 1
+    end_date = datetime.date.today() - timedelta(days=days_offset)
     num_days = (end_date - start_date).days
     date_list = sorted([end_date - timedelta(days=x) for x in range(num_days + 1)])
 
