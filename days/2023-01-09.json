@@ -1,0 +1,55 @@
+{
+  "expiration": 1673337600,
+  "displayWeekday": "Monday",
+  "displayDate": "January 9, 2023",
+  "printDate": "2023-01-09",
+  "centerLetter": "k",
+  "outerLetters": [
+    "a",
+    "b",
+    "c",
+    "o",
+    "t",
+    "u"
+  ],
+  "validLetters": [
+    "k",
+    "a",
+    "b",
+    "c",
+    "o",
+    "t",
+    "u"
+  ],
+  "pangrams": [
+    "outback"
+  ],
+  "answers": [
+    "outback",
+    "aback",
+    "attack",
+    "babka",
+    "back",
+    "bock",
+    "book",
+    "buck",
+    "bucko",
+    "buttock",
+    "cock",
+    "cockatoo",
+    "cook",
+    "cookbook",
+    "cookout",
+    "cuckoo",
+    "cutback",
+    "kabob",
+    "kook",
+    "tack",
+    "tock",
+    "took",
+    "tuck"
+  ],
+  "id": 19984,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
