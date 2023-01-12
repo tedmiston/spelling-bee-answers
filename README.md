@@ -4,7 +4,7 @@ Fetch the Yesterday's Answers to the [NYTimes Spelling Bee][1] puzzle each day f
 
 ## Puzzles
 
-<!-- table generated via `python gen_readme_table.py` -->
+<!-- table generated via `make gen-readme-table` -->
 
 | Date       | File                                    | Notes |
 |:-----------|:----------------------------------------|:------|
