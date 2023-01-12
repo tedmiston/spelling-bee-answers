@@ -1,4 +1,6 @@
-# NYTimes Spelling Bee answers
+# NYTimes Spelling Bee Answers
+
+[![](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
 Fetch the Yesterday's Answers to the [NYTimes Spelling Bee][1] puzzle each day for archival purposes.
 
