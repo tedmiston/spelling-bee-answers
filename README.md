@@ -7,6 +7,7 @@ Fetch the Yesterday's Answers to the [NYTimes Spelling Bee][1] puzzle each day f
 ## Puzzles
 
 <!-- table generated via `make gen-readme-table` -->
+<!-- generated table start -->
 
 | Date       | File                                    | Notes |
 |:-----------|:----------------------------------------|:------|
@@ -21,5 +22,7 @@ Fetch the Yesterday's Answers to the [NYTimes Spelling Bee][1] puzzle each day f
 | 2023-01-09 | [2023-01-09.json](days/2023-01-09.json) |       |
 | 2023-01-10 | [2023-01-10.json](days/2023-01-10.json) |       |
 | 2023-01-11 | [2023-01-11.json](days/2023-01-11.json) |       |
+
+<!-- generated table end -->
 
 [1]: https://www.nytimes.com/puzzles/spelling-bee
