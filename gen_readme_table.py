@@ -21,11 +21,14 @@ def generate_table():
     )
 
     markdown = """
-| Date       | File                                    | Notes |
-|:-----------|:----------------------------------------|:------|
+| Date       | File                                    | Forum                                                                          | Notes |
+|:-----------|:----------------------------------------|:-------------------------------------------------------------------------------|:------|
 """
     for date in puzzle_dates:
-        markdown += f"| {date} | [{date}.json](days/{date}.json) |       |" + "\n"
+        path_link = f"[{date}.json](days/{date}.json)"
+        date_str = date.strftime('%Y/%m/%d')
+        forum_link = f"[Forum](https://www.nytimes.com/{date_str}/crosswords/spelling-bee-forum.html)"
+        markdown += f"| {date} | {path_link} | {forum_link} |       |" + "\n"
 
     return markdown.strip()
 
