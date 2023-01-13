@@ -6,6 +6,8 @@ import datetime
 import logging
 from datetime import timedelta
 
+from tabulate import tabulate
+
 from utils import date_range
 
 logging.basicConfig(
@@ -15,22 +17,25 @@ logging.basicConfig(
 
 def generate_table():
     logging.info("Generating table")
+
+    # fixme: if the time is after 3 am (+ some small buffer?), the current day should be
+    # included too (see `test_integration.py:test_daily_answers_complete` for details)
     puzzle_dates = date_range(
         start_date=datetime.date(2023, 1, 1),
         end_date=datetime.date.today() - timedelta(days=1),
     )
 
-    markdown = """
-| Date       | File                                    | Forum                                                                          | Notes |
-|:-----------|:----------------------------------------|:-------------------------------------------------------------------------------|:------|
-"""
+    headers = ["Date", "File", "Forum", "Notes"]
+    table = []
     for date in puzzle_dates:
         path_link = f"[{date}.json](days/{date}.json)"
         date_str = date.strftime("%Y/%m/%d")
         forum_link = f"[Forum](https://www.nytimes.com/{date_str}/crosswords/spelling-bee-forum.html)"
-        markdown += f"| {date} | {path_link} | {forum_link} |       |" + "\n"
+        notes = ""
+        row = [date, path_link, forum_link, notes]
+        table.append(row)
 
-    return markdown.strip()
+    return tabulate(table, headers=headers, tablefmt="github")
 
 
 # def update_readme(markdown):
