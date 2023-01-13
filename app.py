@@ -12,6 +12,8 @@ from pprint import pprint
 import requests
 from bs4 import BeautifulSoup
 
+from settings import settings
+
 logging.basicConfig(
     level=logging.INFO,
 )
@@ -57,7 +59,8 @@ def parse_game_data(game_data_script):
     except json.decoder.JSONDecodeError:
         raise Exception("JSON decoding of yesterday game data failed")
 
-    pprint(yesterday_dict["yesterday"], sort_dicts=False)
+    if settings.display_puzzle_output:
+        pprint(yesterday_dict["yesterday"], sort_dicts=False)
 
     return yesterday_dict["yesterday"]
 
@@ -69,6 +72,8 @@ def output_game_answers_data(puzzle_dict):
     puzzle_date = puzzle_dict["printDate"]
     with open(f"days/{puzzle_date}.json", "w") as fp:
         fp.write(output + "\n")
+
+    logging.info("Done")
 
 
 def main():

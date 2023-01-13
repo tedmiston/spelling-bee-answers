@@ -8,6 +8,7 @@ from datetime import timedelta
 
 from tabulate import tabulate
 
+from settings import settings
 from utils import date_range
 
 logging.basicConfig(
@@ -18,8 +19,9 @@ logging.basicConfig(
 def generate_table():
     logging.info("Generating table")
 
-    # fixme: if the time is after 3 am (+ some small buffer?), the current day should be
-    # included too (see `test_integration.py:test_daily_answers_complete` for details)
+    # fixme: if the time is after 12 am but before 3 am (+ some small buffer?), then the
+    # current day should *NOT* be included yet (see
+    # `test_integration.py:test_daily_answers_complete` for details)
     puzzle_dates = date_range(
         start_date=datetime.date(2023, 1, 1),
         end_date=datetime.date.today() - timedelta(days=1),
@@ -55,15 +57,19 @@ def update_readme(markdown):
             doc[tag_end_idx:],
         ]
         output = "\n\n".join(doc_parts)
-        print(output)
+        if settings.display_generated_readme_output:
+            print(output)
 
     with open("README.md", "w") as fp:
         fp.write(output)
 
+    logging.info("Done")
+
 
 def main():
     markdown = generate_table()
-    # print(markdown)
+    if settings.display_generated_readme_table:
+        print(markdown)
     update_readme(markdown)
 
 
