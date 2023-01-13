@@ -26,7 +26,7 @@ def generate_table():
 """
     for date in puzzle_dates:
         path_link = f"[{date}.json](days/{date}.json)"
-        date_str = date.strftime('%Y/%m/%d')
+        date_str = date.strftime("%Y/%m/%d")
         forum_link = f"[Forum](https://www.nytimes.com/{date_str}/crosswords/spelling-bee-forum.html)"
         markdown += f"| {date} | {path_link} | {forum_link} |       |" + "\n"
 
