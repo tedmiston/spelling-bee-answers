@@ -54,7 +54,6 @@ jobs:
           author_name: Robot
           author_email: ci@taylore.dev
           message: Add answers
-          branch: main
 
       - name: Update readme table
         timeout-minutes: 1
@@ -68,4 +67,3 @@ jobs:
           author_name: Robot
           author_email: ci@taylore.dev
           message: Regenerate readme table
-          branch: main
