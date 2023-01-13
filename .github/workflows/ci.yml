@@ -42,7 +42,7 @@ jobs:
         run: |
           poetry run python app.py
 
-      - name: Git commit
+      - name: Git commit answers
         uses: endbug/add-and-commit@v9.1.1
         with:
           cwd: days
@@ -50,4 +50,18 @@ jobs:
           author_name: Robot
           author_email: ci@taylore.dev
           message: Add answers
+          branch: main
+
+      - name: Update readme table
+        timeout-minutes: 1
+        run: |
+          poetry run python gen_readme_table.py
+
+      - name: Git commit readme
+        uses: endbug/add-and-commit@v9.1.1
+        with:
+          add: README.md
+          author_name: Robot
+          author_email: ci@taylore.dev
+          message: Regenerate readme table
           branch: main
