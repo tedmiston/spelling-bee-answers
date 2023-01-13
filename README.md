@@ -22,7 +22,6 @@ Fetch the Yesterday's Answers to the [NYTimes Spelling Bee][1] puzzle each day f
 | 2023-01-09 | [2023-01-09.json](days/2023-01-09.json) | [Forum](https://www.nytimes.com/2023/01/09/crosswords/spelling-bee-forum.html) |         |
 | 2023-01-10 | [2023-01-10.json](days/2023-01-10.json) | [Forum](https://www.nytimes.com/2023/01/10/crosswords/spelling-bee-forum.html) |         |
 | 2023-01-11 | [2023-01-11.json](days/2023-01-11.json) | [Forum](https://www.nytimes.com/2023/01/11/crosswords/spelling-bee-forum.html) |         |
-| 2023-01-12 | [2023-01-12.json](days/2023-01-12.json) | [Forum](https://www.nytimes.com/2023/01/12/crosswords/spelling-bee-forum.html) |         |
 
 <!-- generated table end -->
 
