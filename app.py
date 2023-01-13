@@ -4,7 +4,6 @@ NYTimes Spelling Bee answers.
 Fetch the Yesterday's Answers to the NYTimes Spelling Bee puzzle each day for archival purposes.
 """
 
-import datetime
 import json
 import logging
 import re
@@ -63,20 +62,20 @@ def parse_game_data(game_data_script):
     return yesterday_dict["yesterday"]
 
 
-def output_game_answers_data(yesterday_dict):
+def output_game_answers_data(puzzle_dict):
     logging.info("Writing game data")
 
-    yesterday_date = datetime.date.today() - datetime.timedelta(days=1)
-    output = json.dumps(yesterday_dict, indent=2)
-    with open(f"days/{yesterday_date}.json", "w") as fp:
+    output = json.dumps(puzzle_dict, indent=2)
+    puzzle_date = puzzle_dict["printDate"]
+    with open(f"days/{puzzle_date}.json", "w") as fp:
         fp.write(output + "\n")
 
 
 def main():
     response = fetch_page()
     game_data_script = extract_game_data(response)
-    yesterday_dict = parse_game_data(game_data_script)
-    output_game_answers_data(yesterday_dict)
+    puzzle_dict = parse_game_data(game_data_script)
+    output_game_answers_data(puzzle_dict)
 
 
 if __name__ == "__main__":
