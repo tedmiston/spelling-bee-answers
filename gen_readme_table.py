@@ -38,18 +38,33 @@ def generate_table():
     return tabulate(table, headers=headers, tablefmt="github")
 
 
-# def update_readme(markdown):
-#     logging.info("Updating readme")
-#     tag_start = "<!-- generated table start -->"
-#     tag_end = "<!-- generated table end -->"
-#     ...
-#     pass  # todo
+def update_readme(markdown):
+    logging.info("Updating readme")
+
+    tag_start, tag_end = (
+        "<!-- generated table start -->",
+        "<!-- generated table end -->",
+    )
+
+    with open("README.md", "r") as fp:
+        doc = fp.read()
+        tag_start_idx, tag_end_idx = doc.find(tag_start), doc.find(tag_end)
+        doc_parts = [
+            doc[: tag_start_idx + len(tag_start)],
+            markdown,
+            doc[tag_end_idx:],
+        ]
+        output = "\n\n".join(doc_parts)
+        print(output)
+
+    with open("README.md", "w") as fp:
+        fp.write(output)
 
 
 def main():
     markdown = generate_table()
-    print(markdown)
-    # update_readme(markdown)
+    # print(markdown)
+    update_readme(markdown)
 
 
 if __name__ == "__main__":
