@@ -6,6 +6,10 @@ run:
 gen-readme-table:
 	python gen_readme_table.py
 
+.PHONY: stats
+stats:
+	python stats.py
+
 .PHONY: format
 format:
 	black .
