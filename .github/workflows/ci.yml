@@ -2,31 +2,33 @@ name: Spelling Bee Answers
 
 on:
   schedule:
-    - cron: 0 8 * * *  # daily at 8 am UTC (== 3 am EST) [the new daily game starts at 3 am EST]
+    - cron: 0 8 * * *  # daily at 8 am UTC == 3 am EST [the new daily game starts at 3 am EST]
+    # todo: do i need to offset this time ^ by an hour during EDT?
 concurrency: ci-spelling-bee-answers
 
 jobs:
+
   ci:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
+ 
       - name: Git checkout
-        uses: actions/checkout@v2.3.4
+        uses: actions/checkout@v3
 
       - name: Python setup
         id: python-setup
-        uses: actions/setup-python@v2.2.2
+        uses: actions/setup-python@v4
         with:
-          python-version: 3.10.5
+          python-version: 3.11
+          check-latest: true
 
       - name: Poetry setup
-        uses: gr1n/setup-poetry@v7
-        with:
-          poetry-version: 1.1.14
+        uses: gr1n/setup-poetry@v8
 
       - name: Cache dependencies
         id: cache-dependencies
-        uses: actions/cache@v3.0.7
+        uses: actions/cache@v3
         with:
           path: ~/.cache/pypoetry/virtualenvs
           key: ${{ runner.os }}-python-${{ steps.python-setup.outputs.python-version }}-poetry-${{ hashFiles('poetry.lock') }}
@@ -37,16 +39,17 @@ jobs:
           pip install --upgrade pip
           poetry install
 
-      - name: Run scraper
+      - name: Scraper execute
         timeout-minutes: 2
         run: |
           poetry run python app.py
 
+      # todo: pragmatically add row for current day to table in markdown readme doc (or run `ls` etc to re-gen entire table)
+
       - name: Git commit
-        uses: endbug/add-and-commit@v7.4.0
+        uses: endbug/add-and-commit@v9
         with:
-          cwd: days
-          add: .
+          add: days
           author_name: Robot
           author_email: ci@taylore.dev
           message: Add answers

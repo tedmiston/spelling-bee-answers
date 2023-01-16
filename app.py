@@ -9,13 +9,22 @@ import json
 import logging
 import re
 from pprint import pprint
+from typing import List
 
 import requests
 from bs4 import BeautifulSoup
+from pydantic import BaseModel
 
 logging.basicConfig(
     level=logging.INFO,
 )
+
+
+class GameData(BaseModel):
+    game_id: int
+    pangrams: List[str]
+    answers: List[str]
+    ...
 
 
 def fetch_page():
@@ -58,16 +67,16 @@ def parse_game_data(game_data_script):
     except json.decoder.JSONDecodeError:
         raise Exception("JSON decoding of yesterday game data failed")
 
-    pprint(yesterday_dict["yesterday"], sort_dicts=False)
+    game_data = yesterday_dict["yesterday"]
+    pprint(game_data, sort_dicts=False)
+    return game_data
 
-    return yesterday_dict["yesterday"]
 
-
-def output_game_answers_data(yesterday_dict):
+def output_game_data(game_data_dict):
     logging.info("Writing game data")
 
     yesterday_date = datetime.date.today() - datetime.timedelta(days=1)
-    output = json.dumps(yesterday_dict, indent=2)
+    output = json.dumps(game_data_dict, indent=2)
     with open(f"days/{yesterday_date}.json", "w") as fp:
         fp.write(output + "\n")
 
@@ -75,8 +84,8 @@ def output_game_answers_data(yesterday_dict):
 def main():
     response = fetch_page()
     game_data_script = extract_game_data(response)
-    yesterday_dict = parse_game_data(game_data_script)
-    output_game_answers_data(yesterday_dict)
+    game_data_dict = parse_game_data(game_data_script)
+    output_game_data(game_data_dict)
 
 
 if __name__ == "__main__":

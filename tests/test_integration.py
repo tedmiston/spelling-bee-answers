@@ -42,6 +42,8 @@ def test_daily_answers_complete():
     """
     Assert that a daily answer file exists for each day from the start through the present (yesterday).
     """
+    # todo: include current day if after 3 am eastern when new puzzle is published
+    # todo: break out date list generation into helper function
     start_date = datetime.date(2023, 1, 1)
     end_date = datetime.date.today() - timedelta(days=1)
     num_days = (end_date - start_date).days
@@ -50,3 +52,17 @@ def test_daily_answers_complete():
     for date in date_list:
         path = Path(f"days/{date}.json")
         assert path.exists()
+
+
+def test_fetch_extract_parse_historical_game_data_ia():
+    """
+    Test the full fetch, extract, parse loop on historical data retrieved from the Internet Archive.
+    """
+    pass  # todo
+
+
+def test_fetch_extract_parse_historical_game_data_nyt():
+    """
+    Test the full fetch, extract, parse loop on historical data retrieved from the New York Times.
+    """
+    pass  # todo
