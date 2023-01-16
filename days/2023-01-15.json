@@ -1,0 +1,53 @@
+{
+  "displayWeekday": "Sunday",
+  "displayDate": "January 15, 2023",
+  "printDate": "2023-01-15",
+  "centerLetter": "b",
+  "outerLetters": [
+    "a",
+    "i",
+    "l",
+    "n",
+    "p",
+    "t"
+  ],
+  "validLetters": [
+    "b",
+    "a",
+    "i",
+    "l",
+    "n",
+    "p",
+    "t"
+  ],
+  "pangrams": [
+    "paintball"
+  ],
+  "answers": [
+    "paintball",
+    "alibi",
+    "baba",
+    "bail",
+    "bait",
+    "ball",
+    "banal",
+    "banana",
+    "bilabial",
+    "bill",
+    "blab",
+    "blat",
+    "blatant",
+    "blin",
+    "blini",
+    "blip",
+    "labia",
+    "labial",
+    "pinball",
+    "tabla",
+    "tibia",
+    "tibial"
+  ],
+  "id": 20717,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
