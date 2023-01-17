@@ -26,7 +26,7 @@ jobs:
         id: python-setup
         uses: actions/setup-python@v4.5.0
         with:
-          python-version: 3.10.5
+          python-version-file: .python-version
           cache: poetry
 
       # - name: Cache dependencies
