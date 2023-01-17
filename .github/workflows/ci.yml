@@ -1,7 +1,7 @@
 name: Spelling Bee Answers
 
 on:
-  # for debugging
+  # for debugging 2
   push:
     branches:
       - main
