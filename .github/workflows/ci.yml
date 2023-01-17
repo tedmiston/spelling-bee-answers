@@ -17,17 +17,17 @@ jobs:
       - name: Git checkout
         uses: actions/checkout@v3.3.0
 
+      - name: Poetry setup
+        uses: gr1n/setup-poetry@v8
+        with:
+          poetry-version: 1.3.2
+
       - name: Python setup
         id: python-setup
         uses: actions/setup-python@v4.5.0
         with:
           python-version: 3.10.5
           cache: poetry
-
-      - name: Poetry setup
-        uses: gr1n/setup-poetry@v8
-        with:
-          poetry-version: 1.3.2
 
       # - name: Cache dependencies
       #   id: cache-dependencies
