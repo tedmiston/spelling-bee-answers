@@ -4,6 +4,10 @@
 
 Fetch the Yesterday's Answers to the [NYTimes Spelling Bee][1] puzzle each day for archival purposes.
 
+## All Words
+
+See [All Words](All Words.md).
+
 ## Puzzles
 
 <!-- table generated via `poetry shell` then `make gen-readme-table` -->
