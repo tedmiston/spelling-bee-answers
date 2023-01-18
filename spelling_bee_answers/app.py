@@ -12,7 +12,7 @@ from pprint import pprint
 import requests
 from bs4 import BeautifulSoup
 
-from settings import settings
+from .settings import settings
 
 logging.basicConfig(
     level=logging.INFO,

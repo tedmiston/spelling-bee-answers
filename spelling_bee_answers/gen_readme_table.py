@@ -9,8 +9,8 @@ from datetime import timedelta
 
 from tabulate import tabulate
 
-from settings import settings
-from utils import date_range
+from .settings import settings
+from .utils import date_range
 
 logging.basicConfig(
     level=getattr(logging, settings.log_level),
