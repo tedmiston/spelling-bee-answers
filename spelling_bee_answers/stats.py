@@ -9,11 +9,13 @@ from pprint import pprint
 
 from tabulate import tabulate
 
+from .settings import settings
+
 
 def load_all_answers():
     answers = []
 
-    paths = Path("days").glob("*.json")
+    paths = Path(f"{settings.repo_root}/days").glob("*.json")
     paths = sorted(paths)
 
     for i in paths:
@@ -43,7 +45,7 @@ def update_doc(table):
         "<!-- generated table end -->",
     )
 
-    with open("All Words.md", "r+") as fp:
+    with open(f"{settings.repo_root}/All Words.md", "r+") as fp:
         doc = fp.read()
         tag_start_idx, tag_end_idx = doc.find(tag_start), doc.find(tag_end)
         after_tag_start_idx = tag_start_idx + len(tag_start)
