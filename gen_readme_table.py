@@ -48,7 +48,7 @@ def update_readme(markdown):
         "<!-- generated table end -->",
     )
 
-    with open("README.md", "r") as fp:
+    with open("README.md", "r+") as fp:
         doc = fp.read()
         tag_start_idx, tag_end_idx = doc.find(tag_start), doc.find(tag_end)
         after_tag_start_idx = tag_start_idx + len(tag_start)
@@ -57,11 +57,11 @@ def update_readme(markdown):
             markdown,
             doc[tag_end_idx:],
         ]
+
         output = "\n\n".join(doc_parts)
         if settings.display_generated_readme_output:
             print(output)
-
-    with open("README.md", "w") as fp:
+        fp.seek(0)
         fp.write(output)
 
     logging.info("Done")
