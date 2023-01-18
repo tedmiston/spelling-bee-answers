@@ -3,6 +3,7 @@ Generate the table of days in the readme file.
 """
 
 import datetime
+import json
 import logging
 from datetime import timedelta
 
@@ -16,6 +17,14 @@ logging.basicConfig(
 )
 
 
+def get_days_word_count(filepath):
+    with open(filepath) as fp:
+        day = json.load(fp)
+
+    word_count = len(day["answers"])
+    return word_count
+
+
 def generate_table():
     logging.info("Generating table")
 
@@ -27,14 +36,16 @@ def generate_table():
         end_date=datetime.date.today() - timedelta(days=1),
     )
 
-    headers = ["Date", "File", "Forum", "Notes"]
+    headers = ["Date", "File", "Forum", "Word Count", "Notes"]
     table = []
     for date in puzzle_dates:
-        path_link = f"[{date}.json](days/{date}.json)"
+        filepath = f"days/{date}.json"
+        path_link = f"[{date}.json]({filepath})"
         date_str = date.strftime("%Y/%m/%d")
         forum_link = f"[Forum](https://www.nytimes.com/{date_str}/crosswords/spelling-bee-forum.html)"
+        word_count = get_days_word_count(filepath)
         notes = ""
-        row = [date, path_link, forum_link, notes]
+        row = [date, path_link, forum_link, word_count, notes]
         table.append(row)
 
     return tabulate(table, headers=headers, tablefmt="github")
