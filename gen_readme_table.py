@@ -12,7 +12,7 @@ from settings import settings
 from utils import date_range
 
 logging.basicConfig(
-    level=logging.INFO,
+    level=getattr(logging, settings.log_level),
 )
 
 
