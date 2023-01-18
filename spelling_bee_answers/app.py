@@ -12,7 +12,7 @@ from pprint import pprint
 import requests
 from bs4 import BeautifulSoup
 
-from settings import settings
+from .settings import settings
 
 logging.basicConfig(
     level=logging.INFO,
@@ -70,7 +70,7 @@ def output_game_answers_data(puzzle_dict):
 
     output = json.dumps(puzzle_dict, indent=2)
     puzzle_date = puzzle_dict["printDate"]
-    with open(f"days/{puzzle_date}.json", "w") as fp:
+    with open(f"{settings.repo_root}/days/{puzzle_date}.json", "w") as fp:
         fp.write(output + "\n")
 
     logging.info("Done")

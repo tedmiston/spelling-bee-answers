@@ -1,14 +1,14 @@
 .PHONY: run
 run:
-	python app.py
+	python -m spelling_bee_answers.app
 
 .PHONY: gen-readme-table
 gen-readme-table:
-	python gen_readme_table.py
+	python -m spelling_bee_answers.gen_readme_table
 
 .PHONY: stats
 stats:
-	python stats.py
+	python -m spelling_bee_answers.stats
 
 .PHONY: format
 format:

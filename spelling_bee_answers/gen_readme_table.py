@@ -9,8 +9,8 @@ from datetime import timedelta
 
 from tabulate import tabulate
 
-from settings import settings
-from utils import date_range
+from .settings import settings
+from .utils import date_range
 
 logging.basicConfig(
     level=getattr(logging, settings.log_level),
@@ -43,7 +43,7 @@ def generate_table():
         path_link = f"[{date}.json]({filepath})"
         date_str = date.strftime("%Y/%m/%d")
         forum_link = f"[Forum](https://www.nytimes.com/{date_str}/crosswords/spelling-bee-forum.html)"
-        word_count = get_days_word_count(filepath)
+        word_count = get_days_word_count(f"{settings.repo_root}/{filepath}")
         notes = ""
         row = [date, path_link, forum_link, word_count, notes]
         table.append(row)
@@ -59,7 +59,7 @@ def update_readme(markdown):
         "<!-- generated table end -->",
     )
 
-    with open("README.md", "r+") as fp:
+    with open(f"{settings.repo_root}/README.md", "r+") as fp:
         doc = fp.read()
         tag_start_idx, tag_end_idx = doc.find(tag_start), doc.find(tag_end)
         after_tag_start_idx = tag_start_idx + len(tag_start)

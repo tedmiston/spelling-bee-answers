@@ -7,7 +7,7 @@ import json
 from datetime import timedelta
 from pathlib import Path
 
-from utils import date_range
+from ..utils import date_range
 
 
 def test_output_json_schema():
