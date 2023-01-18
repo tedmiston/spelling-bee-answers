@@ -51,8 +51,9 @@ def update_readme(markdown):
     with open("README.md", "r") as fp:
         doc = fp.read()
         tag_start_idx, tag_end_idx = doc.find(tag_start), doc.find(tag_end)
+        after_tag_start_idx = tag_start_idx + len(tag_start)
         doc_parts = [
-            doc[: tag_start_idx + len(tag_start)],
+            doc[:after_tag_start_idx],
             markdown,
             doc[tag_end_idx:],
         ]
