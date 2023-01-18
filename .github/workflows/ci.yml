@@ -10,7 +10,8 @@ on:
 concurrency: ci-spelling-bee-answers
 
 jobs:
-  ci:
+
+  answers:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
