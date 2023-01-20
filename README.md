@@ -33,6 +33,7 @@ See [All Words](All%20Words.md).
 | 2023-01-16 | [2023-01-16.json](days/2023-01-16.json) | [Forum](https://www.nytimes.com/2023/01/16/crosswords/spelling-bee-forum.html) |           30 |         |
 | 2023-01-17 | [2023-01-17.json](days/2023-01-17.json) | [Forum](https://www.nytimes.com/2023/01/17/crosswords/spelling-bee-forum.html) |           32 |         |
 | 2023-01-18 | [2023-01-18.json](days/2023-01-18.json) | [Forum](https://www.nytimes.com/2023/01/18/crosswords/spelling-bee-forum.html) |           46 |         |
+| 2023-01-19 | [2023-01-19.json](days/2023-01-19.json) | [Forum](https://www.nytimes.com/2023/01/19/crosswords/spelling-bee-forum.html) |           24 |         |
 
 <!-- generated table end -->
 
