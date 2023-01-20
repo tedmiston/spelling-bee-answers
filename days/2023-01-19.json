@@ -1,0 +1,56 @@
+{
+  "expiration": 1674201600,
+  "displayWeekday": "Thursday",
+  "displayDate": "January 19, 2023",
+  "printDate": "2023-01-19",
+  "centerLetter": "u",
+  "outerLetters": [
+    "a",
+    "c",
+    "k",
+    "l",
+    "n",
+    "o"
+  ],
+  "validLetters": [
+    "u",
+    "a",
+    "c",
+    "k",
+    "l",
+    "n",
+    "o"
+  ],
+  "pangrams": [
+    "uncloak"
+  ],
+  "answers": [
+    "uncloak",
+    "annual",
+    "annul",
+    "cannula",
+    "caul",
+    "caulk",
+    "cluck",
+    "clunk",
+    "cuckoo",
+    "cull",
+    "lacuna",
+    "luau",
+    "luck",
+    "lull",
+    "lulu",
+    "luna",
+    "lunk",
+    "lunula",
+    "noun",
+    "null",
+    "ulna",
+    "uncock",
+    "uncool",
+    "unlock"
+  ],
+  "id": 20939,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
