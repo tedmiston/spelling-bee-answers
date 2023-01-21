@@ -32,16 +32,16 @@ def determine_counts(answers):
 
 
 def generate_all_words_table(counts):
-    headers = ["Word", "Count"]
-    rows = [(word, count) for word, count in counts.items()]
+    headers = ["Word", "Count", "Definition"]
+    rows = [(word, count, f"https://www.wordnik.com/words/{word}") for word, count in counts.items()]
     table = tabulate(rows, headers=headers, tablefmt="github")
     # print(table)
     return table
 
 
 def generate_multi_count_words_table(counts):
-    headers = ["Word", "Count"]
-    rows = [(word, count) for word, count in counts.items() if count > 1]
+    headers = ["Word", "Count", "Definition"]
+    rows = [(word, count, f"https://www.wordnik.com/words/{word}") for word, count in counts.items() if count > 1]
     table = tabulate(rows, headers=headers, tablefmt="github")
     # print(table)
     return table
