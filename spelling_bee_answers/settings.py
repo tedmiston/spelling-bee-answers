@@ -3,6 +3,7 @@ from pydantic import BaseSettings
 
 class Settings(BaseSettings):
 
+    # todo: migrate this to be a pathlib.Path
     repo_root: str
 
     log_level: str = "INFO"
