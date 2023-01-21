@@ -78,13 +78,16 @@ def main():
     answers = load_all_answers()
     counts = determine_counts(answers)
 
-    all_words_table = generate_all_words_table(counts)
-    all_words_count = len(counts.keys())
-    update_doc(all_words_count, all_words_table, tag="generated all table")
-
-    multi_words_table = generate_multi_count_words_table(counts)
-    multi_words_count = len([x for x in counts.values() if x > 1])
-    update_doc(multi_words_count, multi_words_table, tag="generated multi table")
+    update_doc(
+        word_count=len([x for x in counts.values() if x > 1]),
+        table=generate_multi_count_words_table(counts),
+        tag="generated multi table",
+    )
+    update_doc(
+        word_count=len(counts.keys()),
+        table=generate_all_words_table(counts),
+        tag="generated all table",
+    )
 
 
 if __name__ == "__main__":
