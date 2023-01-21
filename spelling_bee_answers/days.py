@@ -27,9 +27,9 @@ def generate_table():
     logging.info("Generating table")
 
     # if the time is after 12 am eastern but before 3 am eastern, then the current day
-    # should *NOT* be included yet as the new puzzle gets published at 3 am eastern
+    # is *NOT* be included yet as the new day's puzzle gets published at 3 am eastern
     start_date = pendulum.date(2023, 1, 1)
-    day_offset = 1 if pendulum.now(tz='US/Eastern').hour >= 3 else 2
+    day_offset = 1 if pendulum.now(tz="US/Eastern").hour >= 3 else 2
     end_date = pendulum.today().date() - pendulum.duration(days=day_offset)
     puzzle_dates = end_date - start_date
 
@@ -45,7 +45,11 @@ def generate_table():
         row = [date, path_link, forum_link, word_count, notes]
         table.append(row)
 
-    return tabulate(table, headers=headers, tablefmt="github")
+    markdown = tabulate(table, headers=headers, tablefmt="github")
+    if settings.display_generated_readme_table:
+        print(markdown)
+
+    return markdown
 
 
 def update_readme(markdown):
@@ -77,8 +81,6 @@ def update_readme(markdown):
 
 def main():
     markdown = generate_table()
-    if settings.display_generated_readme_table:
-        print(markdown)
     update_readme(markdown)
 
 

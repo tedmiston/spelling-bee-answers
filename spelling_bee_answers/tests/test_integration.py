@@ -45,7 +45,7 @@ def test_daily_answers_complete():
     """
     # when the test is run between 12–3 am eastern, the previous day's puzzle hasn't
     # closed yet (it's live until just before 3 am eastern on the following day)
-    day_offset = 1 if pendulum.now(tz='US/Eastern').hour >= 3 else 2
+    day_offset = 1 if pendulum.now(tz="US/Eastern").hour >= 3 else 2
     start_date = pendulum.date(2023, 1, 1)
     end_date = pendulum.today().date() - pendulum.duration(days=day_offset)
     date_list = end_date - start_date
