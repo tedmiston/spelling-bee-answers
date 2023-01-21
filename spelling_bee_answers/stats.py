@@ -31,7 +31,7 @@ def determine_counts(answers):
     return counts
 
 
-def generate_table(counts):
+def generate_all_words_table(counts):
     headers = ["Word", "Count"]
     rows = [(word, count) for word, count in counts.items()]
     table = tabulate(rows, headers=headers, tablefmt="github")
@@ -39,7 +39,7 @@ def generate_table(counts):
     return table
 
 
-def update_doc(table):
+def update_doc(counts, all_words_table):
     tag_start, tag_end = (
         "<!-- generated table start -->",
         "<!-- generated table end -->",
@@ -51,7 +51,8 @@ def update_doc(table):
         after_tag_start_idx = tag_start_idx + len(tag_start)
         doc_parts = [
             doc[:after_tag_start_idx],
-            table,
+            f"{len(counts.keys())} total words",
+            all_words_table,
             doc[tag_end_idx:],
         ]
 
@@ -64,8 +65,8 @@ def update_doc(table):
 def main():
     answers = load_all_answers()
     counts = determine_counts(answers)
-    table = generate_table(counts)
-    update_doc(table)
+    all_words_table = generate_all_words_table(counts)
+    update_doc(counts, all_words_table)
 
 
 if __name__ == "__main__":
