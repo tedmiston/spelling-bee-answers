@@ -8,10 +8,12 @@ Words that have occurred more than once.
 
 <!-- generated multi table start -->
 
-29 words
+36 words
 
 | Word    |   Count | Definition                            |
 |---------|---------|---------------------------------------|
+| aloe    |       2 | https://www.wordnik.com/words/aloe    |
+| oleo    |       2 | https://www.wordnik.com/words/oleo    |
 | aura    |       2 | https://www.wordnik.com/words/aura    |
 | baba    |       2 | https://www.wordnik.com/words/baba    |
 | bait    |       2 | https://www.wordnik.com/words/bait    |
@@ -30,6 +32,11 @@ Words that have occurred more than once.
 | laud    |       2 | https://www.wordnik.com/words/laud    |
 | luau    |       4 | https://www.wordnik.com/words/luau    |
 | cuckoo  |       2 | https://www.wordnik.com/words/cuckoo  |
+| agog    |       2 | https://www.wordnik.com/words/agog    |
+| goop    |       2 | https://www.wordnik.com/words/goop    |
+| pogo    |       2 | https://www.wordnik.com/words/pogo    |
+| poop    |       2 | https://www.wordnik.com/words/poop    |
+| poppa   |       2 | https://www.wordnik.com/words/poppa   |
 | banal   |       2 | https://www.wordnik.com/words/banal   |
 | banana  |       2 | https://www.wordnik.com/words/banana  |
 | blatant |       2 | https://www.wordnik.com/words/blatant |
@@ -50,7 +57,7 @@ Every word that's occurred so far.
 
 <!-- generated all table start -->
 
-719 words
+760 words
 
 | Word         |   Count | Definition                                 |
 |--------------|---------|--------------------------------------------|
@@ -58,7 +65,7 @@ Every word that's occurred so far.
 | acne         |       1 | https://www.wordnik.com/words/acne         |
 | aeon         |       1 | https://www.wordnik.com/words/aeon         |
 | allele       |       1 | https://www.wordnik.com/words/allele       |
-| aloe         |       1 | https://www.wordnik.com/words/aloe         |
+| aloe         |       2 | https://www.wordnik.com/words/aloe         |
 | alone        |       1 | https://www.wordnik.com/words/alone        |
 | anew         |       1 | https://www.wordnik.com/words/anew         |
 | anneal       |       1 | https://www.wordnik.com/words/anneal       |
@@ -89,7 +96,7 @@ Every word that's occurred so far.
 | nonce        |       1 | https://www.wordnik.com/words/nonce        |
 | none         |       1 | https://www.wordnik.com/words/none         |
 | ocean        |       1 | https://www.wordnik.com/words/ocean        |
-| oleo         |       1 | https://www.wordnik.com/words/oleo         |
+| oleo         |       2 | https://www.wordnik.com/words/oleo         |
 | once         |       1 | https://www.wordnik.com/words/once         |
 | wale         |       1 | https://www.wordnik.com/words/wale         |
 | wane         |       1 | https://www.wordnik.com/words/wane         |
@@ -399,14 +406,14 @@ Every word that's occurred so far.
 | took         |       1 | https://www.wordnik.com/words/took         |
 | tuck         |       1 | https://www.wordnik.com/words/tuck         |
 | photograph   |       1 | https://www.wordnik.com/words/photograph   |
-| agog         |       1 | https://www.wordnik.com/words/agog         |
+| agog         |       2 | https://www.wordnik.com/words/agog         |
 | agora        |       1 | https://www.wordnik.com/words/agora        |
 | aorta        |       1 | https://www.wordnik.com/words/aorta        |
 | argot        |       1 | https://www.wordnik.com/words/argot        |
 | atop         |       1 | https://www.wordnik.com/words/atop         |
 | gator        |       1 | https://www.wordnik.com/words/gator        |
 | goat         |       1 | https://www.wordnik.com/words/goat         |
-| goop         |       1 | https://www.wordnik.com/words/goop         |
+| goop         |       2 | https://www.wordnik.com/words/goop         |
 | gorp         |       1 | https://www.wordnik.com/words/gorp         |
 | goth         |       1 | https://www.wordnik.com/words/goth         |
 | gotta        |       1 | https://www.wordnik.com/words/gotta        |
@@ -428,11 +435,11 @@ Every word that's occurred so far.
 | pharaoh      |       1 | https://www.wordnik.com/words/pharaoh      |
 | photo        |       1 | https://www.wordnik.com/words/photo        |
 | photog       |       1 | https://www.wordnik.com/words/photog       |
-| pogo         |       1 | https://www.wordnik.com/words/pogo         |
+| pogo         |       2 | https://www.wordnik.com/words/pogo         |
 | pooh         |       1 | https://www.wordnik.com/words/pooh         |
-| poop         |       1 | https://www.wordnik.com/words/poop         |
+| poop         |       2 | https://www.wordnik.com/words/poop         |
 | poor         |       1 | https://www.wordnik.com/words/poor         |
-| poppa        |       1 | https://www.wordnik.com/words/poppa        |
+| poppa        |       2 | https://www.wordnik.com/words/poppa        |
 | port         |       1 | https://www.wordnik.com/words/port         |
 | potato       |       1 | https://www.wordnik.com/words/potato       |
 | prop         |       1 | https://www.wordnik.com/words/prop         |
@@ -773,5 +780,46 @@ Every word that's occurred so far.
 | uncock       |       1 | https://www.wordnik.com/words/uncock       |
 | uncool       |       1 | https://www.wordnik.com/words/uncool       |
 | unlock       |       1 | https://www.wordnik.com/words/unlock       |
+| flagpole     |       1 | https://www.wordnik.com/words/flagpole     |
+| aloof        |       1 | https://www.wordnik.com/words/aloof        |
+| apogee       |       1 | https://www.wordnik.com/words/apogee       |
+| elope        |       1 | https://www.wordnik.com/words/elope        |
+| falloff      |       1 | https://www.wordnik.com/words/falloff      |
+| floe         |       1 | https://www.wordnik.com/words/floe         |
+| flog         |       1 | https://www.wordnik.com/words/flog         |
+| flop         |       1 | https://www.wordnik.com/words/flop         |
+| foal         |       1 | https://www.wordnik.com/words/foal         |
+| fool         |       1 | https://www.wordnik.com/words/fool         |
+| gallop       |       1 | https://www.wordnik.com/words/gallop       |
+| galop        |       1 | https://www.wordnik.com/words/galop        |
+| gloop        |       1 | https://www.wordnik.com/words/gloop        |
+| glop         |       1 | https://www.wordnik.com/words/glop         |
+| goal         |       1 | https://www.wordnik.com/words/goal         |
+| goggle       |       1 | https://www.wordnik.com/words/goggle       |
+| golf         |       1 | https://www.wordnik.com/words/golf         |
+| goof         |       1 | https://www.wordnik.com/words/goof         |
+| google       |       1 | https://www.wordnik.com/words/google       |
+| googol       |       1 | https://www.wordnik.com/words/googol       |
+| loaf         |       1 | https://www.wordnik.com/words/loaf         |
+| loge         |       1 | https://www.wordnik.com/words/loge         |
+| logo         |       1 | https://www.wordnik.com/words/logo         |
+| loll         |       1 | https://www.wordnik.com/words/loll         |
+| lollop       |       1 | https://www.wordnik.com/words/lollop       |
+| loofa        |       1 | https://www.wordnik.com/words/loofa        |
+| loop         |       1 | https://www.wordnik.com/words/loop         |
+| lope         |       1 | https://www.wordnik.com/words/lope         |
+| offal        |       1 | https://www.wordnik.com/words/offal        |
+| ogee         |       1 | https://www.wordnik.com/words/ogee         |
+| ogle         |       1 | https://www.wordnik.com/words/ogle         |
+| opal         |       1 | https://www.wordnik.com/words/opal         |
+| paleo        |       1 | https://www.wordnik.com/words/paleo        |
+| people       |       1 | https://www.wordnik.com/words/people       |
+| plop         |       1 | https://www.wordnik.com/words/plop         |
+| pole         |       1 | https://www.wordnik.com/words/pole         |
+| poll         |       1 | https://www.wordnik.com/words/poll         |
+| polo         |       1 | https://www.wordnik.com/words/polo         |
+| poof         |       1 | https://www.wordnik.com/words/poof         |
+| pool         |       1 | https://www.wordnik.com/words/pool         |
+| pope         |       1 | https://www.wordnik.com/words/pope         |
 
 <!-- generated all table end -->
