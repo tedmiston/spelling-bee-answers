@@ -2,12 +2,12 @@
 run:
 	python -m spelling_bee_answers.app
 
-.PHONY: gen-readme-table
-gen-readme-table:
-	python -m spelling_bee_answers.gen_readme_table
+.PHONY: gen-days
+gen-days:
+	python -m spelling_bee_answers.days
 
-.PHONY: stats
-stats:
+.PHONY: gen-stats
+gen-stats:
 	python -m spelling_bee_answers.stats
 
 .PHONY: format
