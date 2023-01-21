@@ -5,6 +5,8 @@
 <!-- all words generated via `poetry shell` then `make stats` -->
 <!-- generated table start -->
 
+719 total words
+
 | Word         |   Count |
 |--------------|---------|
 | allowance    |       1 |
