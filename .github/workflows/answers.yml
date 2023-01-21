@@ -16,6 +16,9 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
 
+    env:
+      repo_root: /home/runner/work/spelling-bee-answers/spelling-bee-answers
+
     steps:
 
       - name: Git checkout
@@ -41,7 +44,6 @@ jobs:
       - name: Run scraper
         timeout-minutes: 2
         env:
-          repo_root: /home/runner/work/spelling-bee-answers/spelling-bee-answers
           display_puzzle_output: true
         run: |
           poetry run python -m spelling_bee_answers.app
@@ -58,7 +60,6 @@ jobs:
       - name: Update readme table
         timeout-minutes: 1
         env:
-          repo_root: /home/runner/work/spelling-bee-answers/spelling-bee-answers
           display_generated_readme_table: false
         run: |
           poetry run python -m spelling_bee_answers.gen_readme_table
@@ -73,8 +74,6 @@ jobs:
 
       - name: Update stats
         timeout-minutes: 1
-        env:
-          repo_root: /home/runner/work/spelling-bee-answers/spelling-bee-answers
         run: |
           poetry run python -m spelling_bee_answers.stats
 
