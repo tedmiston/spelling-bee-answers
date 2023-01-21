@@ -17,9 +17,8 @@ jobs:
     timeout-minutes: 5
 
     env:
-      # repo_root: ${GITHUB_WORKSPACE}  # todo: update settings code to support expanding env vars
-      # repo_root: /home/runner/work/spelling-bee-answers/spelling-bee-answers
-      repo_root: ${{ env.GITHUB_WORKSPACE }}
+      # repo_root: $GITHUB_WORKSPACE  # todo: update settings code to support expanding env vars
+      repo_root: /home/runner/work/spelling-bee-answers/spelling-bee-answers
 
     steps:
 
