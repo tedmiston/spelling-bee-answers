@@ -2,7 +2,7 @@
 
 [![](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
-Archive the answers to the [NYTimes Spelling Bee][1] puzzle each day.
+A fully automated archive of answers to the [NYTimes Spelling Bee][1] puzzles.
 
 New puzzles are released at 3 am US/Eastern.
 
