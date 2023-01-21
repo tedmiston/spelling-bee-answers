@@ -775,9 +775,3 @@ Every word that's occurred so far.
 | unlock       |       1 | https://www.wordnik.com/words/unlock       |
 
 <!-- generated all table end -->
-   |       1 | https://www.wordnik.com/words/noun         |
-| uncock       |       1 | https://www.wordnik.com/words/uncock       |
-| uncool       |       1 | https://www.wordnik.com/words/uncool       |
-| unlock       |       1 | https://www.wordnik.com/words/unlock       |
-
-<!-- generated all table end -->
