@@ -1,11 +1,10 @@
 name: Spelling Bee Answers
 
 on:
-  # for debugging
-  push:
-    branches:
-      - main
-      - ci-stats
+  # # for debugging
+  # push:
+  #   branches:
+  #     - main
   schedule:
     - cron: 0 8 * * *  # daily at 8 am UTC (== 3 am EST) [the new daily game starts at 3 am EST]
 concurrency: ci-spelling-bee-answers
@@ -56,13 +55,13 @@ jobs:
           author_email: ${{ vars.ROBOT_AUTHOR_EMAIL }}
           message: Add answers
 
-      # - name: Update readme table
-      #   timeout-minutes: 1
-      #   env:
-      #     repo_root: /home/runner/work/spelling-bee-answers/spelling-bee-answers
-      #     display_generated_readme_table: false
-      #   run: |
-      #     poetry run python -m spelling_bee_answers.gen_readme_table
+      - name: Update readme table
+        timeout-minutes: 1
+        env:
+          repo_root: /home/runner/work/spelling-bee-answers/spelling-bee-answers
+          display_generated_readme_table: false
+        run: |
+          poetry run python -m spelling_bee_answers.gen_readme_table
 
       - name: Git commit readme
         uses: endbug/add-and-commit@v9.1.1
