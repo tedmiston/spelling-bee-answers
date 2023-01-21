@@ -2,15 +2,13 @@
 Generate the table of days in the readme file.
 """
 
-import datetime
 import json
 import logging
-from datetime import timedelta
 
+import pendulum
 from tabulate import tabulate
 
 from .settings import settings
-from .utils import date_range
 
 logging.basicConfig(
     level=getattr(logging, settings.log_level),
@@ -28,13 +26,12 @@ def get_days_word_count(filepath):
 def generate_table():
     logging.info("Generating table")
 
-    # fixme: if the time is after 12 am but before 3 am (+ some small buffer?), then the
-    # current day should *NOT* be included yet (see
-    # `test_integration.py:test_daily_answers_complete` for details)
-    puzzle_dates = date_range(
-        start_date=datetime.date(2023, 1, 1),
-        end_date=datetime.date.today() - timedelta(days=1),
-    )
+    # if the time is after 12 am eastern but before 3 am eastern, then the current day
+    # should *NOT* be included yet as the new puzzle gets published at 3 am eastern
+    start_date = pendulum.date(2023, 1, 1)
+    day_offset = 1 if pendulum.now(tz='US/Eastern').hour >= 3 else 2
+    end_date = pendulum.today().date() - pendulum.duration(days=day_offset)
+    puzzle_dates = end_date - start_date
 
     headers = ["Date", "File", "Forum", "Word Count", "Notes"]
     table = []

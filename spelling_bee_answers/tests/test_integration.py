@@ -2,12 +2,11 @@
 Integration tests.
 """
 
-import datetime
 import json
 from datetime import timedelta
 from pathlib import Path
 
-from ..utils import date_range
+import pendulum
 
 
 def test_output_json_schema():
@@ -44,15 +43,12 @@ def test_daily_answers_complete():
     """
     Assert that a daily answer file exists for each day from the start through the present (yesterday).
     """
-    # fix for when the test is run between midnight and 3 am on the following day when
-    # the previous day's puzzle hasn't closed yet (it's live until just before 3 am
-    # eastern on the following day)
-    days_offset = 2 if datetime.datetime.now().hour < 3 else 1
-
-    date_list = date_range(
-        start_date=datetime.date(2023, 1, 1),
-        end_date=datetime.date.today() - timedelta(days=days_offset),
-    )
+    # when the test is run between 12–3 am eastern, the previous day's puzzle hasn't
+    # closed yet (it's live until just before 3 am eastern on the following day)
+    day_offset = 1 if pendulum.now(tz='US/Eastern').hour >= 3 else 2
+    start_date = pendulum.date(2023, 1, 1)
+    end_date = pendulum.today().date() - pendulum.duration(days=day_offset)
+    date_list = end_date - start_date
 
     for date in date_list:
         path = Path(f"days/{date}.json")
