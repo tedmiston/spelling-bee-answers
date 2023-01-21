@@ -1,11 +1,56 @@
+<!-- generated via `poetry shell` then `make stats` -->
+
 # Words
+
+## Multi-Count Words
+
+Words that have occurred more than once.
+
+<!-- generated multi table start -->
+
+29 words
+
+| Word    |   Count |
+|---------|---------|
+| aura    |       2 |
+| baba    |       2 |
+| bait    |       2 |
+| taut    |       2 |
+| tibia   |       2 |
+| even    |       2 |
+| vein    |       2 |
+| vine    |       2 |
+| mitt    |       2 |
+| bill    |       2 |
+| acid    |       2 |
+| acidic  |       2 |
+| caul    |       2 |
+| cicada  |       2 |
+| dual    |       2 |
+| laud    |       2 |
+| luau    |       4 |
+| cuckoo  |       2 |
+| banal   |       2 |
+| banana  |       2 |
+| blatant |       2 |
+| annual  |       2 |
+| annul   |       2 |
+| lull    |       3 |
+| lulu    |       3 |
+| luna    |       2 |
+| lunula  |       2 |
+| null    |       2 |
+| ulna    |       2 |
+
+<!-- generated multi table end -->
 
 ## All Words
 
-<!-- all words generated via `poetry shell` then `make stats` -->
-<!-- generated table start -->
+Every word that's occurred so far.
 
-719 total words
+<!-- generated all table start -->
+
+719 words
 
 | Word         |   Count |
 |--------------|---------|
@@ -729,4 +774,9 @@
 | uncool       |       1 |
 | unlock       |       1 |
 
-<!-- generated table end -->
+<!-- generated all table end -->
+>
+-->
+>
+-->
+>
