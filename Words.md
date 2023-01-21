@@ -1,4 +1,6 @@
-# All Words
+# Words
+
+## All Words
 
 <!-- all words generated via `poetry shell` then `make stats` -->
 <!-- generated table start -->
@@ -312,7 +314,7 @@
 | call         |       1 |
 | calla        |       1 |
 | caudal       |       1 |
-| caul         |       1 |
+| caul         |       2 |
 | cicada       |       2 |
 | cilia        |       1 |
 | clad         |       1 |
@@ -325,7 +327,7 @@
 | laid         |       1 |
 | laud         |       2 |
 | lilac        |       1 |
-| luau         |       3 |
+| luau         |       4 |
 | outback      |       1 |
 | aback        |       1 |
 | attack       |       1 |
@@ -341,7 +343,7 @@
 | cook         |       1 |
 | cookbook     |       1 |
 | cookout      |       1 |
-| cuckoo       |       1 |
+| cuckoo       |       2 |
 | cutback      |       1 |
 | kabob        |       1 |
 | kook         |       1 |
@@ -504,26 +506,26 @@
 | tony         |       1 |
 | toon         |       1 |
 | exultant     |       1 |
-| annual       |       1 |
-| annul        |       1 |
+| annual       |       2 |
+| annul        |       2 |
 | attenuate    |       1 |
 | attune       |       1 |
 | aunt         |       1 |
 | exeunt       |       1 |
 | extenuate    |       1 |
 | exult        |       1 |
-| lull         |       2 |
-| lulu         |       2 |
-| luna         |       1 |
+| lull         |       3 |
+| lulu         |       3 |
+| luna         |       2 |
 | lunate       |       1 |
 | lune         |       1 |
 | lunette      |       1 |
-| lunula       |       1 |
+| lunula       |       2 |
 | lunulae      |       1 |
 | lute         |       1 |
 | luteal       |       1 |
 | luxe         |       1 |
-| null         |       1 |
+| null         |       2 |
 | taunt        |       1 |
 | tauten       |       1 |
 | textual      |       1 |
@@ -533,7 +535,7 @@
 | tunnel       |       1 |
 | tutee        |       1 |
 | tutu         |       1 |
-| ulna         |       1 |
+| ulna         |       2 |
 | ulnae        |       1 |
 | ululate      |       1 |
 | uneaten      |       1 |
@@ -665,5 +667,64 @@
 | muumuu       |       1 |
 | rumor        |       1 |
 | rural        |       1 |
+| illegality   |       1 |
+| legality     |       1 |
+| agile        |       1 |
+| agilely      |       1 |
+| agility      |       1 |
+| agita        |       1 |
+| agitate      |       1 |
+| alit         |       1 |
+| atilt        |       1 |
+| elite        |       1 |
+| gaiety       |       1 |
+| gaily        |       1 |
+| gait         |       1 |
+| gelati       |       1 |
+| giggle       |       1 |
+| giggly       |       1 |
+| gill         |       1 |
+| gilt         |       1 |
+| glia         |       1 |
+| illegal      |       1 |
+| illegally    |       1 |
+| illy         |       1 |
+| itty         |       1 |
+| laity        |       1 |
+| legit        |       1 |
+| liege        |       1 |
+| ligate       |       1 |
+| lilt         |       1 |
+| lily         |       1 |
+| lite         |       1 |
+| litigate     |       1 |
+| little       |       1 |
+| tagliatelle  |       1 |
+| taiga        |       1 |
+| tail         |       1 |
+| tailgate     |       1 |
+| tali         |       1 |
+| tallit       |       1 |
+| tile         |       1 |
+| till         |       1 |
+| tillage      |       1 |
+| tilt         |       1 |
+| titillate    |       1 |
+| title        |       1 |
+| tittle       |       1 |
+| yeti         |       1 |
+| uncloak      |       1 |
+| cannula      |       1 |
+| caulk        |       1 |
+| cluck        |       1 |
+| clunk        |       1 |
+| cull         |       1 |
+| lacuna       |       1 |
+| luck         |       1 |
+| lunk         |       1 |
+| noun         |       1 |
+| uncock       |       1 |
+| uncool       |       1 |
+| unlock       |       1 |
 
 <!-- generated table end -->
