@@ -79,7 +79,7 @@ jobs:
         run: |
           poetry run python -m spelling_bee_answers.stats
 
-      - name: Git commit words
+      - name: Git commit stats
         uses: endbug/add-and-commit@v9.1.1
         with:
           add: Words.md
