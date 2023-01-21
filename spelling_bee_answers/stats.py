@@ -31,20 +31,24 @@ def determine_counts(answers):
     return counts
 
 
-def generate_all_words_table(counts):
-    headers = ["Word", "Count"]
-    rows = [(word, count) for word, count in counts.items()]
+def _generate_words_table(counts, condition):
+    headers = ["Word", "Count", "Definition"]
+    rows = [
+        (word, count, f"https://www.wordnik.com/words/{word}")
+        for word, count in counts.items()
+        if condition(count)
+    ]
     table = tabulate(rows, headers=headers, tablefmt="github")
     # print(table)
     return table
+
+
+def generate_all_words_table(counts):
+    return _generate_words_table(counts, lambda _: True)
 
 
 def generate_multi_count_words_table(counts):
-    headers = ["Word", "Count"]
-    rows = [(word, count) for word, count in counts.items() if count > 1]
-    table = tabulate(rows, headers=headers, tablefmt="github")
-    # print(table)
-    return table
+    return _generate_words_table(counts, lambda count: count > 1)
 
 
 def update_doc(word_count, table, tag):
