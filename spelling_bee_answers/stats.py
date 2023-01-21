@@ -39,10 +39,18 @@ def generate_all_words_table(counts):
     return table
 
 
-def update_doc(counts, all_words_table):
+def generate_multi_count_words_table(counts):
+    headers = ["Word", "Count"]
+    rows = [(word, count) for word, count in counts.items() if count > 1]
+    table = tabulate(rows, headers=headers, tablefmt="github")
+    # print(table)
+    return table
+
+
+def update_doc(word_count, table, tag):
     tag_start, tag_end = (
-        "<!-- generated table start -->",
-        "<!-- generated table end -->",
+        f"<!-- {tag} start -->",
+        f"<!-- {tag} end -->",
     )
 
     with open(f"{settings.repo_root}/Words.md", "r+") as fp:
@@ -51,8 +59,8 @@ def update_doc(counts, all_words_table):
         after_tag_start_idx = tag_start_idx + len(tag_start)
         doc_parts = [
             doc[:after_tag_start_idx],
-            f"{len(counts.keys())} total words",
-            all_words_table,
+            f"{word_count} words",
+            table,
             doc[tag_end_idx:],
         ]
 
@@ -65,8 +73,14 @@ def update_doc(counts, all_words_table):
 def main():
     answers = load_all_answers()
     counts = determine_counts(answers)
+
     all_words_table = generate_all_words_table(counts)
-    update_doc(counts, all_words_table)
+    all_words_count = len(counts.keys())
+    update_doc(all_words_count, all_words_table, tag="generated all table")
+
+    multi_words_table = generate_multi_count_words_table(counts)
+    multi_words_count = len([x for x in counts.values() if x > 1])
+    update_doc(multi_words_count, multi_words_table, tag="generated multi table")
 
 
 if __name__ == "__main__":
