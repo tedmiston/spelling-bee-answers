@@ -63,6 +63,13 @@ jobs:
         run: |
           poetry run python -m spelling_bee_answers.gen_readme_table
 
+      - name: Update stats
+        timeout-minutes: 1
+        env:
+          repo_root: /home/runner/work/spelling-bee-answers/spelling-bee-answers
+        run: |
+          poetry run python -m spelling_bee_answers.stats
+
       - name: Git commit readme
         uses: endbug/add-and-commit@v9.1.1
         with:
