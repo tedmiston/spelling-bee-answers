@@ -70,3 +70,18 @@ jobs:
           author_name: ${{ vars.ROBOT_AUTHOR_NAME }}
           author_email: ${{ vars.ROBOT_AUTHOR_EMAIL }}
           message: Regenerate readme table
+
+      - name: Update stats
+        timeout-minutes: 1
+        env:
+          repo_root: /home/runner/work/spelling-bee-answers/spelling-bee-answers
+        run: |
+          poetry run python -m spelling_bee_answers.stats
+
+      - name: Git commit stats
+        uses: endbug/add-and-commit@v9.1.1
+        with:
+          add: Words.md
+          author_name: ${{ vars.ROBOT_AUTHOR_NAME }}
+          author_email: ${{ vars.ROBOT_AUTHOR_EMAIL }}
+          message: Regenerate words list
