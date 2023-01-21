@@ -45,7 +45,7 @@ def update_doc(table):
         "<!-- generated table end -->",
     )
 
-    with open(f"{settings.repo_root}/All Words.md", "r+") as fp:
+    with open(f"{settings.repo_root}/Words.md", "r+") as fp:
         doc = fp.read()
         tag_start_idx, tag_end_idx = doc.find(tag_start), doc.find(tag_end)
         after_tag_start_idx = tag_start_idx + len(tag_start)

@@ -6,7 +6,7 @@ Fetch the Yesterday's Answers to the [NYTimes Spelling Bee][1] puzzle each day f
 
 ## All Words
 
-See [All Words](All%20Words.md).
+See [Words](Words.md).
 
 ## Puzzles
 
