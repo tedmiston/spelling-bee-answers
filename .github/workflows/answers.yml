@@ -18,7 +18,8 @@ jobs:
 
     env:
       # repo_root: ${GITHUB_WORKSPACE}  # todo: update settings code to support expanding env vars
-      repo_root: /home/runner/work/spelling-bee-answers/spelling-bee-answers
+      # repo_root: /home/runner/work/spelling-bee-answers/spelling-bee-answers
+      repo_root: ${{ env.GITHUB_WORKSPACE }}
 
     steps:
 
