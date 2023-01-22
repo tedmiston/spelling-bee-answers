@@ -8,46 +8,66 @@ Words that have occurred more than once.
 
 <!-- generated multi table start -->
 
-36 words
+56 words
 
-| Word    |   Count | Definition                            |
-|---------|---------|---------------------------------------|
-| aloe    |       2 | https://www.wordnik.com/words/aloe    |
-| oleo    |       2 | https://www.wordnik.com/words/oleo    |
-| aura    |       2 | https://www.wordnik.com/words/aura    |
-| baba    |       2 | https://www.wordnik.com/words/baba    |
-| bait    |       2 | https://www.wordnik.com/words/bait    |
-| taut    |       2 | https://www.wordnik.com/words/taut    |
-| tibia   |       2 | https://www.wordnik.com/words/tibia   |
-| even    |       2 | https://www.wordnik.com/words/even    |
-| vein    |       2 | https://www.wordnik.com/words/vein    |
-| vine    |       2 | https://www.wordnik.com/words/vine    |
-| mitt    |       2 | https://www.wordnik.com/words/mitt    |
-| bill    |       2 | https://www.wordnik.com/words/bill    |
-| acid    |       2 | https://www.wordnik.com/words/acid    |
-| acidic  |       2 | https://www.wordnik.com/words/acidic  |
-| caul    |       2 | https://www.wordnik.com/words/caul    |
-| cicada  |       2 | https://www.wordnik.com/words/cicada  |
-| dual    |       2 | https://www.wordnik.com/words/dual    |
-| laud    |       2 | https://www.wordnik.com/words/laud    |
-| luau    |       4 | https://www.wordnik.com/words/luau    |
-| cuckoo  |       2 | https://www.wordnik.com/words/cuckoo  |
-| agog    |       2 | https://www.wordnik.com/words/agog    |
-| goop    |       2 | https://www.wordnik.com/words/goop    |
-| pogo    |       2 | https://www.wordnik.com/words/pogo    |
-| poop    |       2 | https://www.wordnik.com/words/poop    |
-| poppa   |       2 | https://www.wordnik.com/words/poppa   |
-| banal   |       2 | https://www.wordnik.com/words/banal   |
-| banana  |       2 | https://www.wordnik.com/words/banana  |
-| blatant |       2 | https://www.wordnik.com/words/blatant |
-| annual  |       2 | https://www.wordnik.com/words/annual  |
-| annul   |       2 | https://www.wordnik.com/words/annul   |
-| lull    |       3 | https://www.wordnik.com/words/lull    |
-| lulu    |       3 | https://www.wordnik.com/words/lulu    |
-| luna    |       2 | https://www.wordnik.com/words/luna    |
-| lunula  |       2 | https://www.wordnik.com/words/lunula  |
-| null    |       2 | https://www.wordnik.com/words/null    |
-| ulna    |       2 | https://www.wordnik.com/words/ulna    |
+| Word      |   Count | Definition                              |
+|-----------|---------|-----------------------------------------|
+| aloe      |       2 | https://www.wordnik.com/words/aloe      |
+| oleo      |       2 | https://www.wordnik.com/words/oleo      |
+| aria      |       2 | https://www.wordnik.com/words/aria      |
+| aura      |       2 | https://www.wordnik.com/words/aura      |
+| baba      |       2 | https://www.wordnik.com/words/baba      |
+| bait      |       2 | https://www.wordnik.com/words/bait      |
+| taut      |       2 | https://www.wordnik.com/words/taut      |
+| tibia     |       2 | https://www.wordnik.com/words/tibia     |
+| even      |       2 | https://www.wordnik.com/words/even      |
+| vein      |       2 | https://www.wordnik.com/words/vein      |
+| vine      |       2 | https://www.wordnik.com/words/vine      |
+| mitt      |       2 | https://www.wordnik.com/words/mitt      |
+| bill      |       2 | https://www.wordnik.com/words/bill      |
+| acid      |       2 | https://www.wordnik.com/words/acid      |
+| acidic    |       2 | https://www.wordnik.com/words/acidic    |
+| caul      |       2 | https://www.wordnik.com/words/caul      |
+| cicada    |       2 | https://www.wordnik.com/words/cicada    |
+| dual      |       2 | https://www.wordnik.com/words/dual      |
+| laud      |       2 | https://www.wordnik.com/words/laud      |
+| luau      |       4 | https://www.wordnik.com/words/luau      |
+| cuckoo    |       2 | https://www.wordnik.com/words/cuckoo    |
+| agog      |       2 | https://www.wordnik.com/words/agog      |
+| goop      |       2 | https://www.wordnik.com/words/goop      |
+| pogo      |       2 | https://www.wordnik.com/words/pogo      |
+| poop      |       2 | https://www.wordnik.com/words/poop      |
+| poppa     |       2 | https://www.wordnik.com/words/poppa     |
+| banal     |       2 | https://www.wordnik.com/words/banal     |
+| banana    |       2 | https://www.wordnik.com/words/banana    |
+| blatant   |       2 | https://www.wordnik.com/words/blatant   |
+| annual    |       2 | https://www.wordnik.com/words/annual    |
+| annul     |       2 | https://www.wordnik.com/words/annul     |
+| lull      |       3 | https://www.wordnik.com/words/lull      |
+| lulu      |       3 | https://www.wordnik.com/words/lulu      |
+| luna      |       2 | https://www.wordnik.com/words/luna      |
+| lunula    |       2 | https://www.wordnik.com/words/lunula    |
+| null      |       2 | https://www.wordnik.com/words/null      |
+| ulna      |       2 | https://www.wordnik.com/words/ulna      |
+| acrid     |       2 | https://www.wordnik.com/words/acrid     |
+| arcadia   |       2 | https://www.wordnik.com/words/arcadia   |
+| arcadian  |       2 | https://www.wordnik.com/words/arcadian  |
+| arid      |       2 | https://www.wordnik.com/words/arid      |
+| canard    |       2 | https://www.wordnik.com/words/canard    |
+| card      |       2 | https://www.wordnik.com/words/card      |
+| cardiac   |       2 | https://www.wordnik.com/words/cardiac   |
+| circadian |       2 | https://www.wordnik.com/words/circadian |
+| darn      |       2 | https://www.wordnik.com/words/darn      |
+| dinar     |       2 | https://www.wordnik.com/words/dinar     |
+| drain     |       2 | https://www.wordnik.com/words/drain     |
+| nadir     |       2 | https://www.wordnik.com/words/nadir     |
+| radar     |       2 | https://www.wordnik.com/words/radar     |
+| radian    |       2 | https://www.wordnik.com/words/radian    |
+| radii     |       2 | https://www.wordnik.com/words/radii     |
+| raid      |       2 | https://www.wordnik.com/words/raid      |
+| rancid    |       2 | https://www.wordnik.com/words/rancid    |
+| rand      |       2 | https://www.wordnik.com/words/rand      |
+| rind      |       2 | https://www.wordnik.com/words/rind      |
 
 <!-- generated multi table end -->
 
@@ -57,7 +77,7 @@ Every word that's occurred so far.
 
 <!-- generated all table start -->
 
-760 words
+782 words
 
 | Word         |   Count | Definition                                 |
 |--------------|---------|--------------------------------------------|
@@ -132,7 +152,7 @@ Every word that's occurred so far.
 | abut         |       1 | https://www.wordnik.com/words/abut         |
 | airy         |       1 | https://www.wordnik.com/words/airy         |
 | arbitrary    |       1 | https://www.wordnik.com/words/arbitrary    |
-| aria         |       1 | https://www.wordnik.com/words/aria         |
+| aria         |       2 | https://www.wordnik.com/words/aria         |
 | array        |       1 | https://www.wordnik.com/words/array        |
 | arty         |       1 | https://www.wordnik.com/words/arty         |
 | atria        |       1 | https://www.wordnik.com/words/atria        |
@@ -597,33 +617,33 @@ Every word that's occurred so far.
 | untune       |       1 | https://www.wordnik.com/words/untune       |
 | cardigan     |       1 | https://www.wordnik.com/words/cardigan     |
 | carding      |       1 | https://www.wordnik.com/words/carding      |
-| acrid        |       1 | https://www.wordnik.com/words/acrid        |
+| acrid        |       2 | https://www.wordnik.com/words/acrid        |
 | adding       |       1 | https://www.wordnik.com/words/adding       |
 | aiding       |       1 | https://www.wordnik.com/words/aiding       |
-| arcadia      |       1 | https://www.wordnik.com/words/arcadia      |
-| arcadian     |       1 | https://www.wordnik.com/words/arcadian     |
-| arid         |       1 | https://www.wordnik.com/words/arid         |
+| arcadia      |       2 | https://www.wordnik.com/words/arcadia      |
+| arcadian     |       2 | https://www.wordnik.com/words/arcadian     |
+| arid         |       2 | https://www.wordnik.com/words/arid         |
 | cadging      |       1 | https://www.wordnik.com/words/cadging      |
-| canard       |       1 | https://www.wordnik.com/words/canard       |
+| canard       |       2 | https://www.wordnik.com/words/canard       |
 | candid       |       1 | https://www.wordnik.com/words/candid       |
 | canid        |       1 | https://www.wordnik.com/words/canid        |
-| card         |       1 | https://www.wordnik.com/words/card         |
-| cardiac      |       1 | https://www.wordnik.com/words/cardiac      |
-| circadian    |       1 | https://www.wordnik.com/words/circadian    |
+| card         |       2 | https://www.wordnik.com/words/card         |
+| cardiac      |       2 | https://www.wordnik.com/words/cardiac      |
+| circadian    |       2 | https://www.wordnik.com/words/circadian    |
 | dancing      |       1 | https://www.wordnik.com/words/dancing      |
 | dang         |       1 | https://www.wordnik.com/words/dang         |
 | daring       |       1 | https://www.wordnik.com/words/daring       |
-| darn         |       1 | https://www.wordnik.com/words/darn         |
+| darn         |       2 | https://www.wordnik.com/words/darn         |
 | darning      |       1 | https://www.wordnik.com/words/darning      |
 | dicing       |       1 | https://www.wordnik.com/words/dicing       |
 | digging      |       1 | https://www.wordnik.com/words/digging      |
-| dinar        |       1 | https://www.wordnik.com/words/dinar        |
+| dinar        |       2 | https://www.wordnik.com/words/dinar        |
 | ding         |       1 | https://www.wordnik.com/words/ding         |
 | dinging      |       1 | https://www.wordnik.com/words/dinging      |
 | dining       |       1 | https://www.wordnik.com/words/dining       |
 | drag         |       1 | https://www.wordnik.com/words/drag         |
 | dragging     |       1 | https://www.wordnik.com/words/dragging     |
-| drain        |       1 | https://www.wordnik.com/words/drain        |
+| drain        |       2 | https://www.wordnik.com/words/drain        |
 | draining     |       1 | https://www.wordnik.com/words/draining     |
 | gadding      |       1 | https://www.wordnik.com/words/gadding      |
 | gird         |       1 | https://www.wordnik.com/words/gird         |
@@ -639,20 +659,20 @@ Every word that's occurred so far.
 | indica       |       1 | https://www.wordnik.com/words/indica       |
 | indicia      |       1 | https://www.wordnik.com/words/indicia      |
 | nada         |       1 | https://www.wordnik.com/words/nada         |
-| nadir        |       1 | https://www.wordnik.com/words/nadir        |
+| nadir        |       2 | https://www.wordnik.com/words/nadir        |
 | naiad        |       1 | https://www.wordnik.com/words/naiad        |
-| radar        |       1 | https://www.wordnik.com/words/radar        |
-| radian       |       1 | https://www.wordnik.com/words/radian       |
-| radii        |       1 | https://www.wordnik.com/words/radii        |
-| raid         |       1 | https://www.wordnik.com/words/raid         |
+| radar        |       2 | https://www.wordnik.com/words/radar        |
+| radian       |       2 | https://www.wordnik.com/words/radian       |
+| radii        |       2 | https://www.wordnik.com/words/radii        |
+| raid         |       2 | https://www.wordnik.com/words/raid         |
 | raiding      |       1 | https://www.wordnik.com/words/raiding      |
-| rancid       |       1 | https://www.wordnik.com/words/rancid       |
-| rand         |       1 | https://www.wordnik.com/words/rand         |
+| rancid       |       2 | https://www.wordnik.com/words/rancid       |
+| rand         |       2 | https://www.wordnik.com/words/rand         |
 | ridding      |       1 | https://www.wordnik.com/words/ridding      |
 | ridging      |       1 | https://www.wordnik.com/words/ridging      |
 | riding       |       1 | https://www.wordnik.com/words/riding       |
 | rigid        |       1 | https://www.wordnik.com/words/rigid        |
-| rind         |       1 | https://www.wordnik.com/words/rind         |
+| rind         |       2 | https://www.wordnik.com/words/rind         |
 | paintball    |       1 | https://www.wordnik.com/words/paintball    |
 | alibi        |       1 | https://www.wordnik.com/words/alibi        |
 | bail         |       1 | https://www.wordnik.com/words/bail         |
@@ -821,5 +841,27 @@ Every word that's occurred so far.
 | poof         |       1 | https://www.wordnik.com/words/poof         |
 | pool         |       1 | https://www.wordnik.com/words/pool         |
 | pope         |       1 | https://www.wordnik.com/words/pope         |
+| arachnid     |       1 | https://www.wordnik.com/words/arachnid     |
+| anarchic     |       1 | https://www.wordnik.com/words/anarchic     |
+| arcana       |       1 | https://www.wordnik.com/words/arcana       |
+| arch         |       1 | https://www.wordnik.com/words/arch         |
+| archaic      |       1 | https://www.wordnik.com/words/archaic      |
+| arnica       |       1 | https://www.wordnik.com/words/arnica       |
+| cairn        |       1 | https://www.wordnik.com/words/cairn        |
+| chair        |       1 | https://www.wordnik.com/words/chair        |
+| char         |       1 | https://www.wordnik.com/words/char         |
+| chard        |       1 | https://www.wordnik.com/words/chard        |
+| circa        |       1 | https://www.wordnik.com/words/circa        |
+| cirri        |       1 | https://www.wordnik.com/words/cirri        |
+| crania       |       1 | https://www.wordnik.com/words/crania       |
+| hair         |       1 | https://www.wordnik.com/words/hair         |
+| hard         |       1 | https://www.wordnik.com/words/hard         |
+| harridan     |       1 | https://www.wordnik.com/words/harridan     |
+| narc         |       1 | https://www.wordnik.com/words/narc         |
+| rain         |       1 | https://www.wordnik.com/words/rain         |
+| ranch        |       1 | https://www.wordnik.com/words/ranch        |
+| rani         |       1 | https://www.wordnik.com/words/rani         |
+| rich         |       1 | https://www.wordnik.com/words/rich         |
+| ricin        |       1 | https://www.wordnik.com/words/ricin        |
 
 <!-- generated all table end -->
