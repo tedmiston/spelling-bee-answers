@@ -8,12 +8,18 @@ Words that have occurred more than once.
 
 <!-- generated multi table start -->
 
-56 words
+66 words
 
 | Word      |   Count | Definition                              |
 |-----------|---------|-----------------------------------------|
 | aloe      |       2 | https://www.wordnik.com/words/aloe      |
 | oleo      |       2 | https://www.wordnik.com/words/oleo      |
+| cite      |       2 | https://www.wordnik.com/words/cite      |
+| entice    |       2 | https://www.wordnik.com/words/entice    |
+| incite    |       2 | https://www.wordnik.com/words/incite    |
+| nice      |       2 | https://www.wordnik.com/words/nice      |
+| niece     |       2 | https://www.wordnik.com/words/niece     |
+| tinct     |       2 | https://www.wordnik.com/words/tinct     |
 | aria      |       2 | https://www.wordnik.com/words/aria      |
 | aura      |       2 | https://www.wordnik.com/words/aura      |
 | baba      |       2 | https://www.wordnik.com/words/baba      |
@@ -25,6 +31,8 @@ Words that have occurred more than once.
 | vine      |       2 | https://www.wordnik.com/words/vine      |
 | mitt      |       2 | https://www.wordnik.com/words/mitt      |
 | bill      |       2 | https://www.wordnik.com/words/bill      |
+| acacia    |       2 | https://www.wordnik.com/words/acacia    |
+| acai      |       2 | https://www.wordnik.com/words/acai      |
 | acid      |       2 | https://www.wordnik.com/words/acid      |
 | acidic    |       2 | https://www.wordnik.com/words/acidic    |
 | caul      |       2 | https://www.wordnik.com/words/caul      |
@@ -68,6 +76,8 @@ Words that have occurred more than once.
 | rancid    |       2 | https://www.wordnik.com/words/rancid    |
 | rand      |       2 | https://www.wordnik.com/words/rand      |
 | rind      |       2 | https://www.wordnik.com/words/rind      |
+| itty      |       2 | https://www.wordnik.com/words/itty      |
+| yeti      |       2 | https://www.wordnik.com/words/yeti      |
 
 <!-- generated multi table end -->
 
@@ -77,7 +87,7 @@ Every word that's occurred so far.
 
 <!-- generated all table start -->
 
-782 words
+822 words
 
 | Word         |   Count | Definition                                 |
 |--------------|---------|--------------------------------------------|
@@ -127,26 +137,26 @@ Every word that's occurred so far.
 | ineffective  |       1 | https://www.wordnik.com/words/ineffective  |
 | infective    |       1 | https://www.wordnik.com/words/infective    |
 | cent         |       1 | https://www.wordnik.com/words/cent         |
-| cite         |       1 | https://www.wordnik.com/words/cite         |
+| cite         |       2 | https://www.wordnik.com/words/cite         |
 | civet        |       1 | https://www.wordnik.com/words/civet        |
 | civic        |       1 | https://www.wordnik.com/words/civic        |
 | effect       |       1 | https://www.wordnik.com/words/effect       |
 | effective    |       1 | https://www.wordnik.com/words/effective    |
 | efficient    |       1 | https://www.wordnik.com/words/efficient    |
-| entice       |       1 | https://www.wordnik.com/words/entice       |
+| entice       |       2 | https://www.wordnik.com/words/entice       |
 | evict        |       1 | https://www.wordnik.com/words/evict        |
 | evictee      |       1 | https://www.wordnik.com/words/evictee      |
 | evince       |       1 | https://www.wordnik.com/words/evince       |
 | fence        |       1 | https://www.wordnik.com/words/fence        |
 | fictive      |       1 | https://www.wordnik.com/words/fictive      |
 | incentive    |       1 | https://www.wordnik.com/words/incentive    |
-| incite       |       1 | https://www.wordnik.com/words/incite       |
+| incite       |       2 | https://www.wordnik.com/words/incite       |
 | inefficient  |       1 | https://www.wordnik.com/words/inefficient  |
 | infect       |       1 | https://www.wordnik.com/words/infect       |
 | invective    |       1 | https://www.wordnik.com/words/invective    |
-| nice         |       1 | https://www.wordnik.com/words/nice         |
-| niece        |       1 | https://www.wordnik.com/words/niece        |
-| tinct        |       1 | https://www.wordnik.com/words/tinct        |
+| nice         |       2 | https://www.wordnik.com/words/nice         |
+| niece        |       2 | https://www.wordnik.com/words/niece        |
+| tinct        |       2 | https://www.wordnik.com/words/tinct        |
 | vice         |       1 | https://www.wordnik.com/words/vice         |
 | tributary    |       1 | https://www.wordnik.com/words/tributary    |
 | abut         |       1 | https://www.wordnik.com/words/abut         |
@@ -380,8 +390,8 @@ Every word that's occurred so far.
 | oblige       |       1 | https://www.wordnik.com/words/oblige       |
 | oboe         |       1 | https://www.wordnik.com/words/oboe         |
 | judicial     |       1 | https://www.wordnik.com/words/judicial     |
-| acacia       |       1 | https://www.wordnik.com/words/acacia       |
-| acai         |       1 | https://www.wordnik.com/words/acai         |
+| acacia       |       2 | https://www.wordnik.com/words/acacia       |
+| acai         |       2 | https://www.wordnik.com/words/acai         |
 | acid         |       2 | https://www.wordnik.com/words/acid         |
 | acidic       |       2 | https://www.wordnik.com/words/acidic       |
 | calculi      |       1 | https://www.wordnik.com/words/calculi      |
@@ -763,7 +773,7 @@ Every word that's occurred so far.
 | illegal      |       1 | https://www.wordnik.com/words/illegal      |
 | illegally    |       1 | https://www.wordnik.com/words/illegally    |
 | illy         |       1 | https://www.wordnik.com/words/illy         |
-| itty         |       1 | https://www.wordnik.com/words/itty         |
+| itty         |       2 | https://www.wordnik.com/words/itty         |
 | laity        |       1 | https://www.wordnik.com/words/laity        |
 | legit        |       1 | https://www.wordnik.com/words/legit        |
 | liege        |       1 | https://www.wordnik.com/words/liege        |
@@ -786,7 +796,7 @@ Every word that's occurred so far.
 | titillate    |       1 | https://www.wordnik.com/words/titillate    |
 | title        |       1 | https://www.wordnik.com/words/title        |
 | tittle       |       1 | https://www.wordnik.com/words/tittle       |
-| yeti         |       1 | https://www.wordnik.com/words/yeti         |
+| yeti         |       2 | https://www.wordnik.com/words/yeti         |
 | uncloak      |       1 | https://www.wordnik.com/words/uncloak      |
 | cannula      |       1 | https://www.wordnik.com/words/cannula      |
 | caulk        |       1 | https://www.wordnik.com/words/caulk        |
@@ -863,5 +873,45 @@ Every word that's occurred so far.
 | rani         |       1 | https://www.wordnik.com/words/rani         |
 | rich         |       1 | https://www.wordnik.com/words/rich         |
 | ricin        |       1 | https://www.wordnik.com/words/ricin        |
+| tenacity     |       1 | https://www.wordnik.com/words/tenacity     |
+| acetic       |       1 | https://www.wordnik.com/words/acetic       |
+| ancient      |       1 | https://www.wordnik.com/words/ancient      |
+| anti         |       1 | https://www.wordnik.com/words/anti         |
+| antic        |       1 | https://www.wordnik.com/words/antic        |
+| attain       |       1 | https://www.wordnik.com/words/attain       |
+| attic        |       1 | https://www.wordnik.com/words/attic        |
+| cacti        |       1 | https://www.wordnik.com/words/cacti        |
+| canine       |       1 | https://www.wordnik.com/words/canine       |
+| cantina      |       1 | https://www.wordnik.com/words/cantina      |
+| city         |       1 | https://www.wordnik.com/words/city         |
+| cynic        |       1 | https://www.wordnik.com/words/cynic        |
+| entity       |       1 | https://www.wordnik.com/words/entity       |
+| inane        |       1 | https://www.wordnik.com/words/inane        |
+| inanity      |       1 | https://www.wordnik.com/words/inanity      |
+| incant       |       1 | https://www.wordnik.com/words/incant       |
+| initiate     |       1 | https://www.wordnik.com/words/initiate     |
+| innate       |       1 | https://www.wordnik.com/words/innate       |
+| innie        |       1 | https://www.wordnik.com/words/innie        |
+| intact       |       1 | https://www.wordnik.com/words/intact       |
+| intent       |       1 | https://www.wordnik.com/words/intent       |
+| niacin       |       1 | https://www.wordnik.com/words/niacin       |
+| nicety       |       1 | https://www.wordnik.com/words/nicety       |
+| nine         |       1 | https://www.wordnik.com/words/nine         |
+| nineteen     |       1 | https://www.wordnik.com/words/nineteen     |
+| ninety       |       1 | https://www.wordnik.com/words/ninety       |
+| ninny        |       1 | https://www.wordnik.com/words/ninny        |
+| nite         |       1 | https://www.wordnik.com/words/nite         |
+| tacit        |       1 | https://www.wordnik.com/words/tacit        |
+| tactic       |       1 | https://www.wordnik.com/words/tactic       |
+| tactician    |       1 | https://www.wordnik.com/words/tactician    |
+| taint        |       1 | https://www.wordnik.com/words/taint        |
+| tannic       |       1 | https://www.wordnik.com/words/tannic       |
+| tannin       |       1 | https://www.wordnik.com/words/tannin       |
+| tine         |       1 | https://www.wordnik.com/words/tine         |
+| tinny        |       1 | https://www.wordnik.com/words/tinny        |
+| tint         |       1 | https://www.wordnik.com/words/tint         |
+| tiny         |       1 | https://www.wordnik.com/words/tiny         |
+| titan        |       1 | https://www.wordnik.com/words/titan        |
+| titanic      |       1 | https://www.wordnik.com/words/titanic      |
 
 <!-- generated all table end -->
