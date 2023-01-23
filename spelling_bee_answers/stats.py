@@ -1,5 +1,5 @@
 """
-Generate a list of all words across all days and their frequencies.
+Generate tables of words across all days.
 """
 
 import json
@@ -25,8 +25,21 @@ def load_all_answers():
     return answers
 
 
-def determine_counts(answers):
-    counts = Counter(answers)
+def load_all_pangrams():
+    pangrams = []
+
+    paths = Path(f"{settings.repo_root}/days").glob("*.json")
+    paths = sorted(paths)
+
+    for i in paths:
+        day_pangrams = json.load(open(i))["pangrams"]
+        pangrams.extend(day_pangrams)
+
+    return pangrams
+
+
+def determine_counts(words):
+    counts = Counter(words)
     # pprint(counts)
     return counts
 
@@ -51,19 +64,23 @@ def generate_multi_count_words_table(counts):
     return _generate_words_table(counts, lambda count: count > 1)
 
 
-def update_doc(word_count, table, tag):
+def generate_pangrams_table(counts):
+    return _generate_words_table(counts, lambda _: True)
+
+
+def update_doc(filename, tag, table, word_count, label):
     tag_start, tag_end = (
         f"<!-- {tag} start -->",
         f"<!-- {tag} end -->",
     )
 
-    with open(f"{settings.repo_root}/Words.md", "r+") as fp:
+    with open(f"{settings.repo_root}/{filename}", "r+") as fp:
         doc = fp.read()
         tag_start_idx, tag_end_idx = doc.find(tag_start), doc.find(tag_end)
         after_tag_start_idx = tag_start_idx + len(tag_start)
         doc_parts = [
             doc[:after_tag_start_idx],
-            f"{word_count} words",
+            f"{word_count} {label}",
             table,
             doc[tag_end_idx:],
         ]
@@ -75,18 +92,33 @@ def update_doc(word_count, table, tag):
 
 
 def main():
+    # all words and multi-count words lists
     answers = load_all_answers()
-    counts = determine_counts(answers)
-
+    all_answers_counts = determine_counts(answers)
     update_doc(
-        word_count=len([x for x in counts.values() if x > 1]),
-        table=generate_multi_count_words_table(counts),
+        filename="Words.md",
         tag="generated multi table",
+        table=generate_multi_count_words_table(all_answers_counts),
+        word_count=len([x for x in all_answers_counts.values() if x > 1]),
+        label="words",
     )
     update_doc(
-        word_count=len(counts.keys()),
-        table=generate_all_words_table(counts),
+        filename="Words.md",
         tag="generated all table",
+        table=generate_all_words_table(all_answers_counts),
+        word_count=len(all_answers_counts.keys()),
+        label="words",
+    )
+
+    # pangrams list
+    pangrams = load_all_pangrams()
+    pangrams_counts = determine_counts(pangrams)
+    update_doc(
+        filename="Pangrams.md",
+        tag="generated table",
+        table=generate_pangrams_table(pangrams_counts),
+        word_count=len(pangrams_counts.keys()),
+        label="pangrams",
     )
 
 
