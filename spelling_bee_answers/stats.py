@@ -12,30 +12,25 @@ from tabulate import tabulate
 from .settings import settings
 
 
-def load_all_answers():
-    answers = []
+def _load_all_by_key(key):
+    values = []
 
     paths = Path(f"{settings.repo_root}/days").glob("*.json")
     paths = sorted(paths)
 
     for i in paths:
-        day_answers = json.load(open(i))["answers"]
-        answers.extend(day_answers)
+        day_values = json.load(open(i))[key]
+        values.extend(day_values)
 
-    return answers
+    return values
+
+
+def load_all_answers():
+    return _load_all_by_key(key="answers")
 
 
 def load_all_pangrams():
-    pangrams = []
-
-    paths = Path(f"{settings.repo_root}/days").glob("*.json")
-    paths = sorted(paths)
-
-    for i in paths:
-        day_pangrams = json.load(open(i))["pangrams"]
-        pangrams.extend(day_pangrams)
-
-    return pangrams
+    return _load_all_by_key(key="pangrams")
 
 
 def determine_counts(words):
