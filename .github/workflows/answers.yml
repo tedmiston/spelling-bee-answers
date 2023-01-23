@@ -78,10 +78,10 @@ jobs:
         run: |
           poetry run python -m spelling_bee_answers.stats
 
-      - name: Git commit stats
+      - name: Git commit word lists
         uses: endbug/add-and-commit@v9.1.1
         with:
-          add: Words.md
+          add: Pangrams.md Words.md
           author_name: ${{ vars.ROBOT_AUTHOR_NAME }}
           author_email: ${{ vars.ROBOT_AUTHOR_EMAIL }}
-          message: Regenerate words list
+          message: Regenerate word lists
