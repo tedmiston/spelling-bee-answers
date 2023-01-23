@@ -35,7 +35,7 @@ def _generate_words_table(counts, condition):
     headers = ["Word", "Count", "Definition"]
     rows = [
         (word, count, f"https://www.wordnik.com/words/{word}")
-        for word, count in counts.items()
+        for word, count in sorted(counts.items())
         if condition(count)
     ]
     table = tabulate(rows, headers=headers, tablefmt="github")
