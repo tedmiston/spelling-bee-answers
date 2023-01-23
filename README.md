@@ -4,7 +4,7 @@
 
 A fully automated archive of answers to the [NYTimes Spelling Bee][1] puzzles.
 
-New puzzles are released at 3 am US/Eastern.
+New puzzles are released at [3 am US/Eastern](https://time.is/ET).
 
 ## All Pangrams
 
