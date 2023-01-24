@@ -42,7 +42,7 @@ def determine_counts(words):
 def _generate_words_table(counts, condition):
     headers = ["Word", "Count", "Definition"]
     rows = [
-        (word, count, f"https://www.wordnik.com/words/{word}")
+        (f"**{word}**", count, f"https://www.wordnik.com/words/{word}")
         for word, count in sorted(counts.items())
         if condition(count)
     ]
