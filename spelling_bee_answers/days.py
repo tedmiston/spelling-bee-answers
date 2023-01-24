@@ -42,7 +42,7 @@ def generate_table():
         forum_link = f"[Forum](https://www.nytimes.com/{date_str}/crosswords/spelling-bee-forum.html)"
         word_count = get_days_word_count(f"{settings.repo_root}/{filepath}")
         notes = ""
-        row = [date, path_link, forum_link, word_count, notes]
+        row = [f"**{date}**", path_link, forum_link, word_count, notes]
         table.append(row)
 
     markdown = tabulate(table, headers=headers, tablefmt="github")
