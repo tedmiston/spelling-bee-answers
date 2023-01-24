@@ -39,7 +39,7 @@ def determine_counts(words):
     return counts
 
 
-def _generate_words_table(counts, condition):
+def _generate_words_table(counts, condition=lambda _: True):
     headers = ["Word", "Count", "Definition"]
     rows = [
         (f"**{word}**", count, f"https://www.wordnik.com/words/{word}")
@@ -52,7 +52,7 @@ def _generate_words_table(counts, condition):
 
 
 def generate_all_words_table(counts):
-    return _generate_words_table(counts, lambda _: True)
+    return _generate_words_table(counts)
 
 
 def generate_multi_count_words_table(counts):
@@ -60,7 +60,7 @@ def generate_multi_count_words_table(counts):
 
 
 def generate_pangrams_table(counts):
-    return _generate_words_table(counts, lambda _: True)
+    return _generate_words_table(counts)
 
 
 def update_doc(filename, tag, table, word_count, label):
