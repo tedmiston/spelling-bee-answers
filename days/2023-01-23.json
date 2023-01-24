@@ -1,0 +1,56 @@
+{
+  "expiration": 1674547200,
+  "displayWeekday": "Monday",
+  "displayDate": "January 23, 2023",
+  "printDate": "2023-01-23",
+  "centerLetter": "h",
+  "outerLetters": [
+    "a",
+    "b",
+    "i",
+    "l",
+    "t",
+    "u"
+  ],
+  "validLetters": [
+    "h",
+    "a",
+    "b",
+    "i",
+    "l",
+    "t",
+    "u"
+  ],
+  "pangrams": [
+    "habitual",
+    "halibut"
+  ],
+  "answers": [
+    "habitual",
+    "halibut",
+    "baht",
+    "bath",
+    "bathtub",
+    "blah",
+    "habit",
+    "habitat",
+    "hail",
+    "halal",
+    "hall",
+    "halt",
+    "hath",
+    "hatha",
+    "haul",
+    "hill",
+    "hilt",
+    "hubbub",
+    "hula",
+    "hull",
+    "lath",
+    "that",
+    "tilth"
+  ],
+  "id": 22942,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
