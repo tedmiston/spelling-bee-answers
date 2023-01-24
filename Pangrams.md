@@ -6,7 +6,7 @@
 
 <!-- generated table start -->
 
-29 pangrams
+31 pangrams
 
 | Word        |   Count | Definition                                |
 |-------------|---------|-------------------------------------------|
@@ -20,6 +20,8 @@
 | flagpole    |       1 | https://www.wordnik.com/words/flagpole    |
 | fueling     |       1 | https://www.wordnik.com/words/fueling     |
 | funneling   |       1 | https://www.wordnik.com/words/funneling   |
+| habitual    |       1 | https://www.wordnik.com/words/habitual    |
+| halibut     |       1 | https://www.wordnik.com/words/halibut     |
 | illegality  |       1 | https://www.wordnik.com/words/illegality  |
 | implement   |       1 | https://www.wordnik.com/words/implement   |
 | ineffective |       1 | https://www.wordnik.com/words/ineffective |
