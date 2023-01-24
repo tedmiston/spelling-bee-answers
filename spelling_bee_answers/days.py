@@ -15,12 +15,14 @@ logging.basicConfig(
 )
 
 
-def get_days_word_count(filepath):
+def get_days_counts(filepath):
     with open(filepath) as fp:
         day = json.load(fp)
 
     word_count = len(day["answers"])
-    return word_count
+    pangram_count = len(day["pangrams"])
+
+    return word_count, pangram_count
 
 
 def generate_table():
@@ -33,16 +35,16 @@ def generate_table():
     end_date = pendulum.today().date() - pendulum.duration(days=day_offset)
     puzzle_dates = end_date - start_date
 
-    headers = ["Date", "File", "Forum", "Word Count", "Notes"]
+    headers = ["Date", "File", "Forum", "Word Count", "Pangram Count", "Notes"]
     table = []
     for date in puzzle_dates:
         filepath = f"days/{date}.json"
         path_link = f"[{date}.json]({filepath})"
         date_str = date.strftime("%Y/%m/%d")
         forum_link = f"[Forum](https://www.nytimes.com/{date_str}/crosswords/spelling-bee-forum.html)"
-        word_count = get_days_word_count(f"{settings.repo_root}/{filepath}")
+        word_count, pangram_count = get_days_counts(f"{settings.repo_root}/{filepath}")
         notes = ""
-        row = [f"**{date}**", path_link, forum_link, word_count, notes]
+        row = [f"**{date}**", path_link, forum_link, word_count, pangram_count, notes]
         table.append(row)
 
     markdown = tabulate(table, headers=headers, tablefmt="github")
