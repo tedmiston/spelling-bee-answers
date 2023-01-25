@@ -14,7 +14,7 @@ from bs4 import BeautifulSoup
 import requests
 
 # temporary data class model to be replaced with a pydantic model in prod
-@dataclass
+@dataclass(frozen=True)
 class Puzzle:
     date: str
     center_letter: str
