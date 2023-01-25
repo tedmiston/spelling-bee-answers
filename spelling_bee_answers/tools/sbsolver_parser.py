@@ -6,23 +6,12 @@ Example:
 - https://www.sbsolver.com/s/1
 """
 
-from dataclasses import dataclass
-from pprint import pprint
-from typing import List, Optional
-
-from bs4 import BeautifulSoup
+import pendulum
 import requests
+from bs4 import BeautifulSoup
+from rich import print
 
-# temporary data class model to be replaced with a pydantic model in prod
-@dataclass(frozen=True)
-class Puzzle:
-    date: str
-    center_letter: str
-    outer_letters: List[str]
-    points: int
-    answers: List[str]
-    editor: Optional[str]
-    verified: bool
+from ..models import Puzzle
 
 
 def main():
@@ -37,8 +26,9 @@ def main():
     soup = BeautifulSoup(response.content, "html.parser")
 
     date = soup.find("span", attrs={"class": "bee-date"}).find("a").text
-    # todo: parse date string
-    # print(date)
+    date = pendulum.parse(
+        date, strict=False
+    ).date()  # non-strict falls back to the dateutil parser
 
     all_letters = [
         x["alt"]
@@ -68,11 +58,11 @@ def main():
         x.text for x in answers_table.find_all("td", attrs={"class": "bee-hover"})
     ]
     answers = sorted([x.lower() for x in answers])
-    # pprint(answers)
+    # print(answers)
 
-    editor = None  # in this context null means unknown
-
-    verified = False
+    # todo: implement pangram parsing
+    # example with multiple pangrams - https://www.sbsolver.com/s/2
+    pangrams = []
 
     puzzle = Puzzle(
         date=date,
@@ -80,10 +70,11 @@ def main():
         outer_letters=outer_letters,
         points=points,
         answers=answers,
-        editor=editor,
-        verified=verified,
+        pangrams=pangrams,
+        editor=None,  # in this context null means unknown
+        verified=False,
     )
-    pprint(puzzle)
+    print(puzzle)
 
 
 if __name__ == "__main__":
