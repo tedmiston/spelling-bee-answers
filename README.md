@@ -47,3 +47,5 @@ See [Words](Words.md).
 | **2023-01-24** | [2023-01-24.json](days/2023-01-24.json) | [Forum](https://www.nytimes.com/2023/01/24/crosswords/spelling-bee-forum.html) |      44 |          1 |         |
 
 <!-- generated table end -->
+
+[1]: https://www.nytimes.com/puzzles/spelling-bee
