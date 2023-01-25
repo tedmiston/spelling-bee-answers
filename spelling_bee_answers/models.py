@@ -21,6 +21,25 @@ class Puzzle(BaseModel):
     verified: bool
 
 
+def load_puzzle_from_json(filepath):
+    with open(filepath) as fp:
+        obj = json.load(fp)
+        # print(obj)
+        p = Puzzle(
+            date=obj["printDate"],
+            center_letter=obj["centerLetter"],
+            outer_letters=obj["outerLetters"],
+            points=None,  # todo
+            answers=obj["answers"],
+            pangrams=obj["pangrams"],
+            editor=obj["editor"],
+            verified=True,
+        )
+        print(p)
+
+    return p
+
+
 def main():
     filepath = "days/2023-01-01.json"
     # filepath = "days/2023-01-23.json"

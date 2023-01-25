@@ -8,6 +8,7 @@ import logging
 import pendulum
 from tabulate import tabulate
 
+from .models import load_puzzle_from_json
 from .settings import settings
 
 logging.basicConfig(
@@ -16,11 +17,10 @@ logging.basicConfig(
 
 
 def get_days_counts(filepath):
-    with open(filepath) as fp:
-        day = json.load(fp)
+    puzzle = load_puzzle_from_json(filepath=filepath)
 
-    word_count = len(day["answers"])
-    pangram_count = len(day["pangrams"])
+    word_count = len(puzzle.answers)
+    pangram_count = len(puzzle.pangrams)
 
     return word_count, pangram_count
 
