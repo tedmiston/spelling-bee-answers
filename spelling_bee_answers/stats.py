@@ -13,15 +13,16 @@ from .models import load_puzzle_from_json
 from .settings import settings
 
 
-def _load_all_by_key(key):
-    puzzles = []
-
+def _load_all_puzzles():
     paths = Path(f"{settings.repo_root}/days").glob("*.json")
     paths = sorted(paths)
 
-    for path in paths:
-        puzzle = load_puzzle_from_json(filepath=path)
-        puzzles.append(puzzle)
+    puzzles = [load_puzzle_from_json(filepath=path) for path in paths]
+    return puzzles
+
+
+def _load_all_puzzles_by_key(key):
+    puzzles = _load_all_puzzles()
 
     values = [getattr(x, key) for x in puzzles]
     values_flattened = []
@@ -32,11 +33,11 @@ def _load_all_by_key(key):
 
 
 def load_all_answers():
-    return _load_all_by_key(key="answers")
+    return _load_all_puzzles_by_key(key="answers")
 
 
 def load_all_pangrams():
-    return _load_all_by_key(key="pangrams")
+    return _load_all_puzzles_by_key(key="pangrams")
 
 
 def determine_counts(words):
