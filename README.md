@@ -47,9 +47,3 @@ See [Words](Words.md).
 
 <!-- generated table end -->
 
-[1]: https://www.nytimes.com/puzzles/spelling-bee
- 23 |            2 |                      |
-
-<!-- generated table end -->
-
-[1]: https://www.nytimes.com/puzzles/spelling-bee
