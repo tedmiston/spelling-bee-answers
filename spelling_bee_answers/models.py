@@ -29,13 +29,13 @@ def load_puzzle_from_json(filepath):
             date=obj["printDate"],
             center_letter=obj["centerLetter"],
             outer_letters=obj["outerLetters"],
-            points=None,  # todo
+            points=None,  # todo: see if i can get this from somewhere
             answers=obj["answers"],
             pangrams=obj["pangrams"],
             editor=obj["editor"],
             verified=True,
         )
-        print(p)
+        # print(p)
 
     return p
 
@@ -43,20 +43,8 @@ def load_puzzle_from_json(filepath):
 def main():
     filepath = "days/2023-01-01.json"
     # filepath = "days/2023-01-23.json"
-    with open(filepath) as fp:
-        obj = json.load(fp)
-        # print(obj)
-        p = Puzzle(
-            date=obj["printDate"],
-            center_letter=obj["centerLetter"],
-            outer_letters=obj["outerLetters"],
-            points=None,  # todo: see if i can get this from somewhere
-            answers=obj["answers"],
-            pangrams=obj["pangrams"],
-            editor=obj["editor"],
-            verified=True,
-        )
-        print(p)
+    puzzle = load_puzzle_from_json(filepath)
+    print(puzzle)
 
 
 if __name__ == "__main__":
