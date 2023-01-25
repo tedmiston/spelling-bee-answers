@@ -26,9 +26,7 @@ def main():
     soup = BeautifulSoup(response.content, "html.parser")
 
     date = soup.find("span", attrs={"class": "bee-date"}).find("a").text
-    date = pendulum.parse(
-        date, strict=False
-    ).date()  # non-strict falls back to the dateutil parser
+    date = pendulum.parse(date, strict=False).date()  # non-strict uses dateutil parser
 
     all_letters = [
         x["alt"]
@@ -48,15 +46,13 @@ def main():
         else:
             outer_letters.append(i.lower())
 
-    points = int(
-        soup.find_all("span", attrs={"class": "bee-loud"})[-1].text.split(" ")[0]
-    )
+    points_span = soup.find_all("span", attrs={"class": "bee-loud"})[-1]
+    points = int(points_span.text.split(" ")[0])
     # print(points)
 
     answers_table = soup.find("table", attrs={"class": "bee-set"})
-    answers = [
-        x.text for x in answers_table.find_all("td", attrs={"class": "bee-hover"})
-    ]
+    answers_tds = answers_table.find_all("td", attrs={"class": "bee-hover"})
+    answers = [x.text for x in answers_tds]
     answers = sorted([x.lower() for x in answers])
     # print(answers)
 
