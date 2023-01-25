@@ -5,37 +5,44 @@ Generate tables of words across all days.
 import json
 from collections import Counter
 from pathlib import Path
-from pprint import pprint
 
+from rich import print
 from tabulate import tabulate
 
+from .models import load_puzzle_from_json
 from .settings import settings
 
 
-def _load_all_by_key(key):
-    values = []
-
+def _load_all_puzzles():
     paths = Path(f"{settings.repo_root}/days").glob("*.json")
     paths = sorted(paths)
 
-    for i in paths:
-        day_values = json.load(open(i))[key]
-        values.extend(day_values)
+    puzzles = [load_puzzle_from_json(filepath=path) for path in paths]
+    return puzzles
 
-    return values
+
+def _load_all_puzzles_by_key(key):
+    puzzles = _load_all_puzzles()
+
+    values = [getattr(x, key) for x in puzzles]
+    values_flattened = []
+    for i in values:
+        values_flattened.extend(i)
+
+    return values_flattened
 
 
 def load_all_answers():
-    return _load_all_by_key(key="answers")
+    return _load_all_puzzles_by_key(key="answers")
 
 
 def load_all_pangrams():
-    return _load_all_by_key(key="pangrams")
+    return _load_all_puzzles_by_key(key="pangrams")
 
 
 def determine_counts(words):
     counts = Counter(words)
-    # pprint(counts)
+    # print("counts:", counts)
     return counts
 
 

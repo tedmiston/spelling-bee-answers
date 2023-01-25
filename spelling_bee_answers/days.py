@@ -8,21 +8,12 @@ import logging
 import pendulum
 from tabulate import tabulate
 
+from .models import load_puzzle_from_json
 from .settings import settings
 
 logging.basicConfig(
     level=getattr(logging, settings.log_level),
 )
-
-
-def get_days_counts(filepath):
-    with open(filepath) as fp:
-        day = json.load(fp)
-
-    word_count = len(day["answers"])
-    pangram_count = len(day["pangrams"])
-
-    return word_count, pangram_count
 
 
 def generate_table():
@@ -42,7 +33,9 @@ def generate_table():
         path_link = f"[{date}.json]({filepath})"
         date_str = date.strftime("%Y/%m/%d")
         forum_link = f"[Forum](https://www.nytimes.com/{date_str}/crosswords/spelling-bee-forum.html)"
-        word_count, pangram_count = get_days_counts(f"{settings.repo_root}/{filepath}")
+        puzzle = load_puzzle_from_json(filepath=f"{settings.repo_root}/{filepath}")
+        word_count = len(puzzle.answers)
+        pangram_count = len(puzzle.pangrams)
         notes = ""
         row = [f"**{date}**", path_link, forum_link, word_count, pangram_count, notes]
         table.append(row)
