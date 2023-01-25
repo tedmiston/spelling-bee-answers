@@ -4,10 +4,8 @@ Models.
 
 import json
 from datetime import date
-# from pprint import pprint
 from typing import List, Optional
 
-# import pendulum
 from pydantic import BaseModel
 from rich import print
 
@@ -28,7 +26,7 @@ def main():
     # filepath = "days/2023-01-23.json"
     with open(filepath) as fp:
         obj = json.load(fp)
-        # pprint(obj)
+        # print(obj)
         p = Puzzle(
             date=obj["printDate"],
             center_letter=obj["centerLetter"],
