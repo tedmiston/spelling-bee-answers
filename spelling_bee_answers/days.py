@@ -35,7 +35,7 @@ def generate_table():
     end_date = pendulum.today().date() - pendulum.duration(days=day_offset)
     puzzle_dates = end_date - start_date
 
-    headers = ["Date", "File", "Forum", "Word Count", "Pangram Count", "Notes"]
+    headers = ["Date", "File", "Forum", "Words", "Pangrams", "Notes"]
     table = []
     for date in puzzle_dates:
         filepath = f"days/{date}.json"
