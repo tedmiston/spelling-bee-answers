@@ -6,7 +6,7 @@
 
 <!-- generated table start -->
 
-31 pangrams
+32 pangrams
 
 | Word            |   Count | Definition                                |
 |-----------------|---------|-------------------------------------------|
@@ -41,5 +41,6 @@
 | **unfeeling**   |       1 | https://www.wordnik.com/words/unfeeling   |
 | **violent**     |       1 | https://www.wordnik.com/words/violent     |
 | **weaving**     |       1 | https://www.wordnik.com/words/weaving     |
+| **windmilled**  |       1 | https://www.wordnik.com/words/windmilled  |
 
 <!-- generated table end -->

@@ -8,7 +8,7 @@ Words that have occurred more than once.
 
 <!-- generated multi table start -->
 
-66 words
+78 words
 
 | Word          |   Count | Definition                              |
 |---------------|---------|-----------------------------------------|
@@ -50,11 +50,23 @@ Words that have occurred more than once.
 | **incite**    |       2 | https://www.wordnik.com/words/incite    |
 | **itty**      |       2 | https://www.wordnik.com/words/itty      |
 | **laud**      |       2 | https://www.wordnik.com/words/laud      |
+| **lime**      |       2 | https://www.wordnik.com/words/lime      |
+| **limn**      |       2 | https://www.wordnik.com/words/limn      |
+| **linemen**   |       2 | https://www.wordnik.com/words/linemen   |
 | **luau**      |       4 | https://www.wordnik.com/words/luau      |
 | **lull**      |       3 | https://www.wordnik.com/words/lull      |
 | **lulu**      |       3 | https://www.wordnik.com/words/lulu      |
 | **luna**      |       2 | https://www.wordnik.com/words/luna      |
 | **lunula**    |       2 | https://www.wordnik.com/words/lunula    |
+| **melee**     |       2 | https://www.wordnik.com/words/melee     |
+| **meme**      |       2 | https://www.wordnik.com/words/meme      |
+| **mien**      |       2 | https://www.wordnik.com/words/mien      |
+| **mile**      |       2 | https://www.wordnik.com/words/mile      |
+| **mill**      |       2 | https://www.wordnik.com/words/mill      |
+| **mime**      |       2 | https://www.wordnik.com/words/mime      |
+| **mine**      |       2 | https://www.wordnik.com/words/mine      |
+| **mini**      |       2 | https://www.wordnik.com/words/mini      |
+| **minim**     |       2 | https://www.wordnik.com/words/minim     |
 | **mitt**      |       2 | https://www.wordnik.com/words/mitt      |
 | **nadir**     |       2 | https://www.wordnik.com/words/nadir     |
 | **nice**      |       2 | https://www.wordnik.com/words/nice      |
@@ -87,7 +99,7 @@ Every word that's occurred so far.
 
 <!-- generated all table start -->
 
-845 words
+877 words
 
 | Word             |   Count | Definition                                 |
 |------------------|---------|--------------------------------------------|
@@ -335,9 +347,14 @@ Every word that's occurred so far.
 | **daring**       |       1 | https://www.wordnik.com/words/daring       |
 | **darn**         |       2 | https://www.wordnik.com/words/darn         |
 | **darning**      |       1 | https://www.wordnik.com/words/darning      |
+| **deem**         |       1 | https://www.wordnik.com/words/deem         |
+| **deemed**       |       1 | https://www.wordnik.com/words/deemed       |
+| **denim**        |       1 | https://www.wordnik.com/words/denim        |
 | **dial**         |       1 | https://www.wordnik.com/words/dial         |
 | **dicing**       |       1 | https://www.wordnik.com/words/dicing       |
 | **digging**      |       1 | https://www.wordnik.com/words/digging      |
+| **dime**         |       1 | https://www.wordnik.com/words/dime         |
+| **dimmed**       |       1 | https://www.wordnik.com/words/dimmed       |
 | **dinar**        |       2 | https://www.wordnik.com/words/dinar        |
 | **ding**         |       1 | https://www.wordnik.com/words/ding         |
 | **dinging**      |       1 | https://www.wordnik.com/words/dinging      |
@@ -369,6 +386,8 @@ Every word that's occurred so far.
 | **eligible**     |       1 | https://www.wordnik.com/words/eligible     |
 | **elite**        |       1 | https://www.wordnik.com/words/elite        |
 | **elope**        |       1 | https://www.wordnik.com/words/elope        |
+| **emend**        |       1 | https://www.wordnik.com/words/emend        |
+| **emended**      |       1 | https://www.wordnik.com/words/emended      |
 | **eminent**      |       1 | https://www.wordnik.com/words/eminent      |
 | **emit**         |       1 | https://www.wordnik.com/words/emit         |
 | **engulf**       |       1 | https://www.wordnik.com/words/engulf       |
@@ -587,12 +606,14 @@ Every word that's occurred so far.
 | **lilac**        |       1 | https://www.wordnik.com/words/lilac        |
 | **lilt**         |       1 | https://www.wordnik.com/words/lilt         |
 | **lily**         |       1 | https://www.wordnik.com/words/lily         |
-| **lime**         |       1 | https://www.wordnik.com/words/lime         |
+| **lime**         |       2 | https://www.wordnik.com/words/lime         |
+| **limed**        |       1 | https://www.wordnik.com/words/limed        |
 | **limit**        |       1 | https://www.wordnik.com/words/limit        |
-| **limn**         |       1 | https://www.wordnik.com/words/limn         |
+| **limn**         |       2 | https://www.wordnik.com/words/limn         |
+| **limned**       |       1 | https://www.wordnik.com/words/limned       |
 | **limp**         |       1 | https://www.wordnik.com/words/limp         |
 | **limpet**       |       1 | https://www.wordnik.com/words/limpet       |
-| **linemen**      |       1 | https://www.wordnik.com/words/linemen      |
+| **linemen**      |       2 | https://www.wordnik.com/words/linemen      |
 | **liniment**     |       1 | https://www.wordnik.com/words/liniment     |
 | **lite**         |       1 | https://www.wordnik.com/words/lite         |
 | **litigate**     |       1 | https://www.wordnik.com/words/litigate     |
@@ -642,23 +663,44 @@ Every word that's occurred so far.
 | **maxi**         |       1 | https://www.wordnik.com/words/maxi         |
 | **maxim**        |       1 | https://www.wordnik.com/words/maxim        |
 | **maxima**       |       1 | https://www.wordnik.com/words/maxima       |
+| **meddle**       |       1 | https://www.wordnik.com/words/meddle       |
+| **meddled**      |       1 | https://www.wordnik.com/words/meddled      |
 | **meet**         |       1 | https://www.wordnik.com/words/meet         |
-| **melee**        |       1 | https://www.wordnik.com/words/melee        |
+| **meld**         |       1 | https://www.wordnik.com/words/meld         |
+| **melded**       |       1 | https://www.wordnik.com/words/melded       |
+| **melee**        |       2 | https://www.wordnik.com/words/melee        |
 | **melt**         |       1 | https://www.wordnik.com/words/melt         |
-| **meme**         |       1 | https://www.wordnik.com/words/meme         |
+| **meme**         |       2 | https://www.wordnik.com/words/meme         |
+| **memed**        |       1 | https://www.wordnik.com/words/memed        |
+| **mend**         |       1 | https://www.wordnik.com/words/mend         |
+| **mended**       |       1 | https://www.wordnik.com/words/mended       |
 | **mentee**       |       1 | https://www.wordnik.com/words/mentee       |
 | **mete**         |       1 | https://www.wordnik.com/words/mete         |
 | **mettle**       |       1 | https://www.wordnik.com/words/mettle       |
+| **mewed**        |       1 | https://www.wordnik.com/words/mewed        |
+| **mewl**         |       1 | https://www.wordnik.com/words/mewl         |
+| **mewled**       |       1 | https://www.wordnik.com/words/mewled       |
 | **mica**         |       1 | https://www.wordnik.com/words/mica         |
-| **mien**         |       1 | https://www.wordnik.com/words/mien         |
-| **mile**         |       1 | https://www.wordnik.com/words/mile         |
-| **mill**         |       1 | https://www.wordnik.com/words/mill         |
+| **middle**       |       1 | https://www.wordnik.com/words/middle       |
+| **middlemen**    |       1 | https://www.wordnik.com/words/middlemen    |
+| **midi**         |       1 | https://www.wordnik.com/words/midi         |
+| **mien**         |       2 | https://www.wordnik.com/words/mien         |
+| **mild**         |       1 | https://www.wordnik.com/words/mild         |
+| **mildew**       |       1 | https://www.wordnik.com/words/mildew       |
+| **mildewed**     |       1 | https://www.wordnik.com/words/mildewed     |
+| **mile**         |       2 | https://www.wordnik.com/words/mile         |
+| **mill**         |       2 | https://www.wordnik.com/words/mill         |
+| **milled**       |       1 | https://www.wordnik.com/words/milled       |
 | **millet**       |       1 | https://www.wordnik.com/words/millet       |
-| **mime**         |       1 | https://www.wordnik.com/words/mime         |
+| **mime**         |       2 | https://www.wordnik.com/words/mime         |
+| **mimed**        |       1 | https://www.wordnik.com/words/mimed        |
 | **mimic**        |       1 | https://www.wordnik.com/words/mimic        |
-| **mine**         |       1 | https://www.wordnik.com/words/mine         |
-| **mini**         |       1 | https://www.wordnik.com/words/mini         |
-| **minim**        |       1 | https://www.wordnik.com/words/minim        |
+| **mind**         |       1 | https://www.wordnik.com/words/mind         |
+| **minded**       |       1 | https://www.wordnik.com/words/minded       |
+| **mine**         |       2 | https://www.wordnik.com/words/mine         |
+| **mined**        |       1 | https://www.wordnik.com/words/mined        |
+| **mini**         |       2 | https://www.wordnik.com/words/mini         |
+| **minim**        |       2 | https://www.wordnik.com/words/minim        |
 | **mint**         |       1 | https://www.wordnik.com/words/mint         |
 | **mite**         |       1 | https://www.wordnik.com/words/mite         |
 | **mitt**         |       2 | https://www.wordnik.com/words/mitt         |
@@ -934,6 +976,8 @@ Every word that's occurred so far.
 | **weave**        |       1 | https://www.wordnik.com/words/weave        |
 | **weaving**      |       1 | https://www.wordnik.com/words/weaving      |
 | **well**         |       1 | https://www.wordnik.com/words/well         |
+| **windmill**     |       1 | https://www.wordnik.com/words/windmill     |
+| **windmilled**   |       1 | https://www.wordnik.com/words/windmilled   |
 | **woolen**       |       1 | https://www.wordnik.com/words/woolen       |
 | **yeti**         |       2 | https://www.wordnik.com/words/yeti         |
 
