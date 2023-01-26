@@ -36,11 +36,13 @@ def load_puzzle_from_json(filepath):
             verified=True,
         )
         # print(p)
-
     return p
 
 
 def main():  # pragma: no cover
+    # todo: update main to take filepath as a sysarg
+
+    # todo: copy this code to `test_load_puzzle_from_json`
     filepath = "days/2023-01-01.json"
     # filepath = "days/2023-01-23.json"
     puzzle = load_puzzle_from_json(filepath)
