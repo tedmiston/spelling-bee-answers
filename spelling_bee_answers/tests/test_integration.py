@@ -33,10 +33,12 @@ def test_output_json_schema():
         "validLetters",
     ]
 
-    assert len(doc["outerLetters"]) > 0
-    assert len(doc["validLetters"]) > 0
+    assert len(doc["centerLetter"]) == 1
+    assert len(doc["outerLetters"]) == 6
+    assert len(doc["validLetters"]) == 7
     assert len(doc["pangrams"]) > 0
     assert len(doc["answers"]) > 0
+    # todo: test printDate date format valid YYYY-MM-DD
 
 
 def test_daily_answers_complete():
