@@ -40,7 +40,7 @@ def load_puzzle_from_json(filepath):
     return p
 
 
-def main():
+def main():  # pragma: no cover
     filepath = "days/2023-01-01.json"
     # filepath = "days/2023-01-23.json"
     puzzle = load_puzzle_from_json(filepath)

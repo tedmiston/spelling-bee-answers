@@ -74,7 +74,7 @@ def update_readme(markdown):
     logging.info("Done")
 
 
-def main():
+def main():  # pragma: no cover
     markdown = generate_table()
     update_readme(markdown)
 

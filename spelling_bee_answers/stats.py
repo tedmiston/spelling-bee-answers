@@ -81,7 +81,7 @@ def update_doc(filename, tag, table, word_count, label):
         fp.write(output)
 
 
-def main():
+def main():  # pragma: no cover
     # all words and multi-count words lists
     answers = load_all_answers()
     all_answers_counts = determine_counts(answers)

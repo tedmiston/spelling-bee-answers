@@ -76,7 +76,7 @@ def output_game_answers_data(puzzle_dict):
     logging.info("Done")
 
 
-def main():
+def main():  # pragma: no cover
     response = fetch_page()
     game_data_script = extract_game_data(response)
     puzzle_dict = parse_game_data(game_data_script)
