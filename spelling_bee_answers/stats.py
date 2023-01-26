@@ -32,12 +32,6 @@ def load_all_puzzles_by_key(key):
     return values_flattened
 
 
-def determine_counts(words):
-    counts = Counter(words)
-    # print("counts:", counts)
-    return counts
-
-
 def generate_words_table(counts, condition=lambda _: True):
     headers = ["Word", "Count", "Definition"]
     rows = [
@@ -76,7 +70,7 @@ def update_doc(filename, tag, table, word_count, label):
 def main():  # pragma: no cover
     # all words and multi-count words lists
     answers = load_all_puzzles_by_key(key="answers")
-    all_answers_counts = determine_counts(answers)
+    all_answers_counts = Counter(answers)
     update_doc(
         filename="Words.md",
         tag="generated multi table",
@@ -94,7 +88,7 @@ def main():  # pragma: no cover
 
     # pangrams list
     pangrams = load_all_puzzles_by_key(key="pangrams")
-    pangrams_counts = determine_counts(pangrams)
+    pangrams_counts = Counter(pangrams)
     update_doc(
         filename="Pangrams.md",
         tag="generated table",
