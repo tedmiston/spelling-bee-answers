@@ -76,8 +76,9 @@ def parse_game_data(soup):
 
     # example with one pangrams - https://www.sbsolver.com/s/1
     # example with multiple pangrams - https://www.sbsolver.com/s/2
-    pangrams_str = soup.find('table', attrs={'class': ['bee', 'bee-grid']}).find_next('b').text
-    pangrams = [x.strip() for x in pangrams_str.lower().split(',')]
+    grid = soup.find("table", attrs={"class": ["bee", "bee-grid"]})
+    pangrams_str = grid.find_next("b").text
+    pangrams = [x.strip() for x in pangrams_str.lower().split(",")]
 
     puzzle = Puzzle(
         date=date,
