@@ -73,7 +73,7 @@ def parse_game_data(soup):
     answers = [x.text for x in answers_tds]
     answers = sorted([x.lower() for x in answers])
 
-    # todo: implement pangram parsing
+    # fixme: implement pangram parsing
     # example with multiple pangrams - https://www.sbsolver.com/s/2
     pangrams = []
 

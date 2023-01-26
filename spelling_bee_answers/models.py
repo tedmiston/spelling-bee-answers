@@ -22,10 +22,19 @@ class Puzzle(BaseModel):
 
 
 def load_puzzle_from_json(filepath):
+    """
+    The data shape is different for puzzles from the NYTimes (verified) vs backfill data
+    aggregated from third party sources (non-verified).
+    """
     with open(filepath) as fp:
         obj = json.load(fp)
         # print(obj)
-        p = Puzzle(
+        # breakpoint()
+
+    verified = obj.get("verified")
+    if obj.get("verified") is None:
+        # puzzle data from nytimes does not have this field in json representation
+        puzzle = Puzzle(
             date=obj["printDate"],
             center_letter=obj["centerLetter"],
             outer_letters=obj["outerLetters"],
@@ -35,8 +44,23 @@ def load_puzzle_from_json(filepath):
             editor=obj["editor"],
             verified=True,
         )
-        # print(p)
-    return p
+    elif obj["verified"] is False:
+        puzzle = Puzzle(
+            date=obj["date"],
+            center_letter=obj["center_letter"],
+            outer_letters=obj["outer_letters"],
+            points=obj["points"],
+            answers=obj["answers"],
+            pangrams=obj["pangrams"],
+            editor=obj["editor"],
+            verified=obj["verified"],
+        )
+        # print(puzzle)
+        # breakpoint()
+    else:
+        raise Exception("Invalid value for verified")
+
+    return puzzle
 
 
 def main():  # pragma: no cover
