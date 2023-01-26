@@ -13,6 +13,7 @@ import requests
 from bs4 import BeautifulSoup
 from rich import print
 
+from .interfaces import SpellingBeeScraperInterface
 from .settings import settings
 
 logging.basicConfig(
@@ -20,74 +21,84 @@ logging.basicConfig(
 )
 
 
-def fetch_page():
-    logging.info("Fetching puzzle")
+class NYTimesScraper(SpellingBeeScraperInterface):
+    """
+    NYTimes Spelling Bee scraper.
+    """
 
     url = "https://www.nytimes.com/puzzles/spelling-bee"
-    response = requests.get(url)
 
-    if not response.ok:
-        raise Exception("HTTP response code was not successful")
+    def fetch_page(self, url=None):
+        logging.info("Fetching puzzle")
 
-    return response
+        if url is None:
+            url = self.url
 
+        response = requests.get(url)
+        if not response.ok:
+            raise Exception("HTTP response code was not successful")
 
-def extract_game_data(response):
-    logging.info("Extracting game data")
+        return response
 
-    soup = BeautifulSoup(response.content, "html.parser")
-    game_data_script = soup.find("script", string=re.compile("^window.gameData.*"))
+    def extract_game_data(self, response):
+        logging.info("Extracting game data")
 
-    if not game_data_script:
-        raise Exception("Game data script was not found")
+        soup = BeautifulSoup(response.content, "html.parser")
+        game_data_script = soup.find("script", string=re.compile("^window.gameData.*"))
 
-    return game_data_script
+        if not game_data_script:
+            raise Exception("Game data script was not found")
 
+        return game_data_script
 
-def parse_game_data(game_data_script):
-    logging.info("Parsing game data")
+    def parse_game_data(self, game_data_script):
+        logging.info("Parsing game data")
 
-    yesterday_start_index = game_data_script.text.find('"yesterday"')
-    yesterday_script_text = game_data_script.text[yesterday_start_index:]
-    yesterday_end_index = yesterday_script_text.find("}") + 1
-    yesterday_script_text = yesterday_script_text[:yesterday_end_index]
+        yesterday_start_index = game_data_script.text.find('"yesterday"')
+        yesterday_script_text = game_data_script.text[yesterday_start_index:]
+        yesterday_end_index = yesterday_script_text.find("}") + 1
+        yesterday_script_text = yesterday_script_text[:yesterday_end_index]
 
-    if yesterday_start_index < 0 or yesterday_end_index < 0:
-        raise Exception("Yesterday game data could not be parsed")
+        if yesterday_start_index < 0 or yesterday_end_index < 0:
+            raise Exception("Yesterday game data could not be parsed")
 
-    try:
-        yesterday_dict = json.loads("{" + yesterday_script_text + "}")
-    except json.decoder.JSONDecodeError:
-        raise Exception("JSON decoding of yesterday game data failed")
+        try:
+            yesterday_dict = json.loads("{" + yesterday_script_text + "}")
+        except json.decoder.JSONDecodeError:
+            raise Exception("JSON decoding of yesterday game data failed")
 
-    if settings.display_puzzle_output:
-        print(yesterday_dict["yesterday"])
+        if settings.display_puzzle_output:
+            print(yesterday_dict["yesterday"])
 
-    return yesterday_dict["yesterday"]
+        return yesterday_dict["yesterday"]
 
+    def output_game_data(self, puzzle_dict):
+        logging.info("Writing game data")
 
-def output_game_data(puzzle_dict):
-    logging.info("Writing game data")
+        # todo: use Puzzle model here?
+        output = json.dumps(puzzle_dict, indent=2)
+        puzzle_date = puzzle_dict["printDate"]
 
-    output = json.dumps(puzzle_dict, indent=2)
-    puzzle_date = puzzle_dict["printDate"]
+        path = Path(f"{settings.repo_root}/days/{puzzle_date}.json")
+        if path.exists():
+            logging.warn(f"Not overwriting existing file: `{path}`")
+        else:
+            logging.info(f"Creating new file: `{path}`")
+            with open(path, "w") as fp:
+                fp.write(output + "\n")
 
-    path = Path(f"{settings.repo_root}/days/{puzzle_date}.json")
-    if path.exists():
-        logging.warn(f"Not overwriting existing file: `{path}`")
-    else:
-        logging.info(f"Creating new file: `{path}`")
-        with open(path, "w") as fp:
-            fp.write(output + "\n")
+        logging.info("Done")
 
-    logging.info("Done")
+    def run(self):
+        response = self.fetch_page()
+        soup = self.extract_game_data(response)
+        puzzle = self.parse_game_data(soup)
+        self.output_game_data(puzzle)
 
 
 def main():  # pragma: no cover
-    response = fetch_page()
-    game_data_script = extract_game_data(response)
-    puzzle_dict = parse_game_data(game_data_script)
-    output_game_data(puzzle_dict)
+    nyts = NYTimesScraper()
+    nyts.run()
 
 
 if __name__ == "__main__":

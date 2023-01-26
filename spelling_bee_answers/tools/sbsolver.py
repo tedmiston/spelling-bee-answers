@@ -15,6 +15,7 @@ import requests
 from bs4 import BeautifulSoup
 from rich import print
 
+from ..interfaces import SpellingBeeScraperInterface
 from ..models import Puzzle
 from ..settings import settings
 
@@ -23,103 +24,114 @@ logging.basicConfig(
 )
 
 
-def fetch_page(puzzle_id):
-    logging.info("Fetching puzzle")
+class SBSolverScraper(SpellingBeeScraperInterface):
+    """
+    SBSolver Spelling Bee Archive scraper.
+    """
 
-    # this puzzle id in the url *does not* correspond to the nytimes puzzle id
-    url = f"https://www.sbsolver.com/s/{puzzle_id}"
-    response = requests.get(url)
+    def _build_url(self, puzzle_id):
+        # this puzzle id in the url *does not* correspond to the nytimes puzzle id
+        url = f"https://www.sbsolver.com/s/{puzzle_id}"
+        return url
 
-    if not response.ok:
-        raise Exception("HTTP response code was not successful")
+    def fetch_page(self, url):
+        logging.info("Fetching puzzle")
 
-    return response
+        response = requests.get(url)
+        if not response.ok:
+            raise Exception("HTTP response code was not successful")
 
+        return response
 
-def extract_game_data(response):
-    logging.info("Extracting game data")
+    def extract_game_data(self, response):
+        logging.info("Extracting game data")
 
-    soup = BeautifulSoup(response.content, "html.parser")
-    return soup
+        soup = BeautifulSoup(response.content, "html.parser")
+        return soup
 
+    def parse_game_data(self, soup):
+        date = soup.find("span", attrs={"class": "bee-date"}).find("a").text
+        date = pendulum.parse(
+            date, strict=False
+        ).date()  # non-strict enables dateutil parser
 
-def parse_game_data(soup):
-    date = soup.find("span", attrs={"class": "bee-date"}).find("a").text
-    date = pendulum.parse(
-        date, strict=False
-    ).date()  # non-strict enables dateutil parser
+        all_letters = [
+            x["alt"]
+            for x in soup.find("div", attrs={"id": "alpha-inner"})
+            .find("div", attrs={"class": "bee-medium"})
+            .find("div", attrs={"class": "thinner-space-after"})
+            .find_all("img")
+        ]
 
-    all_letters = [
-        x["alt"]
-        for x in soup.find("div", attrs={"id": "alpha-inner"})
-        .find("div", attrs={"class": "bee-medium"})
-        .find("div", attrs={"class": "thinner-space-after"})
-        .find_all("img")
-    ]
+        # extract center letter and outer letters
+        center_letter = None
+        outer_letters = []
+        for i in all_letters:
+            if i.startswith("center letter"):
+                center_letter = i.rsplit(" ")[-1].lower()
+            else:
+                outer_letters.append(i.lower())
 
-    # extract center letter and outer letters
-    center_letter = None
-    outer_letters = []
-    for i in all_letters:
-        if i.startswith("center letter"):
-            center_letter = i.rsplit(" ")[-1].lower()
+        points_span = soup.find_all("span", attrs={"class": "bee-loud"})[-1]
+        points = int(points_span.text.split(" ")[0])
+
+        answers_table = soup.find("table", attrs={"class": "bee-set"})
+        answers_tds = answers_table.find_all("td", attrs={"class": "bee-hover"})
+        answers = [x.text for x in answers_tds]
+        answers = sorted([x.lower() for x in answers])
+
+        # example with one pangrams - https://www.sbsolver.com/s/1
+        # example with multiple pangrams - https://www.sbsolver.com/s/2
+        grid = soup.find("table", attrs={"class": ["bee", "bee-grid"]})
+        pangrams_str = grid.find_next("b").text
+        pangrams = [x.strip() for x in pangrams_str.lower().split(",")]
+
+        puzzle = Puzzle(
+            date=date,
+            center_letter=center_letter,
+            outer_letters=outer_letters,
+            points=points,
+            answers=answers,
+            pangrams=pangrams,
+            editor=None,  # in this context null means unknown
+            verified=False,
+        )
+        return puzzle
+
+    def output_game_data(self, puzzle):
+        logging.info("Writing game data")
+
+        output = puzzle.json()
+
+        # pretty print json output (not supported by the pydantic json encoder)
+        output = json.dumps(json.loads(output), indent=2)
+
+        path = Path(f"{settings.repo_root}/days/{puzzle.date}.json")
+        if path.exists():
+            logging.warn(f"Not overwriting existing file: `{path}`")
         else:
-            outer_letters.append(i.lower())
+            logging.info(f"Creating new file: `{path}`")
+            with open(path, "w") as fp:
+                fp.write(output + "\n")
 
-    points_span = soup.find_all("span", attrs={"class": "bee-loud"})[-1]
-    points = int(points_span.text.split(" ")[0])
+        logging.info("Done")
 
-    answers_table = soup.find("table", attrs={"class": "bee-set"})
-    answers_tds = answers_table.find_all("td", attrs={"class": "bee-hover"})
-    answers = [x.text for x in answers_tds]
-    answers = sorted([x.lower() for x in answers])
+    def run(self):
+        # puzzle_id = 1  # 1...1721
+        # puzzle_id = 2
+        puzzle_id = 1721
 
-    # example with one pangrams - https://www.sbsolver.com/s/1
-    # example with multiple pangrams - https://www.sbsolver.com/s/2
-    pangrams_str = soup.find('table', attrs={'class': ['bee', 'bee-grid']}).find_next('b').text
-    pangrams = [x.strip() for x in pangrams_str.lower().split(',')]
-
-    puzzle = Puzzle(
-        date=date,
-        center_letter=center_letter,
-        outer_letters=outer_letters,
-        points=points,
-        answers=answers,
-        pangrams=pangrams,
-        editor=None,  # in this context null means unknown
-        verified=False,
-    )
-    return puzzle
-
-
-def output_game_data(puzzle):
-    logging.info("Writing game data")
-
-    output = puzzle.json()
-
-    # pretty print json output (not supported by the pydantic json encoder)
-    output = json.dumps(json.loads(output), indent=2)
-
-    path = Path(f"{settings.repo_root}/days/{puzzle.date}.json")
-    if path.exists():
-        logging.warn(f"Not overwriting existing file: `{path}`")
-    else:
-        logging.info(f"Creating new file: `{path}`")
-        with open(path, "w") as fp:
-            fp.write(output + "\n")
-
-    logging.info("Done")
+        url = self._build_url(puzzle_id=puzzle_id)
+        response = self.fetch_page(url=url)
+        soup = self.extract_game_data(response=response)
+        puzzle = self.parse_game_data(soup=soup)
+        print(puzzle)
+        self.output_game_data(puzzle=puzzle)
 
 
 def main():  # pragma: no cover
-    # puzzle_id = 1  # 1...1721
-    # puzzle_id = 2
-    puzzle_id = 1721
-    response = fetch_page(puzzle_id=puzzle_id)
-    soup = extract_game_data(response)
-    puzzle = parse_game_data(soup)
-    print(puzzle)
-    output_game_data(puzzle)
+    sbss = SBSolverScraper()
+    sbss.run()
 
 
 if __name__ == "__main__":
