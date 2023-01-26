@@ -6,13 +6,14 @@
 
 <!-- generated table start -->
 
-32 pangrams
+33 pangrams
 
 | Word            |   Count | Definition                                |
 |-----------------|---------|-------------------------------------------|
 | **allowance**   |       1 | https://www.wordnik.com/words/allowance   |
 | **arachnid**    |       1 | https://www.wordnik.com/words/arachnid    |
 | **axiomatic**   |       1 | https://www.wordnik.com/words/axiomatic   |
+| **brought**     |       1 | https://www.wordnik.com/words/brought     |
 | **cardigan**    |       1 | https://www.wordnik.com/words/cardigan    |
 | **carding**     |       1 | https://www.wordnik.com/words/carding     |
 | **engulfing**   |       1 | https://www.wordnik.com/words/engulfing   |
