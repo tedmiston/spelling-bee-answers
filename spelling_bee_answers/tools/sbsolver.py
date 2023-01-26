@@ -8,6 +8,7 @@ Example:
 
 import json
 import logging
+from pathlib import Path
 
 import pendulum
 import requests
@@ -99,16 +100,21 @@ def output_game_data(puzzle):
     # pretty print json output (not supported by the pydantic json encoder)
     output = json.dumps(json.loads(output), indent=2)
 
-    with open(f"{settings.repo_root}/days/{puzzle.date}.json", "w") as fp:
-        fp.write(output + "\n")
+    path = Path(f"{settings.repo_root}/days/{puzzle.date}.json")
+    if path.exists():
+        logging.warn(f"Not overwriting existing file: `{path}`")
+    else:
+        logging.info(f"Creating new file: `{path}`")
+        with open(path, "w") as fp:
+            fp.write(output + "\n")
 
     logging.info("Done")
 
 
 def main():  # pragma: no cover
     # puzzle_id = 1  # 1...1721
-    puzzle_id = 2
-    # puzzle_id = 1721
+    # puzzle_id = 2
+    puzzle_id = 1721
     response = fetch_page(puzzle_id=puzzle_id)
     soup = extract_game_data(response)
     puzzle = parse_game_data(soup)

@@ -7,6 +7,7 @@ Fetch the Yesterday's Answers to the NYTimes Spelling Bee puzzle each day for ar
 import json
 import logging
 import re
+from pathlib import Path
 
 import requests
 from bs4 import BeautifulSoup
@@ -70,8 +71,14 @@ def output_game_data(puzzle_dict):
 
     output = json.dumps(puzzle_dict, indent=2)
     puzzle_date = puzzle_dict["printDate"]
-    with open(f"{settings.repo_root}/days/{puzzle_date}.json", "w") as fp:
-        fp.write(output + "\n")
+
+    path = Path(f"{settings.repo_root}/days/{puzzle_date}.json")
+    if path.exists():
+        logging.warn(f"Not overwriting existing file: `{path}`")
+    else:
+        logging.info(f"Creating new file: `{path}`")
+        with open(path, "w") as fp:
+            fp.write(output + "\n")
 
     logging.info("Done")
 
