@@ -73,9 +73,10 @@ def parse_game_data(soup):
     answers = [x.text for x in answers_tds]
     answers = sorted([x.lower() for x in answers])
 
-    # fixme: implement pangram parsing
+    # example with one pangrams - https://www.sbsolver.com/s/1
     # example with multiple pangrams - https://www.sbsolver.com/s/2
-    pangrams = []
+    pangrams_str = soup.find('table', attrs={'class': ['bee', 'bee-grid']}).find_next('b').text
+    pangrams = [x.strip() for x in pangrams_str.lower().split(',')]
 
     puzzle = Puzzle(
         date=date,
@@ -105,7 +106,10 @@ def output_game_data(puzzle):
 
 
 def main():  # pragma: no cover
-    response = fetch_page(puzzle_id=1)  # 1...1721
+    # puzzle_id = 1  # 1...1721
+    puzzle_id = 2
+    # puzzle_id = 1721
+    response = fetch_page(puzzle_id=puzzle_id)
     soup = extract_game_data(response)
     puzzle = parse_game_data(soup)
     print(puzzle)
