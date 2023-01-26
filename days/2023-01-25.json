@@ -1,0 +1,60 @@
+{
+  "expiration": 1674720000,
+  "displayWeekday": "Wednesday",
+  "displayDate": "January 25, 2023",
+  "printDate": "2023-01-25",
+  "centerLetter": "g",
+  "outerLetters": [
+    "b",
+    "h",
+    "o",
+    "r",
+    "t",
+    "u"
+  ],
+  "validLetters": [
+    "g",
+    "b",
+    "h",
+    "o",
+    "r",
+    "t",
+    "u"
+  ],
+  "pangrams": [
+    "brought"
+  ],
+  "answers": [
+    "brought",
+    "borough",
+    "bough",
+    "bought",
+    "bourg",
+    "burg",
+    "burgh",
+    "burgoo",
+    "goth",
+    "gout",
+    "grog",
+    "grotto",
+    "grout",
+    "grub",
+    "guru",
+    "ought",
+    "outgo",
+    "outthought",
+    "rotgut",
+    "rough",
+    "thorough",
+    "though",
+    "thought",
+    "through",
+    "throughout",
+    "thug",
+    "tough",
+    "trough"
+  ],
+  "id": 12306,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
