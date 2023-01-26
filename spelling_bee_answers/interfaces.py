@@ -4,8 +4,6 @@ Interfaces.
 
 import abc
 
-from rich import print
-
 
 class SpellingBeeScraperInterface(metaclass=abc.ABCMeta):
     """
