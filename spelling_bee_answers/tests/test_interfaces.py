@@ -11,16 +11,16 @@ def test_SpellingBeeScraperInterface():
         A trivial implementation of the SpellingBeeScraperInterface.
         """
 
-        def fetch_page(url):
+        def fetch_page(self, url):
             pass
 
-        def extract_game_data(response):
+        def extract_game_data(self, response):
             pass
 
-        def parse_game_data(soup):
+        def parse_game_data(self, soup):
             pass
 
-        def output_game_data(puzzle):
+        def output_game_data(self, puzzle):
             pass
 
         def run(self):
