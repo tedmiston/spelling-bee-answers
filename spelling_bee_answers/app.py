@@ -25,14 +25,14 @@ def fetch_page():
     url = "https://www.nytimes.com/puzzles/spelling-bee"
     response = requests.get(url)
 
+    if not response.ok:
+        raise Exception("HTTP response code was not successful")
+
     return response
 
 
 def extract_game_data(response):
     logging.info("Extracting game data")
-
-    if not response.ok:
-        raise Exception("HTTP response code was not successful")
 
     soup = BeautifulSoup(response.content, "html.parser")
     game_data_script = soup.find("script", string=re.compile("^window.gameData.*"))
