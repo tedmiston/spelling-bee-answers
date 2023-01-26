@@ -28,8 +28,6 @@ def load_puzzle_from_json(filepath):
     """
     with open(filepath) as fp:
         obj = json.load(fp)
-        # print(obj)
-        # breakpoint()
 
     verified = obj.get("verified")
     if obj.get("verified") is None:
@@ -45,6 +43,7 @@ def load_puzzle_from_json(filepath):
             verified=True,
         )
     elif obj["verified"] is False:
+        # puzzle data from sbsolver does have this field in json representation
         puzzle = Puzzle(
             date=obj["date"],
             center_letter=obj["center_letter"],
@@ -55,8 +54,6 @@ def load_puzzle_from_json(filepath):
             editor=obj["editor"],
             verified=obj["verified"],
         )
-        # print(puzzle)
-        # breakpoint()
     else:
         raise Exception("Invalid value for verified")
 
