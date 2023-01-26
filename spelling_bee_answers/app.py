@@ -7,10 +7,10 @@ Fetch the Yesterday's Answers to the NYTimes Spelling Bee puzzle each day for ar
 import json
 import logging
 import re
-from pprint import pprint
 
 import requests
 from bs4 import BeautifulSoup
+from rich import print
 
 from .settings import settings
 
@@ -60,7 +60,7 @@ def parse_game_data(game_data_script):
         raise Exception("JSON decoding of yesterday game data failed")
 
     if settings.display_puzzle_output:
-        pprint(yesterday_dict["yesterday"], sort_dicts=False)
+        print(yesterday_dict["yesterday"], sort_dicts=False)
 
     return yesterday_dict["yesterday"]
 
