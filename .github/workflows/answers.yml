@@ -47,7 +47,7 @@ jobs:
         env:
           display_puzzle_output: true
         run: |
-          poetry run python -m spelling_bee_answers.app
+          poetry run python -m spelling_bee_answers.scrapers.nyt
 
       - name: Git commit answers
         uses: endbug/add-and-commit@v9.1.1
