@@ -1,6 +1,6 @@
 .PHONY: run
 run:
-	python -m spelling_bee_answers.app
+	python -m spelling_bee_answers.scrapers.nyt
 
 .PHONY: gen-days
 gen-days:
