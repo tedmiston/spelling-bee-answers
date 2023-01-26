@@ -13,8 +13,8 @@ import requests
 from bs4 import BeautifulSoup
 from rich import print
 
-from .interfaces import SpellingBeeScraperInterface
-from .settings import settings
+from ..interfaces import SpellingBeeScraperInterface
+from ..settings import settings
 
 logging.basicConfig(
     level=logging.INFO,
