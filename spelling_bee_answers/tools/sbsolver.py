@@ -25,6 +25,10 @@ logging.basicConfig(
 
 
 class SBSolverScraper(SpellingBeeScraperInterface):
+    """
+    SBSolver Spelling Bee Archive scraper.
+    """
+
     def _build_url(self, puzzle_id):
         # this puzzle id in the url *does not* correspond to the nytimes puzzle id
         url = f"https://www.sbsolver.com/s/{puzzle_id}"
@@ -34,7 +38,6 @@ class SBSolverScraper(SpellingBeeScraperInterface):
         logging.info("Fetching puzzle")
 
         response = requests.get(url)
-
         if not response.ok:
             raise Exception("HTTP response code was not successful")
 
