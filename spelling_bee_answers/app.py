@@ -65,7 +65,7 @@ def parse_game_data(game_data_script):
     return yesterday_dict["yesterday"]
 
 
-def output_game_answers_data(puzzle_dict):
+def output_game_data(puzzle_dict):
     logging.info("Writing game data")
 
     output = json.dumps(puzzle_dict, indent=2)
@@ -80,7 +80,7 @@ def main():  # pragma: no cover
     response = fetch_page()
     game_data_script = extract_game_data(response)
     puzzle_dict = parse_game_data(game_data_script)
-    output_game_answers_data(puzzle_dict)
+    output_game_data(puzzle_dict)
 
 
 if __name__ == "__main__":
