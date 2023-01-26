@@ -11,6 +11,10 @@ from rich import print
 
 
 class Puzzle(BaseModel):
+    """
+    A Spelling Bee daily puzzle.
+    """
+
     date: date
     center_letter: str
     outer_letters: List[str]
