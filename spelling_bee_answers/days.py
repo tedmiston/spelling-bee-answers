@@ -47,7 +47,7 @@ def generate_table():
     return markdown
 
 
-def update_readme(markdown):
+def update_readme(markdown, filename="README.md"):
     logging.info("Updating readme")
 
     tag_start, tag_end = (
@@ -55,7 +55,7 @@ def update_readme(markdown):
         "<!-- generated table end -->",
     )
 
-    with open(f"{settings.repo_root}/README.md", "r+") as fp:
+    with open(f"{settings.repo_root}/{filename}", "r+") as fp:
         doc = fp.read()
         tag_start_idx, tag_end_idx = doc.find(tag_start), doc.find(tag_end)
         after_tag_start_idx = tag_start_idx + len(tag_start)
