@@ -60,7 +60,7 @@ def parse_game_data(game_data_script):
         raise Exception("JSON decoding of yesterday game data failed")
 
     if settings.display_puzzle_output:
-        print(yesterday_dict["yesterday"], sort_dicts=False)
+        print(yesterday_dict["yesterday"])
 
     return yesterday_dict["yesterday"]
 
