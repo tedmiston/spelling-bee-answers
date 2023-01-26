@@ -21,7 +21,7 @@ def _load_all_puzzles():
     return puzzles
 
 
-def _load_all_puzzles_by_key(key):
+def load_all_puzzles_by_key(key):
     puzzles = _load_all_puzzles()
 
     values = [getattr(x, key) for x in puzzles]
@@ -30,14 +30,6 @@ def _load_all_puzzles_by_key(key):
         values_flattened.extend(i)
 
     return values_flattened
-
-
-def load_all_answers():
-    return _load_all_puzzles_by_key(key="answers")
-
-
-def load_all_pangrams():
-    return _load_all_puzzles_by_key(key="pangrams")
 
 
 def determine_counts(words):
@@ -83,7 +75,7 @@ def update_doc(filename, tag, table, word_count, label):
 
 def main():  # pragma: no cover
     # all words and multi-count words lists
-    answers = load_all_answers()
+    answers = load_all_puzzles_by_key(key="answers")
     all_answers_counts = determine_counts(answers)
     update_doc(
         filename="Words.md",
@@ -101,7 +93,7 @@ def main():  # pragma: no cover
     )
 
     # pangrams list
-    pangrams = load_all_pangrams()
+    pangrams = load_all_puzzles_by_key(key="pangrams")
     pangrams_counts = determine_counts(pangrams)
     update_doc(
         filename="Pangrams.md",
