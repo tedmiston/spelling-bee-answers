@@ -8,7 +8,7 @@ Words that have occurred more than once.
 
 <!-- generated multi table start -->
 
-98 words
+113 words
 
 | Word          |   Count | Definition                              |
 |---------------|---------|-----------------------------------------|
@@ -23,11 +23,14 @@ Words that have occurred more than once.
 | **aloe**      |       2 | https://www.wordnik.com/words/aloe      |
 | **annual**    |       2 | https://www.wordnik.com/words/annual    |
 | **annul**     |       2 | https://www.wordnik.com/words/annul     |
+| **anon**      |       2 | https://www.wordnik.com/words/anon      |
+| **anti**      |       2 | https://www.wordnik.com/words/anti      |
 | **arcadia**   |       2 | https://www.wordnik.com/words/arcadia   |
 | **arcadian**  |       2 | https://www.wordnik.com/words/arcadian  |
 | **aria**      |       2 | https://www.wordnik.com/words/aria      |
 | **arid**      |       2 | https://www.wordnik.com/words/arid      |
 | **atilt**     |       2 | https://www.wordnik.com/words/atilt     |
+| **attain**    |       2 | https://www.wordnik.com/words/attain    |
 | **aura**      |       2 | https://www.wordnik.com/words/aura      |
 | **baba**      |       2 | https://www.wordnik.com/words/baba      |
 | **bail**      |       2 | https://www.wordnik.com/words/bail      |
@@ -82,11 +85,16 @@ Words that have occurred more than once.
 | **mini**      |       2 | https://www.wordnik.com/words/mini      |
 | **minim**     |       2 | https://www.wordnik.com/words/minim     |
 | **mitt**      |       2 | https://www.wordnik.com/words/mitt      |
+| **naan**      |       2 | https://www.wordnik.com/words/naan      |
 | **nadir**     |       2 | https://www.wordnik.com/words/nadir     |
+| **nana**      |       2 | https://www.wordnik.com/words/nana      |
+| **natant**    |       2 | https://www.wordnik.com/words/natant    |
 | **nice**      |       2 | https://www.wordnik.com/words/nice      |
 | **niece**     |       2 | https://www.wordnik.com/words/niece     |
+| **noon**      |       2 | https://www.wordnik.com/words/noon      |
 | **null**      |       2 | https://www.wordnik.com/words/null      |
 | **oleo**      |       2 | https://www.wordnik.com/words/oleo      |
+| **onto**      |       2 | https://www.wordnik.com/words/onto      |
 | **pogo**      |       2 | https://www.wordnik.com/words/pogo      |
 | **poop**      |       2 | https://www.wordnik.com/words/poop      |
 | **poppa**     |       2 | https://www.wordnik.com/words/poppa     |
@@ -94,18 +102,25 @@ Words that have occurred more than once.
 | **radian**    |       2 | https://www.wordnik.com/words/radian    |
 | **radii**     |       2 | https://www.wordnik.com/words/radii     |
 | **raid**      |       2 | https://www.wordnik.com/words/raid      |
+| **rain**      |       2 | https://www.wordnik.com/words/rain      |
 | **rancid**    |       2 | https://www.wordnik.com/words/rancid    |
 | **rand**      |       2 | https://www.wordnik.com/words/rand      |
+| **rani**      |       2 | https://www.wordnik.com/words/rani      |
 | **rind**      |       2 | https://www.wordnik.com/words/rind      |
 | **tail**      |       2 | https://www.wordnik.com/words/tail      |
+| **taint**     |       2 | https://www.wordnik.com/words/taint     |
 | **tali**      |       2 | https://www.wordnik.com/words/tali      |
 | **tallit**    |       2 | https://www.wordnik.com/words/tallit    |
+| **tannin**    |       2 | https://www.wordnik.com/words/tannin    |
 | **taut**      |       2 | https://www.wordnik.com/words/taut      |
 | **tibia**     |       3 | https://www.wordnik.com/words/tibia     |
 | **tibial**    |       2 | https://www.wordnik.com/words/tibial    |
 | **till**      |       2 | https://www.wordnik.com/words/till      |
 | **tilt**      |       2 | https://www.wordnik.com/words/tilt      |
 | **tinct**     |       2 | https://www.wordnik.com/words/tinct     |
+| **tint**      |       2 | https://www.wordnik.com/words/tint      |
+| **titan**     |       2 | https://www.wordnik.com/words/titan     |
+| **toon**      |       2 | https://www.wordnik.com/words/toon      |
 | **ulna**      |       2 | https://www.wordnik.com/words/ulna      |
 | **vein**      |       2 | https://www.wordnik.com/words/vein      |
 | **vine**      |       2 | https://www.wordnik.com/words/vine      |
@@ -119,7 +134,7 @@ Every word that's occurred so far.
 
 <!-- generated all table start -->
 
-917 words
+964 words
 
 | Word             |   Count | Definition                                 |
 |------------------|---------|--------------------------------------------|
@@ -161,13 +176,17 @@ Every word that's occurred so far.
 | **anarchic**     |       1 | https://www.wordnik.com/words/anarchic     |
 | **ancient**      |       1 | https://www.wordnik.com/words/ancient      |
 | **anew**         |       1 | https://www.wordnik.com/words/anew         |
+| **anion**        |       1 | https://www.wordnik.com/words/anion        |
 | **annal**        |       1 | https://www.wordnik.com/words/annal        |
 | **anneal**       |       1 | https://www.wordnik.com/words/anneal       |
+| **annotation**   |       1 | https://www.wordnik.com/words/annotation   |
+| **annotator**    |       1 | https://www.wordnik.com/words/annotator    |
 | **annoy**        |       1 | https://www.wordnik.com/words/annoy        |
 | **annual**       |       2 | https://www.wordnik.com/words/annual       |
 | **annul**        |       2 | https://www.wordnik.com/words/annul        |
-| **anon**         |       1 | https://www.wordnik.com/words/anon         |
-| **anti**         |       1 | https://www.wordnik.com/words/anti         |
+| **anoint**       |       1 | https://www.wordnik.com/words/anoint       |
+| **anon**         |       2 | https://www.wordnik.com/words/anon         |
+| **anti**         |       2 | https://www.wordnik.com/words/anti         |
 | **antic**        |       1 | https://www.wordnik.com/words/antic        |
 | **aorta**        |       1 | https://www.wordnik.com/words/aorta        |
 | **apogee**       |       1 | https://www.wordnik.com/words/apogee       |
@@ -182,6 +201,7 @@ Every word that's occurred so far.
 | **aria**         |       2 | https://www.wordnik.com/words/aria         |
 | **arid**         |       2 | https://www.wordnik.com/words/arid         |
 | **arnica**       |       1 | https://www.wordnik.com/words/arnica       |
+| **arrant**       |       1 | https://www.wordnik.com/words/arrant       |
 | **array**        |       1 | https://www.wordnik.com/words/array        |
 | **arty**         |       1 | https://www.wordnik.com/words/arty         |
 | **arum**         |       1 | https://www.wordnik.com/words/arum         |
@@ -193,10 +213,11 @@ Every word that's occurred so far.
 | **atop**         |       1 | https://www.wordnik.com/words/atop         |
 | **atria**        |       1 | https://www.wordnik.com/words/atria        |
 | **attack**       |       1 | https://www.wordnik.com/words/attack       |
-| **attain**       |       1 | https://www.wordnik.com/words/attain       |
+| **attain**       |       2 | https://www.wordnik.com/words/attain       |
 | **attar**        |       1 | https://www.wordnik.com/words/attar        |
 | **attenuate**    |       1 | https://www.wordnik.com/words/attenuate    |
 | **attic**        |       1 | https://www.wordnik.com/words/attic        |
+| **attrition**    |       1 | https://www.wordnik.com/words/attrition    |
 | **attune**       |       1 | https://www.wordnik.com/words/attune       |
 | **aunt**         |       1 | https://www.wordnik.com/words/aunt         |
 | **aura**         |       2 | https://www.wordnik.com/words/aura         |
@@ -596,10 +617,15 @@ Every word that's occurred so far.
 | **infill**       |       1 | https://www.wordnik.com/words/infill       |
 | **infilling**    |       1 | https://www.wordnik.com/words/infilling    |
 | **initiate**     |       1 | https://www.wordnik.com/words/initiate     |
+| **initiation**   |       1 | https://www.wordnik.com/words/initiation   |
+| **initiator**    |       1 | https://www.wordnik.com/words/initiator    |
 | **innate**       |       1 | https://www.wordnik.com/words/innate       |
 | **innie**        |       1 | https://www.wordnik.com/words/innie        |
 | **intact**       |       1 | https://www.wordnik.com/words/intact       |
 | **intent**       |       1 | https://www.wordnik.com/words/intent       |
+| **into**         |       1 | https://www.wordnik.com/words/into         |
+| **intonation**   |       1 | https://www.wordnik.com/words/intonation   |
+| **intro**        |       1 | https://www.wordnik.com/words/intro        |
 | **invective**    |       1 | https://www.wordnik.com/words/invective    |
 | **invent**       |       1 | https://www.wordnik.com/words/invent       |
 | **invention**    |       1 | https://www.wordnik.com/words/invention    |
@@ -607,9 +633,17 @@ Every word that's occurred so far.
 | **invite**       |       1 | https://www.wordnik.com/words/invite       |
 | **invitee**      |       1 | https://www.wordnik.com/words/invitee      |
 | **involve**      |       1 | https://www.wordnik.com/words/involve      |
+| **iron**         |       1 | https://www.wordnik.com/words/iron         |
+| **irritant**     |       1 | https://www.wordnik.com/words/irritant     |
+| **irritation**   |       1 | https://www.wordnik.com/words/irritation   |
 | **item**         |       1 | https://www.wordnik.com/words/item         |
 | **itty**         |       3 | https://www.wordnik.com/words/itty         |
 | **jail**         |       1 | https://www.wordnik.com/words/jail         |
+| **janitor**      |       1 | https://www.wordnik.com/words/janitor      |
+| **jinn**         |       1 | https://www.wordnik.com/words/jinn         |
+| **jinni**        |       1 | https://www.wordnik.com/words/jinni        |
+| **join**         |       1 | https://www.wordnik.com/words/join         |
+| **joint**        |       1 | https://www.wordnik.com/words/joint        |
 | **judicial**     |       1 | https://www.wordnik.com/words/judicial     |
 | **kabob**        |       1 | https://www.wordnik.com/words/kabob        |
 | **kook**         |       1 | https://www.wordnik.com/words/kook         |
@@ -755,18 +789,21 @@ Every word that's occurred so far.
 | **mural**        |       1 | https://www.wordnik.com/words/mural        |
 | **murmur**       |       1 | https://www.wordnik.com/words/murmur       |
 | **muumuu**       |       1 | https://www.wordnik.com/words/muumuu       |
-| **naan**         |       1 | https://www.wordnik.com/words/naan         |
+| **naan**         |       2 | https://www.wordnik.com/words/naan         |
 | **nabob**        |       1 | https://www.wordnik.com/words/nabob        |
 | **nada**         |       1 | https://www.wordnik.com/words/nada         |
 | **nadir**        |       2 | https://www.wordnik.com/words/nadir        |
 | **naiad**        |       1 | https://www.wordnik.com/words/naiad        |
 | **naive**        |       1 | https://www.wordnik.com/words/naive        |
-| **nana**         |       1 | https://www.wordnik.com/words/nana         |
+| **nana**         |       2 | https://www.wordnik.com/words/nana         |
 | **nanny**        |       1 | https://www.wordnik.com/words/nanny        |
 | **nanobot**      |       1 | https://www.wordnik.com/words/nanobot      |
 | **narc**         |       1 | https://www.wordnik.com/words/narc         |
+| **narration**    |       1 | https://www.wordnik.com/words/narration    |
+| **narrator**     |       1 | https://www.wordnik.com/words/narrator     |
 | **natal**        |       1 | https://www.wordnik.com/words/natal        |
-| **natant**       |       1 | https://www.wordnik.com/words/natant       |
+| **natant**       |       2 | https://www.wordnik.com/words/natant       |
+| **nation**       |       1 | https://www.wordnik.com/words/nation       |
 | **natty**        |       1 | https://www.wordnik.com/words/natty        |
 | **nave**         |       1 | https://www.wordnik.com/words/nave         |
 | **nene**         |       1 | https://www.wordnik.com/words/nene         |
@@ -780,17 +817,25 @@ Every word that's occurred so far.
 | **nine**         |       1 | https://www.wordnik.com/words/nine         |
 | **nineteen**     |       1 | https://www.wordnik.com/words/nineteen     |
 | **ninety**       |       1 | https://www.wordnik.com/words/ninety       |
+| **ninja**        |       1 | https://www.wordnik.com/words/ninja        |
 | **ninny**        |       1 | https://www.wordnik.com/words/ninny        |
 | **nite**         |       1 | https://www.wordnik.com/words/nite         |
+| **nitro**        |       1 | https://www.wordnik.com/words/nitro        |
 | **nobly**        |       1 | https://www.wordnik.com/words/nobly        |
 | **noel**         |       1 | https://www.wordnik.com/words/noel         |
+| **noir**         |       1 | https://www.wordnik.com/words/noir         |
+| **nonart**       |       1 | https://www.wordnik.com/words/nonart       |
 | **nonce**        |       1 | https://www.wordnik.com/words/nonce        |
 | **none**         |       1 | https://www.wordnik.com/words/none         |
 | **nonevent**     |       1 | https://www.wordnik.com/words/nonevent     |
 | **nonviolent**   |       1 | https://www.wordnik.com/words/nonviolent   |
 | **noob**         |       1 | https://www.wordnik.com/words/noob         |
-| **noon**         |       1 | https://www.wordnik.com/words/noon         |
+| **noon**         |       2 | https://www.wordnik.com/words/noon         |
+| **nori**         |       1 | https://www.wordnik.com/words/nori         |
 | **notably**      |       1 | https://www.wordnik.com/words/notably      |
+| **notation**     |       1 | https://www.wordnik.com/words/notation     |
+| **notator**      |       1 | https://www.wordnik.com/words/notator      |
+| **notion**       |       1 | https://www.wordnik.com/words/notion       |
 | **noun**         |       1 | https://www.wordnik.com/words/noun         |
 | **novel**        |       1 | https://www.wordnik.com/words/novel        |
 | **novelette**    |       1 | https://www.wordnik.com/words/novelette    |
@@ -808,11 +853,13 @@ Every word that's occurred so far.
 | **olive**        |       1 | https://www.wordnik.com/words/olive        |
 | **omit**         |       1 | https://www.wordnik.com/words/omit         |
 | **once**         |       1 | https://www.wordnik.com/words/once         |
+| **onion**        |       1 | https://www.wordnik.com/words/onion        |
 | **onlay**        |       1 | https://www.wordnik.com/words/onlay        |
 | **only**         |       1 | https://www.wordnik.com/words/only         |
-| **onto**         |       1 | https://www.wordnik.com/words/onto         |
+| **onto**         |       2 | https://www.wordnik.com/words/onto         |
 | **opah**         |       1 | https://www.wordnik.com/words/opah         |
 | **opal**         |       1 | https://www.wordnik.com/words/opal         |
+| **oration**      |       1 | https://www.wordnik.com/words/oration      |
 | **orator**       |       1 | https://www.wordnik.com/words/orator       |
 | **ought**        |       1 | https://www.wordnik.com/words/ought        |
 | **outback**      |       1 | https://www.wordnik.com/words/outback      |
@@ -857,16 +904,19 @@ Every word that's occurred so far.
 | **ragtop**       |       1 | https://www.wordnik.com/words/ragtop       |
 | **raid**         |       2 | https://www.wordnik.com/words/raid         |
 | **raiding**      |       1 | https://www.wordnik.com/words/raiding      |
-| **rain**         |       1 | https://www.wordnik.com/words/rain         |
+| **rain**         |       2 | https://www.wordnik.com/words/rain         |
 | **raita**        |       1 | https://www.wordnik.com/words/raita        |
 | **ranch**        |       1 | https://www.wordnik.com/words/ranch        |
 | **rancid**       |       2 | https://www.wordnik.com/words/rancid       |
 | **rand**         |       2 | https://www.wordnik.com/words/rand         |
-| **rani**         |       1 | https://www.wordnik.com/words/rani         |
+| **rani**         |       2 | https://www.wordnik.com/words/rani         |
+| **rant**         |       1 | https://www.wordnik.com/words/rant         |
 | **rapport**      |       1 | https://www.wordnik.com/words/rapport      |
 | **raptor**       |       1 | https://www.wordnik.com/words/raptor       |
 | **rarity**       |       1 | https://www.wordnik.com/words/rarity       |
 | **ratatat**      |       1 | https://www.wordnik.com/words/ratatat      |
+| **ration**       |       1 | https://www.wordnik.com/words/ration       |
+| **rattan**       |       1 | https://www.wordnik.com/words/rattan       |
 | **ratty**        |       1 | https://www.wordnik.com/words/ratty        |
 | **rich**         |       1 | https://www.wordnik.com/words/rich         |
 | **ricin**        |       1 | https://www.wordnik.com/words/ricin        |
@@ -875,10 +925,13 @@ Every word that's occurred so far.
 | **riding**       |       1 | https://www.wordnik.com/words/riding       |
 | **rigid**        |       1 | https://www.wordnik.com/words/rigid        |
 | **rind**         |       2 | https://www.wordnik.com/words/rind         |
+| **roan**         |       1 | https://www.wordnik.com/words/roan         |
 | **roar**         |       1 | https://www.wordnik.com/words/roar         |
 | **root**         |       1 | https://www.wordnik.com/words/root         |
+| **rotation**     |       1 | https://www.wordnik.com/words/rotation     |
 | **rotator**      |       1 | https://www.wordnik.com/words/rotator      |
 | **rotgut**       |       1 | https://www.wordnik.com/words/rotgut       |
+| **rotini**       |       1 | https://www.wordnik.com/words/rotini       |
 | **rotor**        |       1 | https://www.wordnik.com/words/rotor        |
 | **rough**        |       1 | https://www.wordnik.com/words/rough        |
 | **rumor**        |       1 | https://www.wordnik.com/words/rumor        |
@@ -893,17 +946,21 @@ Every word that's occurred so far.
 | **taiga**        |       1 | https://www.wordnik.com/words/taiga        |
 | **tail**         |       2 | https://www.wordnik.com/words/tail         |
 | **tailgate**     |       1 | https://www.wordnik.com/words/tailgate     |
-| **taint**        |       1 | https://www.wordnik.com/words/taint        |
+| **taint**        |       2 | https://www.wordnik.com/words/taint        |
 | **tali**         |       2 | https://www.wordnik.com/words/tali         |
 | **tallit**       |       2 | https://www.wordnik.com/words/tallit       |
 | **talon**        |       1 | https://www.wordnik.com/words/talon        |
 | **tannic**       |       1 | https://www.wordnik.com/words/tannic       |
-| **tannin**       |       1 | https://www.wordnik.com/words/tannin       |
+| **tannin**       |       2 | https://www.wordnik.com/words/tannin       |
+| **tantara**      |       1 | https://www.wordnik.com/words/tantara      |
+| **tantra**       |       1 | https://www.wordnik.com/words/tantra       |
 | **taproot**      |       1 | https://www.wordnik.com/words/taproot      |
+| **tarnation**    |       1 | https://www.wordnik.com/words/tarnation    |
 | **taro**         |       1 | https://www.wordnik.com/words/taro         |
 | **tarot**        |       1 | https://www.wordnik.com/words/tarot        |
 | **tarry**        |       1 | https://www.wordnik.com/words/tarry        |
 | **tart**         |       1 | https://www.wordnik.com/words/tart         |
+| **tartan**       |       1 | https://www.wordnik.com/words/tartan       |
 | **tartar**       |       1 | https://www.wordnik.com/words/tartar       |
 | **tatami**       |       1 | https://www.wordnik.com/words/tatami       |
 | **tattoo**       |       1 | https://www.wordnik.com/words/tattoo       |
@@ -940,12 +997,13 @@ Every word that's occurred so far.
 | **tinct**        |       2 | https://www.wordnik.com/words/tinct        |
 | **tine**         |       1 | https://www.wordnik.com/words/tine         |
 | **tinny**        |       1 | https://www.wordnik.com/words/tinny        |
-| **tint**         |       1 | https://www.wordnik.com/words/tint         |
+| **tint**         |       2 | https://www.wordnik.com/words/tint         |
 | **tiny**         |       1 | https://www.wordnik.com/words/tiny         |
-| **titan**        |       1 | https://www.wordnik.com/words/titan        |
+| **titan**        |       2 | https://www.wordnik.com/words/titan        |
 | **titanic**      |       1 | https://www.wordnik.com/words/titanic      |
 | **titillate**    |       1 | https://www.wordnik.com/words/titillate    |
 | **title**        |       1 | https://www.wordnik.com/words/title        |
+| **titration**    |       1 | https://www.wordnik.com/words/titration    |
 | **tittle**       |       1 | https://www.wordnik.com/words/tittle       |
 | **tock**         |       1 | https://www.wordnik.com/words/tock         |
 | **toga**         |       1 | https://www.wordnik.com/words/toga         |
@@ -956,17 +1014,21 @@ Every word that's occurred so far.
 | **tonally**      |       1 | https://www.wordnik.com/words/tonally      |
 | **tony**         |       1 | https://www.wordnik.com/words/tony         |
 | **took**         |       1 | https://www.wordnik.com/words/took         |
-| **toon**         |       1 | https://www.wordnik.com/words/toon         |
+| **toon**         |       2 | https://www.wordnik.com/words/toon         |
 | **toot**         |       1 | https://www.wordnik.com/words/toot         |
 | **tooth**        |       1 | https://www.wordnik.com/words/tooth        |
 | **torah**        |       1 | https://www.wordnik.com/words/torah        |
+| **torn**         |       1 | https://www.wordnik.com/words/torn         |
 | **toro**         |       1 | https://www.wordnik.com/words/toro         |
 | **torpor**       |       1 | https://www.wordnik.com/words/torpor       |
 | **tort**         |       1 | https://www.wordnik.com/words/tort         |
+| **tortoni**      |       1 | https://www.wordnik.com/words/tortoni      |
 | **tough**        |       1 | https://www.wordnik.com/words/tough        |
+| **train**        |       1 | https://www.wordnik.com/words/train        |
 | **trait**        |       1 | https://www.wordnik.com/words/trait        |
 | **tray**         |       1 | https://www.wordnik.com/words/tray         |
 | **tributary**    |       1 | https://www.wordnik.com/words/tributary    |
+| **triton**       |       1 | https://www.wordnik.com/words/triton       |
 | **troop**        |       1 | https://www.wordnik.com/words/troop        |
 | **trot**         |       1 | https://www.wordnik.com/words/trot         |
 | **troth**        |       1 | https://www.wordnik.com/words/troth        |
