@@ -6,7 +6,7 @@
 
 <!-- generated table start -->
 
-37 pangrams
+38 pangrams
 
 | Word             |   Count | Definition                                 |
 |------------------|---------|--------------------------------------------|
@@ -43,6 +43,7 @@
 | **tributary**    |       1 | https://www.wordnik.com/words/tributary    |
 | **uncloak**      |       1 | https://www.wordnik.com/words/uncloak      |
 | **unfeeling**    |       1 | https://www.wordnik.com/words/unfeeling    |
+| **upheaval**     |       1 | https://www.wordnik.com/words/upheaval     |
 | **viability**    |       1 | https://www.wordnik.com/words/viability    |
 | **violent**      |       1 | https://www.wordnik.com/words/violent      |
 | **weaving**      |       1 | https://www.wordnik.com/words/weaving      |

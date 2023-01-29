@@ -134,7 +134,7 @@ Every word that's occurred so far.
 
 <!-- generated all table start -->
 
-964 words
+998 words
 
 | Word             |   Count | Definition                                 |
 |------------------|---------|--------------------------------------------|
@@ -160,6 +160,7 @@ Every word that's occurred so far.
 | **agora**        |       1 | https://www.wordnik.com/words/agora        |
 | **aiding**       |       1 | https://www.wordnik.com/words/aiding       |
 | **airy**         |       1 | https://www.wordnik.com/words/airy         |
+| **aleph**        |       1 | https://www.wordnik.com/words/aleph        |
 | **alibi**        |       2 | https://www.wordnik.com/words/alibi        |
 | **alit**         |       2 | https://www.wordnik.com/words/alit         |
 | **allele**       |       1 | https://www.wordnik.com/words/allele       |
@@ -168,6 +169,7 @@ Every word that's occurred so far.
 | **alone**        |       1 | https://www.wordnik.com/words/alone        |
 | **aloof**        |       1 | https://www.wordnik.com/words/aloof        |
 | **aloud**        |       1 | https://www.wordnik.com/words/aloud        |
+| **alpha**        |       1 | https://www.wordnik.com/words/alpha        |
 | **alum**         |       1 | https://www.wordnik.com/words/alum         |
 | **ammo**         |       1 | https://www.wordnik.com/words/ammo         |
 | **amour**        |       1 | https://www.wordnik.com/words/amour        |
@@ -190,6 +192,10 @@ Every word that's occurred so far.
 | **antic**        |       1 | https://www.wordnik.com/words/antic        |
 | **aorta**        |       1 | https://www.wordnik.com/words/aorta        |
 | **apogee**       |       1 | https://www.wordnik.com/words/apogee       |
+| **appall**       |       1 | https://www.wordnik.com/words/appall       |
+| **appeal**       |       1 | https://www.wordnik.com/words/appeal       |
+| **appellee**     |       1 | https://www.wordnik.com/words/appellee     |
+| **apple**        |       1 | https://www.wordnik.com/words/apple        |
 | **arachnid**     |       1 | https://www.wordnik.com/words/arachnid     |
 | **arbitrary**    |       1 | https://www.wordnik.com/words/arbitrary    |
 | **arcadia**      |       2 | https://www.wordnik.com/words/arcadia      |
@@ -451,6 +457,7 @@ Every word that's occurred so far.
 | **entice**       |       2 | https://www.wordnik.com/words/entice       |
 | **entitlement**  |       1 | https://www.wordnik.com/words/entitlement  |
 | **entity**       |       1 | https://www.wordnik.com/words/entity       |
+| **epee**         |       1 | https://www.wordnik.com/words/epee         |
 | **even**         |       2 | https://www.wordnik.com/words/even         |
 | **evening**      |       1 | https://www.wordnik.com/words/evening      |
 | **event**        |       1 | https://www.wordnik.com/words/event        |
@@ -580,6 +587,8 @@ Every word that's occurred so far.
 | **hath**         |       1 | https://www.wordnik.com/words/hath         |
 | **hatha**        |       1 | https://www.wordnik.com/words/hatha        |
 | **haul**         |       1 | https://www.wordnik.com/words/haul         |
+| **heap**         |       1 | https://www.wordnik.com/words/heap         |
+| **help**         |       1 | https://www.wordnik.com/words/help         |
 | **hill**         |       1 | https://www.wordnik.com/words/hill         |
 | **hilt**         |       1 | https://www.wordnik.com/words/hilt         |
 | **hoar**         |       1 | https://www.wordnik.com/words/hoar         |
@@ -659,9 +668,11 @@ Every word that's occurred so far.
 | **lance**        |       1 | https://www.wordnik.com/words/lance        |
 | **lane**         |       1 | https://www.wordnik.com/words/lane         |
 | **lantana**      |       1 | https://www.wordnik.com/words/lantana      |
+| **lapel**        |       1 | https://www.wordnik.com/words/lapel        |
 | **lath**         |       1 | https://www.wordnik.com/words/lath         |
 | **laud**         |       2 | https://www.wordnik.com/words/laud         |
 | **lean**         |       1 | https://www.wordnik.com/words/lean         |
+| **leap**         |       1 | https://www.wordnik.com/words/leap         |
 | **legality**     |       1 | https://www.wordnik.com/words/legality     |
 | **legible**      |       1 | https://www.wordnik.com/words/legible      |
 | **legit**        |       1 | https://www.wordnik.com/words/legit        |
@@ -867,10 +878,22 @@ Every word that's occurred so far.
 | **outthought**   |       1 | https://www.wordnik.com/words/outthought   |
 | **oven**         |       1 | https://www.wordnik.com/words/oven         |
 | **ovine**        |       1 | https://www.wordnik.com/words/ovine        |
+| **paella**       |       1 | https://www.wordnik.com/words/paella       |
 | **paintball**    |       1 | https://www.wordnik.com/words/paintball    |
+| **palapa**       |       1 | https://www.wordnik.com/words/palapa       |
+| **pale**         |       1 | https://www.wordnik.com/words/pale         |
 | **paleo**        |       1 | https://www.wordnik.com/words/paleo        |
+| **pall**         |       1 | https://www.wordnik.com/words/pall         |
+| **palp**         |       1 | https://www.wordnik.com/words/palp         |
+| **papa**         |       1 | https://www.wordnik.com/words/papa         |
+| **papal**        |       1 | https://www.wordnik.com/words/papal        |
 | **paratroop**    |       1 | https://www.wordnik.com/words/paratroop    |
 | **parrot**       |       1 | https://www.wordnik.com/words/parrot       |
+| **pave**         |       1 | https://www.wordnik.com/words/pave         |
+| **peal**         |       1 | https://www.wordnik.com/words/peal         |
+| **peel**         |       1 | https://www.wordnik.com/words/peel         |
+| **peep**         |       1 | https://www.wordnik.com/words/peep         |
+| **peeve**        |       1 | https://www.wordnik.com/words/peeve        |
 | **penmen**       |       1 | https://www.wordnik.com/words/penmen       |
 | **people**       |       1 | https://www.wordnik.com/words/people       |
 | **pharaoh**      |       1 | https://www.wordnik.com/words/pharaoh      |
@@ -880,6 +903,7 @@ Every word that's occurred so far.
 | **pimp**         |       1 | https://www.wordnik.com/words/pimp         |
 | **pimple**       |       1 | https://www.wordnik.com/words/pimple       |
 | **pinball**      |       1 | https://www.wordnik.com/words/pinball      |
+| **plea**         |       1 | https://www.wordnik.com/words/plea         |
 | **plop**         |       1 | https://www.wordnik.com/words/plop         |
 | **pogo**         |       2 | https://www.wordnik.com/words/pogo         |
 | **pole**         |       1 | https://www.wordnik.com/words/pole         |
@@ -896,6 +920,12 @@ Every word that's occurred so far.
 | **potato**       |       1 | https://www.wordnik.com/words/potato       |
 | **prop**         |       1 | https://www.wordnik.com/words/prop         |
 | **propagator**   |       1 | https://www.wordnik.com/words/propagator   |
+| **pule**         |       1 | https://www.wordnik.com/words/pule         |
+| **pull**         |       1 | https://www.wordnik.com/words/pull         |
+| **pulp**         |       1 | https://www.wordnik.com/words/pulp         |
+| **pupa**         |       1 | https://www.wordnik.com/words/pupa         |
+| **pupae**        |       1 | https://www.wordnik.com/words/pupae        |
+| **pupal**        |       1 | https://www.wordnik.com/words/pupal        |
 | **rabbi**        |       1 | https://www.wordnik.com/words/rabbi        |
 | **rabbit**       |       1 | https://www.wordnik.com/words/rabbit       |
 | **radar**        |       2 | https://www.wordnik.com/words/radar        |
@@ -1053,9 +1083,13 @@ Every word that's occurred so far.
 | **unlet**        |       1 | https://www.wordnik.com/words/unlet        |
 | **unlock**       |       1 | https://www.wordnik.com/words/unlock       |
 | **untune**       |       1 | https://www.wordnik.com/words/untune       |
+| **upheaval**     |       1 | https://www.wordnik.com/words/upheaval     |
+| **upheave**      |       1 | https://www.wordnik.com/words/upheave      |
 | **vagina**       |       1 | https://www.wordnik.com/words/vagina       |
 | **vain**         |       1 | https://www.wordnik.com/words/vain         |
 | **vane**         |       1 | https://www.wordnik.com/words/vane         |
+| **vape**         |       1 | https://www.wordnik.com/words/vape         |
+| **veep**         |       1 | https://www.wordnik.com/words/veep         |
 | **vegan**        |       1 | https://www.wordnik.com/words/vegan        |
 | **veggie**       |       1 | https://www.wordnik.com/words/veggie       |
 | **vegging**      |       1 | https://www.wordnik.com/words/vegging      |
