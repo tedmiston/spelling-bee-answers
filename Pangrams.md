@@ -6,7 +6,7 @@
 
 <!-- generated table start -->
 
-38 pangrams
+40 pangrams
 
 | Word             |   Count | Definition                                 |
 |------------------|---------|--------------------------------------------|
@@ -17,6 +17,7 @@
 | **brought**      |       1 | https://www.wordnik.com/words/brought      |
 | **cardigan**     |       1 | https://www.wordnik.com/words/cardigan     |
 | **carding**      |       1 | https://www.wordnik.com/words/carding      |
+| **curtain**      |       1 | https://www.wordnik.com/words/curtain      |
 | **engulfing**    |       1 | https://www.wordnik.com/words/engulfing    |
 | **exultant**     |       1 | https://www.wordnik.com/words/exultant     |
 | **flagpole**     |       1 | https://www.wordnik.com/words/flagpole     |
@@ -39,6 +40,7 @@
 | **outback**      |       1 | https://www.wordnik.com/words/outback      |
 | **paintball**    |       1 | https://www.wordnik.com/words/paintball    |
 | **photograph**   |       1 | https://www.wordnik.com/words/photograph   |
+| **taciturn**     |       1 | https://www.wordnik.com/words/taciturn     |
 | **tenacity**     |       1 | https://www.wordnik.com/words/tenacity     |
 | **tributary**    |       1 | https://www.wordnik.com/words/tributary    |
 | **uncloak**      |       1 | https://www.wordnik.com/words/uncloak      |
