@@ -6,7 +6,7 @@
 
 <!-- generated table start -->
 
-40 pangrams
+41 pangrams
 
 | Word             |   Count | Definition                                 |
 |------------------|---------|--------------------------------------------|
@@ -25,6 +25,7 @@
 | **funneling**    |       1 | https://www.wordnik.com/words/funneling    |
 | **habitual**     |       1 | https://www.wordnik.com/words/habitual     |
 | **halibut**      |       1 | https://www.wordnik.com/words/halibut      |
+| **hyphenate**    |       1 | https://www.wordnik.com/words/hyphenate    |
 | **illegality**   |       1 | https://www.wordnik.com/words/illegality   |
 | **implement**    |       1 | https://www.wordnik.com/words/implement    |
 | **ineffective**  |       1 | https://www.wordnik.com/words/ineffective  |
