@@ -1,0 +1,59 @@
+{
+  "expiration": 1675152000,
+  "displayWeekday": "Monday",
+  "displayDate": "January 30, 2023",
+  "printDate": "2023-01-30",
+  "centerLetter": "y",
+  "outerLetters": [
+    "a",
+    "e",
+    "h",
+    "n",
+    "p",
+    "t"
+  ],
+  "validLetters": [
+    "y",
+    "a",
+    "e",
+    "h",
+    "n",
+    "p",
+    "t"
+  ],
+  "pangrams": [
+    "hyphenate"
+  ],
+  "answers": [
+    "hyphenate",
+    "apathy",
+    "eyeteeth",
+    "happy",
+    "hyena",
+    "hype",
+    "hyphen",
+    "nanny",
+    "natty",
+    "netty",
+    "panty",
+    "papaya",
+    "pappy",
+    "patty",
+    "payee",
+    "peaty",
+    "penny",
+    "peppy",
+    "petty",
+    "tatty",
+    "teeny",
+    "they",
+    "type",
+    "yappy",
+    "yeah",
+    "yenta",
+    "yente"
+  ],
+  "id": 17144,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
