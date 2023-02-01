@@ -8,7 +8,7 @@ Words that have occurred more than once.
 
 <!-- generated multi table start -->
 
-136 words
+139 words
 
 | Word          |   Count | Definition                              |
 |---------------|---------|-----------------------------------------|
@@ -71,6 +71,7 @@ Words that have occurred more than once.
 | **illy**      |       2 | https://www.wordnik.com/words/illy      |
 | **incant**    |       2 | https://www.wordnik.com/words/incant    |
 | **incite**    |       2 | https://www.wordnik.com/words/incite    |
+| **innie**     |       2 | https://www.wordnik.com/words/innie     |
 | **intact**    |       2 | https://www.wordnik.com/words/intact    |
 | **itty**      |       3 | https://www.wordnik.com/words/itty      |
 | **labia**     |       2 | https://www.wordnik.com/words/labia     |
@@ -107,9 +108,11 @@ Words that have occurred more than once.
 | **niacin**    |       2 | https://www.wordnik.com/words/niacin    |
 | **nice**      |       2 | https://www.wordnik.com/words/nice      |
 | **niece**     |       2 | https://www.wordnik.com/words/niece     |
+| **nine**      |       2 | https://www.wordnik.com/words/nine      |
 | **noon**      |       2 | https://www.wordnik.com/words/noon      |
 | **null**      |       2 | https://www.wordnik.com/words/null      |
 | **oleo**      |       2 | https://www.wordnik.com/words/oleo      |
+| **onion**     |       2 | https://www.wordnik.com/words/onion     |
 | **onto**      |       2 | https://www.wordnik.com/words/onto      |
 | **pogo**      |       2 | https://www.wordnik.com/words/pogo      |
 | **poop**      |       2 | https://www.wordnik.com/words/poop      |
@@ -157,7 +160,7 @@ Every word that's occurred so far.
 
 <!-- generated all table start -->
 
-1049 words
+1100 words
 
 | Word             |   Count | Definition                                 |
 |------------------|---------|--------------------------------------------|
@@ -450,19 +453,27 @@ Every word that's occurred so far.
 | **darning**      |       1 | https://www.wordnik.com/words/darning      |
 | **deem**         |       1 | https://www.wordnik.com/words/deem         |
 | **deemed**       |       1 | https://www.wordnik.com/words/deemed       |
+| **denied**       |       1 | https://www.wordnik.com/words/denied       |
 | **denim**        |       1 | https://www.wordnik.com/words/denim        |
 | **dial**         |       1 | https://www.wordnik.com/words/dial         |
 | **dicing**       |       1 | https://www.wordnik.com/words/dicing       |
+| **died**         |       1 | https://www.wordnik.com/words/died         |
 | **digging**      |       1 | https://www.wordnik.com/words/digging      |
 | **dime**         |       1 | https://www.wordnik.com/words/dime         |
 | **dimmed**       |       1 | https://www.wordnik.com/words/dimmed       |
 | **dinar**        |       2 | https://www.wordnik.com/words/dinar        |
+| **dine**         |       1 | https://www.wordnik.com/words/dine         |
+| **dined**        |       1 | https://www.wordnik.com/words/dined        |
 | **ding**         |       1 | https://www.wordnik.com/words/ding         |
 | **dinging**      |       1 | https://www.wordnik.com/words/dinging      |
 | **dining**       |       1 | https://www.wordnik.com/words/dining       |
+| **dino**         |       1 | https://www.wordnik.com/words/dino         |
+| **diode**        |       1 | https://www.wordnik.com/words/diode        |
+| **dipped**       |       1 | https://www.wordnik.com/words/dipped       |
 | **doobie**       |       1 | https://www.wordnik.com/words/doobie       |
 | **doula**        |       1 | https://www.wordnik.com/words/doula        |
 | **dour**         |       1 | https://www.wordnik.com/words/dour         |
+| **downwind**     |       1 | https://www.wordnik.com/words/downwind     |
 | **drag**         |       1 | https://www.wordnik.com/words/drag         |
 | **dragging**     |       1 | https://www.wordnik.com/words/dragging     |
 | **drain**        |       2 | https://www.wordnik.com/words/drain        |
@@ -476,6 +487,7 @@ Every word that's occurred so far.
 | **durum**        |       1 | https://www.wordnik.com/words/durum        |
 | **eave**         |       1 | https://www.wordnik.com/words/eave         |
 | **ebbed**        |       1 | https://www.wordnik.com/words/ebbed        |
+| **eddied**       |       1 | https://www.wordnik.com/words/eddied       |
 | **edible**       |       1 | https://www.wordnik.com/words/edible       |
 | **effect**       |       1 | https://www.wordnik.com/words/effect       |
 | **effective**    |       1 | https://www.wordnik.com/words/effective    |
@@ -665,8 +677,10 @@ Every word that's occurred so far.
 | **incentive**    |       1 | https://www.wordnik.com/words/incentive    |
 | **incite**       |       2 | https://www.wordnik.com/words/incite       |
 | **incur**        |       1 | https://www.wordnik.com/words/incur        |
+| **indeed**       |       1 | https://www.wordnik.com/words/indeed       |
 | **indica**       |       1 | https://www.wordnik.com/words/indica       |
 | **indicia**      |       1 | https://www.wordnik.com/words/indicia      |
+| **indie**        |       1 | https://www.wordnik.com/words/indie        |
 | **ineffective**  |       1 | https://www.wordnik.com/words/ineffective  |
 | **inefficient**  |       1 | https://www.wordnik.com/words/inefficient  |
 | **infect**       |       1 | https://www.wordnik.com/words/infect       |
@@ -677,7 +691,7 @@ Every word that's occurred so far.
 | **initiation**   |       1 | https://www.wordnik.com/words/initiation   |
 | **initiator**    |       1 | https://www.wordnik.com/words/initiator    |
 | **innate**       |       1 | https://www.wordnik.com/words/innate       |
-| **innie**        |       1 | https://www.wordnik.com/words/innie        |
+| **innie**        |       2 | https://www.wordnik.com/words/innie        |
 | **intact**       |       2 | https://www.wordnik.com/words/intact       |
 | **intent**       |       1 | https://www.wordnik.com/words/intent       |
 | **into**         |       1 | https://www.wordnik.com/words/into         |
@@ -690,6 +704,7 @@ Every word that's occurred so far.
 | **invite**       |       1 | https://www.wordnik.com/words/invite       |
 | **invitee**      |       1 | https://www.wordnik.com/words/invitee      |
 | **involve**      |       1 | https://www.wordnik.com/words/involve      |
+| **iodine**       |       1 | https://www.wordnik.com/words/iodine       |
 | **iron**         |       1 | https://www.wordnik.com/words/iron         |
 | **irritant**     |       1 | https://www.wordnik.com/words/irritant     |
 | **irritation**   |       1 | https://www.wordnik.com/words/irritation   |
@@ -874,11 +889,13 @@ Every word that's occurred so far.
 | **nice**         |       2 | https://www.wordnik.com/words/nice         |
 | **nicety**       |       1 | https://www.wordnik.com/words/nicety       |
 | **niece**        |       2 | https://www.wordnik.com/words/niece        |
-| **nine**         |       1 | https://www.wordnik.com/words/nine         |
+| **nine**         |       2 | https://www.wordnik.com/words/nine         |
+| **ninepin**      |       1 | https://www.wordnik.com/words/ninepin      |
 | **nineteen**     |       1 | https://www.wordnik.com/words/nineteen     |
 | **ninety**       |       1 | https://www.wordnik.com/words/ninety       |
 | **ninja**        |       1 | https://www.wordnik.com/words/ninja        |
 | **ninny**        |       1 | https://www.wordnik.com/words/ninny        |
+| **nipped**       |       1 | https://www.wordnik.com/words/nipped       |
 | **nite**         |       1 | https://www.wordnik.com/words/nite         |
 | **nitric**       |       1 | https://www.wordnik.com/words/nitric       |
 | **nitro**        |       1 | https://www.wordnik.com/words/nitro        |
@@ -914,12 +931,16 @@ Every word that's occurred so far.
 | **olive**        |       1 | https://www.wordnik.com/words/olive        |
 | **omit**         |       1 | https://www.wordnik.com/words/omit         |
 | **once**         |       1 | https://www.wordnik.com/words/once         |
-| **onion**        |       1 | https://www.wordnik.com/words/onion        |
+| **onion**        |       2 | https://www.wordnik.com/words/onion        |
 | **onlay**        |       1 | https://www.wordnik.com/words/onlay        |
 | **only**         |       1 | https://www.wordnik.com/words/only         |
 | **onto**         |       2 | https://www.wordnik.com/words/onto         |
 | **opah**         |       1 | https://www.wordnik.com/words/opah         |
 | **opal**         |       1 | https://www.wordnik.com/words/opal         |
+| **opine**        |       1 | https://www.wordnik.com/words/opine        |
+| **opined**       |       1 | https://www.wordnik.com/words/opined       |
+| **opinion**      |       1 | https://www.wordnik.com/words/opinion      |
+| **opioid**       |       1 | https://www.wordnik.com/words/opioid       |
 | **oration**      |       1 | https://www.wordnik.com/words/oration      |
 | **orator**       |       1 | https://www.wordnik.com/words/orator       |
 | **ought**        |       1 | https://www.wordnik.com/words/ought        |
@@ -959,15 +980,27 @@ Every word that's occurred so far.
 | **photo**        |       1 | https://www.wordnik.com/words/photo        |
 | **photog**       |       1 | https://www.wordnik.com/words/photog       |
 | **photograph**   |       1 | https://www.wordnik.com/words/photograph   |
+| **pied**         |       1 | https://www.wordnik.com/words/pied         |
 | **pimp**         |       1 | https://www.wordnik.com/words/pimp         |
 | **pimple**       |       1 | https://www.wordnik.com/words/pimple       |
 | **pinball**      |       1 | https://www.wordnik.com/words/pinball      |
+| **pine**         |       1 | https://www.wordnik.com/words/pine         |
+| **pined**        |       1 | https://www.wordnik.com/words/pined        |
+| **pinewood**     |       1 | https://www.wordnik.com/words/pinewood     |
+| **pinion**       |       1 | https://www.wordnik.com/words/pinion       |
+| **pinioned**     |       1 | https://www.wordnik.com/words/pinioned     |
+| **pinned**       |       1 | https://www.wordnik.com/words/pinned       |
+| **pinniped**     |       1 | https://www.wordnik.com/words/pinniped     |
+| **pipe**         |       1 | https://www.wordnik.com/words/pipe         |
+| **piped**        |       1 | https://www.wordnik.com/words/piped        |
+| **pippin**       |       1 | https://www.wordnik.com/words/pippin       |
 | **plea**         |       1 | https://www.wordnik.com/words/plea         |
 | **plop**         |       1 | https://www.wordnik.com/words/plop         |
 | **pogo**         |       2 | https://www.wordnik.com/words/pogo         |
 | **pole**         |       1 | https://www.wordnik.com/words/pole         |
 | **poll**         |       1 | https://www.wordnik.com/words/poll         |
 | **polo**         |       1 | https://www.wordnik.com/words/polo         |
+| **ponied**       |       1 | https://www.wordnik.com/words/ponied       |
 | **poof**         |       1 | https://www.wordnik.com/words/poof         |
 | **pooh**         |       1 | https://www.wordnik.com/words/pooh         |
 | **pool**         |       1 | https://www.wordnik.com/words/pool         |
@@ -1201,9 +1234,30 @@ Every word that's occurred so far.
 | **wean**         |       1 | https://www.wordnik.com/words/wean         |
 | **weave**        |       1 | https://www.wordnik.com/words/weave        |
 | **weaving**      |       1 | https://www.wordnik.com/words/weaving      |
+| **weenie**       |       1 | https://www.wordnik.com/words/weenie       |
+| **weepie**       |       1 | https://www.wordnik.com/words/weepie       |
 | **well**         |       1 | https://www.wordnik.com/words/well         |
+| **wide**         |       1 | https://www.wordnik.com/words/wide         |
+| **widen**        |       1 | https://www.wordnik.com/words/widen        |
+| **widened**      |       1 | https://www.wordnik.com/words/widened      |
+| **widow**        |       1 | https://www.wordnik.com/words/widow        |
+| **widowed**      |       1 | https://www.wordnik.com/words/widowed      |
+| **wienie**       |       1 | https://www.wordnik.com/words/wienie       |
+| **wind**         |       1 | https://www.wordnik.com/words/wind         |
+| **winded**       |       1 | https://www.wordnik.com/words/winded       |
 | **windmill**     |       1 | https://www.wordnik.com/words/windmill     |
 | **windmilled**   |       1 | https://www.wordnik.com/words/windmilled   |
+| **window**       |       1 | https://www.wordnik.com/words/window       |
+| **windowed**     |       1 | https://www.wordnik.com/words/windowed     |
+| **windpipe**     |       1 | https://www.wordnik.com/words/windpipe     |
+| **wine**         |       1 | https://www.wordnik.com/words/wine         |
+| **wined**        |       1 | https://www.wordnik.com/words/wined        |
+| **winnow**       |       1 | https://www.wordnik.com/words/winnow       |
+| **winnowed**     |       1 | https://www.wordnik.com/words/winnowed     |
+| **wino**         |       1 | https://www.wordnik.com/words/wino         |
+| **wipe**         |       1 | https://www.wordnik.com/words/wipe         |
+| **wiped**        |       1 | https://www.wordnik.com/words/wiped        |
+| **woodwind**     |       1 | https://www.wordnik.com/words/woodwind     |
 | **woolen**       |       1 | https://www.wordnik.com/words/woolen       |
 | **yappy**        |       1 | https://www.wordnik.com/words/yappy        |
 | **yeah**         |       1 | https://www.wordnik.com/words/yeah         |

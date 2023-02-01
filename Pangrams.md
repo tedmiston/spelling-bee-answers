@@ -6,7 +6,7 @@
 
 <!-- generated table start -->
 
-41 pangrams
+42 pangrams
 
 | Word             |   Count | Definition                                 |
 |------------------|---------|--------------------------------------------|
@@ -41,6 +41,7 @@
 | **outback**      |       1 | https://www.wordnik.com/words/outback      |
 | **paintball**    |       1 | https://www.wordnik.com/words/paintball    |
 | **photograph**   |       1 | https://www.wordnik.com/words/photograph   |
+| **pinewood**     |       1 | https://www.wordnik.com/words/pinewood     |
 | **taciturn**     |       1 | https://www.wordnik.com/words/taciturn     |
 | **tenacity**     |       1 | https://www.wordnik.com/words/tenacity     |
 | **tributary**    |       1 | https://www.wordnik.com/words/tributary    |
