@@ -14,6 +14,10 @@ gen-stats:
 format:
 	black --line-length=120 .
 
+.PHONY: format-dry-run
+format-dry-run:
+	black --diff --line-length=120 .
+
 .PHONY: test
 test:
 	pytest .
