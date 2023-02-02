@@ -6,7 +6,7 @@
 
 <!-- generated table start -->
 
-42 pangrams
+43 pangrams
 
 | Word             |   Count | Definition                                 |
 |------------------|---------|--------------------------------------------|
@@ -30,6 +30,7 @@
 | **implement**    |       1 | https://www.wordnik.com/words/implement    |
 | **ineffective**  |       1 | https://www.wordnik.com/words/ineffective  |
 | **infective**    |       1 | https://www.wordnik.com/words/infective    |
+| **itemizing**    |       1 | https://www.wordnik.com/words/itemizing    |
 | **janitor**      |       1 | https://www.wordnik.com/words/janitor      |
 | **judicial**     |       1 | https://www.wordnik.com/words/judicial     |
 | **legality**     |       1 | https://www.wordnik.com/words/legality     |
