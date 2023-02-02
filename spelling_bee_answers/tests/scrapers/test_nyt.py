@@ -1,13 +1,6 @@
 """
-Unit tests - SBSolver.
+Unit tests - NYT scraper.
 """
-
-from ...tools.sbsolver import (
-    extract_game_data,
-    fetch_page,
-    output_game_data,
-    parse_game_data,
-)
 
 
 def test_fetch_page():
