@@ -4,7 +4,7 @@ Models.
 
 import json
 from datetime import date
-from typing import List, Optional
+from typing import Any, Dict, List, Optional
 
 from pydantic import BaseModel
 from rich import print
@@ -25,18 +25,18 @@ class Puzzle(BaseModel):
     verified: bool
 
 
-def load_puzzle_from_json(filepath):
+def load_puzzle_from_json(filepath: str) -> Puzzle:
     """
     The data shape is different for puzzles from the NYTimes (verified) vs backfill data
     aggregated from third party sources (non-verified).
     """
     with open(filepath) as fp:
-        obj = json.load(fp)
+        obj: Dict[str, Any] = json.load(fp)
 
-    verified = obj.get("verified")
+    verified: Optional[bool] = obj.get("verified")
     if obj.get("verified") is None:
         # puzzle data from nytimes does not have this field in json representation
-        puzzle = Puzzle(
+        puzzle: Puzzle = Puzzle(
             date=obj["printDate"],
             center_letter=obj["centerLetter"],
             outer_letters=obj["outerLetters"],
@@ -64,7 +64,7 @@ def load_puzzle_from_json(filepath):
     return puzzle
 
 
-def main():  # pragma: no cover
+def main() -> None:  # pragma: no cover
     # todo: update main to take filepath as a sysarg
 
     # todo: copy this code to `test_load_puzzle_from_json`

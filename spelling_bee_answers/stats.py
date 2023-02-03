@@ -5,6 +5,7 @@ Generate tables of words across all days.
 import json
 from collections import Counter
 from pathlib import Path
+from typing import Any
 
 from rich import print
 from tabulate import tabulate
@@ -13,42 +14,40 @@ from .models import load_puzzle_from_json
 from .settings import settings
 
 
-def _load_all_puzzles():
-    paths = Path(f"{settings.repo_root}/days").glob("*.json")
+def _load_all_puzzles() -> Any:
+    paths: Any = Path(f"{settings.repo_root}/days").glob("*.json")
     paths = sorted(paths)
 
-    puzzles = [load_puzzle_from_json(filepath=path) for path in paths]
+    puzzles: Any = [load_puzzle_from_json(filepath=path) for path in paths]
     return puzzles
 
 
-def load_all_puzzles_by_key(key):
-    puzzles = _load_all_puzzles()
+def load_all_puzzles_by_key(key: str) -> Any:
+    puzzles: Any = _load_all_puzzles()
 
-    values = [getattr(x, key) for x in puzzles]
-    values_flattened = []
+    values: Any = [getattr(x, key) for x in puzzles]
+    values_flattened: Any = []
     for i in values:
         values_flattened.extend(i)
 
     return values_flattened
 
 
-def generate_words_table(counts, condition=lambda _: True):
-    headers = ["Word", "Count", "Definition"]
-    rows = [
+def generate_words_table(counts: Any, condition: Any = lambda _: True) -> Any:
+    headers: Any = ["Word", "Count", "Definition"]
+    rows: Any = [
         (f"**{word}**", count, f"https://www.wordnik.com/words/{word}")
         for word, count in sorted(counts.items())
         if condition(count)
     ]
-    table = tabulate(rows, headers=headers, tablefmt="github")
+    table: Any = tabulate(rows, headers=headers, tablefmt="github")
     # print(table)
     return table
 
 
-def update_doc(filename, tag, table, word_count, label):
-    tag_start, tag_end = (
-        f"<!-- {tag} start -->",
-        f"<!-- {tag} end -->",
-    )
+def update_doc(filename: str, tag: str, table: str, word_count: int, label: str) -> None:
+    tag_start: str = f"<!-- {tag} start -->"
+    tag_end: str = f"<!-- {tag} end -->"
 
     with open(f"{settings.repo_root}/{filename}", "r+") as fp:
         doc = fp.read()
@@ -67,10 +66,10 @@ def update_doc(filename, tag, table, word_count, label):
         fp.write(output)
 
 
-def main():  # pragma: no cover
+def main() -> None:  # pragma: no cover
     # all words and multi-count words lists
-    answers = load_all_puzzles_by_key(key="answers")
-    all_answers_counts = Counter(answers)
+    answers: Any = load_all_puzzles_by_key(key="answers")
+    all_answers_counts: Counter[str] = Counter(answers)
     update_doc(
         filename="Words.md",
         tag="generated multi table",
@@ -87,8 +86,8 @@ def main():  # pragma: no cover
     )
 
     # pangrams list
-    pangrams = load_all_puzzles_by_key(key="pangrams")
-    pangrams_counts = Counter(pangrams)
+    pangrams: Any = load_all_puzzles_by_key(key="pangrams")
+    pangrams_counts: Counter[str] = Counter(pangrams)
     update_doc(
         filename="Pangrams.md",
         tag="generated table",
