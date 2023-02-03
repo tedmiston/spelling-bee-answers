@@ -6,10 +6,11 @@
 
 <!-- generated table start -->
 
-43 pangrams
+44 pangrams
 
 | Word             |   Count | Definition                                 |
 |------------------|---------|--------------------------------------------|
+| **aground**      |       1 | https://www.wordnik.com/words/aground      |
 | **allowance**    |       1 | https://www.wordnik.com/words/allowance    |
 | **arachnid**     |       1 | https://www.wordnik.com/words/arachnid     |
 | **availability** |       1 | https://www.wordnik.com/words/availability |
