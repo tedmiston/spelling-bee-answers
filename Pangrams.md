@@ -6,7 +6,7 @@
 
 <!-- generated table start -->
 
-44 pangrams
+45 pangrams
 
 | Word             |   Count | Definition                                 |
 |------------------|---------|--------------------------------------------|
@@ -20,6 +20,7 @@
 | **carding**      |       1 | https://www.wordnik.com/words/carding      |
 | **curtain**      |       1 | https://www.wordnik.com/words/curtain      |
 | **engulfing**    |       1 | https://www.wordnik.com/words/engulfing    |
+| **enveloped**    |       1 | https://www.wordnik.com/words/enveloped    |
 | **exultant**     |       1 | https://www.wordnik.com/words/exultant     |
 | **flagpole**     |       1 | https://www.wordnik.com/words/flagpole     |
 | **fueling**      |       1 | https://www.wordnik.com/words/fueling      |

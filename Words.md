@@ -8,7 +8,7 @@ Words that have occurred more than once.
 
 <!-- generated multi table start -->
 
-150 words
+160 words
 
 | Word          |   Count | Definition                              |
 |---------------|---------|-----------------------------------------|
@@ -66,8 +66,10 @@ Words that have occurred more than once.
 | **drag**      |       2 | https://www.wordnik.com/words/drag      |
 | **drain**     |       2 | https://www.wordnik.com/words/drain     |
 | **dual**      |       2 | https://www.wordnik.com/words/dual      |
+| **eleven**    |       2 | https://www.wordnik.com/words/eleven    |
 | **entice**    |       2 | https://www.wordnik.com/words/entice    |
-| **even**      |       2 | https://www.wordnik.com/words/even      |
+| **even**      |       3 | https://www.wordnik.com/words/even      |
+| **evolve**    |       2 | https://www.wordnik.com/words/evolve    |
 | **goop**      |       2 | https://www.wordnik.com/words/goop      |
 | **goth**      |       2 | https://www.wordnik.com/words/goth      |
 | **grad**      |       2 | https://www.wordnik.com/words/grad      |
@@ -87,11 +89,14 @@ Words that have occurred more than once.
 | **labial**    |       2 | https://www.wordnik.com/words/labial    |
 | **laity**     |       2 | https://www.wordnik.com/words/laity     |
 | **laud**      |       2 | https://www.wordnik.com/words/laud      |
+| **levee**     |       2 | https://www.wordnik.com/words/levee     |
+| **level**     |       2 | https://www.wordnik.com/words/level     |
 | **lilt**      |       2 | https://www.wordnik.com/words/lilt      |
 | **lily**      |       2 | https://www.wordnik.com/words/lily      |
 | **lime**      |       2 | https://www.wordnik.com/words/lime      |
 | **limn**      |       2 | https://www.wordnik.com/words/limn      |
 | **linemen**   |       2 | https://www.wordnik.com/words/linemen   |
+| **love**      |       2 | https://www.wordnik.com/words/love      |
 | **luau**      |       4 | https://www.wordnik.com/words/luau      |
 | **lull**      |       3 | https://www.wordnik.com/words/lull      |
 | **lulu**      |       3 | https://www.wordnik.com/words/lulu      |
@@ -119,10 +124,13 @@ Words that have occurred more than once.
 | **niece**     |       2 | https://www.wordnik.com/words/niece     |
 | **nine**      |       2 | https://www.wordnik.com/words/nine      |
 | **noon**      |       2 | https://www.wordnik.com/words/noon      |
+| **novel**     |       2 | https://www.wordnik.com/words/novel     |
 | **null**      |       2 | https://www.wordnik.com/words/null      |
 | **oleo**      |       2 | https://www.wordnik.com/words/oleo      |
 | **onion**     |       2 | https://www.wordnik.com/words/onion     |
 | **onto**      |       2 | https://www.wordnik.com/words/onto      |
+| **oven**      |       2 | https://www.wordnik.com/words/oven      |
+| **peeve**     |       2 | https://www.wordnik.com/words/peeve     |
 | **pogo**      |       2 | https://www.wordnik.com/words/pogo      |
 | **poop**      |       2 | https://www.wordnik.com/words/poop      |
 | **poppa**     |       2 | https://www.wordnik.com/words/poppa     |
@@ -159,8 +167,10 @@ Words that have occurred more than once.
 | **titanic**   |       2 | https://www.wordnik.com/words/titanic   |
 | **toon**      |       2 | https://www.wordnik.com/words/toon      |
 | **ulna**      |       2 | https://www.wordnik.com/words/ulna      |
+| **veep**      |       2 | https://www.wordnik.com/words/veep      |
 | **vein**      |       2 | https://www.wordnik.com/words/vein      |
 | **vine**      |       2 | https://www.wordnik.com/words/vine      |
+| **vole**      |       2 | https://www.wordnik.com/words/vole      |
 | **yeti**      |       2 | https://www.wordnik.com/words/yeti      |
 
 <!-- generated multi table end -->
@@ -171,7 +181,7 @@ Every word that's occurred so far.
 
 <!-- generated all table start -->
 
-1170 words
+1189 words
 
 | Word             |   Count | Definition                                 |
 |------------------|---------|--------------------------------------------|
@@ -472,8 +482,14 @@ Every word that's occurred so far.
 | **darning**      |       1 | https://www.wordnik.com/words/darning      |
 | **deem**         |       1 | https://www.wordnik.com/words/deem         |
 | **deemed**       |       1 | https://www.wordnik.com/words/deemed       |
+| **delve**        |       1 | https://www.wordnik.com/words/delve        |
+| **delved**       |       1 | https://www.wordnik.com/words/delved       |
 | **denied**       |       1 | https://www.wordnik.com/words/denied       |
 | **denim**        |       1 | https://www.wordnik.com/words/denim        |
+| **develop**      |       1 | https://www.wordnik.com/words/develop      |
+| **developed**    |       1 | https://www.wordnik.com/words/developed    |
+| **devolve**      |       1 | https://www.wordnik.com/words/devolve      |
+| **devolved**     |       1 | https://www.wordnik.com/words/devolved     |
 | **dial**         |       1 | https://www.wordnik.com/words/dial         |
 | **dicing**       |       1 | https://www.wordnik.com/words/dicing       |
 | **died**         |       1 | https://www.wordnik.com/words/died         |
@@ -495,6 +511,7 @@ Every word that's occurred so far.
 | **dorado**       |       1 | https://www.wordnik.com/words/dorado       |
 | **doula**        |       1 | https://www.wordnik.com/words/doula        |
 | **dour**         |       2 | https://www.wordnik.com/words/dour         |
+| **dove**         |       1 | https://www.wordnik.com/words/dove         |
 | **downwind**     |       1 | https://www.wordnik.com/words/downwind     |
 | **drag**         |       2 | https://www.wordnik.com/words/drag         |
 | **dragging**     |       1 | https://www.wordnik.com/words/dragging     |
@@ -521,7 +538,7 @@ Every word that's occurred so far.
 | **egging**       |       1 | https://www.wordnik.com/words/egging       |
 | **elan**         |       1 | https://www.wordnik.com/words/elan         |
 | **element**      |       1 | https://www.wordnik.com/words/element      |
-| **eleven**       |       1 | https://www.wordnik.com/words/eleven       |
+| **eleven**       |       2 | https://www.wordnik.com/words/eleven       |
 | **elfin**        |       1 | https://www.wordnik.com/words/elfin        |
 | **eligible**     |       1 | https://www.wordnik.com/words/eligible     |
 | **elite**        |       1 | https://www.wordnik.com/words/elite        |
@@ -539,15 +556,20 @@ Every word that's occurred so far.
 | **entice**       |       2 | https://www.wordnik.com/words/entice       |
 | **entitlement**  |       1 | https://www.wordnik.com/words/entitlement  |
 | **entity**       |       1 | https://www.wordnik.com/words/entity       |
+| **envelop**      |       1 | https://www.wordnik.com/words/envelop      |
+| **envelope**     |       1 | https://www.wordnik.com/words/envelope     |
+| **enveloped**    |       1 | https://www.wordnik.com/words/enveloped    |
 | **epee**         |       1 | https://www.wordnik.com/words/epee         |
-| **even**         |       2 | https://www.wordnik.com/words/even         |
+| **even**         |       3 | https://www.wordnik.com/words/even         |
+| **evened**       |       1 | https://www.wordnik.com/words/evened       |
 | **evening**      |       1 | https://www.wordnik.com/words/evening      |
 | **event**        |       1 | https://www.wordnik.com/words/event        |
 | **evict**        |       1 | https://www.wordnik.com/words/evict        |
 | **evictee**      |       1 | https://www.wordnik.com/words/evictee      |
 | **evil**         |       1 | https://www.wordnik.com/words/evil         |
 | **evince**       |       1 | https://www.wordnik.com/words/evince       |
-| **evolve**       |       1 | https://www.wordnik.com/words/evolve       |
+| **evolve**       |       2 | https://www.wordnik.com/words/evolve       |
+| **evolved**      |       1 | https://www.wordnik.com/words/evolved      |
 | **exeunt**       |       1 | https://www.wordnik.com/words/exeunt       |
 | **extenuate**    |       1 | https://www.wordnik.com/words/extenuate    |
 | **exult**        |       1 | https://www.wordnik.com/words/exult        |
@@ -788,8 +810,9 @@ Every word that's occurred so far.
 | **legality**     |       1 | https://www.wordnik.com/words/legality     |
 | **legible**      |       1 | https://www.wordnik.com/words/legible      |
 | **legit**        |       1 | https://www.wordnik.com/words/legit        |
-| **levee**        |       1 | https://www.wordnik.com/words/levee        |
-| **level**        |       1 | https://www.wordnik.com/words/level        |
+| **levee**        |       2 | https://www.wordnik.com/words/levee        |
+| **level**        |       2 | https://www.wordnik.com/words/level        |
+| **leveled**      |       1 | https://www.wordnik.com/words/leveled      |
 | **liability**    |       1 | https://www.wordnik.com/words/liability    |
 | **libel**        |       1 | https://www.wordnik.com/words/libel        |
 | **libeled**      |       1 | https://www.wordnik.com/words/libeled      |
@@ -837,7 +860,8 @@ Every word that's occurred so far.
 | **loop**         |       1 | https://www.wordnik.com/words/loop         |
 | **lope**         |       1 | https://www.wordnik.com/words/lope         |
 | **loud**         |       1 | https://www.wordnik.com/words/loud         |
-| **love**         |       1 | https://www.wordnik.com/words/love         |
+| **love**         |       2 | https://www.wordnik.com/words/love         |
+| **loved**        |       1 | https://www.wordnik.com/words/loved        |
 | **luau**         |       4 | https://www.wordnik.com/words/luau         |
 | **luck**         |       1 | https://www.wordnik.com/words/luck         |
 | **lull**         |       3 | https://www.wordnik.com/words/lull         |
@@ -972,7 +996,7 @@ Every word that's occurred so far.
 | **notator**      |       1 | https://www.wordnik.com/words/notator      |
 | **notion**       |       1 | https://www.wordnik.com/words/notion       |
 | **noun**         |       1 | https://www.wordnik.com/words/noun         |
-| **novel**        |       1 | https://www.wordnik.com/words/novel        |
+| **novel**        |       2 | https://www.wordnik.com/words/novel        |
 | **novelette**    |       1 | https://www.wordnik.com/words/novelette    |
 | **null**         |       2 | https://www.wordnik.com/words/null         |
 | **nylon**        |       1 | https://www.wordnik.com/words/nylon        |
@@ -1007,7 +1031,7 @@ Every word that's occurred so far.
 | **outback**      |       1 | https://www.wordnik.com/words/outback      |
 | **outgo**        |       1 | https://www.wordnik.com/words/outgo        |
 | **outthought**   |       1 | https://www.wordnik.com/words/outthought   |
-| **oven**         |       1 | https://www.wordnik.com/words/oven         |
+| **oven**         |       2 | https://www.wordnik.com/words/oven         |
 | **ovine**        |       1 | https://www.wordnik.com/words/ovine        |
 | **paella**       |       1 | https://www.wordnik.com/words/paella       |
 | **paintball**    |       1 | https://www.wordnik.com/words/paintball    |
@@ -1030,7 +1054,8 @@ Every word that's occurred so far.
 | **peaty**        |       1 | https://www.wordnik.com/words/peaty        |
 | **peel**         |       1 | https://www.wordnik.com/words/peel         |
 | **peep**         |       1 | https://www.wordnik.com/words/peep         |
-| **peeve**        |       1 | https://www.wordnik.com/words/peeve        |
+| **peeve**        |       2 | https://www.wordnik.com/words/peeve        |
+| **peeved**       |       1 | https://www.wordnik.com/words/peeved       |
 | **penmen**       |       1 | https://www.wordnik.com/words/penmen       |
 | **penny**        |       1 | https://www.wordnik.com/words/penny        |
 | **people**       |       1 | https://www.wordnik.com/words/people       |
@@ -1270,14 +1295,17 @@ Every word that's occurred so far.
 | **vain**         |       1 | https://www.wordnik.com/words/vain         |
 | **vane**         |       1 | https://www.wordnik.com/words/vane         |
 | **vape**         |       1 | https://www.wordnik.com/words/vape         |
-| **veep**         |       1 | https://www.wordnik.com/words/veep         |
+| **veep**         |       2 | https://www.wordnik.com/words/veep         |
 | **vegan**        |       1 | https://www.wordnik.com/words/vegan        |
 | **veggie**       |       1 | https://www.wordnik.com/words/veggie       |
 | **vegging**      |       1 | https://www.wordnik.com/words/vegging      |
 | **veil**         |       1 | https://www.wordnik.com/words/veil         |
 | **vein**         |       2 | https://www.wordnik.com/words/vein         |
+| **veld**         |       1 | https://www.wordnik.com/words/veld         |
 | **velvet**       |       1 | https://www.wordnik.com/words/velvet       |
 | **velveteen**    |       1 | https://www.wordnik.com/words/velveteen    |
+| **vend**         |       1 | https://www.wordnik.com/words/vend         |
+| **vended**       |       1 | https://www.wordnik.com/words/vended       |
 | **vent**         |       1 | https://www.wordnik.com/words/vent         |
 | **veto**         |       1 | https://www.wordnik.com/words/veto         |
 | **viability**    |       1 | https://www.wordnik.com/words/viability    |
@@ -1297,9 +1325,10 @@ Every word that's occurred so far.
 | **vitality**     |       1 | https://www.wordnik.com/words/vitality     |
 | **vitally**      |       1 | https://www.wordnik.com/words/vitally      |
 | **voile**        |       1 | https://www.wordnik.com/words/voile        |
-| **vole**         |       1 | https://www.wordnik.com/words/vole         |
+| **vole**         |       2 | https://www.wordnik.com/words/vole         |
 | **volition**     |       1 | https://www.wordnik.com/words/volition     |
 | **volt**         |       1 | https://www.wordnik.com/words/volt         |
+| **voodoo**       |       1 | https://www.wordnik.com/words/voodoo       |
 | **vote**         |       1 | https://www.wordnik.com/words/vote         |
 | **votive**       |       1 | https://www.wordnik.com/words/votive       |
 | **waive**        |       1 | https://www.wordnik.com/words/waive        |
