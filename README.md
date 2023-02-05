@@ -55,6 +55,7 @@ See [Words](Words.md).
 | **2023-02-01** | [2023-02-01.json](days/2023-02-01.json) | [Forum](https://www.nytimes.com/2023/02/01/crosswords/spelling-bee-forum.html) |      35 |          1 |         |
 | **2023-02-02** | [2023-02-02.json](days/2023-02-02.json) | [Forum](https://www.nytimes.com/2023/02/02/crosswords/spelling-bee-forum.html) |      51 |          1 |         |
 | **2023-02-03** | [2023-02-03.json](days/2023-02-03.json) | [Forum](https://www.nytimes.com/2023/02/03/crosswords/spelling-bee-forum.html) |      30 |          1 |         |
+| **2023-02-04** | [2023-02-04.json](days/2023-02-04.json) | [Forum](https://www.nytimes.com/2023/02/04/crosswords/spelling-bee-forum.html) |      46 |          3 |         |
 
 <!-- generated table end -->
 
