@@ -6,7 +6,7 @@
 
 <!-- generated table start -->
 
-45 pangrams
+48 pangrams
 
 | Word             |   Count | Definition                                 |
 |------------------|---------|--------------------------------------------|
@@ -27,6 +27,7 @@
 | **funneling**    |       1 | https://www.wordnik.com/words/funneling    |
 | **habitual**     |       1 | https://www.wordnik.com/words/habitual     |
 | **halibut**      |       1 | https://www.wordnik.com/words/halibut      |
+| **hematic**      |       1 | https://www.wordnik.com/words/hematic      |
 | **hyphenate**    |       1 | https://www.wordnik.com/words/hyphenate    |
 | **illegality**   |       1 | https://www.wordnik.com/words/illegality   |
 | **implement**    |       1 | https://www.wordnik.com/words/implement    |
@@ -37,6 +38,7 @@
 | **judicial**     |       1 | https://www.wordnik.com/words/judicial     |
 | **legality**     |       1 | https://www.wordnik.com/words/legality     |
 | **livability**   |       1 | https://www.wordnik.com/words/livability   |
+| **mathematic**   |       1 | https://www.wordnik.com/words/mathematic   |
 | **modular**      |       1 | https://www.wordnik.com/words/modular      |
 | **nonviolent**   |       1 | https://www.wordnik.com/words/nonviolent   |
 | **notably**      |       1 | https://www.wordnik.com/words/notably      |
@@ -47,6 +49,7 @@
 | **pinewood**     |       1 | https://www.wordnik.com/words/pinewood     |
 | **taciturn**     |       1 | https://www.wordnik.com/words/taciturn     |
 | **tenacity**     |       1 | https://www.wordnik.com/words/tenacity     |
+| **thematic**     |       1 | https://www.wordnik.com/words/thematic     |
 | **tributary**    |       1 | https://www.wordnik.com/words/tributary    |
 | **uncloak**      |       1 | https://www.wordnik.com/words/uncloak      |
 | **unfeeling**    |       1 | https://www.wordnik.com/words/unfeeling    |
