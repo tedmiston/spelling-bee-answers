@@ -1,0 +1,63 @@
+{
+  "expiration": 1675670400,
+  "displayWeekday": "Sunday",
+  "displayDate": "February 5, 2023",
+  "printDate": "2023-02-05",
+  "centerLetter": "h",
+  "outerLetters": [
+    "a",
+    "b",
+    "l",
+    "m",
+    "o",
+    "t"
+  ],
+  "validLetters": [
+    "h",
+    "a",
+    "b",
+    "l",
+    "m",
+    "o",
+    "t"
+  ],
+  "pangrams": [
+    "mothball"
+  ],
+  "answers": [
+    "mothball",
+    "aloha",
+    "baht",
+    "bath",
+    "bathmat",
+    "blah",
+    "boho",
+    "boohoo",
+    "booth",
+    "both",
+    "haboob",
+    "halal",
+    "hall",
+    "halo",
+    "halt",
+    "hath",
+    "hatha",
+    "hobo",
+    "holt",
+    "hoot",
+    "lath",
+    "loath",
+    "mahatma",
+    "mammoth",
+    "math",
+    "moolah",
+    "moth",
+    "oath",
+    "that",
+    "tollbooth",
+    "tooth"
+  ],
+  "id": 23216,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
