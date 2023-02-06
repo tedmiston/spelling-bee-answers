@@ -6,7 +6,7 @@
 
 <!-- generated table start -->
 
-48 pangrams
+49 pangrams
 
 | Word             |   Count | Definition                                 |
 |------------------|---------|--------------------------------------------|
@@ -40,6 +40,7 @@
 | **livability**   |       1 | https://www.wordnik.com/words/livability   |
 | **mathematic**   |       1 | https://www.wordnik.com/words/mathematic   |
 | **modular**      |       1 | https://www.wordnik.com/words/modular      |
+| **mothball**     |       1 | https://www.wordnik.com/words/mothball     |
 | **nonviolent**   |       1 | https://www.wordnik.com/words/nonviolent   |
 | **notably**      |       1 | https://www.wordnik.com/words/notably      |
 | **obliged**      |       1 | https://www.wordnik.com/words/obliged      |
