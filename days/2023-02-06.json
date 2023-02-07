@@ -1,0 +1,62 @@
+{
+  "expiration": 1675756800,
+  "displayWeekday": "Monday",
+  "displayDate": "February 6, 2023",
+  "printDate": "2023-02-06",
+  "centerLetter": "i",
+  "outerLetters": [
+    "a",
+    "c",
+    "f",
+    "l",
+    "n",
+    "u"
+  ],
+  "validLetters": [
+    "i",
+    "a",
+    "c",
+    "f",
+    "l",
+    "n",
+    "u"
+  ],
+  "pangrams": [
+    "fanciful"
+  ],
+  "answers": [
+    "fanciful",
+    "acacia",
+    "acai",
+    "annuli",
+    "calculi",
+    "cilia",
+    "cliff",
+    "clinic",
+    "clinical",
+    "clinician",
+    "facial",
+    "fail",
+    "fanfic",
+    "filial",
+    "fill",
+    "final",
+    "financial",
+    "finial",
+    "flail",
+    "fulfill",
+    "iliac",
+    "infill",
+    "laic",
+    "laical",
+    "lain",
+    "lanai",
+    "lilac",
+    "naif",
+    "nail",
+    "niacin"
+  ],
+  "id": 10983,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
