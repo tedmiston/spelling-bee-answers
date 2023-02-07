@@ -8,12 +8,12 @@ Words that have occurred more than once.
 
 <!-- generated multi table start -->
 
-184 words
+193 words
 
 | Word          |   Count | Definition                              |
 |---------------|---------|-----------------------------------------|
-| **acacia**    |       4 | https://www.wordnik.com/words/acacia    |
-| **acai**      |       4 | https://www.wordnik.com/words/acai      |
+| **acacia**    |       5 | https://www.wordnik.com/words/acacia    |
+| **acai**      |       5 | https://www.wordnik.com/words/acai      |
 | **acetic**    |       2 | https://www.wordnik.com/words/acetic    |
 | **acid**      |       2 | https://www.wordnik.com/words/acid      |
 | **acidic**    |       2 | https://www.wordnik.com/words/acidic    |
@@ -52,6 +52,7 @@ Words that have occurred more than once.
 | **blatant**   |       2 | https://www.wordnik.com/words/blatant   |
 | **cacti**     |       3 | https://www.wordnik.com/words/cacti     |
 | **cairn**     |       2 | https://www.wordnik.com/words/cairn     |
+| **calculi**   |       2 | https://www.wordnik.com/words/calculi   |
 | **cami**      |       2 | https://www.wordnik.com/words/cami      |
 | **canard**    |       2 | https://www.wordnik.com/words/canard    |
 | **cantina**   |       2 | https://www.wordnik.com/words/cantina   |
@@ -59,6 +60,7 @@ Words that have occurred more than once.
 | **cardiac**   |       2 | https://www.wordnik.com/words/cardiac   |
 | **caul**      |       2 | https://www.wordnik.com/words/caul      |
 | **cicada**    |       2 | https://www.wordnik.com/words/cicada    |
+| **cilia**     |       2 | https://www.wordnik.com/words/cilia     |
 | **circa**     |       2 | https://www.wordnik.com/words/circa     |
 | **circadian** |       2 | https://www.wordnik.com/words/circadian |
 | **cirri**     |       2 | https://www.wordnik.com/words/cirri     |
@@ -76,6 +78,8 @@ Words that have occurred more than once.
 | **entice**    |       2 | https://www.wordnik.com/words/entice    |
 | **even**      |       3 | https://www.wordnik.com/words/even      |
 | **evolve**    |       2 | https://www.wordnik.com/words/evolve    |
+| **fill**      |       2 | https://www.wordnik.com/words/fill      |
+| **fulfill**   |       2 | https://www.wordnik.com/words/fulfill   |
 | **goop**      |       2 | https://www.wordnik.com/words/goop      |
 | **goth**      |       2 | https://www.wordnik.com/words/goth      |
 | **grad**      |       2 | https://www.wordnik.com/words/grad      |
@@ -91,21 +95,26 @@ Words that have occurred more than once.
 | **hath**      |       2 | https://www.wordnik.com/words/hath      |
 | **hatha**     |       2 | https://www.wordnik.com/words/hatha     |
 | **hoot**      |       2 | https://www.wordnik.com/words/hoot      |
+| **iliac**     |       2 | https://www.wordnik.com/words/iliac     |
 | **illy**      |       2 | https://www.wordnik.com/words/illy      |
 | **imam**      |       2 | https://www.wordnik.com/words/imam      |
 | **incant**    |       2 | https://www.wordnik.com/words/incant    |
 | **incite**    |       2 | https://www.wordnik.com/words/incite    |
+| **infill**    |       2 | https://www.wordnik.com/words/infill    |
 | **innie**     |       2 | https://www.wordnik.com/words/innie     |
 | **intact**    |       2 | https://www.wordnik.com/words/intact    |
 | **item**      |       2 | https://www.wordnik.com/words/item      |
 | **itty**      |       3 | https://www.wordnik.com/words/itty      |
 | **labia**     |       2 | https://www.wordnik.com/words/labia     |
 | **labial**    |       2 | https://www.wordnik.com/words/labial    |
+| **laic**      |       2 | https://www.wordnik.com/words/laic      |
+| **laical**    |       2 | https://www.wordnik.com/words/laical    |
 | **laity**     |       2 | https://www.wordnik.com/words/laity     |
 | **lath**      |       2 | https://www.wordnik.com/words/lath      |
 | **laud**      |       2 | https://www.wordnik.com/words/laud      |
 | **levee**     |       2 | https://www.wordnik.com/words/levee     |
 | **level**     |       2 | https://www.wordnik.com/words/level     |
+| **lilac**     |       2 | https://www.wordnik.com/words/lilac     |
 | **lilt**      |       2 | https://www.wordnik.com/words/lilt      |
 | **lily**      |       2 | https://www.wordnik.com/words/lily      |
 | **lime**      |       2 | https://www.wordnik.com/words/lime      |
@@ -138,7 +147,7 @@ Words that have occurred more than once.
 | **narc**      |       2 | https://www.wordnik.com/words/narc      |
 | **natant**    |       2 | https://www.wordnik.com/words/natant    |
 | **natty**     |       2 | https://www.wordnik.com/words/natty     |
-| **niacin**    |       2 | https://www.wordnik.com/words/niacin    |
+| **niacin**    |       3 | https://www.wordnik.com/words/niacin    |
 | **nice**      |       2 | https://www.wordnik.com/words/nice      |
 | **niece**     |       2 | https://www.wordnik.com/words/niece     |
 | **nine**      |       2 | https://www.wordnik.com/words/nine      |
@@ -205,15 +214,15 @@ Every word that's occurred so far.
 
 <!-- generated all table start -->
 
-1233 words
+1251 words
 
 | Word             |   Count | Definition                                 |
 |------------------|---------|--------------------------------------------|
 | **aback**        |       1 | https://www.wordnik.com/words/aback        |
 | **ability**      |       1 | https://www.wordnik.com/words/ability      |
 | **abut**         |       1 | https://www.wordnik.com/words/abut         |
-| **acacia**       |       4 | https://www.wordnik.com/words/acacia       |
-| **acai**         |       4 | https://www.wordnik.com/words/acai         |
+| **acacia**       |       5 | https://www.wordnik.com/words/acacia       |
+| **acai**         |       5 | https://www.wordnik.com/words/acai         |
 | **acetic**       |       2 | https://www.wordnik.com/words/acetic       |
 | **acid**         |       2 | https://www.wordnik.com/words/acid         |
 | **acidic**       |       2 | https://www.wordnik.com/words/acidic       |
@@ -262,6 +271,7 @@ Every word that's occurred so far.
 | **annoy**        |       1 | https://www.wordnik.com/words/annoy        |
 | **annual**       |       2 | https://www.wordnik.com/words/annual       |
 | **annul**        |       2 | https://www.wordnik.com/words/annul        |
+| **annuli**       |       1 | https://www.wordnik.com/words/annuli       |
 | **anoint**       |       1 | https://www.wordnik.com/words/anoint       |
 | **anon**         |       2 | https://www.wordnik.com/words/anon         |
 | **antarctic**    |       1 | https://www.wordnik.com/words/antarctic    |
@@ -433,7 +443,7 @@ Every word that's occurred so far.
 | **cacti**        |       3 | https://www.wordnik.com/words/cacti        |
 | **cadging**      |       1 | https://www.wordnik.com/words/cadging      |
 | **cairn**        |       2 | https://www.wordnik.com/words/cairn        |
-| **calculi**      |       1 | https://www.wordnik.com/words/calculi      |
+| **calculi**      |       2 | https://www.wordnik.com/words/calculi      |
 | **call**         |       1 | https://www.wordnik.com/words/call         |
 | **calla**        |       1 | https://www.wordnik.com/words/calla        |
 | **cami**         |       2 | https://www.wordnik.com/words/cami         |
@@ -476,7 +486,7 @@ Every word that's occurred so far.
 | **chit**         |       1 | https://www.wordnik.com/words/chit         |
 | **chitchat**     |       1 | https://www.wordnik.com/words/chitchat     |
 | **cicada**       |       2 | https://www.wordnik.com/words/cicada       |
-| **cilia**        |       1 | https://www.wordnik.com/words/cilia        |
+| **cilia**        |       2 | https://www.wordnik.com/words/cilia        |
 | **circa**        |       2 | https://www.wordnik.com/words/circa        |
 | **circadian**    |       2 | https://www.wordnik.com/words/circadian    |
 | **circuit**      |       1 | https://www.wordnik.com/words/circuit      |
@@ -488,6 +498,10 @@ Every word that's occurred so far.
 | **civic**        |       1 | https://www.wordnik.com/words/civic        |
 | **clad**         |       1 | https://www.wordnik.com/words/clad         |
 | **clean**        |       1 | https://www.wordnik.com/words/clean        |
+| **cliff**        |       1 | https://www.wordnik.com/words/cliff        |
+| **clinic**       |       1 | https://www.wordnik.com/words/clinic       |
+| **clinical**     |       1 | https://www.wordnik.com/words/clinical     |
+| **clinician**    |       1 | https://www.wordnik.com/words/clinician    |
 | **clone**        |       1 | https://www.wordnik.com/words/clone        |
 | **cluck**        |       1 | https://www.wordnik.com/words/cluck        |
 | **clunk**        |       1 | https://www.wordnik.com/words/clunk        |
@@ -616,7 +630,11 @@ Every word that's occurred so far.
 | **exult**        |       1 | https://www.wordnik.com/words/exult        |
 | **exultant**     |       1 | https://www.wordnik.com/words/exultant     |
 | **eyeteeth**     |       1 | https://www.wordnik.com/words/eyeteeth     |
+| **facial**       |       1 | https://www.wordnik.com/words/facial       |
+| **fail**         |       1 | https://www.wordnik.com/words/fail         |
 | **falloff**      |       1 | https://www.wordnik.com/words/falloff      |
+| **fanciful**     |       1 | https://www.wordnik.com/words/fanciful     |
+| **fanfic**       |       1 | https://www.wordnik.com/words/fanfic       |
 | **feel**         |       1 | https://www.wordnik.com/words/feel         |
 | **feeling**      |       1 | https://www.wordnik.com/words/feeling      |
 | **feign**        |       1 | https://www.wordnik.com/words/feign        |
@@ -631,12 +649,17 @@ Every word that's occurred so far.
 | **fife**         |       1 | https://www.wordnik.com/words/fife         |
 | **fifing**       |       1 | https://www.wordnik.com/words/fifing       |
 | **file**         |       1 | https://www.wordnik.com/words/file         |
+| **filial**       |       1 | https://www.wordnik.com/words/filial       |
 | **filing**       |       1 | https://www.wordnik.com/words/filing       |
-| **fill**         |       1 | https://www.wordnik.com/words/fill         |
+| **fill**         |       2 | https://www.wordnik.com/words/fill         |
 | **filling**      |       1 | https://www.wordnik.com/words/filling      |
+| **final**        |       1 | https://www.wordnik.com/words/final        |
+| **financial**    |       1 | https://www.wordnik.com/words/financial    |
 | **fine**         |       1 | https://www.wordnik.com/words/fine         |
+| **finial**       |       1 | https://www.wordnik.com/words/finial       |
 | **fining**       |       1 | https://www.wordnik.com/words/fining       |
 | **flagpole**     |       1 | https://www.wordnik.com/words/flagpole     |
+| **flail**        |       1 | https://www.wordnik.com/words/flail        |
 | **flee**         |       1 | https://www.wordnik.com/words/flee         |
 | **fleeing**      |       1 | https://www.wordnik.com/words/fleeing      |
 | **fling**        |       1 | https://www.wordnik.com/words/fling        |
@@ -654,7 +677,7 @@ Every word that's occurred so far.
 | **fueling**      |       1 | https://www.wordnik.com/words/fueling      |
 | **fugu**         |       1 | https://www.wordnik.com/words/fugu         |
 | **fugue**        |       1 | https://www.wordnik.com/words/fugue        |
-| **fulfill**      |       1 | https://www.wordnik.com/words/fulfill      |
+| **fulfill**      |       2 | https://www.wordnik.com/words/fulfill      |
 | **fulfilling**   |       1 | https://www.wordnik.com/words/fulfilling   |
 | **full**         |       1 | https://www.wordnik.com/words/full         |
 | **fungi**        |       1 | https://www.wordnik.com/words/fungi        |
@@ -778,7 +801,7 @@ Every word that's occurred so far.
 | **hyphenate**    |       1 | https://www.wordnik.com/words/hyphenate    |
 | **ignite**       |       1 | https://www.wordnik.com/words/ignite       |
 | **igniting**     |       1 | https://www.wordnik.com/words/igniting     |
-| **iliac**        |       1 | https://www.wordnik.com/words/iliac        |
+| **iliac**        |       2 | https://www.wordnik.com/words/iliac        |
 | **illegal**      |       1 | https://www.wordnik.com/words/illegal      |
 | **illegality**   |       1 | https://www.wordnik.com/words/illegality   |
 | **illegally**    |       1 | https://www.wordnik.com/words/illegally    |
@@ -804,7 +827,7 @@ Every word that's occurred so far.
 | **inefficient**  |       1 | https://www.wordnik.com/words/inefficient  |
 | **infect**       |       1 | https://www.wordnik.com/words/infect       |
 | **infective**    |       1 | https://www.wordnik.com/words/infective    |
-| **infill**       |       1 | https://www.wordnik.com/words/infill       |
+| **infill**       |       2 | https://www.wordnik.com/words/infill       |
 | **infilling**    |       1 | https://www.wordnik.com/words/infilling    |
 | **initiate**     |       1 | https://www.wordnik.com/words/initiate     |
 | **initiation**   |       1 | https://www.wordnik.com/words/initiation   |
@@ -846,10 +869,12 @@ Every word that's occurred so far.
 | **lability**     |       1 | https://www.wordnik.com/words/lability     |
 | **lace**         |       1 | https://www.wordnik.com/words/lace         |
 | **lacuna**       |       1 | https://www.wordnik.com/words/lacuna       |
-| **laic**         |       1 | https://www.wordnik.com/words/laic         |
-| **laical**       |       1 | https://www.wordnik.com/words/laical       |
+| **laic**         |       2 | https://www.wordnik.com/words/laic         |
+| **laical**       |       2 | https://www.wordnik.com/words/laical       |
 | **laid**         |       1 | https://www.wordnik.com/words/laid         |
+| **lain**         |       1 | https://www.wordnik.com/words/lain         |
 | **laity**        |       2 | https://www.wordnik.com/words/laity        |
+| **lanai**        |       1 | https://www.wordnik.com/words/lanai        |
 | **lance**        |       1 | https://www.wordnik.com/words/lance        |
 | **lane**         |       1 | https://www.wordnik.com/words/lane         |
 | **lantana**      |       1 | https://www.wordnik.com/words/lantana      |
@@ -873,7 +898,7 @@ Every word that's occurred so far.
 | **life**         |       1 | https://www.wordnik.com/words/life         |
 | **lifeline**     |       1 | https://www.wordnik.com/words/lifeline     |
 | **ligate**       |       1 | https://www.wordnik.com/words/ligate       |
-| **lilac**        |       1 | https://www.wordnik.com/words/lilac        |
+| **lilac**        |       2 | https://www.wordnik.com/words/lilac        |
 | **lilt**         |       2 | https://www.wordnik.com/words/lilt         |
 | **lily**         |       2 | https://www.wordnik.com/words/lily         |
 | **lime**         |       2 | https://www.wordnik.com/words/lime         |
@@ -1010,6 +1035,8 @@ Every word that's occurred so far.
 | **nada**         |       1 | https://www.wordnik.com/words/nada         |
 | **nadir**        |       2 | https://www.wordnik.com/words/nadir        |
 | **naiad**        |       1 | https://www.wordnik.com/words/naiad        |
+| **naif**         |       1 | https://www.wordnik.com/words/naif         |
+| **nail**         |       1 | https://www.wordnik.com/words/nail         |
 | **naive**        |       1 | https://www.wordnik.com/words/naive        |
 | **nana**         |       2 | https://www.wordnik.com/words/nana         |
 | **nanny**        |       2 | https://www.wordnik.com/words/nanny        |
@@ -1028,7 +1055,7 @@ Every word that's occurred so far.
 | **netting**      |       1 | https://www.wordnik.com/words/netting      |
 | **netty**        |       1 | https://www.wordnik.com/words/netty        |
 | **newel**        |       1 | https://www.wordnik.com/words/newel        |
-| **niacin**       |       2 | https://www.wordnik.com/words/niacin       |
+| **niacin**       |       3 | https://www.wordnik.com/words/niacin       |
 | **nice**         |       2 | https://www.wordnik.com/words/nice         |
 | **nicety**       |       1 | https://www.wordnik.com/words/nicety       |
 | **niece**        |       2 | https://www.wordnik.com/words/niece        |
