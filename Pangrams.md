@@ -6,7 +6,7 @@
 
 <!-- generated table start -->
 
-50 pangrams
+51 pangrams
 
 | Word             |   Count | Definition                                 |
 |------------------|---------|--------------------------------------------|
@@ -50,6 +50,7 @@
 | **photograph**   |       1 | https://www.wordnik.com/words/photograph   |
 | **pinewood**     |       1 | https://www.wordnik.com/words/pinewood     |
 | **taciturn**     |       1 | https://www.wordnik.com/words/taciturn     |
+| **talkative**    |       1 | https://www.wordnik.com/words/talkative    |
 | **tenacity**     |       1 | https://www.wordnik.com/words/tenacity     |
 | **thematic**     |       1 | https://www.wordnik.com/words/thematic     |
 | **tributary**    |       1 | https://www.wordnik.com/words/tributary    |
