@@ -6,7 +6,7 @@
 
 <!-- generated table start -->
 
-51 pangrams
+52 pangrams
 
 | Word             |   Count | Definition                                 |
 |------------------|---------|--------------------------------------------|
@@ -19,6 +19,7 @@
 | **cardigan**     |       1 | https://www.wordnik.com/words/cardigan     |
 | **carding**      |       1 | https://www.wordnik.com/words/carding      |
 | **curtain**      |       1 | https://www.wordnik.com/words/curtain      |
+| **dormitory**    |       1 | https://www.wordnik.com/words/dormitory    |
 | **engulfing**    |       1 | https://www.wordnik.com/words/engulfing    |
 | **enveloped**    |       1 | https://www.wordnik.com/words/enveloped    |
 | **exultant**     |       1 | https://www.wordnik.com/words/exultant     |
