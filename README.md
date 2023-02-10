@@ -60,6 +60,7 @@ See [Words](Words.md).
 | **2023-02-06** | [2023-02-06.json](days/2023-02-06.json) | [Forum](https://www.nytimes.com/2023/02/06/crosswords/spelling-bee-forum.html) |      30 |          1 |         |
 | **2023-02-07** | [2023-02-07.json](days/2023-02-07.json) | [Forum](https://www.nytimes.com/2023/02/07/crosswords/spelling-bee-forum.html) |      55 |          1 |         |
 | **2023-02-08** | [2023-02-08.json](days/2023-02-08.json) | [Forum](https://www.nytimes.com/2023/02/08/crosswords/spelling-bee-forum.html) |      46 |          1 |         |
+| **2023-02-09** | [2023-02-09.json](days/2023-02-09.json) | [Forum](https://www.nytimes.com/2023/02/09/crosswords/spelling-bee-forum.html) |      49 |          1 |         |
 
 <!-- generated table end -->
 
