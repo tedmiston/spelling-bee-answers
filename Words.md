@@ -8,7 +8,7 @@ Words that have occurred more than once.
 
 <!-- generated multi table start -->
 
-220 words
+225 words
 
 | Word          |   Count | Definition                              |
 |---------------|---------|-----------------------------------------|
@@ -85,6 +85,8 @@ Words that have occurred more than once.
 | **evolve**    |       2 | https://www.wordnik.com/words/evolve    |
 | **fill**      |       2 | https://www.wordnik.com/words/fill      |
 | **fulfill**   |       2 | https://www.wordnik.com/words/fulfill   |
+| **gigging**   |       2 | https://www.wordnik.com/words/gigging   |
+| **ginning**   |       2 | https://www.wordnik.com/words/ginning   |
 | **goop**      |       2 | https://www.wordnik.com/words/goop      |
 | **goth**      |       2 | https://www.wordnik.com/words/goth      |
 | **grad**      |       2 | https://www.wordnik.com/words/grad      |
@@ -107,6 +109,7 @@ Words that have occurred more than once.
 | **incite**    |       2 | https://www.wordnik.com/words/incite    |
 | **infill**    |       2 | https://www.wordnik.com/words/infill    |
 | **innie**     |       2 | https://www.wordnik.com/words/innie     |
+| **inning**    |       2 | https://www.wordnik.com/words/inning    |
 | **intact**    |       2 | https://www.wordnik.com/words/intact    |
 | **item**      |       2 | https://www.wordnik.com/words/item      |
 | **itty**      |       3 | https://www.wordnik.com/words/itty      |
@@ -143,9 +146,11 @@ Words that have occurred more than once.
 | **mill**      |       2 | https://www.wordnik.com/words/mill      |
 | **mime**      |       3 | https://www.wordnik.com/words/mime      |
 | **mimic**     |       2 | https://www.wordnik.com/words/mimic     |
+| **miming**    |       2 | https://www.wordnik.com/words/miming    |
 | **mine**      |       2 | https://www.wordnik.com/words/mine      |
 | **mini**      |       2 | https://www.wordnik.com/words/mini      |
 | **minim**     |       2 | https://www.wordnik.com/words/minim     |
+| **mining**    |       2 | https://www.wordnik.com/words/mining    |
 | **mite**      |       2 | https://www.wordnik.com/words/mite      |
 | **mitt**      |       3 | https://www.wordnik.com/words/mitt      |
 | **moot**      |       2 | https://www.wordnik.com/words/moot      |
@@ -241,7 +246,7 @@ Every word that's occurred so far.
 
 <!-- generated all table start -->
 
-1323 words
+1367 words
 
 | Word             |   Count | Definition                                 |
 |------------------|---------|--------------------------------------------|
@@ -253,22 +258,26 @@ Every word that's occurred so far.
 | **acetic**       |       2 | https://www.wordnik.com/words/acetic       |
 | **acid**         |       2 | https://www.wordnik.com/words/acid         |
 | **acidic**       |       2 | https://www.wordnik.com/words/acidic       |
+| **acing**        |       1 | https://www.wordnik.com/words/acing        |
 | **acne**         |       1 | https://www.wordnik.com/words/acne         |
 | **acrid**        |       2 | https://www.wordnik.com/words/acrid        |
 | **adding**       |       1 | https://www.wordnik.com/words/adding       |
 | **adorn**        |       1 | https://www.wordnik.com/words/adorn        |
 | **aeon**         |       1 | https://www.wordnik.com/words/aeon         |
+| **again**        |       1 | https://www.wordnik.com/words/again        |
 | **agar**         |       1 | https://www.wordnik.com/words/agar         |
 | **agave**        |       1 | https://www.wordnik.com/words/agave        |
 | **agile**        |       1 | https://www.wordnik.com/words/agile        |
 | **agilely**      |       1 | https://www.wordnik.com/words/agilely      |
 | **agility**      |       1 | https://www.wordnik.com/words/agility      |
+| **aging**        |       1 | https://www.wordnik.com/words/aging        |
 | **agita**        |       1 | https://www.wordnik.com/words/agita        |
 | **agitate**      |       1 | https://www.wordnik.com/words/agitate      |
 | **agog**         |       2 | https://www.wordnik.com/words/agog         |
 | **agora**        |       2 | https://www.wordnik.com/words/agora        |
 | **aground**      |       1 | https://www.wordnik.com/words/aground      |
 | **aiding**       |       1 | https://www.wordnik.com/words/aiding       |
+| **aiming**       |       1 | https://www.wordnik.com/words/aiming       |
 | **airy**         |       1 | https://www.wordnik.com/words/airy         |
 | **aleph**        |       1 | https://www.wordnik.com/words/aleph        |
 | **alibi**        |       2 | https://www.wordnik.com/words/alibi        |
@@ -292,6 +301,7 @@ Every word that's occurred so far.
 | **anarchic**     |       1 | https://www.wordnik.com/words/anarchic     |
 | **ancient**      |       1 | https://www.wordnik.com/words/ancient      |
 | **anew**         |       1 | https://www.wordnik.com/words/anew         |
+| **angina**       |       1 | https://www.wordnik.com/words/angina       |
 | **angora**       |       1 | https://www.wordnik.com/words/angora       |
 | **anion**        |       1 | https://www.wordnik.com/words/anion        |
 | **annal**        |       1 | https://www.wordnik.com/words/annal        |
@@ -473,7 +483,9 @@ Every word that's occurred so far.
 | **buttock**      |       1 | https://www.wordnik.com/words/buttock      |
 | **cacti**        |       3 | https://www.wordnik.com/words/cacti        |
 | **cadging**      |       1 | https://www.wordnik.com/words/cadging      |
+| **caging**       |       1 | https://www.wordnik.com/words/caging       |
 | **cairn**        |       2 | https://www.wordnik.com/words/cairn        |
+| **caking**       |       1 | https://www.wordnik.com/words/caking       |
 | **calculi**      |       2 | https://www.wordnik.com/words/calculi      |
 | **call**         |       1 | https://www.wordnik.com/words/call         |
 | **calla**        |       1 | https://www.wordnik.com/words/calla        |
@@ -486,7 +498,9 @@ Every word that's occurred so far.
 | **cane**         |       1 | https://www.wordnik.com/words/cane         |
 | **canid**        |       1 | https://www.wordnik.com/words/canid        |
 | **canine**       |       1 | https://www.wordnik.com/words/canine       |
+| **caning**       |       1 | https://www.wordnik.com/words/caning       |
 | **canna**        |       1 | https://www.wordnik.com/words/canna        |
+| **canning**      |       1 | https://www.wordnik.com/words/canning      |
 | **cannula**      |       1 | https://www.wordnik.com/words/cannula      |
 | **canoe**        |       1 | https://www.wordnik.com/words/canoe        |
 | **cant**         |       1 | https://www.wordnik.com/words/cant         |
@@ -726,11 +740,20 @@ Every word that's occurred so far.
 | **funnel**       |       1 | https://www.wordnik.com/words/funnel       |
 | **funneling**    |       1 | https://www.wordnik.com/words/funneling    |
 | **gadding**      |       1 | https://www.wordnik.com/words/gadding      |
+| **gaga**         |       1 | https://www.wordnik.com/words/gaga         |
+| **gagging**      |       1 | https://www.wordnik.com/words/gagging      |
 | **gaiety**       |       1 | https://www.wordnik.com/words/gaiety       |
 | **gaily**        |       1 | https://www.wordnik.com/words/gaily        |
+| **gain**         |       1 | https://www.wordnik.com/words/gain         |
+| **gaining**      |       1 | https://www.wordnik.com/words/gaining      |
 | **gait**         |       1 | https://www.wordnik.com/words/gait         |
 | **gallop**       |       1 | https://www.wordnik.com/words/gallop       |
 | **galop**        |       1 | https://www.wordnik.com/words/galop        |
+| **gamin**        |       1 | https://www.wordnik.com/words/gamin        |
+| **gaming**       |       1 | https://www.wordnik.com/words/gaming       |
+| **gamma**        |       1 | https://www.wordnik.com/words/gamma        |
+| **gang**         |       1 | https://www.wordnik.com/words/gang         |
+| **ganging**      |       1 | https://www.wordnik.com/words/ganging      |
 | **gator**        |       1 | https://www.wordnik.com/words/gator        |
 | **gavage**       |       1 | https://www.wordnik.com/words/gavage       |
 | **gave**         |       1 | https://www.wordnik.com/words/gave         |
@@ -743,13 +766,14 @@ Every word that's occurred so far.
 | **getting**      |       1 | https://www.wordnik.com/words/getting      |
 | **gibe**         |       1 | https://www.wordnik.com/words/gibe         |
 | **gibed**        |       1 | https://www.wordnik.com/words/gibed        |
-| **gigging**      |       1 | https://www.wordnik.com/words/gigging      |
+| **gigging**      |       2 | https://www.wordnik.com/words/gigging      |
 | **giggle**       |       1 | https://www.wordnik.com/words/giggle       |
 | **giggly**       |       1 | https://www.wordnik.com/words/giggly       |
 | **gill**         |       1 | https://www.wordnik.com/words/gill         |
 | **gilt**         |       1 | https://www.wordnik.com/words/gilt         |
 | **gimme**        |       1 | https://www.wordnik.com/words/gimme        |
-| **ginning**      |       1 | https://www.wordnik.com/words/ginning      |
+| **gimmick**      |       1 | https://www.wordnik.com/words/gimmick      |
+| **ginning**      |       2 | https://www.wordnik.com/words/ginning      |
 | **gird**         |       1 | https://www.wordnik.com/words/gird         |
 | **girding**      |       1 | https://www.wordnik.com/words/girding      |
 | **give**         |       1 | https://www.wordnik.com/words/give         |
@@ -841,6 +865,7 @@ Every word that's occurred so far.
 | **hype**         |       1 | https://www.wordnik.com/words/hype         |
 | **hyphen**       |       1 | https://www.wordnik.com/words/hyphen       |
 | **hyphenate**    |       1 | https://www.wordnik.com/words/hyphenate    |
+| **icing**        |       1 | https://www.wordnik.com/words/icing        |
 | **idiom**        |       1 | https://www.wordnik.com/words/idiom        |
 | **idiot**        |       1 | https://www.wordnik.com/words/idiot        |
 | **ignite**       |       1 | https://www.wordnik.com/words/ignite       |
@@ -851,6 +876,8 @@ Every word that's occurred so far.
 | **illegally**    |       1 | https://www.wordnik.com/words/illegally    |
 | **illegible**    |       1 | https://www.wordnik.com/words/illegible    |
 | **illy**         |       2 | https://www.wordnik.com/words/illy         |
+| **imaging**      |       1 | https://www.wordnik.com/words/imaging      |
+| **imagining**    |       1 | https://www.wordnik.com/words/imagining    |
 | **imam**         |       2 | https://www.wordnik.com/words/imam         |
 | **imitate**      |       1 | https://www.wordnik.com/words/imitate      |
 | **imminent**     |       1 | https://www.wordnik.com/words/imminent     |
@@ -876,9 +903,10 @@ Every word that's occurred so far.
 | **initiate**     |       1 | https://www.wordnik.com/words/initiate     |
 | **initiation**   |       1 | https://www.wordnik.com/words/initiation   |
 | **initiator**    |       1 | https://www.wordnik.com/words/initiator    |
+| **inking**       |       1 | https://www.wordnik.com/words/inking       |
 | **innate**       |       1 | https://www.wordnik.com/words/innate       |
 | **innie**        |       2 | https://www.wordnik.com/words/innie        |
-| **inning**       |       1 | https://www.wordnik.com/words/inning       |
+| **inning**       |       2 | https://www.wordnik.com/words/inning       |
 | **intact**       |       2 | https://www.wordnik.com/words/intact       |
 | **intent**       |       1 | https://www.wordnik.com/words/intent       |
 | **into**         |       1 | https://www.wordnik.com/words/into         |
@@ -910,6 +938,10 @@ Every word that's occurred so far.
 | **kale**         |       1 | https://www.wordnik.com/words/kale         |
 | **keel**         |       1 | https://www.wordnik.com/words/keel         |
 | **kettle**       |       1 | https://www.wordnik.com/words/kettle       |
+| **kicking**      |       1 | https://www.wordnik.com/words/kicking      |
+| **king**         |       1 | https://www.wordnik.com/words/king         |
+| **kinging**      |       1 | https://www.wordnik.com/words/kinging      |
+| **kinking**      |       1 | https://www.wordnik.com/words/kinking      |
 | **kite**         |       1 | https://www.wordnik.com/words/kite         |
 | **kook**         |       1 | https://www.wordnik.com/words/kook         |
 | **kvell**        |       1 | https://www.wordnik.com/words/kvell        |
@@ -1012,12 +1044,22 @@ Every word that's occurred so far.
 | **lute**         |       1 | https://www.wordnik.com/words/lute         |
 | **luteal**       |       1 | https://www.wordnik.com/words/luteal       |
 | **luxe**         |       1 | https://www.wordnik.com/words/luxe         |
+| **macing**       |       1 | https://www.wordnik.com/words/macing       |
+| **magi**         |       1 | https://www.wordnik.com/words/magi         |
+| **magic**        |       1 | https://www.wordnik.com/words/magic        |
+| **magician**     |       1 | https://www.wordnik.com/words/magician     |
+| **magma**        |       1 | https://www.wordnik.com/words/magma        |
 | **mahatma**      |       1 | https://www.wordnik.com/words/mahatma      |
 | **mahimahi**     |       1 | https://www.wordnik.com/words/mahimahi     |
 | **maim**         |       2 | https://www.wordnik.com/words/maim         |
+| **maiming**      |       1 | https://www.wordnik.com/words/maiming      |
+| **making**       |       1 | https://www.wordnik.com/words/making       |
 | **mama**         |       1 | https://www.wordnik.com/words/mama         |
 | **mamma**        |       1 | https://www.wordnik.com/words/mamma        |
 | **mammoth**      |       1 | https://www.wordnik.com/words/mammoth      |
+| **managing**     |       1 | https://www.wordnik.com/words/managing     |
+| **manga**        |       1 | https://www.wordnik.com/words/manga        |
+| **manning**      |       1 | https://www.wordnik.com/words/manning      |
 | **maraud**       |       1 | https://www.wordnik.com/words/maraud       |
 | **math**         |       1 | https://www.wordnik.com/words/math         |
 | **mathematic**   |       1 | https://www.wordnik.com/words/mathematic   |
@@ -1051,6 +1093,7 @@ Every word that's occurred so far.
 | **middlemen**    |       1 | https://www.wordnik.com/words/middlemen    |
 | **midi**         |       1 | https://www.wordnik.com/words/midi         |
 | **mien**         |       2 | https://www.wordnik.com/words/mien         |
+| **miking**       |       1 | https://www.wordnik.com/words/miking       |
 | **mild**         |       1 | https://www.wordnik.com/words/mild         |
 | **mildew**       |       1 | https://www.wordnik.com/words/mildew       |
 | **mildewed**     |       1 | https://www.wordnik.com/words/mildewed     |
@@ -1062,7 +1105,9 @@ Every word that's occurred so far.
 | **mimed**        |       1 | https://www.wordnik.com/words/mimed        |
 | **mimetic**      |       1 | https://www.wordnik.com/words/mimetic      |
 | **mimic**        |       2 | https://www.wordnik.com/words/mimic        |
-| **miming**       |       1 | https://www.wordnik.com/words/miming       |
+| **mimicking**    |       1 | https://www.wordnik.com/words/mimicking    |
+| **miming**       |       2 | https://www.wordnik.com/words/miming       |
+| **mincing**      |       1 | https://www.wordnik.com/words/mincing      |
 | **mind**         |       1 | https://www.wordnik.com/words/mind         |
 | **minded**       |       1 | https://www.wordnik.com/words/minded       |
 | **mine**         |       2 | https://www.wordnik.com/words/mine         |
@@ -1070,7 +1115,7 @@ Every word that's occurred so far.
 | **mini**         |       2 | https://www.wordnik.com/words/mini         |
 | **minim**        |       2 | https://www.wordnik.com/words/minim        |
 | **minimizing**   |       1 | https://www.wordnik.com/words/minimizing   |
-| **mining**       |       1 | https://www.wordnik.com/words/mining       |
+| **mining**       |       2 | https://www.wordnik.com/words/mining       |
 | **mint**         |       1 | https://www.wordnik.com/words/mint         |
 | **minting**      |       1 | https://www.wordnik.com/words/minting      |
 | **mirror**       |       1 | https://www.wordnik.com/words/mirror       |
@@ -1099,10 +1144,12 @@ Every word that's occurred so far.
 | **nabob**        |       1 | https://www.wordnik.com/words/nabob        |
 | **nada**         |       1 | https://www.wordnik.com/words/nada         |
 | **nadir**        |       2 | https://www.wordnik.com/words/nadir        |
+| **nagging**      |       1 | https://www.wordnik.com/words/nagging      |
 | **naiad**        |       1 | https://www.wordnik.com/words/naiad        |
 | **naif**         |       1 | https://www.wordnik.com/words/naif         |
 | **nail**         |       1 | https://www.wordnik.com/words/nail         |
 | **naive**        |       1 | https://www.wordnik.com/words/naive        |
+| **naming**       |       1 | https://www.wordnik.com/words/naming       |
 | **nana**         |       2 | https://www.wordnik.com/words/nana         |
 | **nanny**        |       2 | https://www.wordnik.com/words/nanny        |
 | **nanobot**      |       1 | https://www.wordnik.com/words/nanobot      |
@@ -1123,6 +1170,8 @@ Every word that's occurred so far.
 | **niacin**       |       3 | https://www.wordnik.com/words/niacin       |
 | **nice**         |       2 | https://www.wordnik.com/words/nice         |
 | **nicety**       |       1 | https://www.wordnik.com/words/nicety       |
+| **nicking**      |       1 | https://www.wordnik.com/words/nicking      |
+| **nicknaming**   |       1 | https://www.wordnik.com/words/nicknaming   |
 | **niece**        |       2 | https://www.wordnik.com/words/niece        |
 | **nine**         |       2 | https://www.wordnik.com/words/nine         |
 | **ninepin**      |       1 | https://www.wordnik.com/words/ninepin      |

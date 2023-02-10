@@ -6,7 +6,7 @@
 
 <!-- generated table start -->
 
-52 pangrams
+53 pangrams
 
 | Word             |   Count | Definition                                 |
 |------------------|---------|--------------------------------------------|
@@ -43,6 +43,7 @@
 | **mathematic**   |       1 | https://www.wordnik.com/words/mathematic   |
 | **modular**      |       1 | https://www.wordnik.com/words/modular      |
 | **mothball**     |       1 | https://www.wordnik.com/words/mothball     |
+| **nicknaming**   |       1 | https://www.wordnik.com/words/nicknaming   |
 | **nonviolent**   |       1 | https://www.wordnik.com/words/nonviolent   |
 | **notably**      |       1 | https://www.wordnik.com/words/notably      |
 | **obliged**      |       1 | https://www.wordnik.com/words/obliged      |
