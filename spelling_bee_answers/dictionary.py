@@ -4,11 +4,7 @@ import yaml
 from pydantic import BaseModel
 from rich import print
 
-
-class Word(BaseModel):
-    word: str
-    part_of_speech: str
-    definitions: List[str]
+from .models import Word
 
 
 def load_definitions():

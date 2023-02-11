@@ -10,6 +10,16 @@ from pydantic import BaseModel
 from rich import print
 
 
+class Word(BaseModel):
+    """
+    A single word and its related traits.
+    """
+
+    word: str
+    part_of_speech: str
+    definitions: List[str]
+
+
 class Puzzle(BaseModel):
     """
     A Spelling Bee daily puzzle.
