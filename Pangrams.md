@@ -6,7 +6,7 @@
 
 <!-- generated table start -->
 
-53 pangrams
+54 pangrams
 
 | Word             |   Count | Definition                                 |
 |------------------|---------|--------------------------------------------|
@@ -24,6 +24,7 @@
 | **enveloped**    |       1 | https://www.wordnik.com/words/enveloped    |
 | **exultant**     |       1 | https://www.wordnik.com/words/exultant     |
 | **fanciful**     |       1 | https://www.wordnik.com/words/fanciful     |
+| **fixable**      |       1 | https://www.wordnik.com/words/fixable      |
 | **flagpole**     |       1 | https://www.wordnik.com/words/flagpole     |
 | **fueling**      |       1 | https://www.wordnik.com/words/fueling      |
 | **funneling**    |       1 | https://www.wordnik.com/words/funneling    |

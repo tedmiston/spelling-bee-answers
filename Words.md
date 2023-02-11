@@ -8,7 +8,7 @@ Words that have occurred more than once.
 
 <!-- generated multi table start -->
 
-225 words
+235 words
 
 | Word          |   Count | Definition                              |
 |---------------|---------|-----------------------------------------|
@@ -83,7 +83,16 @@ Words that have occurred more than once.
 | **even**      |       3 | https://www.wordnik.com/words/even      |
 | **evil**      |       2 | https://www.wordnik.com/words/evil      |
 | **evolve**    |       2 | https://www.wordnik.com/words/evolve    |
-| **fill**      |       2 | https://www.wordnik.com/words/fill      |
+| **fail**      |       2 | https://www.wordnik.com/words/fail      |
+| **feel**      |       2 | https://www.wordnik.com/words/feel      |
+| **fell**      |       2 | https://www.wordnik.com/words/fell      |
+| **fief**      |       2 | https://www.wordnik.com/words/fief      |
+| **fife**      |       2 | https://www.wordnik.com/words/fife      |
+| **file**      |       2 | https://www.wordnik.com/words/file      |
+| **filial**    |       2 | https://www.wordnik.com/words/filial    |
+| **fill**      |       3 | https://www.wordnik.com/words/fill      |
+| **flail**     |       2 | https://www.wordnik.com/words/flail     |
+| **flee**      |       2 | https://www.wordnik.com/words/flee      |
 | **fulfill**   |       2 | https://www.wordnik.com/words/fulfill   |
 | **gigging**   |       2 | https://www.wordnik.com/words/gigging   |
 | **ginning**   |       2 | https://www.wordnik.com/words/ginning   |
@@ -122,6 +131,7 @@ Words that have occurred more than once.
 | **laud**      |       2 | https://www.wordnik.com/words/laud      |
 | **levee**     |       3 | https://www.wordnik.com/words/levee     |
 | **level**     |       3 | https://www.wordnik.com/words/level     |
+| **life**      |       2 | https://www.wordnik.com/words/life      |
 | **lilac**     |       2 | https://www.wordnik.com/words/lilac     |
 | **lilt**      |       2 | https://www.wordnik.com/words/lilt      |
 | **lily**      |       2 | https://www.wordnik.com/words/lily      |
@@ -246,7 +256,7 @@ Every word that's occurred so far.
 
 <!-- generated all table start -->
 
-1367 words
+1390 words
 
 | Word             |   Count | Definition                                 |
 |------------------|---------|--------------------------------------------|
@@ -264,6 +274,8 @@ Every word that's occurred so far.
 | **adding**       |       1 | https://www.wordnik.com/words/adding       |
 | **adorn**        |       1 | https://www.wordnik.com/words/adorn        |
 | **aeon**         |       1 | https://www.wordnik.com/words/aeon         |
+| **affable**      |       1 | https://www.wordnik.com/words/affable      |
+| **affix**        |       1 | https://www.wordnik.com/words/affix        |
 | **again**        |       1 | https://www.wordnik.com/words/again        |
 | **agar**         |       1 | https://www.wordnik.com/words/agar         |
 | **agave**        |       1 | https://www.wordnik.com/words/agave        |
@@ -280,6 +292,7 @@ Every word that's occurred so far.
 | **aiming**       |       1 | https://www.wordnik.com/words/aiming       |
 | **airy**         |       1 | https://www.wordnik.com/words/airy         |
 | **aleph**        |       1 | https://www.wordnik.com/words/aleph        |
+| **alfalfa**      |       1 | https://www.wordnik.com/words/alfalfa      |
 | **alibi**        |       2 | https://www.wordnik.com/words/alibi        |
 | **alike**        |       1 | https://www.wordnik.com/words/alike        |
 | **alit**         |       2 | https://www.wordnik.com/words/alit         |
@@ -378,8 +391,10 @@ Every word that's occurred so far.
 | **baboon**       |       1 | https://www.wordnik.com/words/baboon       |
 | **baby**         |       1 | https://www.wordnik.com/words/baby         |
 | **back**         |       1 | https://www.wordnik.com/words/back         |
+| **baffle**       |       1 | https://www.wordnik.com/words/baffle       |
 | **baht**         |       2 | https://www.wordnik.com/words/baht         |
 | **bail**         |       2 | https://www.wordnik.com/words/bail         |
+| **bailiff**      |       1 | https://www.wordnik.com/words/bailiff      |
 | **bait**         |       3 | https://www.wordnik.com/words/bait         |
 | **ball**         |       1 | https://www.wordnik.com/words/ball         |
 | **balloon**      |       1 | https://www.wordnik.com/words/balloon      |
@@ -395,10 +410,14 @@ Every word that's occurred so far.
 | **baton**        |       1 | https://www.wordnik.com/words/baton        |
 | **batty**        |       1 | https://www.wordnik.com/words/batty        |
 | **bedded**       |       1 | https://www.wordnik.com/words/bedded       |
+| **beef**         |       1 | https://www.wordnik.com/words/beef         |
+| **befall**       |       1 | https://www.wordnik.com/words/befall       |
+| **befell**       |       1 | https://www.wordnik.com/words/befell       |
 | **begged**       |       1 | https://www.wordnik.com/words/begged       |
 | **beige**        |       1 | https://www.wordnik.com/words/beige        |
 | **belie**        |       1 | https://www.wordnik.com/words/belie        |
 | **belied**       |       1 | https://www.wordnik.com/words/belied       |
+| **belief**       |       1 | https://www.wordnik.com/words/belief       |
 | **bell**         |       1 | https://www.wordnik.com/words/bell         |
 | **belle**        |       1 | https://www.wordnik.com/words/belle        |
 | **belled**       |       1 | https://www.wordnik.com/words/belled       |
@@ -407,6 +426,7 @@ Every word that's occurred so far.
 | **bible**        |       1 | https://www.wordnik.com/words/bible        |
 | **bide**         |       1 | https://www.wordnik.com/words/bide         |
 | **bided**        |       1 | https://www.wordnik.com/words/bided        |
+| **biff**         |       1 | https://www.wordnik.com/words/biff         |
 | **biggie**       |       1 | https://www.wordnik.com/words/biggie       |
 | **bilabial**     |       2 | https://www.wordnik.com/words/bilabial     |
 | **bile**         |       1 | https://www.wordnik.com/words/bile         |
@@ -686,38 +706,50 @@ Every word that's occurred so far.
 | **exult**        |       1 | https://www.wordnik.com/words/exult        |
 | **exultant**     |       1 | https://www.wordnik.com/words/exultant     |
 | **eyeteeth**     |       1 | https://www.wordnik.com/words/eyeteeth     |
+| **fable**        |       1 | https://www.wordnik.com/words/fable        |
 | **facial**       |       1 | https://www.wordnik.com/words/facial       |
-| **fail**         |       1 | https://www.wordnik.com/words/fail         |
+| **fail**         |       2 | https://www.wordnik.com/words/fail         |
+| **falafel**      |       1 | https://www.wordnik.com/words/falafel      |
+| **fall**         |       1 | https://www.wordnik.com/words/fall         |
+| **fallible**     |       1 | https://www.wordnik.com/words/fallible     |
 | **falloff**      |       1 | https://www.wordnik.com/words/falloff      |
 | **fanciful**     |       1 | https://www.wordnik.com/words/fanciful     |
 | **fanfic**       |       1 | https://www.wordnik.com/words/fanfic       |
-| **feel**         |       1 | https://www.wordnik.com/words/feel         |
+| **feeble**       |       1 | https://www.wordnik.com/words/feeble       |
+| **feel**         |       2 | https://www.wordnik.com/words/feel         |
 | **feeling**      |       1 | https://www.wordnik.com/words/feeling      |
 | **feign**        |       1 | https://www.wordnik.com/words/feign        |
 | **feigning**     |       1 | https://www.wordnik.com/words/feigning     |
 | **feline**       |       1 | https://www.wordnik.com/words/feline       |
-| **fell**         |       1 | https://www.wordnik.com/words/fell         |
+| **fell**         |       2 | https://www.wordnik.com/words/fell         |
+| **fella**        |       1 | https://www.wordnik.com/words/fella        |
 | **felling**      |       1 | https://www.wordnik.com/words/felling      |
 | **fence**        |       1 | https://www.wordnik.com/words/fence        |
 | **fennel**       |       1 | https://www.wordnik.com/words/fennel       |
 | **fictive**      |       1 | https://www.wordnik.com/words/fictive      |
-| **fief**         |       1 | https://www.wordnik.com/words/fief         |
-| **fife**         |       1 | https://www.wordnik.com/words/fife         |
+| **fief**         |       2 | https://www.wordnik.com/words/fief         |
+| **fife**         |       2 | https://www.wordnik.com/words/fife         |
 | **fifing**       |       1 | https://www.wordnik.com/words/fifing       |
-| **file**         |       1 | https://www.wordnik.com/words/file         |
-| **filial**       |       1 | https://www.wordnik.com/words/filial       |
+| **file**         |       2 | https://www.wordnik.com/words/file         |
+| **filial**       |       2 | https://www.wordnik.com/words/filial       |
 | **filing**       |       1 | https://www.wordnik.com/words/filing       |
-| **fill**         |       2 | https://www.wordnik.com/words/fill         |
+| **fill**         |       3 | https://www.wordnik.com/words/fill         |
 | **filling**      |       1 | https://www.wordnik.com/words/filling      |
 | **final**        |       1 | https://www.wordnik.com/words/final        |
 | **financial**    |       1 | https://www.wordnik.com/words/financial    |
 | **fine**         |       1 | https://www.wordnik.com/words/fine         |
 | **finial**       |       1 | https://www.wordnik.com/words/finial       |
 | **fining**       |       1 | https://www.wordnik.com/words/fining       |
+| **fixable**      |       1 | https://www.wordnik.com/words/fixable      |
+| **flab**         |       1 | https://www.wordnik.com/words/flab         |
 | **flagpole**     |       1 | https://www.wordnik.com/words/flagpole     |
-| **flail**        |       1 | https://www.wordnik.com/words/flail        |
-| **flee**         |       1 | https://www.wordnik.com/words/flee         |
+| **flail**        |       2 | https://www.wordnik.com/words/flail        |
+| **flax**         |       1 | https://www.wordnik.com/words/flax         |
+| **flea**         |       1 | https://www.wordnik.com/words/flea         |
+| **flee**         |       2 | https://www.wordnik.com/words/flee         |
 | **fleeing**      |       1 | https://www.wordnik.com/words/fleeing      |
+| **flex**         |       1 | https://www.wordnik.com/words/flex         |
+| **flexible**     |       1 | https://www.wordnik.com/words/flexible     |
 | **fling**        |       1 | https://www.wordnik.com/words/fling        |
 | **flinging**     |       1 | https://www.wordnik.com/words/flinging     |
 | **floe**         |       1 | https://www.wordnik.com/words/floe         |
@@ -967,6 +999,7 @@ Every word that's occurred so far.
 | **latte**        |       1 | https://www.wordnik.com/words/latte        |
 | **laud**         |       2 | https://www.wordnik.com/words/laud         |
 | **lave**         |       1 | https://www.wordnik.com/words/lave         |
+| **leaf**         |       1 | https://www.wordnik.com/words/leaf         |
 | **leak**         |       1 | https://www.wordnik.com/words/leak         |
 | **lean**         |       1 | https://www.wordnik.com/words/lean         |
 | **leap**         |       1 | https://www.wordnik.com/words/leap         |
@@ -985,7 +1018,7 @@ Every word that's occurred so far.
 | **libelee**      |       1 | https://www.wordnik.com/words/libelee      |
 | **libido**       |       1 | https://www.wordnik.com/words/libido       |
 | **liege**        |       1 | https://www.wordnik.com/words/liege        |
-| **life**         |       1 | https://www.wordnik.com/words/life         |
+| **life**         |       2 | https://www.wordnik.com/words/life         |
 | **lifeline**     |       1 | https://www.wordnik.com/words/lifeline     |
 | **ligate**       |       1 | https://www.wordnik.com/words/ligate       |
 | **like**         |       1 | https://www.wordnik.com/words/like         |
