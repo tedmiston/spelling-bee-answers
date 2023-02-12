@@ -6,7 +6,7 @@
 
 <!-- generated table start -->
 
-54 pangrams
+59 pangrams
 
 | Word             |   Count | Definition                                 |
 |------------------|---------|--------------------------------------------|
@@ -18,6 +18,10 @@
 | **brought**      |       1 | https://www.wordnik.com/words/brought      |
 | **cardigan**     |       1 | https://www.wordnik.com/words/cardigan     |
 | **carding**      |       1 | https://www.wordnik.com/words/carding      |
+| **competence**   |       1 | https://www.wordnik.com/words/competence   |
+| **competent**    |       1 | https://www.wordnik.com/words/competent    |
+| **component**    |       1 | https://www.wordnik.com/words/component    |
+| **contempt**     |       1 | https://www.wordnik.com/words/contempt     |
 | **curtain**      |       1 | https://www.wordnik.com/words/curtain      |
 | **dormitory**    |       1 | https://www.wordnik.com/words/dormitory    |
 | **engulfing**    |       1 | https://www.wordnik.com/words/engulfing    |
@@ -45,6 +49,7 @@
 | **modular**      |       1 | https://www.wordnik.com/words/modular      |
 | **mothball**     |       1 | https://www.wordnik.com/words/mothball     |
 | **nicknaming**   |       1 | https://www.wordnik.com/words/nicknaming   |
+| **noncompete**   |       1 | https://www.wordnik.com/words/noncompete   |
 | **nonviolent**   |       1 | https://www.wordnik.com/words/nonviolent   |
 | **notably**      |       1 | https://www.wordnik.com/words/notably      |
 | **obliged**      |       1 | https://www.wordnik.com/words/obliged      |
