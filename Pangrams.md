@@ -6,7 +6,7 @@
 
 <!-- generated table start -->
 
-59 pangrams
+60 pangrams
 
 | Word             |   Count | Definition                                 |
 |------------------|---------|--------------------------------------------|
@@ -35,6 +35,7 @@
 | **habitual**     |       1 | https://www.wordnik.com/words/habitual     |
 | **halibut**      |       1 | https://www.wordnik.com/words/halibut      |
 | **hematic**      |       1 | https://www.wordnik.com/words/hematic      |
+| **hyacinth**     |       1 | https://www.wordnik.com/words/hyacinth     |
 | **hyphenate**    |       1 | https://www.wordnik.com/words/hyphenate    |
 | **illegality**   |       1 | https://www.wordnik.com/words/illegality   |
 | **implement**    |       1 | https://www.wordnik.com/words/implement    |
