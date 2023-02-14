@@ -6,10 +6,11 @@
 
 <!-- generated table start -->
 
-60 pangrams
+63 pangrams
 
 | Word             |   Count | Definition                                 |
 |------------------|---------|--------------------------------------------|
+| **accordion**    |       1 | https://www.wordnik.com/words/accordion    |
 | **aground**      |       1 | https://www.wordnik.com/words/aground      |
 | **allowance**    |       1 | https://www.wordnik.com/words/allowance    |
 | **arachnid**     |       1 | https://www.wordnik.com/words/arachnid     |
@@ -24,6 +25,8 @@
 | **contempt**     |       1 | https://www.wordnik.com/words/contempt     |
 | **curtain**      |       1 | https://www.wordnik.com/words/curtain      |
 | **dormitory**    |       1 | https://www.wordnik.com/words/dormitory    |
+| **draconian**    |       1 | https://www.wordnik.com/words/draconian    |
+| **draconic**     |       1 | https://www.wordnik.com/words/draconic     |
 | **engulfing**    |       1 | https://www.wordnik.com/words/engulfing    |
 | **enveloped**    |       1 | https://www.wordnik.com/words/enveloped    |
 | **exultant**     |       1 | https://www.wordnik.com/words/exultant     |
