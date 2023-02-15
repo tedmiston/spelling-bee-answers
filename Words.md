@@ -8,7 +8,7 @@ Words that have occurred more than once.
 
 <!-- generated multi table start -->
 
-272 words
+276 words
 
 | Word          |   Count | Definition                              |
 |---------------|---------|-----------------------------------------|
@@ -84,6 +84,7 @@ Words that have occurred more than once.
 | **darn**      |       4 | https://www.wordnik.com/words/darn      |
 | **dinar**     |       3 | https://www.wordnik.com/words/dinar     |
 | **dino**      |       2 | https://www.wordnik.com/words/dino      |
+| **dipped**    |       2 | https://www.wordnik.com/words/dipped    |
 | **dodo**      |       2 | https://www.wordnik.com/words/dodo      |
 | **donor**     |       2 | https://www.wordnik.com/words/donor     |
 | **door**      |       3 | https://www.wordnik.com/words/door      |
@@ -98,7 +99,7 @@ Words that have occurred more than once.
 | **elite**     |       2 | https://www.wordnik.com/words/elite     |
 | **emit**      |       2 | https://www.wordnik.com/words/emit      |
 | **entice**    |       2 | https://www.wordnik.com/words/entice    |
-| **epee**      |       2 | https://www.wordnik.com/words/epee      |
+| **epee**      |       3 | https://www.wordnik.com/words/epee      |
 | **even**      |       3 | https://www.wordnik.com/words/even      |
 | **evil**      |       2 | https://www.wordnik.com/words/evil      |
 | **evolve**    |       2 | https://www.wordnik.com/words/evolve    |
@@ -213,9 +214,12 @@ Words that have occurred more than once.
 | **onion**     |       2 | https://www.wordnik.com/words/onion     |
 | **onto**      |       2 | https://www.wordnik.com/words/onto      |
 | **oven**      |       2 | https://www.wordnik.com/words/oven      |
-| **peep**      |       2 | https://www.wordnik.com/words/peep      |
+| **peep**      |       3 | https://www.wordnik.com/words/peep      |
 | **peeve**     |       2 | https://www.wordnik.com/words/peeve     |
 | **penmen**    |       2 | https://www.wordnik.com/words/penmen    |
+| **pied**      |       2 | https://www.wordnik.com/words/pied      |
+| **pipe**      |       2 | https://www.wordnik.com/words/pipe      |
+| **piped**     |       2 | https://www.wordnik.com/words/piped     |
 | **pogo**      |       2 | https://www.wordnik.com/words/pogo      |
 | **poop**      |       3 | https://www.wordnik.com/words/poop      |
 | **pope**      |       2 | https://www.wordnik.com/words/pope      |
@@ -293,7 +297,7 @@ Every word that's occurred so far.
 
 <!-- generated all table start -->
 
-1465 words
+1486 words
 
 | Word             |   Count | Definition                                 |
 |------------------|---------|--------------------------------------------|
@@ -589,6 +593,8 @@ Every word that's occurred so far.
 | **chair**        |       1 | https://www.wordnik.com/words/chair        |
 | **char**         |       1 | https://www.wordnik.com/words/char         |
 | **chard**        |       1 | https://www.wordnik.com/words/chard        |
+| **cheep**        |       1 | https://www.wordnik.com/words/cheep        |
+| **cheeped**      |       1 | https://www.wordnik.com/words/cheeped      |
 | **chia**         |       2 | https://www.wordnik.com/words/chia         |
 | **chianti**      |       1 | https://www.wordnik.com/words/chianti      |
 | **chic**         |       2 | https://www.wordnik.com/words/chic         |
@@ -597,6 +603,8 @@ Every word that's occurred so far.
 | **chime**        |       1 | https://www.wordnik.com/words/chime        |
 | **chin**         |       1 | https://www.wordnik.com/words/chin         |
 | **china**        |       1 | https://www.wordnik.com/words/china        |
+| **chip**         |       1 | https://www.wordnik.com/words/chip         |
+| **chipped**      |       1 | https://www.wordnik.com/words/chipped      |
 | **chit**         |       2 | https://www.wordnik.com/words/chit         |
 | **chitchat**     |       2 | https://www.wordnik.com/words/chitchat     |
 | **chitin**       |       1 | https://www.wordnik.com/words/chitin       |
@@ -658,6 +666,8 @@ Every word that's occurred so far.
 | **critic**       |       1 | https://www.wordnik.com/words/critic       |
 | **cuckoo**       |       2 | https://www.wordnik.com/words/cuckoo       |
 | **cull**         |       1 | https://www.wordnik.com/words/cull         |
+| **cupid**        |       1 | https://www.wordnik.com/words/cupid        |
+| **cupped**       |       1 | https://www.wordnik.com/words/cupped       |
 | **currant**      |       1 | https://www.wordnik.com/words/currant      |
 | **curt**         |       1 | https://www.wordnik.com/words/curt         |
 | **curtain**      |       1 | https://www.wordnik.com/words/curtain      |
@@ -670,6 +680,7 @@ Every word that's occurred so far.
 | **darning**      |       1 | https://www.wordnik.com/words/darning      |
 | **deem**         |       1 | https://www.wordnik.com/words/deem         |
 | **deemed**       |       1 | https://www.wordnik.com/words/deemed       |
+| **deep**         |       1 | https://www.wordnik.com/words/deep         |
 | **delve**        |       1 | https://www.wordnik.com/words/delve        |
 | **delved**       |       1 | https://www.wordnik.com/words/delved       |
 | **denied**       |       1 | https://www.wordnik.com/words/denied       |
@@ -692,7 +703,7 @@ Every word that's occurred so far.
 | **dining**       |       1 | https://www.wordnik.com/words/dining       |
 | **dino**         |       2 | https://www.wordnik.com/words/dino         |
 | **diode**        |       1 | https://www.wordnik.com/words/diode        |
-| **dipped**       |       1 | https://www.wordnik.com/words/dipped       |
+| **dipped**       |       2 | https://www.wordnik.com/words/dipped       |
 | **ditto**        |       1 | https://www.wordnik.com/words/ditto        |
 | **dodo**         |       2 | https://www.wordnik.com/words/dodo         |
 | **donor**        |       2 | https://www.wordnik.com/words/donor        |
@@ -726,6 +737,8 @@ Every word that's occurred so far.
 | **dull**         |       1 | https://www.wordnik.com/words/dull         |
 | **dullard**      |       1 | https://www.wordnik.com/words/dullard      |
 | **dumdum**       |       1 | https://www.wordnik.com/words/dumdum       |
+| **dupe**         |       1 | https://www.wordnik.com/words/dupe         |
+| **duped**        |       1 | https://www.wordnik.com/words/duped        |
 | **durag**        |       1 | https://www.wordnik.com/words/durag        |
 | **durum**        |       1 | https://www.wordnik.com/words/durum        |
 | **eave**         |       2 | https://www.wordnik.com/words/eave         |
@@ -763,7 +776,8 @@ Every word that's occurred so far.
 | **envelop**      |       1 | https://www.wordnik.com/words/envelop      |
 | **envelope**     |       1 | https://www.wordnik.com/words/envelope     |
 | **enveloped**    |       1 | https://www.wordnik.com/words/enveloped    |
-| **epee**         |       2 | https://www.wordnik.com/words/epee         |
+| **epee**         |       3 | https://www.wordnik.com/words/epee         |
+| **epic**         |       1 | https://www.wordnik.com/words/epic         |
 | **ethic**        |       1 | https://www.wordnik.com/words/ethic        |
 | **even**         |       3 | https://www.wordnik.com/words/even         |
 | **evened**       |       1 | https://www.wordnik.com/words/evened       |
@@ -952,10 +966,14 @@ Every word that's occurred so far.
 | **help**         |       1 | https://www.wordnik.com/words/help         |
 | **hematic**      |       1 | https://www.wordnik.com/words/hematic      |
 | **hematite**     |       1 | https://www.wordnik.com/words/hematite     |
+| **hiccup**       |       1 | https://www.wordnik.com/words/hiccup       |
+| **hiccuped**     |       1 | https://www.wordnik.com/words/hiccuped     |
+| **hiccupped**    |       1 | https://www.wordnik.com/words/hiccupped    |
 | **hill**         |       1 | https://www.wordnik.com/words/hill         |
 | **hilt**         |       1 | https://www.wordnik.com/words/hilt         |
 | **hinny**        |       1 | https://www.wordnik.com/words/hinny        |
 | **hint**         |       1 | https://www.wordnik.com/words/hint         |
+| **hippie**       |       1 | https://www.wordnik.com/words/hippie       |
 | **hitch**        |       2 | https://www.wordnik.com/words/hitch        |
 | **hiya**         |       1 | https://www.wordnik.com/words/hiya         |
 | **hoar**         |       1 | https://www.wordnik.com/words/hoar         |
@@ -1379,9 +1397,11 @@ Every word that's occurred so far.
 | **payee**        |       1 | https://www.wordnik.com/words/payee        |
 | **peal**         |       1 | https://www.wordnik.com/words/peal         |
 | **peaty**        |       1 | https://www.wordnik.com/words/peaty        |
+| **peed**         |       1 | https://www.wordnik.com/words/peed         |
 | **peel**         |       1 | https://www.wordnik.com/words/peel         |
 | **peen**         |       1 | https://www.wordnik.com/words/peen         |
-| **peep**         |       2 | https://www.wordnik.com/words/peep         |
+| **peep**         |       3 | https://www.wordnik.com/words/peep         |
+| **peeped**       |       1 | https://www.wordnik.com/words/peeped       |
 | **peeve**        |       2 | https://www.wordnik.com/words/peeve        |
 | **peeved**       |       1 | https://www.wordnik.com/words/peeved       |
 | **pence**        |       1 | https://www.wordnik.com/words/pence        |
@@ -1391,13 +1411,16 @@ Every word that's occurred so far.
 | **pent**         |       1 | https://www.wordnik.com/words/pent         |
 | **peon**         |       1 | https://www.wordnik.com/words/peon         |
 | **people**       |       1 | https://www.wordnik.com/words/people       |
+| **pepped**       |       1 | https://www.wordnik.com/words/pepped       |
 | **peppy**        |       1 | https://www.wordnik.com/words/peppy        |
 | **petty**        |       1 | https://www.wordnik.com/words/petty        |
 | **pharaoh**      |       1 | https://www.wordnik.com/words/pharaoh      |
 | **photo**        |       1 | https://www.wordnik.com/words/photo        |
 | **photog**       |       1 | https://www.wordnik.com/words/photog       |
 | **photograph**   |       1 | https://www.wordnik.com/words/photograph   |
-| **pied**         |       1 | https://www.wordnik.com/words/pied         |
+| **piece**        |       1 | https://www.wordnik.com/words/piece        |
+| **pieced**       |       1 | https://www.wordnik.com/words/pieced       |
+| **pied**         |       2 | https://www.wordnik.com/words/pied         |
 | **pimp**         |       1 | https://www.wordnik.com/words/pimp         |
 | **pimple**       |       1 | https://www.wordnik.com/words/pimple       |
 | **pinball**      |       1 | https://www.wordnik.com/words/pinball      |
@@ -1408,8 +1431,8 @@ Every word that's occurred so far.
 | **pinioned**     |       1 | https://www.wordnik.com/words/pinioned     |
 | **pinned**       |       1 | https://www.wordnik.com/words/pinned       |
 | **pinniped**     |       1 | https://www.wordnik.com/words/pinniped     |
-| **pipe**         |       1 | https://www.wordnik.com/words/pipe         |
-| **piped**        |       1 | https://www.wordnik.com/words/piped        |
+| **pipe**         |       2 | https://www.wordnik.com/words/pipe         |
+| **piped**        |       2 | https://www.wordnik.com/words/piped        |
 | **pippin**       |       1 | https://www.wordnik.com/words/pippin       |
 | **plea**         |       1 | https://www.wordnik.com/words/plea         |
 | **plop**         |       1 | https://www.wordnik.com/words/plop         |
@@ -1438,6 +1461,7 @@ Every word that's occurred so far.
 | **potent**       |       1 | https://www.wordnik.com/words/potent       |
 | **prop**         |       1 | https://www.wordnik.com/words/prop         |
 | **propagator**   |       1 | https://www.wordnik.com/words/propagator   |
+| **puce**         |       1 | https://www.wordnik.com/words/puce         |
 | **pule**         |       1 | https://www.wordnik.com/words/pule         |
 | **pull**         |       1 | https://www.wordnik.com/words/pull         |
 | **pulp**         |       1 | https://www.wordnik.com/words/pulp         |
@@ -1673,6 +1697,7 @@ Every word that's occurred so far.
 | **untune**       |       1 | https://www.wordnik.com/words/untune       |
 | **upheaval**     |       1 | https://www.wordnik.com/words/upheaval     |
 | **upheave**      |       1 | https://www.wordnik.com/words/upheave      |
+| **upped**        |       1 | https://www.wordnik.com/words/upped        |
 | **uric**         |       1 | https://www.wordnik.com/words/uric         |
 | **vagina**       |       1 | https://www.wordnik.com/words/vagina       |
 | **vain**         |       1 | https://www.wordnik.com/words/vain         |

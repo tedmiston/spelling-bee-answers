@@ -6,7 +6,7 @@
 
 <!-- generated table start -->
 
-63 pangrams
+65 pangrams
 
 | Word             |   Count | Definition                                 |
 |------------------|---------|--------------------------------------------|
@@ -38,6 +38,8 @@
 | **habitual**     |       1 | https://www.wordnik.com/words/habitual     |
 | **halibut**      |       1 | https://www.wordnik.com/words/halibut      |
 | **hematic**      |       1 | https://www.wordnik.com/words/hematic      |
+| **hiccuped**     |       1 | https://www.wordnik.com/words/hiccuped     |
+| **hiccupped**    |       1 | https://www.wordnik.com/words/hiccupped    |
 | **hyacinth**     |       1 | https://www.wordnik.com/words/hyacinth     |
 | **hyphenate**    |       1 | https://www.wordnik.com/words/hyphenate    |
 | **illegality**   |       1 | https://www.wordnik.com/words/illegality   |
