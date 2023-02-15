@@ -1,0 +1,60 @@
+{
+  "expiration": 1676448000,
+  "displayWeekday": "Tuesday",
+  "displayDate": "February 14, 2023",
+  "printDate": "2023-02-14",
+  "centerLetter": "p",
+  "outerLetters": [
+    "c",
+    "d",
+    "e",
+    "h",
+    "i",
+    "u"
+  ],
+  "validLetters": [
+    "p",
+    "c",
+    "d",
+    "e",
+    "h",
+    "i",
+    "u"
+  ],
+  "pangrams": [
+    "hiccuped",
+    "hiccupped"
+  ],
+  "answers": [
+    "hiccuped",
+    "hiccupped",
+    "cheep",
+    "cheeped",
+    "chip",
+    "chipped",
+    "cupid",
+    "cupped",
+    "deep",
+    "dipped",
+    "dupe",
+    "duped",
+    "epee",
+    "epic",
+    "hiccup",
+    "hippie",
+    "peed",
+    "peep",
+    "peeped",
+    "pepped",
+    "piece",
+    "pieced",
+    "pied",
+    "pipe",
+    "piped",
+    "puce",
+    "upped"
+  ],
+  "id": 14910,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
