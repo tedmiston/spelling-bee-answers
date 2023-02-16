@@ -6,7 +6,7 @@
 
 <!-- generated table start -->
 
-65 pangrams
+66 pangrams
 
 | Word             |   Count | Definition                                 |
 |------------------|---------|--------------------------------------------|
@@ -61,6 +61,7 @@
 | **obliged**      |       1 | https://www.wordnik.com/words/obliged      |
 | **outback**      |       1 | https://www.wordnik.com/words/outback      |
 | **paintball**    |       1 | https://www.wordnik.com/words/paintball    |
+| **pedagogy**     |       1 | https://www.wordnik.com/words/pedagogy     |
 | **photograph**   |       1 | https://www.wordnik.com/words/photograph   |
 | **pinewood**     |       1 | https://www.wordnik.com/words/pinewood     |
 | **taciturn**     |       1 | https://www.wordnik.com/words/taciturn     |
