@@ -76,7 +76,7 @@ Words that have occurred more than once.
 | **cilia**     |       2 | https://www.wordnik.com/words/cilia     |
 | **circa**     |       2 | https://www.wordnik.com/words/circa     |
 | **circadian** |       3 | https://www.wordnik.com/words/circadian |
-| **cirri**     |       2 | https://www.wordnik.com/words/cirri     |
+| **cirri**     |       3 | https://www.wordnik.com/words/cirri     |
 | **cite**      |       3 | https://www.wordnik.com/words/cite      |
 | **city**      |       2 | https://www.wordnik.com/words/city      |
 | **crania**    |       2 | https://www.wordnik.com/words/crania    |
@@ -300,7 +300,7 @@ Every word that's occurred so far.
 
 <!-- generated all table start -->
 
-1514 words
+1530 words
 
 | Word             |   Count | Definition                                 |
 |------------------|---------|--------------------------------------------|
@@ -617,7 +617,7 @@ Every word that's occurred so far.
 | **circa**        |       2 | https://www.wordnik.com/words/circa        |
 | **circadian**    |       3 | https://www.wordnik.com/words/circadian    |
 | **circuit**      |       1 | https://www.wordnik.com/words/circuit      |
-| **cirri**        |       2 | https://www.wordnik.com/words/cirri        |
+| **cirri**        |       3 | https://www.wordnik.com/words/cirri        |
 | **cite**         |       3 | https://www.wordnik.com/words/cite         |
 | **citric**       |       1 | https://www.wordnik.com/words/citric       |
 | **city**         |       2 | https://www.wordnik.com/words/city         |
@@ -625,10 +625,12 @@ Every word that's occurred so far.
 | **civic**        |       1 | https://www.wordnik.com/words/civic        |
 | **clad**         |       1 | https://www.wordnik.com/words/clad         |
 | **clean**        |       1 | https://www.wordnik.com/words/clean        |
+| **click**        |       1 | https://www.wordnik.com/words/click        |
 | **cliff**        |       1 | https://www.wordnik.com/words/cliff        |
 | **clinic**       |       1 | https://www.wordnik.com/words/clinic       |
 | **clinical**     |       1 | https://www.wordnik.com/words/clinical     |
 | **clinician**    |       1 | https://www.wordnik.com/words/clinician    |
+| **clip**         |       1 | https://www.wordnik.com/words/clip         |
 | **clone**        |       1 | https://www.wordnik.com/words/clone        |
 | **cluck**        |       1 | https://www.wordnik.com/words/cluck        |
 | **clunk**        |       1 | https://www.wordnik.com/words/clunk        |
@@ -666,6 +668,7 @@ Every word that's occurred so far.
 | **corrida**      |       1 | https://www.wordnik.com/words/corrida      |
 | **corridor**     |       1 | https://www.wordnik.com/words/corridor     |
 | **crania**       |       2 | https://www.wordnik.com/words/crania       |
+| **crick**        |       1 | https://www.wordnik.com/words/crick        |
 | **critic**       |       1 | https://www.wordnik.com/words/critic       |
 | **cuckoo**       |       2 | https://www.wordnik.com/words/cuckoo       |
 | **cull**         |       1 | https://www.wordnik.com/words/cull         |
@@ -675,6 +678,7 @@ Every word that's occurred so far.
 | **curt**         |       1 | https://www.wordnik.com/words/curt         |
 | **curtain**      |       1 | https://www.wordnik.com/words/curtain      |
 | **cutback**      |       1 | https://www.wordnik.com/words/cutback      |
+| **cyclic**       |       1 | https://www.wordnik.com/words/cyclic       |
 | **cynic**        |       2 | https://www.wordnik.com/words/cynic        |
 | **dancing**      |       1 | https://www.wordnik.com/words/dancing      |
 | **dang**         |       1 | https://www.wordnik.com/words/dang         |
@@ -1015,7 +1019,9 @@ Every word that's occurred so far.
 | **hype**         |       1 | https://www.wordnik.com/words/hype         |
 | **hyphen**       |       1 | https://www.wordnik.com/words/hyphen       |
 | **hyphenate**    |       1 | https://www.wordnik.com/words/hyphenate    |
+| **icily**        |       1 | https://www.wordnik.com/words/icily        |
 | **icing**        |       1 | https://www.wordnik.com/words/icing        |
+| **icky**         |       1 | https://www.wordnik.com/words/icky         |
 | **idiom**        |       1 | https://www.wordnik.com/words/idiom        |
 | **idiot**        |       1 | https://www.wordnik.com/words/idiot        |
 | **ignite**       |       1 | https://www.wordnik.com/words/ignite       |
@@ -1092,7 +1098,9 @@ Every word that's occurred so far.
 | **kale**         |       1 | https://www.wordnik.com/words/kale         |
 | **keel**         |       1 | https://www.wordnik.com/words/keel         |
 | **kettle**       |       1 | https://www.wordnik.com/words/kettle       |
+| **kick**         |       1 | https://www.wordnik.com/words/kick         |
 | **kicking**      |       1 | https://www.wordnik.com/words/kicking      |
+| **kicky**        |       1 | https://www.wordnik.com/words/kicky        |
 | **king**         |       1 | https://www.wordnik.com/words/king         |
 | **kinging**      |       1 | https://www.wordnik.com/words/kinging      |
 | **kinking**      |       1 | https://www.wordnik.com/words/kinking      |
@@ -1139,6 +1147,7 @@ Every word that's occurred so far.
 | **libeled**      |       1 | https://www.wordnik.com/words/libeled      |
 | **libelee**      |       1 | https://www.wordnik.com/words/libelee      |
 | **libido**       |       1 | https://www.wordnik.com/words/libido       |
+| **lick**         |       1 | https://www.wordnik.com/words/lick         |
 | **liege**        |       1 | https://www.wordnik.com/words/liege        |
 | **life**         |       2 | https://www.wordnik.com/words/life         |
 | **lifeline**     |       1 | https://www.wordnik.com/words/lifeline     |
@@ -1199,6 +1208,7 @@ Every word that's occurred so far.
 | **lute**         |       1 | https://www.wordnik.com/words/lute         |
 | **luteal**       |       1 | https://www.wordnik.com/words/luteal       |
 | **luxe**         |       1 | https://www.wordnik.com/words/luxe         |
+| **lyric**        |       1 | https://www.wordnik.com/words/lyric        |
 | **macing**       |       1 | https://www.wordnik.com/words/macing       |
 | **magi**         |       1 | https://www.wordnik.com/words/magi         |
 | **magic**        |       1 | https://www.wordnik.com/words/magic        |
@@ -1444,6 +1454,8 @@ Every word that's occurred so far.
 | **photo**        |       1 | https://www.wordnik.com/words/photo        |
 | **photog**       |       1 | https://www.wordnik.com/words/photog       |
 | **photograph**   |       1 | https://www.wordnik.com/words/photograph   |
+| **pick**         |       1 | https://www.wordnik.com/words/pick         |
+| **picky**        |       1 | https://www.wordnik.com/words/picky        |
 | **piece**        |       1 | https://www.wordnik.com/words/piece        |
 | **pieced**       |       1 | https://www.wordnik.com/words/pieced       |
 | **pied**         |       2 | https://www.wordnik.com/words/pied         |
@@ -1489,6 +1501,9 @@ Every word that's occurred so far.
 | **port**         |       1 | https://www.wordnik.com/words/port         |
 | **potato**       |       1 | https://www.wordnik.com/words/potato       |
 | **potent**       |       1 | https://www.wordnik.com/words/potent       |
+| **prick**        |       1 | https://www.wordnik.com/words/prick        |
+| **prickly**      |       1 | https://www.wordnik.com/words/prickly      |
+| **pricy**        |       1 | https://www.wordnik.com/words/pricy        |
 | **prop**         |       1 | https://www.wordnik.com/words/prop         |
 | **propagator**   |       1 | https://www.wordnik.com/words/propagator   |
 | **puce**         |       1 | https://www.wordnik.com/words/puce         |
@@ -1527,6 +1542,7 @@ Every word that's occurred so far.
 | **ratty**        |       1 | https://www.wordnik.com/words/ratty        |
 | **rich**         |       1 | https://www.wordnik.com/words/rich         |
 | **ricin**        |       2 | https://www.wordnik.com/words/ricin        |
+| **rick**         |       1 | https://www.wordnik.com/words/rick         |
 | **ridding**      |       1 | https://www.wordnik.com/words/ridding      |
 | **ridging**      |       1 | https://www.wordnik.com/words/ridging      |
 | **riding**       |       1 | https://www.wordnik.com/words/riding       |

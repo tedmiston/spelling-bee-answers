@@ -6,7 +6,7 @@
 
 <!-- generated table start -->
 
-66 pangrams
+67 pangrams
 
 | Word             |   Count | Definition                                 |
 |------------------|---------|--------------------------------------------|
@@ -64,6 +64,7 @@
 | **pedagogy**     |       1 | https://www.wordnik.com/words/pedagogy     |
 | **photograph**   |       1 | https://www.wordnik.com/words/photograph   |
 | **pinewood**     |       1 | https://www.wordnik.com/words/pinewood     |
+| **prickly**      |       1 | https://www.wordnik.com/words/prickly      |
 | **taciturn**     |       1 | https://www.wordnik.com/words/taciturn     |
 | **talkative**    |       1 | https://www.wordnik.com/words/talkative    |
 | **tenacity**     |       1 | https://www.wordnik.com/words/tenacity     |
