@@ -1,0 +1,49 @@
+{
+  "expiration": 1676620800,
+  "displayWeekday": "Thursday",
+  "displayDate": "February 16, 2023",
+  "printDate": "2023-02-16",
+  "centerLetter": "c",
+  "outerLetters": [
+    "i",
+    "k",
+    "l",
+    "p",
+    "r",
+    "y"
+  ],
+  "validLetters": [
+    "c",
+    "i",
+    "k",
+    "l",
+    "p",
+    "r",
+    "y"
+  ],
+  "pangrams": [
+    "prickly"
+  ],
+  "answers": [
+    "prickly",
+    "cirri",
+    "click",
+    "clip",
+    "crick",
+    "cyclic",
+    "icily",
+    "icky",
+    "kick",
+    "kicky",
+    "lick",
+    "lyric",
+    "pick",
+    "picky",
+    "prick",
+    "pricy",
+    "rick"
+  ],
+  "id": 21821,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
