@@ -8,12 +8,15 @@ import json
 import logging
 import re
 from pathlib import Path
+from typing import Any, Dict, Optional
 
 import requests
 from bs4 import BeautifulSoup
+from requests import Response
 from rich import print
 
 from ..interfaces import SpellingBeeScraperInterface
+from ..models import Puzzle
 from ..settings import settings
 
 logging.basicConfig(
@@ -26,9 +29,9 @@ class NYTimesScraper(SpellingBeeScraperInterface):
     NYTimes Spelling Bee scraper.
     """
 
-    url = "https://www.nytimes.com/puzzles/spelling-bee"
+    url: str = "https://www.nytimes.com/puzzles/spelling-bee"
 
-    def fetch_page(self, url=None):
+    def fetch_page(self, url: Optional[str] = None) -> Response:
         logging.info("Fetching puzzle")
 
         if url is None:
@@ -40,10 +43,10 @@ class NYTimesScraper(SpellingBeeScraperInterface):
 
         return response
 
-    def extract_game_data(self, response):
+    def extract_game_data(self, response: Response) -> Any:
         logging.info("Extracting game data")
 
-        soup = BeautifulSoup(response.content, "html.parser")
+        soup: BeautifulSoup = BeautifulSoup(response.content, "html.parser")
         game_data_script = soup.find("script", string=re.compile("^window.gameData.*"))
 
         if not game_data_script:
@@ -51,7 +54,7 @@ class NYTimesScraper(SpellingBeeScraperInterface):
 
         return game_data_script
 
-    def parse_game_data(self, game_data_script):
+    def parse_game_data(self, game_data_script: Any) -> Dict[str, Any]:
         logging.info("Parsing game data")
 
         yesterday_start_index = game_data_script.text.find('"yesterday"')
@@ -63,7 +66,7 @@ class NYTimesScraper(SpellingBeeScraperInterface):
             raise Exception("Yesterday game data could not be parsed")
 
         try:
-            yesterday_dict = json.loads("{" + yesterday_script_text + "}")
+            yesterday_dict: Dict[str, Any] = json.loads("{" + yesterday_script_text + "}")
         except json.decoder.JSONDecodeError:
             raise Exception("JSON decoding of yesterday game data failed")
 
@@ -72,7 +75,7 @@ class NYTimesScraper(SpellingBeeScraperInterface):
 
         return yesterday_dict["yesterday"]
 
-    def output_game_data(self, puzzle_dict):
+    def output_game_data(self, puzzle_dict: Dict[str, Any]) -> None:
         logging.info("Writing game data")
 
         # todo: use Puzzle model here?
@@ -89,15 +92,15 @@ class NYTimesScraper(SpellingBeeScraperInterface):
 
         logging.info("Done")
 
-    def run(self):
+    def run(self) -> None:
         response = self.fetch_page()
         soup = self.extract_game_data(response)
         puzzle = self.parse_game_data(soup)
         self.output_game_data(puzzle)
 
 
-def main():  # pragma: no cover
-    nyts = NYTimesScraper()
+def main() -> None:  # pragma: no cover
+    nyts: NYTimesScraper = NYTimesScraper()
     nyts.run()
 
 

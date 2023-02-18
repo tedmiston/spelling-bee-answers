@@ -9,6 +9,7 @@ Example:
 import json
 import logging
 from pathlib import Path
+from typing import Any
 
 import pendulum
 import requests
@@ -29,31 +30,30 @@ class SBSolverScraper(SpellingBeeScraperInterface):
     SBSolver Spelling Bee Archive scraper.
     """
 
-    def _build_url(self, puzzle_id):
+    def _build_url(self, puzzle_id: int) -> str:
         # this puzzle id in the url *does not* correspond to the nytimes puzzle id
         url = f"https://www.sbsolver.com/s/{puzzle_id}"
         return url
 
-    def fetch_page(self, url):
+    def fetch_page(self, url: str) -> requests.Response:
         logging.info("Fetching puzzle")
 
-        response = requests.get(url)
+        response: requests.Response = requests.get(url)
         if not response.ok:
             raise Exception("HTTP response code was not successful")
 
         return response
 
-    def extract_game_data(self, response):
+    def extract_game_data(self, response: requests.Response) -> BeautifulSoup:
         logging.info("Extracting game data")
 
         soup = BeautifulSoup(response.content, "html.parser")
         return soup
 
-    def parse_game_data(self, soup):
+    def parse_game_data(self, soup: BeautifulSoup) -> Puzzle:
+        # using non-strict in pendulum enables the dateutil parser
         date = soup.find("span", attrs={"class": "bee-date"}).find("a").text
-        date = pendulum.parse(
-            date, strict=False
-        ).date()  # non-strict enables dateutil parser
+        date = pendulum.parse(date, strict=False).date()
 
         all_letters = [
             x["alt"]
@@ -86,7 +86,7 @@ class SBSolverScraper(SpellingBeeScraperInterface):
         pangrams_str = grid.find_next("b").text
         pangrams = [x.strip() for x in pangrams_str.lower().split(",")]
 
-        puzzle = Puzzle(
+        puzzle: Puzzle = Puzzle(
             date=date,
             center_letter=center_letter,
             outer_letters=outer_letters,
@@ -98,15 +98,15 @@ class SBSolverScraper(SpellingBeeScraperInterface):
         )
         return puzzle
 
-    def output_game_data(self, puzzle):
+    def output_game_data(self, puzzle: Puzzle) -> None:
         logging.info("Writing game data")
 
-        output = puzzle.json()
+        output: str = puzzle.json()
 
         # pretty print json output (not supported by the pydantic json encoder)
         output = json.dumps(json.loads(output), indent=2)
 
-        path = Path(f"{settings.repo_root}/days/{puzzle.date}.json")
+        path: Path = Path(f"{settings.repo_root}/days/{puzzle.date}.json")
         if path.exists():
             logging.warn(f"Not overwriting existing file: `{path}`")
         else:
@@ -116,21 +116,21 @@ class SBSolverScraper(SpellingBeeScraperInterface):
 
         logging.info("Done")
 
-    def run(self):
-        # puzzle_id = 1  # 1...1721
-        # puzzle_id = 2
-        puzzle_id = 1721
+    def run(self) -> None:
+        # puzzle_id: int = 1  # 1...1721
+        # puzzle_id: int = 2
+        puzzle_id: int = 1721
 
-        url = self._build_url(puzzle_id=puzzle_id)
-        response = self.fetch_page(url=url)
-        soup = self.extract_game_data(response=response)
-        puzzle = self.parse_game_data(soup=soup)
+        url: str = self._build_url(puzzle_id=puzzle_id)
+        response: Any = self.fetch_page(url=url)
+        soup: Any = self.extract_game_data(response=response)
+        puzzle: Puzzle = self.parse_game_data(soup=soup)
         print(puzzle)
         self.output_game_data(puzzle=puzzle)
 
 
-def main():  # pragma: no cover
-    sbss = SBSolverScraper()
+def main() -> None:  # pragma: no cover
+    sbss: SBSolverScraper = SBSolverScraper()
     sbss.run()
 
 
