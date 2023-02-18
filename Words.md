@@ -8,7 +8,7 @@ Words that have occurred more than once.
 
 <!-- generated multi table start -->
 
-279 words
+292 words
 
 | Word          |   Count | Definition                              |
 |---------------|---------|-----------------------------------------|
@@ -21,7 +21,7 @@ Words that have occurred more than once.
 | **adorn**     |       2 | https://www.wordnik.com/words/adorn     |
 | **agog**      |       3 | https://www.wordnik.com/words/agog      |
 | **agora**     |       2 | https://www.wordnik.com/words/agora     |
-| **alibi**     |       2 | https://www.wordnik.com/words/alibi     |
+| **alibi**     |       3 | https://www.wordnik.com/words/alibi     |
 | **alit**      |       2 | https://www.wordnik.com/words/alit      |
 | **allele**    |       2 | https://www.wordnik.com/words/allele    |
 | **aloe**      |       2 | https://www.wordnik.com/words/aloe      |
@@ -43,17 +43,27 @@ Words that have occurred more than once.
 | **attic**     |       4 | https://www.wordnik.com/words/attic     |
 | **aura**      |       3 | https://www.wordnik.com/words/aura      |
 | **aurora**    |       2 | https://www.wordnik.com/words/aurora    |
-| **baba**      |       2 | https://www.wordnik.com/words/baba      |
+| **baba**      |       3 | https://www.wordnik.com/words/baba      |
 | **baht**      |       2 | https://www.wordnik.com/words/baht      |
-| **bail**      |       2 | https://www.wordnik.com/words/bail      |
+| **bail**      |       3 | https://www.wordnik.com/words/bail      |
 | **bait**      |       3 | https://www.wordnik.com/words/bait      |
-| **banal**     |       2 | https://www.wordnik.com/words/banal     |
-| **banana**    |       2 | https://www.wordnik.com/words/banana    |
+| **ball**      |       2 | https://www.wordnik.com/words/ball      |
+| **banal**     |       3 | https://www.wordnik.com/words/banal     |
+| **banana**    |       3 | https://www.wordnik.com/words/banana    |
 | **bath**      |       2 | https://www.wordnik.com/words/bath      |
-| **bilabial**  |       2 | https://www.wordnik.com/words/bilabial  |
-| **bill**      |       3 | https://www.wordnik.com/words/bill      |
+| **belie**     |       2 | https://www.wordnik.com/words/belie     |
+| **bell**      |       2 | https://www.wordnik.com/words/bell      |
+| **belle**     |       2 | https://www.wordnik.com/words/belle     |
+| **bible**     |       2 | https://www.wordnik.com/words/bible     |
+| **bilabial**  |       3 | https://www.wordnik.com/words/bilabial  |
+| **bile**      |       2 | https://www.wordnik.com/words/bile      |
+| **bill**      |       4 | https://www.wordnik.com/words/bill      |
+| **blab**      |       2 | https://www.wordnik.com/words/blab      |
 | **blah**      |       2 | https://www.wordnik.com/words/blah      |
 | **blatant**   |       2 | https://www.wordnik.com/words/blatant   |
+| **blin**      |       2 | https://www.wordnik.com/words/blin      |
+| **blini**     |       2 | https://www.wordnik.com/words/blini     |
+| **blip**      |       2 | https://www.wordnik.com/words/blip      |
 | **cacti**     |       4 | https://www.wordnik.com/words/cacti     |
 | **cairn**     |       2 | https://www.wordnik.com/words/cairn     |
 | **calculi**   |       2 | https://www.wordnik.com/words/calculi   |
@@ -149,8 +159,8 @@ Words that have occurred more than once.
 | **itch**      |       2 | https://www.wordnik.com/words/itch      |
 | **item**      |       2 | https://www.wordnik.com/words/item      |
 | **itty**      |       4 | https://www.wordnik.com/words/itty      |
-| **labia**     |       2 | https://www.wordnik.com/words/labia     |
-| **labial**    |       2 | https://www.wordnik.com/words/labial    |
+| **labia**     |       3 | https://www.wordnik.com/words/labia     |
+| **labial**    |       3 | https://www.wordnik.com/words/labial    |
 | **laic**      |       2 | https://www.wordnik.com/words/laic      |
 | **laical**    |       2 | https://www.wordnik.com/words/laical    |
 | **laity**     |       2 | https://www.wordnik.com/words/laity     |
@@ -158,6 +168,8 @@ Words that have occurred more than once.
 | **laud**      |       2 | https://www.wordnik.com/words/laud      |
 | **levee**     |       3 | https://www.wordnik.com/words/levee     |
 | **level**     |       3 | https://www.wordnik.com/words/level     |
+| **libel**     |       2 | https://www.wordnik.com/words/libel     |
+| **libelee**   |       2 | https://www.wordnik.com/words/libelee   |
 | **life**      |       2 | https://www.wordnik.com/words/life      |
 | **lilac**     |       2 | https://www.wordnik.com/words/lilac     |
 | **lilt**      |       2 | https://www.wordnik.com/words/lilt      |
@@ -221,6 +233,7 @@ Words that have occurred more than once.
 | **peeve**     |       2 | https://www.wordnik.com/words/peeve     |
 | **penmen**    |       2 | https://www.wordnik.com/words/penmen    |
 | **pied**      |       2 | https://www.wordnik.com/words/pied      |
+| **pinball**   |       2 | https://www.wordnik.com/words/pinball   |
 | **pipe**      |       2 | https://www.wordnik.com/words/pipe      |
 | **piped**     |       2 | https://www.wordnik.com/words/piped     |
 | **pogo**      |       3 | https://www.wordnik.com/words/pogo      |
@@ -300,12 +313,13 @@ Every word that's occurred so far.
 
 <!-- generated all table start -->
 
-1530 words
+1563 words
 
 | Word             |   Count | Definition                                 |
 |------------------|---------|--------------------------------------------|
 | **aback**        |       1 | https://www.wordnik.com/words/aback        |
 | **ability**      |       1 | https://www.wordnik.com/words/ability      |
+| **able**         |       1 | https://www.wordnik.com/words/able         |
 | **abut**         |       1 | https://www.wordnik.com/words/abut         |
 | **acacia**       |       6 | https://www.wordnik.com/words/acacia       |
 | **acai**         |       6 | https://www.wordnik.com/words/acai         |
@@ -339,7 +353,7 @@ Every word that's occurred so far.
 | **airy**         |       1 | https://www.wordnik.com/words/airy         |
 | **aleph**        |       1 | https://www.wordnik.com/words/aleph        |
 | **alfalfa**      |       1 | https://www.wordnik.com/words/alfalfa      |
-| **alibi**        |       2 | https://www.wordnik.com/words/alibi        |
+| **alibi**        |       3 | https://www.wordnik.com/words/alibi        |
 | **alike**        |       1 | https://www.wordnik.com/words/alike        |
 | **alit**         |       2 | https://www.wordnik.com/words/alit         |
 | **alive**        |       1 | https://www.wordnik.com/words/alive        |
@@ -384,6 +398,7 @@ Every word that's occurred so far.
 | **apogee**       |       2 | https://www.wordnik.com/words/apogee       |
 | **appall**       |       1 | https://www.wordnik.com/words/appall       |
 | **appeal**       |       1 | https://www.wordnik.com/words/appeal       |
+| **appealable**   |       1 | https://www.wordnik.com/words/appealable   |
 | **appellee**     |       1 | https://www.wordnik.com/words/appellee     |
 | **apple**        |       1 | https://www.wordnik.com/words/apple        |
 | **arachnid**     |       1 | https://www.wordnik.com/words/arachnid     |
@@ -435,21 +450,28 @@ Every word that's occurred so far.
 | **aviate**       |       1 | https://www.wordnik.com/words/aviate       |
 | **axiom**        |       1 | https://www.wordnik.com/words/axiom        |
 | **axiomatic**    |       1 | https://www.wordnik.com/words/axiomatic    |
-| **baba**         |       2 | https://www.wordnik.com/words/baba         |
+| **baba**         |       3 | https://www.wordnik.com/words/baba         |
+| **babble**       |       1 | https://www.wordnik.com/words/babble       |
+| **babe**         |       1 | https://www.wordnik.com/words/babe         |
+| **babel**        |       1 | https://www.wordnik.com/words/babel        |
 | **babka**        |       1 | https://www.wordnik.com/words/babka        |
 | **baboon**       |       1 | https://www.wordnik.com/words/baboon       |
 | **baby**         |       1 | https://www.wordnik.com/words/baby         |
 | **back**         |       1 | https://www.wordnik.com/words/back         |
 | **baffle**       |       1 | https://www.wordnik.com/words/baffle       |
 | **baht**         |       2 | https://www.wordnik.com/words/baht         |
-| **bail**         |       2 | https://www.wordnik.com/words/bail         |
+| **bail**         |       3 | https://www.wordnik.com/words/bail         |
+| **bailee**       |       1 | https://www.wordnik.com/words/bailee       |
 | **bailiff**      |       1 | https://www.wordnik.com/words/bailiff      |
 | **bait**         |       3 | https://www.wordnik.com/words/bait         |
-| **ball**         |       1 | https://www.wordnik.com/words/ball         |
+| **bale**         |       1 | https://www.wordnik.com/words/bale         |
+| **baleen**       |       1 | https://www.wordnik.com/words/baleen       |
+| **ball**         |       2 | https://www.wordnik.com/words/ball         |
 | **balloon**      |       1 | https://www.wordnik.com/words/balloon      |
-| **banal**        |       2 | https://www.wordnik.com/words/banal        |
+| **banal**        |       3 | https://www.wordnik.com/words/banal        |
 | **banally**      |       1 | https://www.wordnik.com/words/banally      |
-| **banana**       |       2 | https://www.wordnik.com/words/banana       |
+| **banana**       |       3 | https://www.wordnik.com/words/banana       |
+| **bane**         |       1 | https://www.wordnik.com/words/bane         |
 | **banyan**       |       1 | https://www.wordnik.com/words/banyan       |
 | **barb**         |       1 | https://www.wordnik.com/words/barb         |
 | **barbarity**    |       1 | https://www.wordnik.com/words/barbarity    |
@@ -458,41 +480,52 @@ Every word that's occurred so far.
 | **bathtub**      |       1 | https://www.wordnik.com/words/bathtub      |
 | **baton**        |       1 | https://www.wordnik.com/words/baton        |
 | **batty**        |       1 | https://www.wordnik.com/words/batty        |
+| **bean**         |       1 | https://www.wordnik.com/words/bean         |
+| **beanball**     |       1 | https://www.wordnik.com/words/beanball     |
+| **beanie**       |       1 | https://www.wordnik.com/words/beanie       |
 | **bedded**       |       1 | https://www.wordnik.com/words/bedded       |
 | **beef**         |       1 | https://www.wordnik.com/words/beef         |
+| **beeline**      |       1 | https://www.wordnik.com/words/beeline      |
+| **been**         |       1 | https://www.wordnik.com/words/been         |
+| **beep**         |       1 | https://www.wordnik.com/words/beep         |
 | **befall**       |       1 | https://www.wordnik.com/words/befall       |
 | **befell**       |       1 | https://www.wordnik.com/words/befell       |
 | **begged**       |       1 | https://www.wordnik.com/words/begged       |
 | **beige**        |       1 | https://www.wordnik.com/words/beige        |
-| **belie**        |       1 | https://www.wordnik.com/words/belie        |
+| **belie**        |       2 | https://www.wordnik.com/words/belie        |
 | **belied**       |       1 | https://www.wordnik.com/words/belied       |
 | **belief**       |       1 | https://www.wordnik.com/words/belief       |
-| **bell**         |       1 | https://www.wordnik.com/words/bell         |
-| **belle**        |       1 | https://www.wordnik.com/words/belle        |
+| **bell**         |       2 | https://www.wordnik.com/words/bell         |
+| **belle**        |       2 | https://www.wordnik.com/words/belle        |
 | **belled**       |       1 | https://www.wordnik.com/words/belled       |
 | **bellied**      |       1 | https://www.wordnik.com/words/bellied      |
 | **bialy**        |       1 | https://www.wordnik.com/words/bialy        |
-| **bible**        |       1 | https://www.wordnik.com/words/bible        |
+| **bible**        |       2 | https://www.wordnik.com/words/bible        |
 | **bide**         |       1 | https://www.wordnik.com/words/bide         |
 | **bided**        |       1 | https://www.wordnik.com/words/bided        |
+| **biennia**      |       1 | https://www.wordnik.com/words/biennia      |
+| **biennial**     |       1 | https://www.wordnik.com/words/biennial     |
 | **biff**         |       1 | https://www.wordnik.com/words/biff         |
 | **biggie**       |       1 | https://www.wordnik.com/words/biggie       |
-| **bilabial**     |       2 | https://www.wordnik.com/words/bilabial     |
-| **bile**         |       1 | https://www.wordnik.com/words/bile         |
+| **bilabial**     |       3 | https://www.wordnik.com/words/bilabial     |
+| **bile**         |       2 | https://www.wordnik.com/words/bile         |
 | **bilge**        |       1 | https://www.wordnik.com/words/bilge        |
-| **bill**         |       3 | https://www.wordnik.com/words/bill         |
+| **bill**         |       4 | https://www.wordnik.com/words/bill         |
+| **billable**     |       1 | https://www.wordnik.com/words/billable     |
 | **billed**       |       1 | https://www.wordnik.com/words/billed       |
 | **billy**        |       1 | https://www.wordnik.com/words/billy        |
-| **blab**         |       1 | https://www.wordnik.com/words/blab         |
+| **biplane**      |       1 | https://www.wordnik.com/words/biplane      |
+| **blab**         |       2 | https://www.wordnik.com/words/blab         |
 | **blah**         |       2 | https://www.wordnik.com/words/blah         |
 | **blat**         |       1 | https://www.wordnik.com/words/blat         |
 | **blatant**      |       2 | https://www.wordnik.com/words/blatant      |
 | **blatantly**    |       1 | https://www.wordnik.com/words/blatantly    |
 | **bled**         |       1 | https://www.wordnik.com/words/bled         |
 | **bleed**        |       1 | https://www.wordnik.com/words/bleed        |
-| **blin**         |       1 | https://www.wordnik.com/words/blin         |
-| **blini**        |       1 | https://www.wordnik.com/words/blini        |
-| **blip**         |       1 | https://www.wordnik.com/words/blip         |
+| **bleep**        |       1 | https://www.wordnik.com/words/bleep        |
+| **blin**         |       2 | https://www.wordnik.com/words/blin         |
+| **blini**        |       2 | https://www.wordnik.com/words/blini        |
+| **blip**         |       2 | https://www.wordnik.com/words/blip         |
 | **blob**         |       1 | https://www.wordnik.com/words/blob         |
 | **blobbed**      |       1 | https://www.wordnik.com/words/blobbed      |
 | **blog**         |       1 | https://www.wordnik.com/words/blog         |
@@ -783,6 +816,7 @@ Every word that's occurred so far.
 | **eminent**      |       1 | https://www.wordnik.com/words/eminent      |
 | **emit**         |       2 | https://www.wordnik.com/words/emit         |
 | **emitting**     |       1 | https://www.wordnik.com/words/emitting     |
+| **enable**       |       1 | https://www.wordnik.com/words/enable       |
 | **engine**       |       1 | https://www.wordnik.com/words/engine       |
 | **engulf**       |       1 | https://www.wordnik.com/words/engulf       |
 | **engulfing**    |       1 | https://www.wordnik.com/words/engulfing    |
@@ -1040,6 +1074,7 @@ Every word that's occurred so far.
 | **impel**        |       1 | https://www.wordnik.com/words/impel        |
 | **impenitent**   |       1 | https://www.wordnik.com/words/impenitent   |
 | **implement**    |       1 | https://www.wordnik.com/words/implement    |
+| **inalienable**  |       1 | https://www.wordnik.com/words/inalienable  |
 | **inane**        |       1 | https://www.wordnik.com/words/inane        |
 | **inanity**      |       2 | https://www.wordnik.com/words/inanity      |
 | **incant**       |       3 | https://www.wordnik.com/words/incant       |
@@ -1107,8 +1142,10 @@ Every word that's occurred so far.
 | **kite**         |       1 | https://www.wordnik.com/words/kite         |
 | **kook**         |       1 | https://www.wordnik.com/words/kook         |
 | **kvell**        |       1 | https://www.wordnik.com/words/kvell        |
-| **labia**        |       2 | https://www.wordnik.com/words/labia        |
-| **labial**       |       2 | https://www.wordnik.com/words/labial       |
+| **label**        |       1 | https://www.wordnik.com/words/label        |
+| **labia**        |       3 | https://www.wordnik.com/words/labia        |
+| **labial**       |       3 | https://www.wordnik.com/words/labial       |
+| **labile**       |       1 | https://www.wordnik.com/words/labile       |
 | **lability**     |       1 | https://www.wordnik.com/words/lability     |
 | **lace**         |       1 | https://www.wordnik.com/words/lace         |
 | **lacuna**       |       1 | https://www.wordnik.com/words/lacuna       |
@@ -1143,9 +1180,10 @@ Every word that's occurred so far.
 | **leveled**      |       1 | https://www.wordnik.com/words/leveled      |
 | **levitate**     |       1 | https://www.wordnik.com/words/levitate     |
 | **liability**    |       1 | https://www.wordnik.com/words/liability    |
-| **libel**        |       1 | https://www.wordnik.com/words/libel        |
+| **liable**       |       1 | https://www.wordnik.com/words/liable       |
+| **libel**        |       2 | https://www.wordnik.com/words/libel        |
 | **libeled**      |       1 | https://www.wordnik.com/words/libeled      |
-| **libelee**      |       1 | https://www.wordnik.com/words/libelee      |
+| **libelee**      |       2 | https://www.wordnik.com/words/libelee      |
 | **libido**       |       1 | https://www.wordnik.com/words/libido       |
 | **lick**         |       1 | https://www.wordnik.com/words/lick         |
 | **liege**        |       1 | https://www.wordnik.com/words/liege        |
@@ -1335,6 +1373,7 @@ Every word that's occurred so far.
 | **netty**        |       1 | https://www.wordnik.com/words/netty        |
 | **newel**        |       1 | https://www.wordnik.com/words/newel        |
 | **niacin**       |       4 | https://www.wordnik.com/words/niacin       |
+| **nibble**       |       1 | https://www.wordnik.com/words/nibble       |
 | **nice**         |       2 | https://www.wordnik.com/words/nice         |
 | **nicety**       |       1 | https://www.wordnik.com/words/nicety       |
 | **nicking**      |       1 | https://www.wordnik.com/words/nicking      |
@@ -1419,6 +1458,7 @@ Every word that's occurred so far.
 | **paleo**        |       1 | https://www.wordnik.com/words/paleo        |
 | **pall**         |       1 | https://www.wordnik.com/words/pall         |
 | **palp**         |       1 | https://www.wordnik.com/words/palp         |
+| **palpable**     |       1 | https://www.wordnik.com/words/palpable     |
 | **panty**        |       1 | https://www.wordnik.com/words/panty        |
 | **papa**         |       1 | https://www.wordnik.com/words/papa         |
 | **papal**        |       1 | https://www.wordnik.com/words/papal        |
@@ -1432,9 +1472,11 @@ Every word that's occurred so far.
 | **peal**         |       1 | https://www.wordnik.com/words/peal         |
 | **peapod**       |       1 | https://www.wordnik.com/words/peapod       |
 | **peaty**        |       1 | https://www.wordnik.com/words/peaty        |
+| **pebble**       |       1 | https://www.wordnik.com/words/pebble       |
 | **pedagogy**     |       1 | https://www.wordnik.com/words/pedagogy     |
 | **peed**         |       1 | https://www.wordnik.com/words/peed         |
 | **peel**         |       1 | https://www.wordnik.com/words/peel         |
+| **peelable**     |       1 | https://www.wordnik.com/words/peelable     |
 | **peen**         |       1 | https://www.wordnik.com/words/peen         |
 | **peep**         |       3 | https://www.wordnik.com/words/peep         |
 | **peeped**       |       1 | https://www.wordnik.com/words/peeped       |
@@ -1461,7 +1503,7 @@ Every word that's occurred so far.
 | **pied**         |       2 | https://www.wordnik.com/words/pied         |
 | **pimp**         |       1 | https://www.wordnik.com/words/pimp         |
 | **pimple**       |       1 | https://www.wordnik.com/words/pimple       |
-| **pinball**      |       1 | https://www.wordnik.com/words/pinball      |
+| **pinball**      |       2 | https://www.wordnik.com/words/pinball      |
 | **pine**         |       1 | https://www.wordnik.com/words/pine         |
 | **pined**        |       1 | https://www.wordnik.com/words/pined        |
 | **pinewood**     |       1 | https://www.wordnik.com/words/pinewood     |
@@ -1473,6 +1515,10 @@ Every word that's occurred so far.
 | **piped**        |       2 | https://www.wordnik.com/words/piped        |
 | **pippin**       |       1 | https://www.wordnik.com/words/pippin       |
 | **plea**         |       1 | https://www.wordnik.com/words/plea         |
+| **pleb**         |       1 | https://www.wordnik.com/words/pleb         |
+| **plebe**        |       1 | https://www.wordnik.com/words/plebe        |
+| **plebeian**     |       1 | https://www.wordnik.com/words/plebeian     |
+| **pliable**      |       1 | https://www.wordnik.com/words/pliable      |
 | **plop**         |       1 | https://www.wordnik.com/words/plop         |
 | **poem**         |       1 | https://www.wordnik.com/words/poem         |
 | **poet**         |       1 | https://www.wordnik.com/words/poet         |

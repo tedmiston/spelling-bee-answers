@@ -6,7 +6,7 @@
 
 <!-- generated table start -->
 
-67 pangrams
+69 pangrams
 
 | Word             |   Count | Definition                                 |
 |------------------|---------|--------------------------------------------|
@@ -16,6 +16,7 @@
 | **arachnid**     |       1 | https://www.wordnik.com/words/arachnid     |
 | **availability** |       1 | https://www.wordnik.com/words/availability |
 | **axiomatic**    |       1 | https://www.wordnik.com/words/axiomatic    |
+| **biplane**      |       1 | https://www.wordnik.com/words/biplane      |
 | **brought**      |       1 | https://www.wordnik.com/words/brought      |
 | **cardigan**     |       1 | https://www.wordnik.com/words/cardigan     |
 | **carding**      |       1 | https://www.wordnik.com/words/carding      |
@@ -64,6 +65,7 @@
 | **pedagogy**     |       1 | https://www.wordnik.com/words/pedagogy     |
 | **photograph**   |       1 | https://www.wordnik.com/words/photograph   |
 | **pinewood**     |       1 | https://www.wordnik.com/words/pinewood     |
+| **plebeian**     |       1 | https://www.wordnik.com/words/plebeian     |
 | **prickly**      |       1 | https://www.wordnik.com/words/prickly      |
 | **taciturn**     |       1 | https://www.wordnik.com/words/taciturn     |
 | **talkative**    |       1 | https://www.wordnik.com/words/talkative    |
