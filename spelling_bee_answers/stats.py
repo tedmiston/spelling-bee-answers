@@ -89,14 +89,14 @@ def main():  # pragma: no cover
     answers = load_all_puzzles_by_key(key="answers")
     all_answers_counts = Counter(answers)
     update_doc(
-        filename="outputs/Words.md",
+        filename=f"{settings.outputs_dir}/Words.md",
         tag="generated multi table",
         table=generate_words_table(all_answers_counts, lambda count: count > 1),
         word_count=len([x for x in all_answers_counts.values() if x > 1]),
         label="words",
     )
     update_doc(
-        filename="outputs/Words.md",
+        filename=f"{settings.outputs_dir}/Words.md",
         tag="generated all table",
         table=generate_words_table(all_answers_counts),
         word_count=len(all_answers_counts.keys()),
@@ -107,14 +107,14 @@ def main():  # pragma: no cover
     pangrams = load_all_puzzles_by_key(key="pangrams")
     pangrams_counts = Counter(pangrams)
     update_doc(
-        filename="outputs/Pangrams.md",
+        filename=f"{settings.outputs_dir}/Pangrams.md",
         tag="generated multi table",
         table=generate_words_table(pangrams_counts, lambda count: count > 1),
         word_count=len([x for x in pangrams_counts.values() if x > 1]),
         label="pangrams",
     )
     update_doc(
-        filename="outputs/Pangrams.md",
+        filename=f"{settings.outputs_dir}/Pangrams.md",
         tag="generated table",
         table=generate_words_table(pangrams_counts),
         word_count=len(pangrams_counts.keys()),

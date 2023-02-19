@@ -14,6 +14,8 @@ class Settings(BaseSettings):
 
     display_generated_readme_table: bool = True
 
+    outputs_dir: str = "outputs"
+
     class Config:
         env_file = ".env"
 
