@@ -14,7 +14,10 @@ class Settings(BaseSettings):
 
     display_generated_readme_table: bool = True
 
-    outputs_dir: str = "outputs"
+    output_dir: str = "outputs"
+    output_file_days: str = "Days.md"
+    output_file_pangrams: str = "Pangrams.md"
+    output_file_words: str = "Words.md"
 
     class Config:
         env_file = ".env"

@@ -55,7 +55,7 @@ def generate_table():
     return markdown
 
 
-def update_doc(markdown, filename=f"{settings.outputs_dir}/Days.md"):
+def update_doc(markdown, filename=f"{settings.output_dir}/{settings.output_file_days}"):
     logging.info("Updating readme")
 
     tag_start, tag_end = (
