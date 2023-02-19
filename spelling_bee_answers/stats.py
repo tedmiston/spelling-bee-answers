@@ -85,36 +85,36 @@ def update_doc(filename, tag, table, word_count, label):
 
 
 def main():  # pragma: no cover
-    # all words and multi-count words lists
+    # all words lists
     answers = load_all_puzzles_by_key(key="answers")
     all_answers_counts = Counter(answers)
     update_doc(
-        filename="Words.md",
+        filename="outputs/Words.md",
         tag="generated multi table",
         table=generate_words_table(all_answers_counts, lambda count: count > 1),
         word_count=len([x for x in all_answers_counts.values() if x > 1]),
         label="words",
     )
     update_doc(
-        filename="Words.md",
+        filename="outputs/Words.md",
         tag="generated all table",
         table=generate_words_table(all_answers_counts),
         word_count=len(all_answers_counts.keys()),
         label="words",
     )
 
-    # pangrams list
+    # pangrams lists
     pangrams = load_all_puzzles_by_key(key="pangrams")
     pangrams_counts = Counter(pangrams)
     update_doc(
-        filename="Pangrams.md",
+        filename="outputs/Pangrams.md",
         tag="generated multi table",
         table=generate_words_table(pangrams_counts, lambda count: count > 1),
         word_count=len([x for x in pangrams_counts.values() if x > 1]),
         label="pangrams",
     )
     update_doc(
-        filename="Pangrams.md",
+        filename="outputs/Pangrams.md",
         tag="generated table",
         table=generate_words_table(pangrams_counts),
         word_count=len(pangrams_counts.keys()),
