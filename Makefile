@@ -12,7 +12,7 @@ gen-stats:
 
 .PHONY: format
 format:
-	black .
+	black --line-length=88 .
 
 .PHONY: test
 test:
