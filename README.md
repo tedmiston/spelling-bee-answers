@@ -10,11 +10,11 @@ New puzzles are released at [3 am ET](https://time.is/ET).
 
 See [Days.md](outputs/Days.md).
 
-## All Pangrams
+## Pangrams
 
 See [Pangrams.md](outputs/Pangrams.md).
 
-## All Words
+## Words
 
 See [Words.md](outputs/Words.md).
 
