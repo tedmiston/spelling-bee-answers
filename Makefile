@@ -20,6 +20,10 @@ format:
 format-dry-run:
 	black --diff --line-length=$(LINE_LENGTH) .
 
+.PHONY: lint
+lint:
+	flake8 .
+
 .PHONY: test
 test:
 	pytest .
