@@ -8,6 +8,11 @@ Pangrams that have occurred more than once.
 
 <!-- generated multi table start -->
 
+0 pangrams
+
+| Word   | Count   | Definition Text   | Definition URL   |
+|--------|---------|-------------------|------------------|
+
 <!-- generated multi table end -->
 
 ## All Pangrams
