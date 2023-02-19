@@ -1,30 +1,20 @@
 from typing import List
 
-import yaml
 from pydantic import BaseModel
 from rich import print
 
+from .definitions import words
 from .models import Word
 
 
 def load_definitions():
-    with open("data/definitions.yml") as fp:
-        obj = yaml.safe_load(fp)
-
-    words_dict = {x["word"]: x for x in obj["words"]}
+    words_dict = {x.word: x for x in words}
     return words_dict
 
 
 def lookup_word(words_dict, query):
     word_result = words_dict.get(query)
-
-    if word_result is not None:
-        word = Word(
-            word=word_result.get("word"),
-            part_of_speech=word_result.get("part"),
-            definitions=word_result.get("defs"),
-        )
-        return word
+    return word_result
 
 
 def main():
