@@ -44,7 +44,7 @@ def load_puzzle_from_json(filepath):
         obj = json.load(fp)
 
     verified = obj.get("verified")
-    if obj.get("verified") is None:
+    if verified is None:
         # puzzle data from nytimes does not have this field in json representation
         puzzle = Puzzle(
             date=obj["printDate"],
@@ -56,7 +56,7 @@ def load_puzzle_from_json(filepath):
             editor=obj["editor"],
             verified=True,
         )
-    elif obj["verified"] is False:
+    elif verified is False:
         # puzzle data from sbsolver does have this field in json representation
         puzzle = Puzzle(
             date=obj["date"],
@@ -66,7 +66,7 @@ def load_puzzle_from_json(filepath):
             answers=obj["answers"],
             pangrams=obj["pangrams"],
             editor=obj["editor"],
-            verified=obj["verified"],
+            verified=verified,
         )
     else:
         raise Exception("Invalid value for verified")

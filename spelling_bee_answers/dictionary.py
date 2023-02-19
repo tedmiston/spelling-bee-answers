@@ -1,10 +1,6 @@
-from typing import List
-
-from pydantic import BaseModel
 from rich import print
 
 from .definitions import words
-from .models import Word
 
 
 def load_definitions():

@@ -1,7 +1,7 @@
 """
 NYTimes Spelling Bee answers.
 
-Fetch the Yesterday's Answers to the NYTimes Spelling Bee puzzle each day for archival purposes.
+Fetch Yesterday's Answers to the NYTimes Spelling Bee puzzle each day for archival.
 """
 
 import json

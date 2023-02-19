@@ -30,11 +30,11 @@ def test_settings_defaults():
 
     assert settings.log_level == "INFO"
 
-    assert settings.display_puzzle_output == True
+    assert settings.display_puzzle_output is True
 
-    assert settings.display_generated_readme_output == False
+    assert settings.display_generated_readme_output is False
 
-    assert settings.display_generated_readme_table == True
+    assert settings.display_generated_readme_table is True
 
 
 # todo: test_settings_env_var_overrides

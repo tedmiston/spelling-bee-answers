@@ -2,7 +2,6 @@
 Generate the table of days in the readme file.
 """
 
-import json
 import logging
 
 import pendulum
@@ -26,6 +25,11 @@ def _get_puzzle_dates():
     return puzzle_dates
 
 
+def _get_forum_url(date_str):
+    url = f"https://www.nytimes.com/{date_str}/crosswords/spelling-bee-forum.html"
+    return url
+
+
 def generate_table():
     logging.info("Generating table")
 
@@ -37,7 +41,7 @@ def generate_table():
         filepath = f"days/{date}.json"
         path_link = f"[{date}.json](../{filepath})"
         date_str = date.strftime("%Y/%m/%d")
-        forum_link = f"[Forum](https://www.nytimes.com/{date_str}/crosswords/spelling-bee-forum.html)"
+        forum_link = f"[Forum]({_get_forum_url(date_str)})"
         puzzle = load_puzzle_from_json(filepath=f"{settings.repo_root}/{filepath}")
         word_count = len(puzzle.answers)
         pangram_count = len(puzzle.pangrams)

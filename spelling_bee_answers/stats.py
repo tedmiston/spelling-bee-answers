@@ -2,11 +2,10 @@
 Generate tables of words across all days.
 """
 
-import json
 from collections import Counter
 from pathlib import Path
 
-from rich import print
+# from rich import print
 from tabulate import tabulate
 
 from .dictionary import load_definitions, lookup_word
