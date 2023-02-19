@@ -2,7 +2,17 @@
 
 # Pangrams
 
+## Multi-Count Pangrams
+
+Pangrams that have occurred more than once.
+
+<!-- generated multi table start -->
+
+<!-- generated multi table end -->
+
 ## All Pangrams
+
+Every pangram that's occurred so far.
 
 <!-- generated table start -->
 
