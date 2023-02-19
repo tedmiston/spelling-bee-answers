@@ -10,14 +10,8 @@ from .models import Word
 def load_definitions():
     with open("data/definitions.yml") as fp:
         obj = yaml.safe_load(fp)
-    # print(obj)
 
-    words_list = obj["words"]
-    # print(words_list)
-
-    words_dict = {x["word"]: x for x in words_list}
-    # print(words_dict)
-
+    words_dict = {x["word"]: x for x in obj["words"]}
     return words_dict
 
 
@@ -25,16 +19,12 @@ def lookup_word(words_dict, query):
     word_result = words_dict.get(query)
 
     if word_result is not None:
-        # print(word_result)
         word = Word(
             word=word_result.get("word"),
             part_of_speech=word_result.get("part"),
             definitions=word_result.get("defs"),
         )
-        # print(word)
         return word
-    else:
-        pass
 
 
 def main():
