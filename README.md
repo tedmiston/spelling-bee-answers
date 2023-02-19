@@ -2,9 +2,9 @@
 
 [![](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
-A fully automated archive of answers to the [NYTimes Spelling Bee][1] puzzles.
+An automated archive of answers to the [NYTimes Spelling Bee][1] puzzles.
 
-New puzzles are released at [3 am US/Eastern](https://time.is/ET).
+New puzzles are released at [3 am ET](https://time.is/ET).
 
 ## All Pangrams
 
