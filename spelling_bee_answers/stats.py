@@ -108,6 +108,13 @@ def main():  # pragma: no cover
     pangrams_counts = Counter(pangrams)
     update_doc(
         filename="Pangrams.md",
+        tag="generated multi table",
+        table=generate_words_table(pangrams_counts, lambda count: count > 1),
+        word_count=len([x for x in pangrams_counts.values() if x > 1]),
+        label="pangrams",
+    )
+    update_doc(
+        filename="Pangrams.md",
         tag="generated table",
         table=generate_words_table(pangrams_counts),
         word_count=len(pangrams_counts.keys()),
