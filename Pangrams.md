@@ -6,7 +6,7 @@
 
 <!-- generated table start -->
 
-69 pangrams
+70 pangrams
 
 | Word                                |   Count | Definition Text                                                                                                   | Definition URL                             |
 |-------------------------------------|---------|-------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
@@ -45,6 +45,7 @@
 | **hyphenate**                       |       1 |                                                                                                                   | https://www.wordnik.com/words/hyphenate    |
 | **illegality**                      |       1 |                                                                                                                   | https://www.wordnik.com/words/illegality   |
 | **implement**                       |       1 |                                                                                                                   | https://www.wordnik.com/words/implement    |
+| **individual**                      |       1 |                                                                                                                   | https://www.wordnik.com/words/individual   |
 | **ineffective**                     |       1 |                                                                                                                   | https://www.wordnik.com/words/ineffective  |
 | **infective**                       |       1 |                                                                                                                   | https://www.wordnik.com/words/infective    |
 | **itemizing**                       |       1 |                                                                                                                   | https://www.wordnik.com/words/itemizing    |
