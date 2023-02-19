@@ -114,7 +114,7 @@ def main():  # pragma: no cover
     )
     update_doc(
         filename=f"{settings.outputs_dir}/Pangrams.md",
-        tag="generated table",
+        tag="generated all table",
         table=generate_words_table(pangrams_counts),
         word_count=len(pangrams_counts.keys()),
         label="pangrams",

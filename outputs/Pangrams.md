@@ -19,7 +19,7 @@ Pangrams that have occurred more than once.
 
 Every pangram that's occurred so far.
 
-<!-- generated table start -->
+<!-- generated all table start -->
 
 70 pangrams
 
@@ -96,4 +96,4 @@ Every pangram that's occurred so far.
 | **weaving**                         |       1 |                                                                                                                   | https://www.wordnik.com/words/weaving      |
 | **windmilled**                      |       1 |                                                                                                                   | https://www.wordnik.com/words/windmilled   |
 
-<!-- generated table end -->
+<!-- generated all table end -->
