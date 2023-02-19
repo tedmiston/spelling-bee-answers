@@ -40,13 +40,13 @@ def generate_words_table(counts, condition=lambda _: True):
     rows = []
     for word, count in sorted(counts.items()):
         if condition(count):
-            definition_word = lookup_word(words_dict, word)
-            if definition_word is not None:
-                word_col = f"**{word}** <small>*({definition_word.part_of_speech})*</small>"
-                if len(definition_word.definitions) > 1:
-                    definition_text =  "- " + "<br>- ".join(definition_word.definitions)
+            word_obj = lookup_word(words_dict, word)
+            if word_obj is not None:
+                word_col = f"**{word}** <small>*({word_obj.part_of_speech})*</small>"
+                if len(word_obj.definitions) > 1:
+                    definition_text = "- " + "<br>- ".join(word_obj.definitions)
                 else:
-                    definition_text = definition_word.definitions[0]
+                    definition_text = word_obj.definitions[0]
             else:
                 word_col = f"**{word}**"
                 definition_text = None
