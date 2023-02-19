@@ -30,7 +30,7 @@ def generate_table():
     table = []
     for date in puzzle_dates:
         filepath = f"days/{date}.json"
-        path_link = f"[{date}.json]({filepath})"
+        path_link = f"[{date}.json](../{filepath})"
         date_str = date.strftime("%Y/%m/%d")
         forum_link = f"[Forum](https://www.nytimes.com/{date_str}/crosswords/spelling-bee-forum.html)"
         puzzle = load_puzzle_from_json(filepath=f"{settings.repo_root}/{filepath}")
