@@ -5,6 +5,10 @@ from .definitions import words
 
 def load_definitions():
     words_dict = {x.word: x for x in words}
+
+    # if this fails, a word has been duplicated in the definitions file
+    assert len(words) == len(words_dict)
+
     return words_dict
 
 
