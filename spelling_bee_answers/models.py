@@ -4,10 +4,22 @@ Models.
 
 import json
 from datetime import date
+from enum import StrEnum
 from typing import List, Optional
 
 from pydantic import BaseModel
 from rich import print
+
+
+class PartOfSpeech(StrEnum):
+    """
+    Parts of speech constants
+    """
+
+    ADJECTIVE = "adj."
+    ADVERB = "adv."
+    NOUN = "n."
+    VERB = "v."
 
 
 class Word(BaseModel):
@@ -16,6 +28,7 @@ class Word(BaseModel):
     """
 
     word: str
+    # word: PartOfSpeech
     part_of_speech: str
     definitions: List[str]
 
