@@ -1,3 +1,5 @@
+LINE_LENGTH := 88
+
 .PHONY: run
 run:
 	python -m spelling_bee_answers.scrapers.nyt
@@ -12,11 +14,11 @@ gen-stats:
 
 .PHONY: format
 format:
-	black --line-length=88 .
+	black --line-length=$(LINE_LENGTH) .
 
 .PHONY: format-dry-run
 format-dry-run:
-	black --diff --line-length=88 .
+	black --diff --line-length=$(LINE_LENGTH) .
 
 .PHONY: test
 test:
