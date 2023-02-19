@@ -46,7 +46,7 @@ def generate_table():
     return markdown
 
 
-def update_readme(markdown, filename="README.md"):
+def update_doc(markdown, filename="outputs/Days.md"):
     logging.info("Updating readme")
 
     tag_start, tag_end = (
@@ -75,7 +75,7 @@ def update_readme(markdown, filename="README.md"):
 
 def main():  # pragma: no cover
     markdown = generate_table()
-    update_readme(markdown)
+    update_doc(markdown)
 
 
 if __name__ == "__main__":
