@@ -26,7 +26,7 @@ def generate_table():
     end_date = pendulum.today().date() - pendulum.duration(days=day_offset)
     puzzle_dates = end_date - start_date
 
-    headers = ["Date", "File", "Forum", "Words", "Pangrams", "Notes"]
+    headers = ["Date", "File", "Forum", "Words", "Pangrams"]
     table = []
     for date in puzzle_dates:
         filepath = f"days/{date}.json"
@@ -36,8 +36,7 @@ def generate_table():
         puzzle = load_puzzle_from_json(filepath=f"{settings.repo_root}/{filepath}")
         word_count = len(puzzle.answers)
         pangram_count = len(puzzle.pangrams)
-        notes = ""
-        row = [f"**{date}**", path_link, forum_link, word_count, pangram_count, notes]
+        row = [f"**{date}**", path_link, forum_link, word_count, pangram_count]
         table.append(row)
 
     markdown = tabulate(table, headers=headers, tablefmt="github")
