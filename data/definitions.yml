@@ -1,0 +1,12 @@
+words:
+
+  - word: "aground"
+    part: "adv."
+    defs:
+      - "On the ground; stranded; -- a nautical term applied to a ship when its bottom lodges on the ground."
+
+  - word: "tacit"
+    part: "adj."
+    defs:
+      - "Silently indicated or implied; understood from conditions or circumstances; inferred or inferable; expressed otherwise than by speech; indirectly manifested or communicated; wordless."
+      - "*logic* Not derived from formal principles of reasoning; based on induction rather than deduction."

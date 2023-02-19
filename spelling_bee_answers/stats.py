@@ -9,6 +9,7 @@ from pathlib import Path
 from rich import print
 from tabulate import tabulate
 
+from .dictionary import load_definitions, lookup_word
 from .models import load_puzzle_from_json
 from .settings import settings
 
@@ -33,12 +34,28 @@ def load_all_puzzles_by_key(key):
 
 
 def generate_words_table(counts, condition=lambda _: True):
-    headers = ["Word", "Count", "Definition"]
-    rows = [
-        (f"**{word}**", count, f"https://www.wordnik.com/words/{word}")
-        for word, count in sorted(counts.items())
-        if condition(count)
-    ]
+    words_dict = load_definitions()
+
+    headers = ["Word", "Count", "Definition Text", "Definition URL"]
+    rows = []
+    for word, count in sorted(counts.items()):
+        if condition(count):
+            word_obj = lookup_word(words_dict, word)
+            if word_obj is not None:
+                word_col = f"**{word}** <small>*({word_obj.part_of_speech})*</small>"
+                if len(word_obj.definitions) > 1:
+                    definition_text = "- " + "<br>- ".join(word_obj.definitions)
+                else:
+                    definition_text = word_obj.definitions[0]
+            else:
+                word_col = f"**{word}**"
+                definition_text = None
+
+            definition_url = f"https://www.wordnik.com/words/{word}"
+
+            row = (word_col, count, definition_text, definition_url)
+            rows.append(row)
+
     table = tabulate(rows, headers=headers, tablefmt="github")
     # print(table)
     return table
