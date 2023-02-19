@@ -16,15 +16,20 @@ logging.basicConfig(
 )
 
 
-def generate_table():
-    logging.info("Generating table")
-
+def _get_puzzle_dates():
     # if the time is after 12 am eastern but before 3 am eastern, then the current day
     # is *NOT* be included yet as the new day's puzzle gets published at 3 am eastern
     start_date = pendulum.date(2023, 1, 1)
     day_offset = 1 if pendulum.now(tz="US/Eastern").hour >= 3 else 2
     end_date = pendulum.today().date() - pendulum.duration(days=day_offset)
     puzzle_dates = end_date - start_date
+    return puzzle_dates
+
+
+def generate_table():
+    logging.info("Generating table")
+
+    puzzle_dates = _get_puzzle_dates()
 
     headers = ["Date", "File", "Forum", "Words", "Pangrams"]
     table = []
