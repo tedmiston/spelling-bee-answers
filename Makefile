@@ -20,6 +20,7 @@ format:
 format-dry-run:
 	black --diff --line-length=$(LINE_LENGTH) .
 
+# see `setup.cfg` for flake8 config
 .PHONY: lint
 lint:
 	flake8 .
