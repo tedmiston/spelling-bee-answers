@@ -29,6 +29,9 @@ class NYTimesScraper(SpellingBeeScraperInterface):
     url = "https://www.nytimes.com/puzzles/spelling-bee"
 
     def fetch_page(self, url=None):
+        """
+        Fetch the contents of the page at the given URL.
+        """
         logging.info("Fetching puzzle")
 
         if url is None:
@@ -41,6 +44,9 @@ class NYTimesScraper(SpellingBeeScraperInterface):
         return response
 
     def extract_game_data(self, response):
+        """
+        Parse the webpage extracting the JavaScript game data.
+        """
         logging.info("Extracting game data")
 
         soup = BeautifulSoup(response.content, "html.parser")
@@ -52,6 +58,9 @@ class NYTimesScraper(SpellingBeeScraperInterface):
         return game_data_script
 
     def parse_game_data(self, game_data_script):
+        """
+        Parse the yesterday game data from JavaScript into a Python object.
+        """
         logging.info("Parsing game data")
 
         yesterday_start_index = game_data_script.text.find('"yesterday"')
@@ -73,6 +82,9 @@ class NYTimesScraper(SpellingBeeScraperInterface):
         return yesterday_dict["yesterday"]
 
     def output_game_data(self, puzzle_dict):
+        """
+        Write the game data to disk.
+        """
         logging.info("Writing game data")
 
         # todo: use Puzzle model here?
@@ -90,6 +102,9 @@ class NYTimesScraper(SpellingBeeScraperInterface):
         logging.info("Done")
 
     def run(self):
+        """
+        Entrypoint for running the above functions.
+        """
         response = self.fetch_page()
         soup = self.extract_game_data(response)
         puzzle = self.parse_game_data(soup)
@@ -97,6 +112,9 @@ class NYTimesScraper(SpellingBeeScraperInterface):
 
 
 def main():  # pragma: no cover
+    """
+    Entrypoint for development of NYTimesScraper.
+    """
     nyts = NYTimesScraper()
     nyts.run()
 

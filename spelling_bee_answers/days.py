@@ -16,6 +16,9 @@ logging.basicConfig(
 
 
 def _get_puzzle_dates():
+    """
+    Determine the range of puzzle dates.
+    """
     # if the time is after 12 am eastern but before 3 am eastern, then the current day
     # is *NOT* be included yet as the new day's puzzle gets published at 3 am eastern
     start_date = pendulum.date(2023, 1, 1)
@@ -26,11 +29,17 @@ def _get_puzzle_dates():
 
 
 def _get_forum_url(date_str):
+    """
+    Construct a URL for the NYTimes Spelling Bee daily forum (webpage).
+    """
     url = f"https://www.nytimes.com/{date_str}/crosswords/spelling-bee-forum.html"
     return url
 
 
 def generate_table():
+    """
+    Generate the table of daily puzzles and their stats.
+    """
     logging.info("Generating table")
 
     puzzle_dates = _get_puzzle_dates()
@@ -56,6 +65,9 @@ def generate_table():
 
 
 def update_doc(markdown, filename=f"{settings.output_dir}/{settings.output_file_days}"):
+    """
+    Update the markdown doc with the table of daily puzzles.
+    """
     logging.info("Updating readme")
 
     tag_start, tag_end = (
@@ -83,6 +95,9 @@ def update_doc(markdown, filename=f"{settings.output_dir}/{settings.output_file_
 
 
 def main():  # pragma: no cover
+    """
+    Entrypoint for fetching and updating the Markdown doc of daily puzzles.
+    """
     markdown = generate_table()
     update_doc(markdown)
 

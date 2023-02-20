@@ -8,6 +8,9 @@ from ..settings import Settings
 
 
 def test_settings_schema():
+    """
+    Test the Settings.
+    """
     settings = Settings()
 
     assert isinstance(settings.repo_root, str)
@@ -24,6 +27,9 @@ def test_settings_schema():
 
 
 def test_settings_defaults():
+    """
+    Test the Settings defaults.
+    """
     settings = Settings()
 
     assert settings.repo_root != ""

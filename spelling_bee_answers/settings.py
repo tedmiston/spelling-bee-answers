@@ -1,7 +1,14 @@
+"""
+Settings.
+"""
+
 from pydantic import BaseSettings
 
 
 class Settings(BaseSettings):
+    """
+    Settings.
+    """
 
     # todo: migrate this to be a pathlib.Path
     repo_root: str
@@ -20,6 +27,10 @@ class Settings(BaseSettings):
     output_file_words: str = "Words.md"
 
     class Config:
+        """
+        Config.
+        """
+
         env_file = ".env"
 
 

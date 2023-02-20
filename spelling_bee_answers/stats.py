@@ -14,6 +14,9 @@ from .settings import settings
 
 
 def _load_all_puzzles():
+    """
+    Load all puzzles from disk.
+    """
     paths = Path(f"{settings.repo_root}/days").glob("*.json")
     paths = sorted(paths)
 
@@ -22,6 +25,9 @@ def _load_all_puzzles():
 
 
 def load_all_puzzles_by_key(key):
+    """
+    Extract the values for a specific key from all puzzles.
+    """
     puzzles = _load_all_puzzles()
 
     values = [getattr(x, key) for x in puzzles]
@@ -33,6 +39,9 @@ def load_all_puzzles_by_key(key):
 
 
 def generate_words_table(counts, condition=lambda _: True):
+    """
+    Generate a table of words and their frequencies, definitions, etc.
+    """
     words_dict = load_definitions()
 
     headers = ["Word", "Count", "Definition Text", "Definition URL"]
@@ -61,6 +70,9 @@ def generate_words_table(counts, condition=lambda _: True):
 
 
 def update_doc(filename, tag, table, word_count, label):
+    """
+    Update the markdown doc with the tables of words from puzzles.
+    """
     tag_start, tag_end = (
         f"<!-- {tag} start -->",
         f"<!-- {tag} end -->",
@@ -84,6 +96,9 @@ def update_doc(filename, tag, table, word_count, label):
 
 
 def main():  # pragma: no cover
+    """
+    Entrypoint for fetching and updating the Markdown docs of words from puzzles.
+    """
     # all words lists
     answers = load_all_puzzles_by_key(key="answers")
     all_answers_counts = Counter(answers)

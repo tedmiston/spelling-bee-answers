@@ -30,11 +30,17 @@ class SBSolverScraper(SpellingBeeScraperInterface):
     """
 
     def _build_url(self, puzzle_id):
+        """
+        Construct an SBSolver puzzle URL.
+        """
         # this puzzle id in the url *does not* correspond to the nytimes puzzle id
         url = f"https://www.sbsolver.com/s/{puzzle_id}"
         return url
 
     def fetch_page(self, url):
+        """
+        Fetch the contents of the page at the given URL.
+        """
         logging.info("Fetching puzzle")
 
         response = requests.get(url)
@@ -44,12 +50,18 @@ class SBSolverScraper(SpellingBeeScraperInterface):
         return response
 
     def extract_game_data(self, response):
+        """
+        Parse the webpage extracting the JavaScript game data.
+        """
         logging.info("Extracting game data")
 
         soup = BeautifulSoup(response.content, "html.parser")
         return soup
 
     def parse_game_data(self, soup):
+        """
+        Parse the yesterday game data from JavaScript into a Python object.
+        """
         date = soup.find("span", attrs={"class": "bee-date"}).find("a").text
         date = pendulum.parse(
             date, strict=False
@@ -99,6 +111,9 @@ class SBSolverScraper(SpellingBeeScraperInterface):
         return puzzle
 
     def output_game_data(self, puzzle):
+        """
+        Write the game data to disk.
+        """
         logging.info("Writing game data")
 
         output = puzzle.json()
@@ -117,6 +132,9 @@ class SBSolverScraper(SpellingBeeScraperInterface):
         logging.info("Done")
 
     def run(self):
+        """
+        Entrypoint for running the above functions.
+        """
         # puzzle_id = 1  # 1...1721
         # puzzle_id = 2
         puzzle_id = 1721
@@ -130,6 +148,9 @@ class SBSolverScraper(SpellingBeeScraperInterface):
 
 
 def main():  # pragma: no cover
+    """
+    Entrypoint for development of SBSolverScraper.
+    """
     sbss = SBSolverScraper()
     sbss.run()
 

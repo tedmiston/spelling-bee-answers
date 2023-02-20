@@ -1,3 +1,10 @@
+"""
+Definitions of words.
+
+This is mostly not code, but a data file; it just happens that code is the most
+convenient format to maintain the corresponding word definitions.
+"""
+
 from .models import PartOfSpeech as POS, Word
 
 words = [
