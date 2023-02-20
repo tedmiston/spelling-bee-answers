@@ -13,7 +13,7 @@ from rich import print
 
 class PartOfSpeech(StrEnum):
     """
-    Parts of speech constants
+    Parts of speech constants.
     """
 
     ADJECTIVE = "adj."
@@ -50,8 +50,10 @@ class Puzzle(BaseModel):
 
 def load_puzzle_from_json(filepath):
     """
-    The data shape is different for puzzles from the NYTimes (verified) vs backfill data
-    aggregated from third party sources (non-verified).
+    Load a JSON puzzle file from disk.
+
+    Note: The data shape is different for puzzles from the NYTimes (verified) vs
+    backfill data aggregated from third party sources (non-verified).
     """
     with open(filepath) as fp:
         obj = json.load(fp)
@@ -88,6 +90,9 @@ def load_puzzle_from_json(filepath):
 
 
 def main():  # pragma: no cover
+    """
+    Entrypoint to quick test loading a single puzzle.
+    """
     # todo: update main to take filepath as a sysarg
 
     # todo: copy this code to `test_load_puzzle_from_json`

@@ -42,8 +42,7 @@ def test_output_json_schema():
 
 def test_daily_answers_complete():
     """
-    Assert that a daily answer file exists for each day from the start through the
-    present (yesterday).
+    Ensure daily answer file exists for each day through present (typically yesterday).
     """
     # when the test is run between 12–3 am eastern, the previous day's puzzle hasn't
     # closed yet (it's live until just before 3 am eastern on the following day)
