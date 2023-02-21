@@ -25,6 +25,7 @@ format-dry-run:
 .PHONY: lint
 lint:
 	@flake8 $(SRC_DIR)
+	@shellcheck scripts/*
 
 .PHONY: test
 test:
