@@ -3,15 +3,15 @@ SRC_DIR := .
 
 .PHONY: run
 run:
-	python -m spelling_bee_answers.scrapers.nyt
+	@python -m spelling_bee_answers.scrapers.nyt
 
 .PHONY: gen-days
 gen-days:
-	python -m spelling_bee_answers.days
+	@python -m spelling_bee_answers.days
 
 .PHONY: gen-stats
 gen-stats:
-	python -m spelling_bee_answers.stats
+	@python -m spelling_bee_answers.stats
 
 .PHONY: format
 format:
@@ -24,8 +24,8 @@ format-dry-run:
 # see `setup.cfg` for flake8 config
 .PHONY: lint
 lint:
-	flake8 .
+	@flake8 $(SRC_DIR)
 
 .PHONY: test
 test:
-	pytest .
+	@pytest $(SRC_DIR)
