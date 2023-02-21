@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-70 pangrams
+71 pangrams
 
 | Word                                |   Count | Definition Text                                                                                                   | Definition URL                             |
 |-------------------------------------|---------|-------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
@@ -76,6 +76,7 @@ Every pangram that's occurred so far.
 | **nonviolent**                      |       1 |                                                                                                                   | https://www.wordnik.com/words/nonviolent   |
 | **notably**                         |       1 |                                                                                                                   | https://www.wordnik.com/words/notably      |
 | **obliged**                         |       1 |                                                                                                                   | https://www.wordnik.com/words/obliged      |
+| **opulent** <small>*(adj.)*</small> |       1 | Characterized by extravagance or rich abundance; lavish or luxuriant.                                             | https://www.wordnik.com/words/opulent      |
 | **outback**                         |       1 |                                                                                                                   | https://www.wordnik.com/words/outback      |
 | **paintball**                       |       1 |                                                                                                                   | https://www.wordnik.com/words/paintball    |
 | **pedagogy**                        |       1 |                                                                                                                   | https://www.wordnik.com/words/pedagogy     |
