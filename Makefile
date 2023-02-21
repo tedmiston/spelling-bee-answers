@@ -30,3 +30,10 @@ lint:
 .PHONY: test
 test:
 	@pytest $(SRC_DIR)
+
+.PHONY: clean
+clean:
+	@rm -rf \
+		**/.pytest_cache \
+		**/__pycache__ \
+		.mypy_cache
