@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-71 pangrams
+72 pangrams
 
 | Word                                |   Count | Definition Text                                                                                                   | Definition URL                             |
 |-------------------------------------|---------|-------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
@@ -68,6 +68,7 @@ Every pangram that's occurred so far.
 | **judicial**                        |       1 |                                                                                                                   | https://www.wordnik.com/words/judicial     |
 | **legality**                        |       1 |                                                                                                                   | https://www.wordnik.com/words/legality     |
 | **livability**                      |       1 |                                                                                                                   | https://www.wordnik.com/words/livability   |
+| **mahogany**                        |       1 |                                                                                                                   | https://www.wordnik.com/words/mahogany     |
 | **mathematic**                      |       1 |                                                                                                                   | https://www.wordnik.com/words/mathematic   |
 | **modular**                         |       1 |                                                                                                                   | https://www.wordnik.com/words/modular      |
 | **mothball**                        |       1 |                                                                                                                   | https://www.wordnik.com/words/mothball     |
