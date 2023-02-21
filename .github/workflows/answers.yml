@@ -1,10 +1,10 @@
 name: Spelling Bee Answers
 
 on:
-  # # for debugging
-  # push:
-  #   branches:
-  #     - main
+  # for debugging
+  push:
+    branches:
+      - main
   schedule:
     - cron: 0 8 * * *  # daily at 8 am UTC (== 3 am eastern) [the new game starts daily at 3 am eastern]
 concurrency: ci-spelling-bee-answers
@@ -58,17 +58,17 @@ jobs:
           author_email: ${{ vars.ROBOT_AUTHOR_EMAIL }}
           message: Add answers
 
-      - name: Update readme table
+      - name: Update days table
         timeout-minutes: 1
         env:
           display_generated_readme_table: false
         run: |
           poetry run python -m spelling_bee_answers.days
 
-      - name: Git commit readme
+      - name: Git commit days
         uses: endbug/add-and-commit@v9.1.1
         with:
-          add: README.md
+          add: outputs/Days.md
           author_name: ${{ vars.ROBOT_AUTHOR_NAME }}
           author_email: ${{ vars.ROBOT_AUTHOR_EMAIL }}
           message: Regenerate readme table
@@ -81,7 +81,7 @@ jobs:
       - name: Git commit word lists
         uses: endbug/add-and-commit@v9.1.1
         with:
-          add: Pangrams.md Words.md
+          add: outputs/Pangrams.md outputs/Words.md
           author_name: ${{ vars.ROBOT_AUTHOR_NAME }}
           author_email: ${{ vars.ROBOT_AUTHOR_EMAIL }}
           message: Regenerate word lists
