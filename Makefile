@@ -14,11 +14,13 @@ gen-stats:
 
 .PHONY: format
 format:
-	black --line-length=$(LINE_LENGTH) .
+	black --line-length=$(LINE_LENGTH) . && \
+	isort .
 
 .PHONY: format-dry-run
 format-dry-run:
-	black --diff --line-length=$(LINE_LENGTH) .
+	black --diff --line-length=$(LINE_LENGTH) . && \
+	isort --diff .
 
 # see `setup.cfg` for flake8 config
 .PHONY: lint
