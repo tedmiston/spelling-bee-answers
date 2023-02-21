@@ -1,6 +1,4 @@
-# NYTimes Spelling Bee Answers
-
-[![](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+# Spelling Bee Answers &middot; [![](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
 An automated archive of answers to the [NYTimes Spelling Bee][1] puzzles.
 
