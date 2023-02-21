@@ -2,9 +2,9 @@
 
 set -euo pipefail
 
-SRC_DIR=${1}
-LINE_LENGTH=${2}
-DRY_RUN=${3}
+SRC_DIR=${1}      # source code root directory
+LINE_LENGTH=${2}  # max line length
+DRY_RUN=${3}      # 1 to use dry run mode; 0 to not
 
 function format {
 	echo
@@ -30,8 +30,12 @@ function format_dry_run {
 	echo
 }
 
-if [ "${DRY_RUN}" ]; then
-	format_dry_run;
-else
-	format;
-fi
+function main {
+	if [ "${DRY_RUN}" ]; then
+		format_dry_run;
+	else
+		format;
+	fi
+}
+
+main
