@@ -68,7 +68,8 @@ jobs:
       - name: Git commit days
         uses: endbug/add-and-commit@v9.1.1
         with:
-          add: outputs/Days.md
+          cwd: outputs
+          add: Days.md
           author_name: ${{ vars.ROBOT_AUTHOR_NAME }}
           author_email: ${{ vars.ROBOT_AUTHOR_EMAIL }}
           message: Regenerate readme table
@@ -81,7 +82,8 @@ jobs:
       - name: Git commit word lists
         uses: endbug/add-and-commit@v9.1.1
         with:
-          add: outputs/Pangrams.md outputs/Words.md
+          cwd: outputs
+          add: Pangrams.md Words.md
           author_name: ${{ vars.ROBOT_AUTHOR_NAME }}
           author_email: ${{ vars.ROBOT_AUTHOR_EMAIL }}
           message: Regenerate word lists
