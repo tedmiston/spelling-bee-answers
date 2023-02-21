@@ -1,4 +1,5 @@
 LINE_LENGTH := 88
+SRC_DIR := .
 
 .PHONY: run
 run:
@@ -14,13 +15,11 @@ gen-stats:
 
 .PHONY: format
 format:
-	black --line-length=$(LINE_LENGTH) . && \
-	isort .
+	@./scripts/format.sh $(SRC_DIR) $(LINE_LENGTH) 0
 
 .PHONY: format-dry-run
 format-dry-run:
-	black --diff --line-length=$(LINE_LENGTH) . && \
-	isort --diff .
+	@./scripts/format.sh $(SRC_DIR) $(LINE_LENGTH) 1
 
 # see `setup.cfg` for flake8 config
 .PHONY: lint
