@@ -1,0 +1,59 @@
+{
+  "expiration": 1677052800,
+  "displayWeekday": "Tuesday",
+  "displayDate": "February 21, 2023",
+  "printDate": "2023-02-21",
+  "centerLetter": "h",
+  "outerLetters": [
+    "c",
+    "d",
+    "e",
+    "l",
+    "t",
+    "u"
+  ],
+  "validLetters": [
+    "h",
+    "c",
+    "d",
+    "e",
+    "l",
+    "t",
+    "u"
+  ],
+  "pangrams": [
+    "clutched"
+  ],
+  "answers": [
+    "clutched",
+    "chute",
+    "clutch",
+    "etch",
+    "etched",
+    "heed",
+    "heeded",
+    "heel",
+    "heeled",
+    "held",
+    "hell",
+    "huddle",
+    "huddled",
+    "hued",
+    "hull",
+    "hulled",
+    "hutch",
+    "lech",
+    "leech",
+    "leeched",
+    "tech",
+    "teeth",
+    "teethe",
+    "teethed",
+    "thee",
+    "thud",
+    "thudded"
+  ],
+  "id": 20341,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
