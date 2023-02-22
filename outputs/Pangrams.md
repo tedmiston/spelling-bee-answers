@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-72 pangrams
+73 pangrams
 
 | Word                                |   Count | Definition Text                                                                                                   | Definition URL                             |
 |-------------------------------------|---------|-------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
@@ -35,6 +35,7 @@ Every pangram that's occurred so far.
 | **brought**                         |       1 |                                                                                                                   | https://www.wordnik.com/words/brought      |
 | **cardigan**                        |       1 |                                                                                                                   | https://www.wordnik.com/words/cardigan     |
 | **carding**                         |       1 |                                                                                                                   | https://www.wordnik.com/words/carding      |
+| **clutched**                        |       1 |                                                                                                                   | https://www.wordnik.com/words/clutched     |
 | **competence**                      |       1 |                                                                                                                   | https://www.wordnik.com/words/competence   |
 | **competent**                       |       1 |                                                                                                                   | https://www.wordnik.com/words/competent    |
 | **component**                       |       1 |                                                                                                                   | https://www.wordnik.com/words/component    |
