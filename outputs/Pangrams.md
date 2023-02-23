@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-73 pangrams
+74 pangrams
 
 | Word                                |   Count | Definition Text                                                                                                   | Definition URL                             |
 |-------------------------------------|---------|-------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
@@ -84,6 +84,7 @@ Every pangram that's occurred so far.
 | **pedagogy**                        |       1 |                                                                                                                   | https://www.wordnik.com/words/pedagogy     |
 | **photograph**                      |       1 |                                                                                                                   | https://www.wordnik.com/words/photograph   |
 | **pinewood**                        |       1 |                                                                                                                   | https://www.wordnik.com/words/pinewood     |
+| **pityingly**                       |       1 |                                                                                                                   | https://www.wordnik.com/words/pityingly    |
 | **plebeian**                        |       1 |                                                                                                                   | https://www.wordnik.com/words/plebeian     |
 | **prickly**                         |       1 |                                                                                                                   | https://www.wordnik.com/words/prickly      |
 | **taciturn**                        |       1 |                                                                                                                   | https://www.wordnik.com/words/taciturn     |
