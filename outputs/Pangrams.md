@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-74 pangrams
+75 pangrams
 
 | Word                                |   Count | Definition Text                                                                                                   | Definition URL                             |
 |-------------------------------------|---------|-------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
@@ -81,6 +81,7 @@ Every pangram that's occurred so far.
 | **opulent** <small>*(adj.)*</small> |       1 | Characterized by extravagance or rich abundance; lavish or luxuriant.                                             | https://www.wordnik.com/words/opulent      |
 | **outback**                         |       1 |                                                                                                                   | https://www.wordnik.com/words/outback      |
 | **paintball**                       |       1 |                                                                                                                   | https://www.wordnik.com/words/paintball    |
+| **payment**                         |       1 |                                                                                                                   | https://www.wordnik.com/words/payment      |
 | **pedagogy**                        |       1 |                                                                                                                   | https://www.wordnik.com/words/pedagogy     |
 | **photograph**                      |       1 |                                                                                                                   | https://www.wordnik.com/words/photograph   |
 | **pinewood**                        |       1 |                                                                                                                   | https://www.wordnik.com/words/pinewood     |
