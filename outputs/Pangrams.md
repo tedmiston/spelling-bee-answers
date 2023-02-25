@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-75 pangrams
+77 pangrams
 
 | Word                                |   Count | Definition Text                                                                                                   | Definition URL                             |
 |-------------------------------------|---------|-------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
@@ -41,6 +41,8 @@ Every pangram that's occurred so far.
 | **component**                       |       1 |                                                                                                                   | https://www.wordnik.com/words/component    |
 | **contempt**                        |       1 |                                                                                                                   | https://www.wordnik.com/words/contempt     |
 | **curtain**                         |       1 |                                                                                                                   | https://www.wordnik.com/words/curtain      |
+| **divebomb**                        |       1 |                                                                                                                   | https://www.wordnik.com/words/divebomb     |
+| **divebombed**                      |       1 |                                                                                                                   | https://www.wordnik.com/words/divebombed   |
 | **dormitory**                       |       1 |                                                                                                                   | https://www.wordnik.com/words/dormitory    |
 | **draconian**                       |       1 |                                                                                                                   | https://www.wordnik.com/words/draconian    |
 | **draconic**                        |       1 |                                                                                                                   | https://www.wordnik.com/words/draconic     |
