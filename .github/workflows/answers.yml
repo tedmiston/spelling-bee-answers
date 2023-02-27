@@ -1,10 +1,10 @@
 name: Spelling Bee Answers
 
 on:
-  # for debugging
-  push:
-    branches:
-      - main
+  # # for debugging
+  # push:
+  #   branches:
+  #     - main
   schedule:
     - cron: 0 8 * * *  # daily at 8 am UTC (== 3 am eastern) [the new game starts daily at 3 am eastern]
 concurrency: ci-spelling-bee-answers
