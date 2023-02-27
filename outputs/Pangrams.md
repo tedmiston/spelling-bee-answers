@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-80 pangrams
+82 pangrams
 
 | Word                                |   Count | Definition Text                                                                                                   | Definition URL                             |
 |-------------------------------------|---------|-------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
@@ -99,7 +99,9 @@ Every pangram that's occurred so far.
 | **thematic**                        |       1 |                                                                                                                   | https://www.wordnik.com/words/thematic     |
 | **tributary**                       |       1 |                                                                                                                   | https://www.wordnik.com/words/tributary    |
 | **uncloak**                         |       1 |                                                                                                                   | https://www.wordnik.com/words/uncloak      |
+| **unevolved**                       |       1 |                                                                                                                   | https://www.wordnik.com/words/unevolved    |
 | **unfeeling**                       |       1 |                                                                                                                   | https://www.wordnik.com/words/unfeeling    |
+| **unloved**                         |       1 |                                                                                                                   | https://www.wordnik.com/words/unloved      |
 | **upheaval**                        |       1 |                                                                                                                   | https://www.wordnik.com/words/upheaval     |
 | **viability**                       |       1 |                                                                                                                   | https://www.wordnik.com/words/viability    |
 | **violent**                         |       1 |                                                                                                                   | https://www.wordnik.com/words/violent      |
