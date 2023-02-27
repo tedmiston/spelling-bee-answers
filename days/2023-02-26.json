@@ -1,0 +1,63 @@
+{
+  "expiration": 1677484800,
+  "displayWeekday": "Sunday",
+  "displayDate": "February 26, 2023",
+  "printDate": "2023-02-26",
+  "centerLetter": "v",
+  "outerLetters": [
+    "d",
+    "e",
+    "l",
+    "n",
+    "o",
+    "u"
+  ],
+  "validLetters": [
+    "v",
+    "d",
+    "e",
+    "l",
+    "n",
+    "o",
+    "u"
+  ],
+  "pangrams": [
+    "unevolved",
+    "unloved"
+  ],
+  "answers": [
+    "unevolved",
+    "unloved",
+    "delve",
+    "delved",
+    "devolve",
+    "devolved",
+    "dove",
+    "eleven",
+    "even",
+    "evened",
+    "evolve",
+    "evolved",
+    "levee",
+    "level",
+    "leveled",
+    "love",
+    "loved",
+    "nouvelle",
+    "novel",
+    "oven",
+    "ovule",
+    "uneven",
+    "unlevel",
+    "veld",
+    "vend",
+    "vended",
+    "venue",
+    "venule",
+    "vole",
+    "voodoo"
+  ],
+  "id": 11865,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
