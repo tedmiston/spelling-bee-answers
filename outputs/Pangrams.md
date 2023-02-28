@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-82 pangrams
+83 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                             |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
@@ -32,6 +32,7 @@ Every pangram that's occurred so far.
 | **arachnid** <small>*(n.)*</small>      |       1 | Any of the eight-legged creatures, including spiders and scorpions, of the class Arachnida                                                                                                                     | https://www.wordnik.com/words/arachnid     |
 | **attitudinal**                         |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/attitudinal  |
 | **availability** <small>*(n.)*</small>  |       1 | The quality of being available (present and ready for use; at hand; accessible).                                                                                                                               | https://www.wordnik.com/words/availability |
+| **awkwardly**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/awkwardly    |
 | **axiomatic** <small>*(adj.)*</small>   |       1 | Of, relating to, or resembling an axiom; self-evident.                                                                                                                                                         | https://www.wordnik.com/words/axiomatic    |
 | **biplane** <small>*(n.)*</small>       |       1 | *aviation* An airplane that has two pairs of wings, one above the other                                                                                                                                        | https://www.wordnik.com/words/biplane      |
 | **brought** <small>*(v.)*</small>       |       1 | Simple past tense and past participle of bring.                                                                                                                                                                | https://www.wordnik.com/words/brought      |
