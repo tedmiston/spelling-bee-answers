@@ -295,7 +295,7 @@ words = [
         word="enveloped",
         part_of_speech=POS.ADJECTIVE,
         definitions=[
-            "enclosed or surrounded completely.",
+            "Enclosed or surrounded completely.",
         ],
     ),
     Word(
@@ -414,7 +414,7 @@ words = [
         word="ineffective",
         part_of_speech=POS.ADJECTIVE,
         definitions=[
-            "not producing an intended effect",
+            "Not producing an intended effect.",
         ],
     ),
     Word(
@@ -491,7 +491,7 @@ words = [
         word="noncompete",
         part_of_speech=POS.ADJECTIVE,
         definitions=[
-            "*law* Of or pertaining to a commitment not to engage in competition with another party",
+            "*law* Of or pertaining to a commitment not to engage in competition with another party.",
         ],
     ),
     Word(
@@ -505,7 +505,7 @@ words = [
         word="notably",
         part_of_speech=POS.ADVERB,
         definitions=[
-            "especially; in particular",
+            "Especially; in particular.",
         ],
     ),
     Word(
@@ -590,7 +590,7 @@ words = [
         word="thematic",
         part_of_speech=POS.ADJECTIVE,
         definitions=[
-            "relating to, or having a theme or a topic",
+            "Relating to, or having a theme or a topic.",
         ],
     ),
     Word(
@@ -625,14 +625,14 @@ words = [
         word="viability",
         part_of_speech=POS.NOUN,
         definitions=[
-            "the property of being viable; the ability to live or to succeed",
+            "The property of being viable; the ability to live or to succeed.",
         ],
     ),
     Word(
         word="violent",
         part_of_speech=POS.ADJECTIVE,
         definitions=[
-            "Moving or acting with physical strength; urged or impelled with force; excited by strong feeling or passion; forcible; vehement; impetuous; fierce; furious; severe",
+            "Moving or acting with physical strength; urged or impelled with force; excited by strong feeling or passion; forcible; vehement; impetuous; fierce; furious; severe.",
         ],
     ),
     Word(
