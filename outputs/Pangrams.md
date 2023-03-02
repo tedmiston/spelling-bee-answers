@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-84 pangrams
+85 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                             |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
@@ -103,6 +103,7 @@ Every pangram that's occurred so far.
 | **uncloak** <small>*(v.)*</small>       |       1 | To expose; reveal.                                                                                                                                                                                             | https://www.wordnik.com/words/uncloak      |
 | **unevolved**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/unevolved    |
 | **unfeeling** <small>*(adj.)*</small>   |       1 | Having no physical feeling or sensation; insentient.                                                                                                                                                           | https://www.wordnik.com/words/unfeeling    |
+| **unknowing**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/unknowing    |
 | **unloved**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/unloved      |
 | **upheaval** <small>*(n.)*</small>      |       1 | A sudden, violent disruption or upset.                                                                                                                                                                         | https://www.wordnik.com/words/upheaval     |
 | **viability** <small>*(n.)*</small>     |       1 | The property of being viable; the ability to live or to succeed.                                                                                                                                               | https://www.wordnik.com/words/viability    |
