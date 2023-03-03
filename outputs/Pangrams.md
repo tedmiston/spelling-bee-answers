@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-85 pangrams
+86 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                             |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
@@ -94,6 +94,7 @@ Every pangram that's occurred so far.
 | **pinewood** <small>*(n.)*</small>      |       1 | The wood of the pine tree.                                                                                                                                                                                     | https://www.wordnik.com/words/pinewood     |
 | **pityingly**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/pityingly    |
 | **plebeian** <small>*(adj.)*</small>    |       1 | Of, belonging to, or characteristic of commoners.                                                                                                                                                              | https://www.wordnik.com/words/plebeian     |
+| **potency**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/potency      |
 | **prickly** <small>*(adj.)*</small>     |       1 | - Having prickles.<br>- Causing trouble or vexation; thorny.                                                                                                                                                   | https://www.wordnik.com/words/prickly      |
 | **taciturn** <small>*(adj.)*</small>    |       1 | Silent or reserved in speech; saying little; not inclined to speak or converse.                                                                                                                                | https://www.wordnik.com/words/taciturn     |
 | **talkative** <small>*(adj.)*</small>   |       1 | Marked by or having a disposition to talk.                                                                                                                                                                     | https://www.wordnik.com/words/talkative    |
