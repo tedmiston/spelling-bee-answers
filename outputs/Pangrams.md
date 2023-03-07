@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-92 pangrams
+94 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                             |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
@@ -56,6 +56,8 @@ Every pangram that's occurred so far.
 | **fanciful** <small>*(adj.)*</small>    |       1 | Tending to indulge in fancy.                                                                                                                                                                                   | https://www.wordnik.com/words/fanciful     |
 | **fixable** <small>*(adj.)*</small>     |       1 | Capable of being fixed.                                                                                                                                                                                        | https://www.wordnik.com/words/fixable      |
 | **flagpole** <small>*(n.)*</small>      |       1 | A pole used to display a flag.                                                                                                                                                                                 | https://www.wordnik.com/words/flagpole     |
+| **flaking**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/flaking      |
+| **flanking**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/flanking     |
 | **fueling** <small>*(v.)*</small>       |       1 | Present participle of fuel (something consumed to produce energy, especially).                                                                                                                                 | https://www.wordnik.com/words/fueling      |
 | **funneling** <small>*(v.)*</small>     |       1 | *UK* Alternative spelling of funnelling.                                                                                                                                                                       | https://www.wordnik.com/words/funneling    |
 | **habitual** <small>*(adj.)*</small>    |       1 | Formed or acquired by habit or use.                                                                                                                                                                            | https://www.wordnik.com/words/habitual     |
