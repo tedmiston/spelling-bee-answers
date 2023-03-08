@@ -1,0 +1,60 @@
+{
+  "expiration": 1678262400,
+  "displayWeekday": "Tuesday",
+  "displayDate": "March 7, 2023",
+  "printDate": "2023-03-07",
+  "centerLetter": "l",
+  "outerLetters": [
+    "c",
+    "f",
+    "i",
+    "m",
+    "o",
+    "r"
+  ],
+  "validLetters": [
+    "l",
+    "c",
+    "f",
+    "i",
+    "m",
+    "o",
+    "r"
+  ],
+  "pangrams": [
+    "microfilm"
+  ],
+  "answers": [
+    "microfilm",
+    "cliff",
+    "coil",
+    "colic",
+    "color",
+    "colorific",
+    "cool",
+    "fill",
+    "film",
+    "floor",
+    "foil",
+    "folic",
+    "folio",
+    "fool",
+    "frill",
+    "frolic",
+    "limo",
+    "loci",
+    "loco",
+    "loll",
+    "loom",
+    "mill",
+    "moil",
+    "moll",
+    "olio",
+    "rill",
+    "roil",
+    "roll"
+  ],
+  "id": 17888,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
