@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-95 pangrams
+96 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                             |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
@@ -50,6 +50,7 @@ Every pangram that's occurred so far.
 | **dormitory** <small>*(n.)*</small>     |       1 | A building for housing a number of persons, as at a school or resort.                                                                                                                                          | https://www.wordnik.com/words/dormitory    |
 | **draconian** <small>*(adj.)*</small>   |       1 | A code of laws made by Draco. Their measures were so severe that they were said to be written in letters of blood; hence, any laws of excessive rigor.                                                         | https://www.wordnik.com/words/draconian    |
 | **draconic** <small>*(adj.)*</small>    |       1 | - Of or suggestive of a dragon.<br>- Draconian.                                                                                                                                                                | https://www.wordnik.com/words/draconic     |
+| **embankment**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/embankment   |
 | **engulfing** <small>*(v.)*</small>     |       1 | Present participle of engulf (to swallow up or overwhelm by or as if by overflowing and enclosing).                                                                                                            | https://www.wordnik.com/words/engulfing    |
 | **enveloped** <small>*(adj.)*</small>   |       1 | Enclosed or surrounded completely.                                                                                                                                                                             | https://www.wordnik.com/words/enveloped    |
 | **exultant** <small>*(adj.)*</small>    |       1 | Marked by great joy or jubilation; triumphant.                                                                                                                                                                 | https://www.wordnik.com/words/exultant     |
