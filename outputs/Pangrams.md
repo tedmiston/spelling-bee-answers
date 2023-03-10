@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-96 pangrams
+97 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                             |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
@@ -111,6 +111,7 @@ Every pangram that's occurred so far.
 | **thematic** <small>*(adj.)*</small>    |       1 | Relating to, or having a theme or a topic.                                                                                                                                                                     | https://www.wordnik.com/words/thematic     |
 | **tributary** <small>*(n.)*</small>     |       1 | A stream that flows into a larger stream or other body of water.                                                                                                                                               | https://www.wordnik.com/words/tributary    |
 | **uncloak** <small>*(v.)*</small>       |       1 | To expose; reveal.                                                                                                                                                                                             | https://www.wordnik.com/words/uncloak      |
+| **unequaled**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/unequaled    |
 | **unevolved**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/unevolved    |
 | **unfeeling** <small>*(adj.)*</small>   |       1 | Having no physical feeling or sensation; insentient.                                                                                                                                                           | https://www.wordnik.com/words/unfeeling    |
 | **unknowing**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/unknowing    |
