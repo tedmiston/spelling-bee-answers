@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-97 pangrams
+98 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                             |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
@@ -30,6 +30,7 @@ Every pangram that's occurred so far.
 | **allowance** <small>*(n.)*</small>     |       1 | Something, such as money, given at regular intervals or for a specific purpose.                                                                                                                                | https://www.wordnik.com/words/allowance    |
 | **although**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/although     |
 | **altitudinal**                         |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/altitudinal  |
+| **applicant**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/applicant    |
 | **arachnid** <small>*(n.)*</small>      |       1 | Any of the eight-legged creatures, including spiders and scorpions, of the class Arachnida                                                                                                                     | https://www.wordnik.com/words/arachnid     |
 | **attitudinal**                         |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/attitudinal  |
 | **availability** <small>*(n.)*</small>  |       1 | The quality of being available (present and ready for use; at hand; accessible).                                                                                                                               | https://www.wordnik.com/words/availability |
