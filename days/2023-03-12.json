@@ -1,0 +1,58 @@
+{
+  "displayWeekday": "Sunday",
+  "displayDate": "March 12, 2023",
+  "printDate": "2023-03-12",
+  "centerLetter": "e",
+  "outerLetters": [
+    "i",
+    "m",
+    "o",
+    "t",
+    "v",
+    "y"
+  ],
+  "validLetters": [
+    "e",
+    "i",
+    "m",
+    "o",
+    "t",
+    "v",
+    "y"
+  ],
+  "pangrams": [
+    "emotivity"
+  ],
+  "answers": [
+    "emotivity",
+    "emit",
+    "emote",
+    "emotive",
+    "item",
+    "meet",
+    "meme",
+    "memo",
+    "mete",
+    "mime",
+    "mimeo",
+    "mite",
+    "moiety",
+    "mote",
+    "motet",
+    "motive",
+    "move",
+    "movie",
+    "teem",
+    "time",
+    "tome",
+    "tote",
+    "totem",
+    "veto",
+    "vote",
+    "votive",
+    "yeti"
+  ],
+  "id": 26018,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
