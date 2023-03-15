@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-102 pangrams
+103 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                             |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
@@ -65,6 +65,7 @@ Every pangram that's occurred so far.
 | **flexion**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/flexion      |
 | **fueling** <small>*(v.)*</small>       |       1 | Present participle of fuel (something consumed to produce energy, especially).                                                                                                                                 | https://www.wordnik.com/words/fueling      |
 | **funneling** <small>*(v.)*</small>     |       1 | *UK* Alternative spelling of funnelling.                                                                                                                                                                       | https://www.wordnik.com/words/funneling    |
+| **glamour**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/glamour      |
 | **habitual** <small>*(adj.)*</small>    |       1 | Formed or acquired by habit or use.                                                                                                                                                                            | https://www.wordnik.com/words/habitual     |
 | **halibut** <small>*(n.)*</small>       |       1 | Any of several large edible flatfishes of the genus Hippoglossus and related genera, of northern Atlantic or Pacific waters.                                                                                   | https://www.wordnik.com/words/halibut      |
 | **heatedly**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/heatedly     |
