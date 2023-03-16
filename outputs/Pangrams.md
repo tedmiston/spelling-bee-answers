@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-103 pangrams
+105 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                             |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
@@ -47,6 +47,8 @@ Every pangram that's occurred so far.
 | **contempt** <small>*(n.)*</small>      |       1 | The feeling or attitude of regarding someone or something as inferior, base, or worthless; scorn.                                                                                                              | https://www.wordnik.com/words/contempt     |
 | **curtain** <small>*(n.)*</small>       |       1 | A piece of fabric or other material that hangs in a window or open space as a decoration, shade, screen, or divider.                                                                                           | https://www.wordnik.com/words/curtain      |
 | **deathly**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/deathly      |
+| **deputize**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/deputize     |
+| **deputized**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/deputized    |
 | **divebomb**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/divebomb     |
 | **divebombed**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/divebombed   |
 | **dormitory** <small>*(n.)*</small>     |       1 | A building for housing a number of persons, as at a school or resort.                                                                                                                                          | https://www.wordnik.com/words/dormitory    |
