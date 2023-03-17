@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-105 pangrams
+106 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                             |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
@@ -46,6 +46,7 @@ Every pangram that's occurred so far.
 | **component** <small>*(n.)*</small>     |       1 | A constituent element, as of a system. synonym: element.                                                                                                                                                       | https://www.wordnik.com/words/component    |
 | **contempt** <small>*(n.)*</small>      |       1 | The feeling or attitude of regarding someone or something as inferior, base, or worthless; scorn.                                                                                                              | https://www.wordnik.com/words/contempt     |
 | **curtain** <small>*(n.)*</small>       |       1 | A piece of fabric or other material that hangs in a window or open space as a decoration, shade, screen, or divider.                                                                                           | https://www.wordnik.com/words/curtain      |
+| **daytime**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/daytime      |
 | **deathly**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/deathly      |
 | **deputize**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/deputize     |
 | **deputized**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/deputized    |
