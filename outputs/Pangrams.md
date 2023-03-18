@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-106 pangrams
+107 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                             |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
@@ -40,6 +40,7 @@ Every pangram that's occurred so far.
 | **brought** <small>*(v.)*</small>       |       1 | Simple past tense and past participle of bring.                                                                                                                                                                | https://www.wordnik.com/words/brought      |
 | **cardigan** <small>*(n.)*</small>      |       1 | A knitted garment, such as a sweater or jacket, that opens down the full length of the front.                                                                                                                  | https://www.wordnik.com/words/cardigan     |
 | **carding** <small>*(n.)*</small>       |       1 | The process of combing wool, flax, or cotton.                                                                                                                                                                  | https://www.wordnik.com/words/carding      |
+| **clowned**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/clowned      |
 | **clutched**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/clutched     |
 | **competence** <small>*(n.)*</small>    |       1 | The ability to do something well or efficiently.                                                                                                                                                               | https://www.wordnik.com/words/competence   |
 | **competent** <small>*(adj.)*</small>   |       1 | Properly or sufficiently qualified; capable.                                                                                                                                                                   | https://www.wordnik.com/words/competent    |
