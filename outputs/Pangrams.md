@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-110 pangrams
+111 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                             |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
@@ -39,6 +39,7 @@ Every pangram that's occurred so far.
 | **axiomatic** <small>*(adj.)*</small>   |       1 | Of, relating to, or resembling an axiom; self-evident.                                                                                                                                                         | https://www.wordnik.com/words/axiomatic    |
 | **biplane** <small>*(n.)*</small>       |       1 | *aviation* An airplane that has two pairs of wings, one above the other                                                                                                                                        | https://www.wordnik.com/words/biplane      |
 | **brought** <small>*(v.)*</small>       |       1 | Simple past tense and past participle of bring.                                                                                                                                                                | https://www.wordnik.com/words/brought      |
+| **bullfrog**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/bullfrog     |
 | **capacitor**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/capacitor    |
 | **cardigan** <small>*(n.)*</small>      |       1 | A knitted garment, such as a sweater or jacket, that opens down the full length of the front.                                                                                                                  | https://www.wordnik.com/words/cardigan     |
 | **carding** <small>*(n.)*</small>       |       1 | The process of combing wool, flax, or cotton.                                                                                                                                                                  | https://www.wordnik.com/words/carding      |
