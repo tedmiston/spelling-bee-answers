@@ -1,6 +1,6 @@
 # Spelling Bee Answers &middot; [![](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
-An automated archive of answers to the [NYTimes Spelling Bee][1] puzzles.
+**An automated archive of [NYTimes Spelling Bee][1] puzzle answers**
 
 New puzzles are released at [3 am ET](https://time.is/ET).
 
