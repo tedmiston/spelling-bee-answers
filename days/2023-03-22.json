@@ -1,0 +1,62 @@
+{
+  "expiration": 1679554800,
+  "displayWeekday": "Wednesday",
+  "displayDate": "March 22, 2023",
+  "printDate": "2023-03-22",
+  "centerLetter": "t",
+  "outerLetters": [
+    "d",
+    "e",
+    "f",
+    "g",
+    "i",
+    "y"
+  ],
+  "validLetters": [
+    "t",
+    "d",
+    "e",
+    "f",
+    "g",
+    "i",
+    "y"
+  ],
+  "pangrams": [
+    "fidgety"
+  ],
+  "answers": [
+    "fidgety",
+    "deft",
+    "deity",
+    "diet",
+    "dieted",
+    "digit",
+    "ditty",
+    "edit",
+    "edited",
+    "effete",
+    "feet",
+    "fete",
+    "feted",
+    "fetid",
+    "fidget",
+    "fidgeted",
+    "fifty",
+    "fitted",
+    "gift",
+    "gifted",
+    "itty",
+    "teddy",
+    "teed",
+    "tide",
+    "tided",
+    "tidied",
+    "tidy",
+    "tied",
+    "tiff",
+    "yeti"
+  ],
+  "id": 20530,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
