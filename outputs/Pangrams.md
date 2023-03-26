@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-117 pangrams
+118 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                             |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
@@ -106,6 +106,7 @@ Every pangram that's occurred so far.
 | **modular** <small>*(adj.)*</small>     |       1 | Consisting of separate modules; especially where each module performs or fulfills some specified function and could be replaced by a similar module for the same function, independently of the other modules. | https://www.wordnik.com/words/modular      |
 | **monetize**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/monetize     |
 | **mothball** <small>*(n.)*</small>      |       1 | A marble-sized ball, originally of camphor but now of naphthalene, stored with clothes to repel moths.                                                                                                         | https://www.wordnik.com/words/mothball     |
+| **motorway**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/motorway     |
 | **mythology**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/mythology    |
 | **nicknaming** <small>*(v.)*</small>    |       1 | Present participle of nickname (a descriptive name added to or replacing the actual name of a person, place, or thing).                                                                                        | https://www.wordnik.com/words/nicknaming   |
 | **noncompete** <small>*(adj.)*</small>  |       1 | *law* Of or pertaining to a commitment not to engage in competition with another party.                                                                                                                        | https://www.wordnik.com/words/noncompete   |
