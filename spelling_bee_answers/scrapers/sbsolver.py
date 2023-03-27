@@ -123,7 +123,7 @@ class SBSolverScraper(SpellingBeeScraperInterface):
 
         path = Path(f"{settings.repo_root}/days/{puzzle.date}.json")
         if path.exists():
-            logging.warn(f"Not overwriting existing file: `{path}`")
+            logging.warning(f"Not overwriting existing file: `{path}`")
         else:
             logging.info(f"Creating new file: `{path}`")
             with open(path, "w") as fp:
