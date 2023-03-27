@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-118 pangrams
+119 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                             |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
@@ -130,6 +130,7 @@ Every pangram that's occurred so far.
 | **tenacity** <small>*(n.)*</small>      |       1 | The quality or state of being tenacious; as, tenacity, or retentiveness, of memory; tenacity, or persistency, of purpose.                                                                                      | https://www.wordnik.com/words/tenacity     |
 | **thematic** <small>*(adj.)*</small>    |       1 | Relating to, or having a theme or a topic.                                                                                                                                                                     | https://www.wordnik.com/words/thematic     |
 | **tributary** <small>*(n.)*</small>     |       1 | A stream that flows into a larger stream or other body of water.                                                                                                                                               | https://www.wordnik.com/words/tributary    |
+| **typeface**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/typeface     |
 | **uncloak** <small>*(v.)*</small>       |       1 | To expose; reveal.                                                                                                                                                                                             | https://www.wordnik.com/words/uncloak      |
 | **unequaled**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/unequaled    |
 | **unevolved**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/unevolved    |
