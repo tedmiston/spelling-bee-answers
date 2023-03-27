@@ -1,0 +1,49 @@
+{
+  "displayWeekday": "Sunday",
+  "displayDate": "March 26, 2023",
+  "printDate": "2023-03-26",
+  "centerLetter": "f",
+  "outerLetters": [
+    "a",
+    "c",
+    "e",
+    "p",
+    "t",
+    "y"
+  ],
+  "validLetters": [
+    "f",
+    "a",
+    "c",
+    "e",
+    "p",
+    "t",
+    "y"
+  ],
+  "pangrams": [
+    "typeface"
+  ],
+  "answers": [
+    "typeface",
+    "affect",
+    "cafe",
+    "efface",
+    "effect",
+    "effete",
+    "face",
+    "facet",
+    "fact",
+    "fate",
+    "fatty",
+    "feat",
+    "feet",
+    "feta",
+    "fete",
+    "pfft",
+    "taffeta",
+    "taffy"
+  ],
+  "id": 10498,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
