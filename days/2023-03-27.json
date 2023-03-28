@@ -1,0 +1,48 @@
+{
+  "expiration": 1679986800,
+  "displayWeekday": "Monday",
+  "displayDate": "March 27, 2023",
+  "printDate": "2023-03-27",
+  "centerLetter": "f",
+  "outerLetters": [
+    "i",
+    "m",
+    "o",
+    "r",
+    "t",
+    "y"
+  ],
+  "validLetters": [
+    "f",
+    "i",
+    "m",
+    "o",
+    "r",
+    "t",
+    "y"
+  ],
+  "pangrams": [
+    "mortify"
+  ],
+  "answers": [
+    "mortify",
+    "fifty",
+    "firm",
+    "foot",
+    "form",
+    "fort",
+    "fortify",
+    "forty",
+    "from",
+    "iffy",
+    "miff",
+    "motif",
+    "riff",
+    "rift",
+    "roof",
+    "tiff"
+  ],
+  "id": 24977,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
