@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-119 pangrams
+120 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                             |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
@@ -105,6 +105,7 @@ Every pangram that's occurred so far.
 | **microfilm**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/microfilm    |
 | **modular** <small>*(adj.)*</small>     |       1 | Consisting of separate modules; especially where each module performs or fulfills some specified function and could be replaced by a similar module for the same function, independently of the other modules. | https://www.wordnik.com/words/modular      |
 | **monetize**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/monetize     |
+| **mortify**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/mortify      |
 | **mothball** <small>*(n.)*</small>      |       1 | A marble-sized ball, originally of camphor but now of naphthalene, stored with clothes to repel moths.                                                                                                         | https://www.wordnik.com/words/mothball     |
 | **motorway**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/motorway     |
 | **mythology**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/mythology    |
