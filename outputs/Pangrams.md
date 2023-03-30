@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-122 pangrams
+123 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                             |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
@@ -118,6 +118,7 @@ Every pangram that's occurred so far.
 | **obliged** <small>*(adj.)*</small>     |       1 | Under an obligation to do something for someone.                                                                                                                                                               | https://www.wordnik.com/words/obliged      |
 | **opulent** <small>*(adj.)*</small>     |       1 | Characterized by extravagance or rich abundance; lavish or luxuriant.                                                                                                                                          | https://www.wordnik.com/words/opulent      |
 | **outback** <small>*(n.)*</small>       |       1 | The remote rural part of a country, especially of Australia or New Zealand.                                                                                                                                    | https://www.wordnik.com/words/outback      |
+| **outfoxed**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/outfoxed     |
 | **paintball** <small>*(n.)*</small>     |       1 | A game in which players on one team seek to eliminate those on an opposing team by marking them with a water-soluble dye shot in capsules from air guns.                                                       | https://www.wordnik.com/words/paintball    |
 | **patriotic**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/patriotic    |
 | **payment**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/payment      |
