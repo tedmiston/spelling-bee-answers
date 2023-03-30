@@ -1,0 +1,63 @@
+{
+  "displayWeekday": "Wednesday",
+  "displayDate": "March 29, 2023",
+  "printDate": "2023-03-29",
+  "centerLetter": "o",
+  "outerLetters": [
+    "d",
+    "e",
+    "f",
+    "t",
+    "u",
+    "x"
+  ],
+  "validLetters": [
+    "o",
+    "d",
+    "e",
+    "f",
+    "t",
+    "u",
+    "x"
+  ],
+  "pangrams": [
+    "outfoxed"
+  ],
+  "answers": [
+    "outfoxed",
+    "detox",
+    "detoxed",
+    "dodo",
+    "doff",
+    "doffed",
+    "dote",
+    "doted",
+    "dotted",
+    "doxed",
+    "doxx",
+    "doxxed",
+    "etouffee",
+    "food",
+    "foot",
+    "footed",
+    "foxed",
+    "offed",
+    "outdo",
+    "outed",
+    "outfox",
+    "toed",
+    "toffee",
+    "tofu",
+    "toot",
+    "tooted",
+    "tote",
+    "toted",
+    "tout",
+    "touted",
+    "tuxedo",
+    "tuxedoed"
+  ],
+  "id": 22908,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
