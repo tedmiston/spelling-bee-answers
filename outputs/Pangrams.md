@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-123 pangrams
+124 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                             |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
@@ -44,6 +44,7 @@ Every pangram that's occurred so far.
 | **capacitor**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/capacitor    |
 | **cardigan** <small>*(n.)*</small>      |       1 | A knitted garment, such as a sweater or jacket, that opens down the full length of the front.                                                                                                                  | https://www.wordnik.com/words/cardigan     |
 | **carding** <small>*(n.)*</small>       |       1 | The process of combing wool, flax, or cotton.                                                                                                                                                                  | https://www.wordnik.com/words/carding      |
+| **clickable**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/clickable    |
 | **clowned**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/clowned      |
 | **clutched**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/clutched     |
 | **coloratura**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/coloratura   |
