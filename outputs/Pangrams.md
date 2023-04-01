@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-124 pangrams
+125 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                             |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
@@ -38,6 +38,7 @@ Every pangram that's occurred so far.
 | **awkwardly**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/awkwardly    |
 | **axiomatic** <small>*(adj.)*</small>   |       1 | Of, relating to, or resembling an axiom; self-evident.                                                                                                                                                         | https://www.wordnik.com/words/axiomatic    |
 | **biplane** <small>*(n.)*</small>       |       1 | *aviation* An airplane that has two pairs of wings, one above the other                                                                                                                                        | https://www.wordnik.com/words/biplane      |
+| **braying**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/braying      |
 | **brought** <small>*(v.)*</small>       |       1 | Simple past tense and past participle of bring.                                                                                                                                                                | https://www.wordnik.com/words/brought      |
 | **bullfrog**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/bullfrog     |
 | **calculator**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/calculator   |
