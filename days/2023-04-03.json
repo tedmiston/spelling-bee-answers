@@ -1,0 +1,52 @@
+{
+  "displayWeekday": "Monday",
+  "displayDate": "April 3, 2023",
+  "printDate": "2023-04-03",
+  "centerLetter": "d",
+  "outerLetters": [
+    "c",
+    "i",
+    "m",
+    "o",
+    "t",
+    "y"
+  ],
+  "validLetters": [
+    "d",
+    "c",
+    "i",
+    "m",
+    "o",
+    "t",
+    "y"
+  ],
+  "pangrams": [
+    "commodity"
+  ],
+  "answers": [
+    "commodity",
+    "dimity",
+    "ditto",
+    "ditty",
+    "dodo",
+    "doom",
+    "doomy",
+    "dotcom",
+    "dotty",
+    "idiocy",
+    "idiom",
+    "idiot",
+    "idiotic",
+    "midi",
+    "mood",
+    "moody",
+    "oddity",
+    "tidy",
+    "timid",
+    "timidity",
+    "toddy"
+  ],
+  "id": 26297,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
