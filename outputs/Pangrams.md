@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-132 pangrams
+134 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -65,6 +65,8 @@ Every pangram that's occurred so far.
 | **deathly**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/deathly       |
 | **deputize**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/deputize      |
 | **deputized**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/deputized     |
+| **diabolic**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/diabolic      |
+| **diabolical**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/diabolical    |
 | **divebomb**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/divebomb      |
 | **divebombed**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/divebombed    |
 | **dormitory** <small>*(n.)*</small>     |       1 | A building for housing a number of persons, as at a school or resort.                                                                                                                                          | https://www.wordnik.com/words/dormitory     |
