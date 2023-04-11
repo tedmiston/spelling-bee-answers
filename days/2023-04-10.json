@@ -1,0 +1,53 @@
+{
+  "expiration": 1681196400,
+  "displayWeekday": "Monday",
+  "displayDate": "April 10, 2023",
+  "printDate": "2023-04-10",
+  "centerLetter": "m",
+  "outerLetters": [
+    "e",
+    "k",
+    "n",
+    "p",
+    "t",
+    "u"
+  ],
+  "validLetters": [
+    "m",
+    "e",
+    "k",
+    "n",
+    "p",
+    "t",
+    "u"
+  ],
+  "pangrams": [
+    "unkempt"
+  ],
+  "answers": [
+    "unkempt",
+    "kempt",
+    "meek",
+    "meet",
+    "meetup",
+    "meme",
+    "mentee",
+    "menu",
+    "mete",
+    "mute",
+    "mutt",
+    "muumuu",
+    "penmen",
+    "pump",
+    "teem",
+    "temp",
+    "tempt",
+    "tenement",
+    "umpteen",
+    "unmet",
+    "unmute"
+  ],
+  "id": 16212,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
