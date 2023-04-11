@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-138 pangrams
+139 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -154,6 +154,7 @@ Every pangram that's occurred so far.
 | **unequaled**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/unequaled     |
 | **unevolved**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/unevolved     |
 | **unfeeling** <small>*(adj.)*</small>   |       1 | Having no physical feeling or sensation; insentient.                                                                                                                                                           | https://www.wordnik.com/words/unfeeling     |
+| **unkempt**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/unkempt       |
 | **unknowing**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/unknowing     |
 | **unloved**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/unloved       |
 | **upheaval** <small>*(n.)*</small>      |       1 | A sudden, violent disruption or upset.                                                                                                                                                                         | https://www.wordnik.com/words/upheaval      |
