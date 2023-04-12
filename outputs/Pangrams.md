@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-139 pangrams
+140 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -98,6 +98,7 @@ Every pangram that's occurred so far.
 | **hyacinth** <small>*(n.)*</small>      |       1 | A bulbous plant of the genus Hyacinthus, bearing beautiful spikes of fragrant flowers. Hyacinthus orientalis is a common variety.                                                                              | https://www.wordnik.com/words/hyacinth      |
 | **hyphenate** <small>*(v.)*</small>     |       1 | To divide or connect (syllables, word elements, or names) with a hyphen.                                                                                                                                       | https://www.wordnik.com/words/hyphenate     |
 | **illegality** <small>*(n.)*</small>    |       1 | The quality or state of being illegal.                                                                                                                                                                         | https://www.wordnik.com/words/illegality    |
+| **immediacy**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/immediacy     |
 | **implement** <small>*(v.)*</small>     |       1 | To put into practical effect; carry out.                                                                                                                                                                       | https://www.wordnik.com/words/implement     |
 | **inactivate**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/inactivate    |
 | **inactive**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/inactive      |
