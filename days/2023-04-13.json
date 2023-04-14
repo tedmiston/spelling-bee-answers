@@ -1,0 +1,57 @@
+{
+  "displayWeekday": "Thursday",
+  "displayDate": "April 13, 2023",
+  "printDate": "2023-04-13",
+  "centerLetter": "w",
+  "outerLetters": [
+    "c",
+    "d",
+    "e",
+    "k",
+    "l",
+    "o"
+  ],
+  "validLetters": [
+    "w",
+    "c",
+    "d",
+    "e",
+    "k",
+    "l",
+    "o"
+  ],
+  "pangrams": [
+    "wedlock"
+  ],
+  "answers": [
+    "wedlock",
+    "cowed",
+    "cowl",
+    "dowel",
+    "dwell",
+    "dwelled",
+    "lewd",
+    "locoweed",
+    "lowed",
+    "owed",
+    "wedded",
+    "weed",
+    "weeded",
+    "week",
+    "weld",
+    "welded",
+    "well",
+    "welled",
+    "woke",
+    "wood",
+    "woodcock",
+    "wooded",
+    "wooed",
+    "wool",
+    "wowed"
+  ],
+  "id": 18414,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky",
+  "isPastPuzzle": false
+}
