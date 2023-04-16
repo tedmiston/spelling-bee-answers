@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-143 pangrams
+145 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -146,6 +146,7 @@ Every pangram that's occurred so far.
 | **pocketbook**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/pocketbook    |
 | **potency**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/potency       |
 | **prickly** <small>*(adj.)*</small>     |       1 | - Having prickles.<br>- Causing trouble or vexation; thorny.                                                                                                                                                   | https://www.wordnik.com/words/prickly       |
+| **rowdily**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/rowdily       |
 | **taciturn** <small>*(adj.)*</small>    |       1 | Silent or reserved in speech; saying little; not inclined to speak or converse.                                                                                                                                | https://www.wordnik.com/words/taciturn      |
 | **talkative** <small>*(adj.)*</small>   |       1 | Marked by or having a disposition to talk.                                                                                                                                                                     | https://www.wordnik.com/words/talkative     |
 | **tenacity** <small>*(n.)*</small>      |       1 | The quality or state of being tenacious; as, tenacity, or retentiveness, of memory; tenacity, or persistency, of purpose.                                                                                      | https://www.wordnik.com/words/tenacity      |
@@ -168,5 +169,6 @@ Every pangram that's occurred so far.
 | **wedlock**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/wedlock       |
 | **wheezing**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/wheezing      |
 | **windmilled** <small>*(v.)*</small>    |       1 | Simple past tense and past participle of windmill.                                                                                                                                                             | https://www.wordnik.com/words/windmilled    |
+| **wordily**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/wordily       |
 
 <!-- generated all table end -->
