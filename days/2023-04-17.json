@@ -1,0 +1,52 @@
+{
+  "displayWeekday": "Monday",
+  "displayDate": "April 17, 2023",
+  "printDate": "2023-04-17",
+  "centerLetter": "h",
+  "outerLetters": [
+    "a",
+    "g",
+    "i",
+    "n",
+    "p",
+    "r"
+  ],
+  "validLetters": [
+    "h",
+    "a",
+    "g",
+    "i",
+    "n",
+    "p",
+    "r"
+  ],
+  "pangrams": [
+    "graphing",
+    "harping",
+    "paragraphing"
+  ],
+  "answers": [
+    "graphing",
+    "harping",
+    "paragraphing",
+    "aargh",
+    "graph",
+    "hair",
+    "hairpin",
+    "hang",
+    "hangar",
+    "hanging",
+    "harp",
+    "high",
+    "hinging",
+    "hiragana",
+    "hiring",
+    "nigh",
+    "paragraph",
+    "pariah",
+    "piranha"
+  ],
+  "id": 26379,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
