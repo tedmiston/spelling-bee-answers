@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-155 pangrams
+156 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -147,6 +147,7 @@ Every pangram that's occurred so far.
 | **patriotic**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/patriotic     |
 | **payment**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/payment       |
 | **pedagogy** <small>*(n.)*</small>      |       1 | The art or profession of teaching.                                                                                                                                                                             | https://www.wordnik.com/words/pedagogy      |
+| **phenomena**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/phenomena     |
 | **photograph** <small>*(n.)*</small>    |       1 | An image, especially a positive print, recorded by exposing a photosensitive surface to light, especially in a camera.                                                                                         | https://www.wordnik.com/words/photograph    |
 | **pinewood** <small>*(n.)*</small>      |       1 | The wood of the pine tree.                                                                                                                                                                                     | https://www.wordnik.com/words/pinewood      |
 | **pityingly**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/pityingly     |
