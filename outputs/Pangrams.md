@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-157 pangrams
+158 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -120,6 +120,7 @@ Every pangram that's occurred so far.
 | **judicial** <small>*(adj.)*</small>    |       1 | Of, relating to, or proper to courts of law or to the administration of justice.                                                                                                                               | https://www.wordnik.com/words/judicial      |
 | **latitudinal**                         |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/latitudinal   |
 | **legality** <small>*(n.)*</small>      |       1 | The state or quality of being legal; lawfulness.                                                                                                                                                               | https://www.wordnik.com/words/legality      |
+| **leitmotif**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/leitmotif     |
 | **livability** <small>*(n.)*</small>    |       1 | The property of being livable (suitable to live in, habitable; possible to bear, endurable).                                                                                                                   | https://www.wordnik.com/words/livability    |
 | **lunched**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/lunched       |
 | **mahogany**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/mahogany      |
