@@ -29,7 +29,8 @@ lint:
 
 .PHONY: test
 test:
-	@pytest --cov=spelling_bee_answers $(SRC_DIR)
+	@pytest --cov=spelling_bee_answers $(SRC_DIR) && \
+	coverage-badge -o assets/coverage.svg
 
 .PHONY: clean
 clean:
