@@ -29,7 +29,7 @@ lint:
 
 .PHONY: test
 test:
-	@pytest $(SRC_DIR)
+	@pytest --cov=spelling_bee_answers $(SRC_DIR)
 
 .PHONY: clean
 clean:
