@@ -1,17 +1,18 @@
 LINE_LENGTH := 88
 SRC_DIR := .
+PROJECT := spelling_bee_answers
 
 .PHONY: run
 run:
-	@python -m spelling_bee_answers.scrapers.nyt
+	@python -m $(PROJECT).scrapers.nyt
 
 .PHONY: gen-days
 gen-days:
-	@python -m spelling_bee_answers.days
+	@python -m $(PROJECT).days
 
 .PHONY: gen-stats
 gen-stats:
-	@python -m spelling_bee_answers.stats
+	@python -m $(PROJECT).stats
 
 .PHONY: format
 format:
@@ -29,7 +30,7 @@ lint:
 
 .PHONY: test
 test:
-	@pytest --cov=spelling_bee_answers $(SRC_DIR) && \
+	@pytest --cov=$(PROJECT) $(SRC_DIR) && \
 	coverage-badge -o assets/coverage.svg
 
 .PHONY: clean
