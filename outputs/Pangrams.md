@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-158 pangrams
+159 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -72,6 +72,7 @@ Every pangram that's occurred so far.
 | **divebomb**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/divebomb      |
 | **divebombed**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/divebombed    |
 | **dormitory** <small>*(n.)*</small>     |       1 | A building for housing a number of persons, as at a school or resort.                                                                                                                                          | https://www.wordnik.com/words/dormitory     |
+| **downloaded**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/downloaded    |
 | **draconian** <small>*(adj.)*</small>   |       1 | A code of laws made by Draco. Their measures were so severe that they were said to be written in letters of blood; hence, any laws of excessive rigor.                                                         | https://www.wordnik.com/words/draconian     |
 | **draconic** <small>*(adj.)*</small>    |       1 | - Of or suggestive of a dragon.<br>- Draconian.                                                                                                                                                                | https://www.wordnik.com/words/draconic      |
 | **embankment**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/embankment    |
