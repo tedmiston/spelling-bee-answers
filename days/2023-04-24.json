@@ -1,0 +1,59 @@
+{
+  "displayWeekday": "Monday",
+  "displayDate": "April 24, 2023",
+  "printDate": "2023-04-24",
+  "centerLetter": "r",
+  "outerLetters": [
+    "a",
+    "c",
+    "j",
+    "l",
+    "o",
+    "u"
+  ],
+  "validLetters": [
+    "r",
+    "a",
+    "c",
+    "j",
+    "l",
+    "o",
+    "u"
+  ],
+  "pangrams": [
+    "jocular"
+  ],
+  "answers": [
+    "jocular",
+    "accrual",
+    "ajar",
+    "arco",
+    "aura",
+    "aural",
+    "aurora",
+    "auroral",
+    "carol",
+    "collar",
+    "color",
+    "coral",
+    "corolla",
+    "corral",
+    "croc",
+    "curacao",
+    "curl",
+    "juror",
+    "occur",
+    "ocular",
+    "oracular",
+    "oral",
+    "orca",
+    "raja",
+    "roar",
+    "rococo",
+    "roll",
+    "rural"
+  ],
+  "id": 22557,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
