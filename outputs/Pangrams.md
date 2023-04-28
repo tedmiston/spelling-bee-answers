@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-166 pangrams
+168 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -42,6 +42,8 @@ Every pangram that's occurred so far.
 | **awkwardly**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/awkwardly     |
 | **axiomatic** <small>*(adj.)*</small>   |       1 | Of, relating to, or resembling an axiom; self-evident.                                                                                                                                                         | https://www.wordnik.com/words/axiomatic     |
 | **balding**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/balding       |
+| **benefited**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/benefited     |
+| **benefitted**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/benefitted    |
 | **biplane** <small>*(n.)*</small>       |       1 | *aviation* An airplane that has two pairs of wings, one above the other                                                                                                                                        | https://www.wordnik.com/words/biplane       |
 | **blading**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/blading       |
 | **braying**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/braying       |
