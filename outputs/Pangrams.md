@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-168 pangrams
+169 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -87,6 +87,7 @@ Every pangram that's occurred so far.
 | **engulfing** <small>*(v.)*</small>     |       1 | Present participle of engulf (to swallow up or overwhelm by or as if by overflowing and enclosing).                                                                                                            | https://www.wordnik.com/words/engulfing     |
 | **enjoyment**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/enjoyment     |
 | **enveloped** <small>*(adj.)*</small>   |       1 | Enclosed or surrounded completely.                                                                                                                                                                             | https://www.wordnik.com/words/enveloped     |
+| **excitement**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/excitement    |
 | **expunging**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/expunging     |
 | **exultant** <small>*(adj.)*</small>    |       1 | Marked by great joy or jubilation; triumphant.                                                                                                                                                                 | https://www.wordnik.com/words/exultant      |
 | **fanciful** <small>*(adj.)*</small>    |       1 | Tending to indulge in fancy.                                                                                                                                                                                   | https://www.wordnik.com/words/fanciful      |
