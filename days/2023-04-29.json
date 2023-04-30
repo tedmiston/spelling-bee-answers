@@ -1,0 +1,57 @@
+{
+  "displayWeekday": "Saturday",
+  "displayDate": "April 29, 2023",
+  "printDate": "2023-04-29",
+  "centerLetter": "c",
+  "outerLetters": [
+    "a",
+    "i",
+    "n",
+    "q",
+    "t",
+    "u"
+  ],
+  "validLetters": [
+    "c",
+    "a",
+    "i",
+    "n",
+    "q",
+    "t",
+    "u"
+  ],
+  "pangrams": [
+    "acquaint"
+  ],
+  "answers": [
+    "acquaint",
+    "acacia",
+    "acai",
+    "acquit",
+    "antic",
+    "aquatic",
+    "attic",
+    "cacti",
+    "cancan",
+    "canna",
+    "cant",
+    "cantata",
+    "cantina",
+    "cinquain",
+    "incant",
+    "intact",
+    "niacin",
+    "tacit",
+    "tact",
+    "tactic",
+    "tactician",
+    "tannic",
+    "tinct",
+    "titanic",
+    "tunic",
+    "uncut"
+  ],
+  "id": 27173,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
