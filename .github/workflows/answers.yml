@@ -50,7 +50,7 @@ jobs:
           poetry run python -m spelling_bee_answers.scrapers.nyt
 
       - name: Git commit answers
-        uses: endbug/add-and-commit@v9.1.1
+        uses: endbug/add-and-commit@v9.1.2
         with:
           cwd: days
           add: .
@@ -66,7 +66,7 @@ jobs:
           poetry run python -m spelling_bee_answers.days
 
       - name: Git commit days
-        uses: endbug/add-and-commit@v9.1.1
+        uses: endbug/add-and-commit@v9.1.2
         with:
           cwd: outputs
           add: Days.md
@@ -80,7 +80,7 @@ jobs:
           poetry run python -m spelling_bee_answers.stats
 
       - name: Git commit word lists
-        uses: endbug/add-and-commit@v9.1.1
+        uses: endbug/add-and-commit@v9.1.2
         with:
           cwd: outputs
           add: Pangrams.md Words.md
