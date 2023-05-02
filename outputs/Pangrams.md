@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-173 pangrams
+174 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -170,6 +170,7 @@ Every pangram that's occurred so far.
 | **planking**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/planking      |
 | **plebeian** <small>*(adj.)*</small>    |       1 | Of, belonging to, or characteristic of commoners.                                                                                                                                                              | https://www.wordnik.com/words/plebeian      |
 | **pocketbook**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/pocketbook    |
+| **potbelly**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/potbelly      |
 | **potency**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/potency       |
 | **prickly** <small>*(adj.)*</small>     |       1 | - Having prickles.<br>- Causing trouble or vexation; thorny.                                                                                                                                                   | https://www.wordnik.com/words/prickly       |
 | **rowdily**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/rowdily       |
