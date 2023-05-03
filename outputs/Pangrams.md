@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-174 pangrams
+175 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -50,6 +50,7 @@ Every pangram that's occurred so far.
 | **braying**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/braying       |
 | **brought** <small>*(v.)*</small>       |       1 | Simple past tense and past participle of bring.                                                                                                                                                                | https://www.wordnik.com/words/brought       |
 | **bullfrog**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/bullfrog      |
+| **buoyant**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/buoyant       |
 | **calculator**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/calculator    |
 | **capacitor**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/capacitor     |
 | **cardigan** <small>*(n.)*</small>      |       1 | A knitted garment, such as a sweater or jacket, that opens down the full length of the front.                                                                                                                  | https://www.wordnik.com/words/cardigan      |
