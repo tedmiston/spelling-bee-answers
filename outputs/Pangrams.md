@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-175 pangrams
+176 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -195,6 +195,7 @@ Every pangram that's occurred so far.
 | **viability** <small>*(n.)*</small>     |       1 | The property of being viable; the ability to live or to succeed.                                                                                                                                               | https://www.wordnik.com/words/viability     |
 | **violent** <small>*(adj.)*</small>     |       1 | Moving or acting with physical strength; urged or impelled with force; excited by strong feeling or passion; forcible; vehement; impetuous; fierce; furious; severe.                                           | https://www.wordnik.com/words/violent       |
 | **virtual**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/virtual       |
+| **voltage**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/voltage       |
 | **weaving** <small>*(n.)*</small>       |       1 | The act of one who or that which weaves; specifically, the act or art of producing cloth or other textile fabrics by means of a loom from the combination of threads or filaments.                             | https://www.wordnik.com/words/weaving       |
 | **wedlock**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/wedlock       |
 | **wheezing**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/wheezing      |
