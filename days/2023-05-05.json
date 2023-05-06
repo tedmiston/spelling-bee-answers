@@ -1,0 +1,59 @@
+{
+  "expiration": 1683356400,
+  "displayWeekday": "Friday",
+  "displayDate": "May 5, 2023",
+  "printDate": "2023-05-05",
+  "centerLetter": "i",
+  "outerLetters": [
+    "c",
+    "d",
+    "m",
+    "n",
+    "o",
+    "u"
+  ],
+  "validLetters": [
+    "i",
+    "c",
+    "d",
+    "m",
+    "n",
+    "o",
+    "u"
+  ],
+  "pangrams": [
+    "condominium"
+  ],
+  "answers": [
+    "condominium",
+    "cocci",
+    "coin",
+    "comic",
+    "communion",
+    "conic",
+    "cumin",
+    "dino",
+    "dominion",
+    "domino",
+    "icon",
+    "iconic",
+    "idiom",
+    "ionic",
+    "midi",
+    "mimic",
+    "mind",
+    "mini",
+    "minim",
+    "minimum",
+    "minion",
+    "modicum",
+    "nuncio",
+    "odium",
+    "onion",
+    "undid",
+    "union"
+  ],
+  "id": 22783,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
