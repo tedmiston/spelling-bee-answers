@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-181 pangrams
+182 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -65,6 +65,7 @@ Every pangram that's occurred so far.
 | **competence** <small>*(n.)*</small>    |       1 | The ability to do something well or efficiently.                                                                                                                                                               | https://www.wordnik.com/words/competence    |
 | **competent** <small>*(adj.)*</small>   |       1 | Properly or sufficiently qualified; capable.                                                                                                                                                                   | https://www.wordnik.com/words/competent     |
 | **component** <small>*(n.)*</small>     |       1 | A constituent element, as of a system. synonym: element.                                                                                                                                                       | https://www.wordnik.com/words/component     |
+| **condominium**                         |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/condominium   |
 | **confounded**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/confounded    |
 | **contempt** <small>*(n.)*</small>      |       1 | The feeling or attitude of regarding someone or something as inferior, base, or worthless; scorn.                                                                                                              | https://www.wordnik.com/words/contempt      |
 | **conveyed**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/conveyed      |
