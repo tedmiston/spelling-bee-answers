@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-185 pangrams
+186 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -42,6 +42,7 @@ Every pangram that's occurred so far.
 | **availability** <small>*(n.)*</small>  |       1 | The quality of being available (present and ready for use; at hand; accessible).                                                                                                                               | https://www.wordnik.com/words/availability  |
 | **awkwardly**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/awkwardly     |
 | **axiomatic** <small>*(adj.)*</small>   |       1 | Of, relating to, or resembling an axiom; self-evident.                                                                                                                                                         | https://www.wordnik.com/words/axiomatic     |
+| **backfill**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/backfill      |
 | **balding**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/balding       |
 | **benefited**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/benefited     |
 | **benefitted**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/benefitted    |
