@@ -1,0 +1,63 @@
+{
+  "expiration": 1683702000,
+  "displayWeekday": "Tuesday",
+  "displayDate": "May 9, 2023",
+  "printDate": "2023-05-09",
+  "centerLetter": "l",
+  "outerLetters": [
+    "a",
+    "d",
+    "f",
+    "i",
+    "n",
+    "w"
+  ],
+  "validLetters": [
+    "l",
+    "a",
+    "d",
+    "f",
+    "i",
+    "n",
+    "w"
+  ],
+  "pangrams": [
+    "windfall"
+  ],
+  "answers": [
+    "windfall",
+    "alfalfa",
+    "anal",
+    "annal",
+    "dial",
+    "dill",
+    "fail",
+    "fall",
+    "filial",
+    "fill",
+    "final",
+    "finial",
+    "flail",
+    "flan",
+    "flaw",
+    "infill",
+    "inlaid",
+    "inland",
+    "laid",
+    "lain",
+    "lanai",
+    "land",
+    "landfall",
+    "landfill",
+    "lawn",
+    "nail",
+    "wail",
+    "wall",
+    "wild",
+    "wildland",
+    "will"
+  ],
+  "id": 833,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
