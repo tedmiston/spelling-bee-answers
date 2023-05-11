@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-187 pangrams
+188 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -212,5 +212,6 @@ Every pangram that's occurred so far.
 | **windfall**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/windfall      |
 | **windmilled** <small>*(v.)*</small>    |       1 | Simple past tense and past participle of windmill.                                                                                                                                                             | https://www.wordnik.com/words/windmilled    |
 | **wordily**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/wordily       |
+| **zoological**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/zoological    |
 
 <!-- generated all table end -->
