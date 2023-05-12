@@ -1,0 +1,61 @@
+{
+  "displayWeekday": "Thursday",
+  "displayDate": "May 11, 2023",
+  "printDate": "2023-05-11",
+  "centerLetter": "f",
+  "outerLetters": [
+    "c",
+    "e",
+    "g",
+    "i",
+    "n",
+    "t"
+  ],
+  "validLetters": [
+    "f",
+    "c",
+    "e",
+    "g",
+    "i",
+    "n",
+    "t"
+  ],
+  "pangrams": [
+    "effecting",
+    "infecting"
+  ],
+  "answers": [
+    "effecting",
+    "infecting",
+    "effect",
+    "effete",
+    "efficient",
+    "feet",
+    "feign",
+    "feigning",
+    "feint",
+    "feinting",
+    "fence",
+    "fencing",
+    "fete",
+    "feting",
+    "fief",
+    "fife",
+    "fifing",
+    "fifteen",
+    "fine",
+    "fining",
+    "finite",
+    "fitting",
+    "gift",
+    "gifting",
+    "inefficient",
+    "infect",
+    "infinite",
+    "teff",
+    "tiff"
+  ],
+  "id": 14882,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
