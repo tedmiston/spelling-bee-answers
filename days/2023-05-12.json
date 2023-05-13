@@ -1,0 +1,59 @@
+{
+  "displayWeekday": "Friday",
+  "displayDate": "May 12, 2023",
+  "printDate": "2023-05-12",
+  "centerLetter": "v",
+  "outerLetters": [
+    "a",
+    "c",
+    "e",
+    "n",
+    "o",
+    "t"
+  ],
+  "validLetters": [
+    "v",
+    "a",
+    "c",
+    "e",
+    "n",
+    "o",
+    "t"
+  ],
+  "pangrams": [
+    "covenant"
+  ],
+  "answers": [
+    "covenant",
+    "avocet",
+    "cava",
+    "cave",
+    "caveat",
+    "concave",
+    "convect",
+    "convene",
+    "convent",
+    "cove",
+    "coven",
+    "covet",
+    "eave",
+    "even",
+    "event",
+    "nave",
+    "nonevent",
+    "nova",
+    "novae",
+    "octave",
+    "ovate",
+    "oven",
+    "vacant",
+    "vacate",
+    "vane",
+    "vent",
+    "veto",
+    "vote"
+  ],
+  "id": 26416,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
