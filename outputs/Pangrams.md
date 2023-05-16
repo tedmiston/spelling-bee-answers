@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-194 pangrams
+195 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -66,6 +66,7 @@ Every pangram that's occurred so far.
 | **cofounded**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/cofounded     |
 | **coloratura**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/coloratura    |
 | **commodity**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/commodity     |
+| **competed**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/competed      |
 | **competence** <small>*(n.)*</small>    |       1 | The ability to do something well or efficiently.                                                                                                                                                               | https://www.wordnik.com/words/competence    |
 | **competent** <small>*(adj.)*</small>   |       1 | Properly or sufficiently qualified; capable.                                                                                                                                                                   | https://www.wordnik.com/words/competent     |
 | **component** <small>*(n.)*</small>     |       1 | A constituent element, as of a system. synonym: element.                                                                                                                                                       | https://www.wordnik.com/words/component     |
