@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-195 pangrams
+196 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -118,6 +118,7 @@ Every pangram that's occurred so far.
 | **graphing**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/graphing      |
 | **habitual** <small>*(adj.)*</small>    |       1 | Formed or acquired by habit or use.                                                                                                                                                                            | https://www.wordnik.com/words/habitual      |
 | **halibut** <small>*(n.)*</small>       |       1 | Any of several large edible flatfishes of the genus Hippoglossus and related genera, of northern Atlantic or Pacific waters.                                                                                   | https://www.wordnik.com/words/halibut       |
+| **handily**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/handily       |
 | **harping**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/harping       |
 | **heatedly**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/heatedly      |
 | **hematic** <small>*(adj.)*</small>     |       1 | Of, relating to, resembling, containing, or acting on blood.                                                                                                                                                   | https://www.wordnik.com/words/hematic       |
