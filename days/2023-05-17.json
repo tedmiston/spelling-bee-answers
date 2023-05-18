@@ -1,0 +1,62 @@
+{
+  "expiration": 1684393200,
+  "displayWeekday": "Wednesday",
+  "displayDate": "May 17, 2023",
+  "printDate": "2023-05-17",
+  "centerLetter": "a",
+  "outerLetters": [
+    "c",
+    "e",
+    "g",
+    "k",
+    "m",
+    "o"
+  ],
+  "validLetters": [
+    "a",
+    "c",
+    "e",
+    "g",
+    "k",
+    "m",
+    "o"
+  ],
+  "pangrams": [
+    "gamecock"
+  ],
+  "answers": [
+    "gamecock",
+    "acme",
+    "agog",
+    "ammo",
+    "amok",
+    "cacao",
+    "cage",
+    "cake",
+    "came",
+    "cameo",
+    "camo",
+    "coca",
+    "cocoa",
+    "coma",
+    "comma",
+    "gaga",
+    "gage",
+    "game",
+    "gamma",
+    "mace",
+    "mage",
+    "magma",
+    "make",
+    "mako",
+    "mama",
+    "mamma",
+    "mecca",
+    "mega",
+    "momma",
+    "omega"
+  ],
+  "id": 15428,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
