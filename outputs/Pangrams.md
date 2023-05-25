@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-210 pangrams
+211 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -90,6 +90,7 @@ Every pangram that's occurred so far.
 | **dancehall**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/dancehall     |
 | **daytime**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/daytime       |
 | **deathly**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/deathly       |
+| **deductive**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/deductive     |
 | **deputize**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/deputize      |
 | **deputized**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/deputized     |
 | **diabolic**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/diabolic      |
