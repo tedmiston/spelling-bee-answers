@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-211 pangrams
+212 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -150,6 +150,7 @@ Every pangram that's occurred so far.
 | **infecting**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/infecting     |
 | **infective** <small>*(adj.)*</small>   |       1 | Capable of producing infection; infectious.                                                                                                                                                                    | https://www.wordnik.com/words/infective     |
 | **infirmary**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/infirmary     |
+| **inhibitor**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/inhibitor     |
 | **itemizing** <small>*(v.)*</small>     |       1 | Present participle of itemize (to list the items of).                                                                                                                                                          | https://www.wordnik.com/words/itemizing     |
 | **jailbird**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/jailbird      |
 | **janitor** <small>*(n.)*</small>       |       1 | One who attends to the maintenance or cleaning of a building.                                                                                                                                                  | https://www.wordnik.com/words/janitor       |
