@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-212 pangrams
+213 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -51,6 +51,7 @@ Every pangram that's occurred so far.
 | **benefitted**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/benefitted    |
 | **biplane** <small>*(n.)*</small>       |       1 | *aviation* An airplane that has two pairs of wings, one above the other                                                                                                                                        | https://www.wordnik.com/words/biplane       |
 | **blading**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/blading       |
+| **blocked**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/blocked       |
 | **blurring**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/blurring      |
 | **braying**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/braying       |
 | **brought** <small>*(v.)*</small>       |       1 | Simple past tense and past participle of bring.                                                                                                                                                                | https://www.wordnik.com/words/brought       |
