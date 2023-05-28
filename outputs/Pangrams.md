@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-213 pangrams
+214 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -164,6 +164,7 @@ Every pangram that's occurred so far.
 | **lighten**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/lighten       |
 | **lightening**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/lightening    |
 | **livability** <small>*(n.)*</small>    |       1 | The property of being livable (suitable to live in, habitable; possible to bear, endurable).                                                                                                                   | https://www.wordnik.com/words/livability    |
+| **longboat**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/longboat      |
 | **loveably**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/loveably      |
 | **lunched**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/lunched       |
 | **mahogany**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/mahogany      |
