@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-218 pangrams
+219 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -111,6 +111,7 @@ Every pangram that's occurred so far.
 | **enlighten**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/enlighten     |
 | **enlightening**                        |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/enlightening  |
 | **enveloped** <small>*(adj.)*</small>   |       1 | Enclosed or surrounded completely.                                                                                                                                                                             | https://www.wordnik.com/words/enveloped     |
+| **evoking**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/evoking       |
 | **excitement**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/excitement    |
 | **expunging**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/expunging     |
 | **exultant** <small>*(adj.)*</small>    |       1 | Marked by great joy or jubilation; triumphant.                                                                                                                                                                 | https://www.wordnik.com/words/exultant      |
