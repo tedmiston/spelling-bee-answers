@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-219 pangrams
+221 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -63,6 +63,8 @@ Every pangram that's occurred so far.
 | **calculator**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/calculator    |
 | **calorific**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/calorific     |
 | **capacitor**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/capacitor     |
+| **captivate**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/captivate     |
+| **captive**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/captive       |
 | **cardigan** <small>*(n.)*</small>      |       1 | A knitted garment, such as a sweater or jacket, that opens down the full length of the front.                                                                                                                  | https://www.wordnik.com/words/cardigan      |
 | **carding** <small>*(n.)*</small>       |       1 | The process of combing wool, flax, or cotton.                                                                                                                                                                  | https://www.wordnik.com/words/carding       |
 | **channeled**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/channeled     |
