@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-221 pangrams
+223 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -193,6 +193,7 @@ Every pangram that's occurred so far.
 | **opulent** <small>*(adj.)*</small>     |       1 | Characterized by extravagance or rich abundance; lavish or luxuriant.                                                                                                                                          | https://www.wordnik.com/words/opulent       |
 | **outback** <small>*(n.)*</small>       |       1 | The remote rural part of a country, especially of Australia or New Zealand.                                                                                                                                    | https://www.wordnik.com/words/outback       |
 | **outfoxed**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/outfoxed      |
+| **outgrowth**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/outgrowth     |
 | **oxidant**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/oxidant       |
 | **oxidation**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/oxidation     |
 | **painkilling**                         |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/painkilling   |
@@ -245,6 +246,7 @@ Every pangram that's occurred so far.
 | **windfall**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/windfall      |
 | **windmilled** <small>*(v.)*</small>    |       1 | Simple past tense and past participle of windmill.                                                                                                                                                             | https://www.wordnik.com/words/windmilled    |
 | **wordily**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/wordily       |
+| **wrought**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/wrought       |
 | **zoological**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/zoological    |
 
 <!-- generated all table end -->
