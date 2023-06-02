@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-223 pangrams
+224 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -144,6 +144,7 @@ Every pangram that's occurred so far.
 | **hotline**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/hotline       |
 | **hyacinth** <small>*(n.)*</small>      |       1 | A bulbous plant of the genus Hyacinthus, bearing beautiful spikes of fragrant flowers. Hyacinthus orientalis is a common variety.                                                                              | https://www.wordnik.com/words/hyacinth      |
 | **hyphenate** <small>*(v.)*</small>     |       1 | To divide or connect (syllables, word elements, or names) with a hyphen.                                                                                                                                       | https://www.wordnik.com/words/hyphenate     |
+| **ideology**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/ideology      |
 | **illegality** <small>*(n.)*</small>    |       1 | The quality or state of being illegal.                                                                                                                                                                         | https://www.wordnik.com/words/illegality    |
 | **immediacy**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/immediacy     |
 | **imminently**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/imminently    |
