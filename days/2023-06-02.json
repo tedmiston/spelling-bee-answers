@@ -1,0 +1,58 @@
+{
+  "displayWeekday": "Friday",
+  "displayDate": "June 2, 2023",
+  "printDate": "2023-06-02",
+  "centerLetter": "y",
+  "outerLetters": [
+    "a",
+    "c",
+    "d",
+    "e",
+    "i",
+    "n"
+  ],
+  "validLetters": [
+    "y",
+    "a",
+    "c",
+    "d",
+    "e",
+    "i",
+    "n"
+  ],
+  "pangrams": [
+    "cyanide"
+  ],
+  "answers": [
+    "cyanide",
+    "acidy",
+    "caddy",
+    "candidacy",
+    "candy",
+    "canny",
+    "cayenne",
+    "cyan",
+    "cynic",
+    "daddy",
+    "dandy",
+    "deadeye",
+    "decay",
+    "decayed",
+    "decency",
+    "deny",
+    "dicey",
+    "dyad",
+    "dyed",
+    "dyne",
+    "eddy",
+    "eyed",
+    "indecency",
+    "nanny",
+    "needy",
+    "ninny",
+    "yenned"
+  ],
+  "id": 9730,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
