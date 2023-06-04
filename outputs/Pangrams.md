@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-225 pangrams
+226 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -149,6 +149,7 @@ Every pangram that's occurred so far.
 | **illegality** <small>*(n.)*</small>    |       1 | The quality or state of being illegal.                                                                                                                                                                         | https://www.wordnik.com/words/illegality    |
 | **immediacy**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/immediacy     |
 | **imminently**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/imminently    |
+| **immortal**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/immortal      |
 | **implement** <small>*(v.)*</small>     |       1 | To put into practical effect; carry out.                                                                                                                                                                       | https://www.wordnik.com/words/implement     |
 | **inactivate**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/inactivate    |
 | **inactive**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/inactive      |
