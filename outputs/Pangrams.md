@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-226 pangrams
+227 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -179,6 +179,7 @@ Every pangram that's occurred so far.
 | **mathematic** <small>*(n.)*</small>    |       1 | Same as mathematics (the study of the measurement, properties, and relationships of quantities and sets, using numbers and symbols).                                                                           | https://www.wordnik.com/words/mathematic    |
 | **mezzotint**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/mezzotint     |
 | **microfilm**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/microfilm     |
+| **midbrain**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/midbrain      |
 | **modular** <small>*(adj.)*</small>     |       1 | Consisting of separate modules; especially where each module performs or fulfills some specified function and could be replaced by a similar module for the same function, independently of the other modules. | https://www.wordnik.com/words/modular       |
 | **monetize**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/monetize      |
 | **mortify**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/mortify       |
