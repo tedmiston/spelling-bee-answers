@@ -1,0 +1,54 @@
+{
+  "displayWeekday": "Monday",
+  "displayDate": "June 5, 2023",
+  "printDate": "2023-06-05",
+  "centerLetter": "c",
+  "outerLetters": [
+    "b",
+    "d",
+    "e",
+    "j",
+    "o",
+    "t"
+  ],
+  "validLetters": [
+    "c",
+    "b",
+    "d",
+    "e",
+    "j",
+    "o",
+    "t"
+  ],
+  "pangrams": [
+    "objected"
+  ],
+  "answers": [
+    "objected",
+    "bocce",
+    "cede",
+    "ceded",
+    "code",
+    "coded",
+    "coed",
+    "cooed",
+    "coot",
+    "cote",
+    "deco",
+    "decoct",
+    "decocted",
+    "decode",
+    "decoded",
+    "deject",
+    "dejected",
+    "detect",
+    "detected",
+    "eject",
+    "ejected",
+    "object",
+    "octet"
+  ],
+  "id": 19644,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
