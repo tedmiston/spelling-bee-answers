@@ -1,0 +1,60 @@
+{
+  "displayWeekday": "Tuesday",
+  "displayDate": "June 6, 2023",
+  "printDate": "2023-06-06",
+  "centerLetter": "t",
+  "outerLetters": [
+    "c",
+    "e",
+    "i",
+    "n",
+    "v",
+    "z"
+  ],
+  "validLetters": [
+    "t",
+    "c",
+    "e",
+    "i",
+    "n",
+    "v",
+    "z"
+  ],
+  "pangrams": [
+    "incentivize"
+  ],
+  "answers": [
+    "incentivize",
+    "cent",
+    "cite",
+    "citizen",
+    "civet",
+    "entente",
+    "entice",
+    "event",
+    "evict",
+    "evictee",
+    "incentive",
+    "incite",
+    "intent",
+    "invective",
+    "invent",
+    "inventive",
+    "invite",
+    "invitee",
+    "netizen",
+    "nineteen",
+    "nite",
+    "teen",
+    "tenet",
+    "tent",
+    "tinct",
+    "tine",
+    "tint",
+    "vent",
+    "ziti"
+  ],
+  "id": 23921,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
