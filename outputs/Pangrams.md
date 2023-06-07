@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-228 pangrams
+229 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -153,6 +153,7 @@ Every pangram that's occurred so far.
 | **implement** <small>*(v.)*</small>     |       1 | To put into practical effect; carry out.                                                                                                                                                                       | https://www.wordnik.com/words/implement     |
 | **inactivate**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/inactivate    |
 | **inactive**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/inactive      |
+| **incentivize**                         |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/incentivize   |
 | **individual** <small>*(n.)*</small>    |       1 | A human regarded as a distinctive or unique personality.                                                                                                                                                       | https://www.wordnik.com/words/individual    |
 | **ineffective** <small>*(adj.)*</small> |       1 | Not producing an intended effect.                                                                                                                                                                              | https://www.wordnik.com/words/ineffective   |
 | **infecting**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/infecting     |
