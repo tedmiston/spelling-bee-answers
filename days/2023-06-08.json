@@ -1,0 +1,56 @@
+{
+  "expiration": 1686294000,
+  "displayWeekday": "Thursday",
+  "displayDate": "June 8, 2023",
+  "printDate": "2023-06-08",
+  "centerLetter": "a",
+  "outerLetters": [
+    "b",
+    "e",
+    "g",
+    "o",
+    "p",
+    "y"
+  ],
+  "validLetters": [
+    "a",
+    "b",
+    "e",
+    "g",
+    "o",
+    "p",
+    "y"
+  ],
+  "pangrams": [
+    "pageboy"
+  ],
+  "answers": [
+    "pageboy",
+    "abbey",
+    "agape",
+    "agog",
+    "apogee",
+    "baba",
+    "babe",
+    "baby",
+    "baggage",
+    "baggy",
+    "baobab",
+    "boba",
+    "gabby",
+    "gaga",
+    "gage",
+    "gape",
+    "page",
+    "papa",
+    "papaya",
+    "pappy",
+    "payee",
+    "poppa",
+    "yappy",
+    "yoga"
+  ],
+  "id": 21677,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
