@@ -1,0 +1,58 @@
+{
+  "expiration": 1686380400,
+  "displayWeekday": "Friday",
+  "displayDate": "June 9, 2023",
+  "printDate": "2023-06-09",
+  "centerLetter": "n",
+  "outerLetters": [
+    "a",
+    "i",
+    "j",
+    "m",
+    "r",
+    "u"
+  ],
+  "validLetters": [
+    "n",
+    "a",
+    "i",
+    "j",
+    "m",
+    "r",
+    "u"
+  ],
+  "pangrams": [
+    "marijuana"
+  ],
+  "answers": [
+    "marijuana",
+    "airman",
+    "anima",
+    "inurn",
+    "jinn",
+    "jinni",
+    "main",
+    "mania",
+    "manna",
+    "marina",
+    "marinara",
+    "mini",
+    "minim",
+    "minima",
+    "minimum",
+    "mirin",
+    "naan",
+    "nana",
+    "ninja",
+    "rain",
+    "rani",
+    "ruin",
+    "unarm",
+    "unjam",
+    "unman",
+    "uranium"
+  ],
+  "id": 13520,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
