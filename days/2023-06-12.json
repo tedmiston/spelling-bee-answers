@@ -1,0 +1,61 @@
+{
+  "displayWeekday": "Monday",
+  "displayDate": "June 12, 2023",
+  "printDate": "2023-06-12",
+  "centerLetter": "i",
+  "outerLetters": [
+    "e",
+    "l",
+    "p",
+    "t",
+    "v",
+    "x"
+  ],
+  "validLetters": [
+    "i",
+    "e",
+    "l",
+    "p",
+    "t",
+    "v",
+    "x"
+  ],
+  "pangrams": [
+    "expletive"
+  ],
+  "answers": [
+    "expletive",
+    "elite",
+    "evil",
+    "exile",
+    "exit",
+    "lilt",
+    "lite",
+    "little",
+    "live",
+    "petit",
+    "petite",
+    "pile",
+    "pill",
+    "pipe",
+    "pipet",
+    "pipette",
+    "pipit",
+    "pixel",
+    "pixie",
+    "plie",
+    "textile",
+    "tile",
+    "till",
+    "tilt",
+    "tippet",
+    "tipple",
+    "title",
+    "tittle",
+    "veil",
+    "vile"
+  ],
+  "id": 16697,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
