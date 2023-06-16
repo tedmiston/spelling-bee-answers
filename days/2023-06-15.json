@@ -1,0 +1,52 @@
+{
+  "displayWeekday": "Thursday",
+  "displayDate": "June 15, 2023",
+  "printDate": "2023-06-15",
+  "centerLetter": "u",
+  "outerLetters": [
+    "a",
+    "b",
+    "d",
+    "i",
+    "l",
+    "y"
+  ],
+  "validLetters": [
+    "u",
+    "a",
+    "b",
+    "d",
+    "i",
+    "l",
+    "y"
+  ],
+  "pangrams": [
+    "audibly"
+  ],
+  "answers": [
+    "audibly",
+    "baud",
+    "bubba",
+    "bubbly",
+    "buddy",
+    "build",
+    "bulb",
+    "bull",
+    "bully",
+    "daub",
+    "dual",
+    "dually",
+    "dull",
+    "dully",
+    "duly",
+    "laud",
+    "laudably",
+    "luau",
+    "lull",
+    "lullaby",
+    "lulu"
+  ],
+  "id": 26294,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
