@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-243 pangrams
+244 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -46,6 +46,7 @@ Every pangram that's occurred so far.
 | **arachnid** <small>*(n.)*</small>      |       1 | Any of the eight-legged creatures, including spiders and scorpions, of the class Arachnida                                                                                                                     | https://www.wordnik.com/words/arachnid      |
 | **attainability**                       |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/attainability |
 | **attitudinal**                         |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/attitudinal   |
+| **audibly**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/audibly       |
 | **autonomy**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/autonomy      |
 | **availability** <small>*(n.)*</small>  |       1 | The quality of being available (present and ready for use; at hand; accessible).                                                                                                                               | https://www.wordnik.com/words/availability  |
 | **awkwardly**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/awkwardly     |
