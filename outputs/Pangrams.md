@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-249 pangrams
+250 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -180,6 +180,7 @@ Every pangram that's occurred so far.
 | **janitor** <small>*(n.)*</small>       |       1 | One who attends to the maintenance or cleaning of a building.                                                                                                                                                  | https://www.wordnik.com/words/janitor       |
 | **jocular**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/jocular       |
 | **judicial** <small>*(adj.)*</small>    |       1 | Of, relating to, or proper to courts of law or to the administration of justice.                                                                                                                               | https://www.wordnik.com/words/judicial      |
+| **kneading**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/kneading      |
 | **latitudinal**                         |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/latitudinal   |
 | **legality** <small>*(n.)*</small>      |       1 | The state or quality of being legal; lawfulness.                                                                                                                                                               | https://www.wordnik.com/words/legality      |
 | **leitmotif**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/leitmotif     |
