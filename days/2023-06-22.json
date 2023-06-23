@@ -1,0 +1,57 @@
+{
+  "displayWeekday": "Thursday",
+  "displayDate": "June 22, 2023",
+  "printDate": "2023-06-22",
+  "centerLetter": "e",
+  "outerLetters": [
+    "b",
+    "c",
+    "h",
+    "i",
+    "o",
+    "t"
+  ],
+  "validLetters": [
+    "e",
+    "b",
+    "c",
+    "h",
+    "i",
+    "o",
+    "t"
+  ],
+  "pangrams": [
+    "biotech"
+  ],
+  "answers": [
+    "biotech",
+    "beech",
+    "beet",
+    "bite",
+    "bocce",
+    "bootee",
+    "bootie",
+    "choice",
+    "cite",
+    "cootie",
+    "cote",
+    "echo",
+    "echoic",
+    "etch",
+    "ethic",
+    "hectic",
+    "hottie",
+    "oboe",
+    "octet",
+    "tech",
+    "techie",
+    "teeth",
+    "teethe",
+    "thee",
+    "tithe",
+    "tote"
+  ],
+  "id": 15427,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
