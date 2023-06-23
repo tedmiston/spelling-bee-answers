@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-255 pangrams
+256 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -57,6 +57,7 @@ Every pangram that's occurred so far.
 | **banality**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/banality      |
 | **benefited**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/benefited     |
 | **benefitted**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/benefitted    |
+| **biotech**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/biotech       |
 | **biplane** <small>*(n.)*</small>       |       1 | *aviation* An airplane that has two pairs of wings, one above the other                                                                                                                                        | https://www.wordnik.com/words/biplane       |
 | **blading**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/blading       |
 | **blocked**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/blocked       |
