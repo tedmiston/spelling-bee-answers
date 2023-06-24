@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-256 pangrams
+257 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -38,6 +38,7 @@ Every pangram that's occurred so far.
 | **ambulate**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/ambulate      |
 | **ambulette**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/ambulette     |
 | **amicable**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/amicable      |
+| **analyzing**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/analyzing     |
 | **anticlimactic**                       |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/anticlimactic |
 | **antioxidant**                         |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/antioxidant   |
 | **appendix**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/appendix      |
