@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-257 pangrams
+258 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -191,6 +191,7 @@ Every pangram that's occurred so far.
 | **legality** <small>*(n.)*</small>      |       1 | The state or quality of being legal; lawfulness.                                                                                                                                                               | https://www.wordnik.com/words/legality      |
 | **leitmotif**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/leitmotif     |
 | **lengthening**                         |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/lengthening   |
+| **lexicon**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/lexicon       |
 | **lighten**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/lighten       |
 | **lightening**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/lightening    |
 | **livability** <small>*(n.)*</small>    |       1 | The property of being livable (suitable to live in, habitable; possible to bear, endurable).                                                                                                                   | https://www.wordnik.com/words/livability    |
