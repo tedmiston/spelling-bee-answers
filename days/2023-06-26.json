@@ -1,0 +1,58 @@
+{
+  "displayWeekday": "Monday",
+  "displayDate": "June 26, 2023",
+  "printDate": "2023-06-26",
+  "centerLetter": "m",
+  "outerLetters": [
+    "h",
+    "i",
+    "l",
+    "n",
+    "o",
+    "t"
+  ],
+  "validLetters": [
+    "m",
+    "h",
+    "i",
+    "l",
+    "n",
+    "o",
+    "t"
+  ],
+  "pangrams": [
+    "millionth",
+    "monolith"
+  ],
+  "answers": [
+    "millionth",
+    "monolith",
+    "limit",
+    "limn",
+    "limo",
+    "loom",
+    "mill",
+    "million",
+    "mini",
+    "minim",
+    "minion",
+    "mint",
+    "mitt",
+    "moil",
+    "moll",
+    "molt",
+    "mono",
+    "month",
+    "moon",
+    "moonlit",
+    "moot",
+    "moth",
+    "motion",
+    "motto",
+    "omit",
+    "tomtit"
+  ],
+  "id": 17219,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
