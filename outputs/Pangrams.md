@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-262 pangrams
+266 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -105,6 +105,7 @@ Every pangram that's occurred so far.
 | **dabbling**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/dabbling      |
 | **dancehall**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/dancehall     |
 | **daytime**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/daytime       |
+| **daywork**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/daywork       |
 | **deathly**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/deathly       |
 | **deductive**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/deductive     |
 | **deputize**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/deputize      |
@@ -285,7 +286,10 @@ Every pangram that's occurred so far.
 | **windfall**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/windfall      |
 | **windmilled** <small>*(v.)*</small>    |       1 | Simple past tense and past participle of windmill.                                                                                                                                                             | https://www.wordnik.com/words/windmilled    |
 | **wordily**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/wordily       |
+| **workaday**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/workaday      |
+| **workday**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/workday       |
 | **wrought**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/wrought       |
+| **yardwork**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/yardwork      |
 | **zoological**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/zoological    |
 
 <!-- generated all table end -->
