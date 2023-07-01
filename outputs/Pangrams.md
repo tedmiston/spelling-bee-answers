@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-270 pangrams
+272 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -212,6 +212,8 @@ Every pangram that's occurred so far.
 | **midbrain**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/midbrain      |
 | **millionth**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/millionth     |
 | **modular** <small>*(adj.)*</small>     |       1 | Consisting of separate modules; especially where each module performs or fulfills some specified function and could be replaced by a similar module for the same function, independently of the other modules. | https://www.wordnik.com/words/modular       |
+| **mollycoddle**                         |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/mollycoddle   |
+| **mollycoddled**                        |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/mollycoddled  |
 | **monetize**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/monetize      |
 | **monolith**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/monolith      |
 | **mortify**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/mortify       |
