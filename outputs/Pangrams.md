@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-282 pangrams
+283 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -85,6 +85,7 @@ Every pangram that's occurred so far.
 | **channeled**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/channeled     |
 | **claimable**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/claimable     |
 | **claimant**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/claimant      |
+| **clawing**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/clawing       |
 | **clickable**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/clickable     |
 | **climbable**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/climbable     |
 | **clowned**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/clowned       |
