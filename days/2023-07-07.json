@@ -1,0 +1,60 @@
+{
+  "displayWeekday": "Friday",
+  "displayDate": "July 7, 2023",
+  "printDate": "2023-07-07",
+  "centerLetter": "w",
+  "outerLetters": [
+    "a",
+    "c",
+    "g",
+    "i",
+    "l",
+    "n"
+  ],
+  "validLetters": [
+    "w",
+    "a",
+    "c",
+    "g",
+    "i",
+    "l",
+    "n"
+  ],
+  "pangrams": [
+    "clawing"
+  ],
+  "answers": [
+    "clawing",
+    "awing",
+    "awning",
+    "cawing",
+    "claw",
+    "gnaw",
+    "gnawing",
+    "lawn",
+    "wagging",
+    "waggling",
+    "waging",
+    "wail",
+    "wailing",
+    "wall",
+    "walling",
+    "wangling",
+    "waning",
+    "wanna",
+    "wigging",
+    "wiggling",
+    "wigwag",
+    "wigwagging",
+    "will",
+    "willing",
+    "wincing",
+    "wing",
+    "winging",
+    "wining",
+    "winning"
+  ],
+  "id": 24907,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
