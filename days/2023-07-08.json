@@ -1,0 +1,62 @@
+{
+  "displayWeekday": "Saturday",
+  "displayDate": "July 8, 2023",
+  "printDate": "2023-07-08",
+  "centerLetter": "h",
+  "outerLetters": [
+    "a",
+    "e",
+    "g",
+    "i",
+    "m",
+    "t"
+  ],
+  "validLetters": [
+    "h",
+    "a",
+    "e",
+    "g",
+    "i",
+    "m",
+    "t"
+  ],
+  "pangrams": [
+    "megahit"
+  ],
+  "answers": [
+    "megahit",
+    "ahem",
+    "eight",
+    "eighth",
+    "eightieth",
+    "ghee",
+    "hamate",
+    "hate",
+    "hath",
+    "hatha",
+    "heat",
+    "heath",
+    "height",
+    "hematite",
+    "heme",
+    "high",
+    "mahatma",
+    "mahimahi",
+    "math",
+    "meth",
+    "might",
+    "teeth",
+    "teethe",
+    "that",
+    "thee",
+    "them",
+    "theme",
+    "theta",
+    "thigh",
+    "tight",
+    "tithe"
+  ],
+  "id": 13879,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
