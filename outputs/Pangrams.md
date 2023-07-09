@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-283 pangrams
+284 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -214,6 +214,7 @@ Every pangram that's occurred so far.
 | **marijuana**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/marijuana     |
 | **mathematic** <small>*(n.)*</small>    |       1 | Same as mathematics (the study of the measurement, properties, and relationships of quantities and sets, using numbers and symbols).                                                                           | https://www.wordnik.com/words/mathematic    |
 | **maturity**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/maturity      |
+| **megahit**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/megahit       |
 | **mentally**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/mentally      |
 | **mezzotint**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/mezzotint     |
 | **microfilm**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/microfilm     |
