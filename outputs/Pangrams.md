@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-286 pangrams
+287 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -45,6 +45,7 @@ Every pangram that's occurred so far.
 | **applicant**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/applicant     |
 | **apricot**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/apricot       |
 | **arachnid** <small>*(n.)*</small>      |       1 | Any of the eight-legged creatures, including spiders and scorpions, of the class Arachnida                                                                                                                     | https://www.wordnik.com/words/arachnid      |
+| **atrophy**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/atrophy       |
 | **attainability**                       |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/attainability |
 | **attitudinal**                         |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/attitudinal   |
 | **audibly**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/audibly       |
