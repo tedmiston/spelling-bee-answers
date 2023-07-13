@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-288 pangrams
+289 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -144,6 +144,7 @@ Every pangram that's occurred so far.
 | **expunging**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/expunging     |
 | **exultant** <small>*(adj.)*</small>    |       1 | Marked by great joy or jubilation; triumphant.                                                                                                                                                                 | https://www.wordnik.com/words/exultant      |
 | **fanciful** <small>*(adj.)*</small>    |       1 | Tending to indulge in fancy.                                                                                                                                                                                   | https://www.wordnik.com/words/fanciful      |
+| **femininity**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/femininity    |
 | **fidgety**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/fidgety       |
 | **finitude**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/finitude      |
 | **fixable** <small>*(adj.)*</small>     |       1 | Capable of being fixed.                                                                                                                                                                                        | https://www.wordnik.com/words/fixable       |
