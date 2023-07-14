@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-289 pangrams
+290 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -160,6 +160,7 @@ Every pangram that's occurred so far.
 | **gamecock**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/gamecock      |
 | **genealogy**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/genealogy     |
 | **glamour**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/glamour       |
+| **godchild**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/godchild      |
 | **graphing**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/graphing      |
 | **habitual** <small>*(adj.)*</small>    |       1 | Formed or acquired by habit or use.                                                                                                                                                                            | https://www.wordnik.com/words/habitual      |
 | **haircut**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/haircut       |
