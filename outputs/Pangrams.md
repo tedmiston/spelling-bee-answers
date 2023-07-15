@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-290 pangrams
+291 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -217,6 +217,7 @@ Every pangram that's occurred so far.
 | **loveably**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/loveably      |
 | **lunched**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/lunched       |
 | **mahogany**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/mahogany      |
+| **mailbox**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/mailbox       |
 | **marijuana**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/marijuana     |
 | **mathematic** <small>*(n.)*</small>    |       1 | Same as mathematics (the study of the measurement, properties, and relationships of quantities and sets, using numbers and symbols).                                                                           | https://www.wordnik.com/words/mathematic    |
 | **maturity**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/maturity      |
