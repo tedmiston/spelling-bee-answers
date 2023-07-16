@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-291 pangrams
+292 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -117,6 +117,7 @@ Every pangram that's occurred so far.
 | **deficient**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/deficient     |
 | **deputize**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/deputize      |
 | **deputized**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/deputized     |
+| **deviant**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/deviant       |
 | **diabetic**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/diabetic      |
 | **diabolic**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/diabolic      |
 | **diabolical**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/diabolical    |
