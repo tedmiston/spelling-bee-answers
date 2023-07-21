@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-298 pangrams
+299 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -174,6 +174,7 @@ Every pangram that's occurred so far.
 | **headwind**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/headwind      |
 | **healthful**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/healthful     |
 | **heatedly**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/heatedly      |
+| **heavily**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/heavily       |
 | **hematic** <small>*(adj.)*</small>     |       1 | Of, relating to, resembling, containing, or acting on blood.                                                                                                                                                   | https://www.wordnik.com/words/hematic       |
 | **hiccuped** <small>*(v.)*</small>      |       1 | Simple past tense and past participle of hiccup (a spasm of the diaphragm, or the resulting sound).                                                                                                            | https://www.wordnik.com/words/hiccuped      |
 | **hiccupped** <small>*(v.)*</small>     |       1 | Simple past tense and past participle of hiccup (a spasm of the diaphragm, or the resulting sound).                                                                                                            | https://www.wordnik.com/words/hiccupped     |
