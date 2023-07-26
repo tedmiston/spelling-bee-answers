@@ -1,0 +1,59 @@
+{
+  "displayWeekday": "Tuesday",
+  "displayDate": "July 25, 2023",
+  "printDate": "2023-07-25",
+  "centerLetter": "y",
+  "outerLetters": [
+    "a",
+    "e",
+    "i",
+    "m",
+    "n",
+    "t"
+  ],
+  "validLetters": [
+    "y",
+    "a",
+    "e",
+    "i",
+    "m",
+    "n",
+    "t"
+  ],
+  "pangrams": [
+    "amenity",
+    "anytime"
+  ],
+  "answers": [
+    "amenity",
+    "anytime",
+    "amity",
+    "enemy",
+    "enmity",
+    "entity",
+    "inanity",
+    "itty",
+    "many",
+    "matey",
+    "meany",
+    "meaty",
+    "minty",
+    "minyan",
+    "myna",
+    "nanny",
+    "natty",
+    "netty",
+    "ninety",
+    "ninny",
+    "tatty",
+    "teeny",
+    "tinny",
+    "tiny",
+    "yenta",
+    "yente",
+    "yeti"
+  ],
+  "id": 19642,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
