@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-306 pangrams
+307 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -293,6 +293,7 @@ Every pangram that's occurred so far.
 | **talkative** <small>*(adj.)*</small>   |       1 | Marked by or having a disposition to talk.                                                                                                                                                                     | https://www.wordnik.com/words/talkative     |
 | **tenacity** <small>*(n.)*</small>      |       1 | The quality or state of being tenacious; as, tenacity, or retentiveness, of memory; tenacity, or persistency, of purpose.                                                                                      | https://www.wordnik.com/words/tenacity      |
 | **thematic** <small>*(adj.)*</small>    |       1 | Relating to, or having a theme or a topic.                                                                                                                                                                     | https://www.wordnik.com/words/thematic      |
+| **thrilling**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/thrilling     |
 | **traumatic**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/traumatic     |
 | **tributary** <small>*(n.)*</small>     |       1 | A stream that flows into a larger stream or other body of water.                                                                                                                                               | https://www.wordnik.com/words/tributary     |
 | **turnaround**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/turnaround    |
