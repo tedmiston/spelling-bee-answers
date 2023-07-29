@@ -1,0 +1,58 @@
+{
+  "displayWeekday": "Friday",
+  "displayDate": "July 28, 2023",
+  "printDate": "2023-07-28",
+  "centerLetter": "p",
+  "outerLetters": [
+    "t",
+    "z",
+    "a",
+    "b",
+    "e",
+    "i"
+  ],
+  "validLetters": [
+    "p",
+    "t",
+    "z",
+    "a",
+    "b",
+    "e",
+    "i"
+  ],
+  "pangrams": [
+    "baptize"
+  ],
+  "answers": [
+    "baptize",
+    "appetite",
+    "appetize",
+    "beep",
+    "epee",
+    "papa",
+    "pate",
+    "peat",
+    "peep",
+    "pepita",
+    "petit",
+    "petite",
+    "piazza",
+    "pipe",
+    "pipet",
+    "pipette",
+    "pipit",
+    "pita",
+    "pitapat",
+    "pizazz",
+    "pizza",
+    "pizzazz",
+    "tapa",
+    "tape",
+    "teepee",
+    "tepee",
+    "tippet"
+  ],
+  "id": 27705,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
