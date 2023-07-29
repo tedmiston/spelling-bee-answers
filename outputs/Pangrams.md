@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-308 pangrams
+309 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -61,6 +61,7 @@ Every pangram that's occurred so far.
 | **backfill**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/backfill      |
 | **balding**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/balding       |
 | **banality**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/banality      |
+| **baptize**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/baptize       |
 | **beachcomb**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/beachcomb     |
 | **beanpole**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/beanpole      |
 | **beatific**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/beatific      |
