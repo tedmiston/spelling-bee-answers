@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-313 pangrams
+314 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -87,6 +87,7 @@ Every pangram that's occurred so far.
 | **captive**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/captive       |
 | **cardigan** <small>*(n.)*</small>      |       1 | A knitted garment, such as a sweater or jacket, that opens down the full length of the front.                                                                                                                  | https://www.wordnik.com/words/cardigan      |
 | **carding** <small>*(n.)*</small>       |       1 | The process of combing wool, flax, or cotton.                                                                                                                                                                  | https://www.wordnik.com/words/carding       |
+| **carrying**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/carrying      |
 | **carryout**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/carryout      |
 | **cartload**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/cartload      |
 | **channeled**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/channeled     |
