@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-316 pangrams
+317 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -139,6 +139,7 @@ Every pangram that's occurred so far.
 | **draconian** <small>*(adj.)*</small>   |       1 | A code of laws made by Draco. Their measures were so severe that they were said to be written in letters of blood; hence, any laws of excessive rigor.                                                         | https://www.wordnik.com/words/draconian     |
 | **draconic** <small>*(adj.)*</small>    |       1 | - Of or suggestive of a dragon.<br>- Draconian.                                                                                                                                                                | https://www.wordnik.com/words/draconic      |
 | **effecting**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/effecting     |
+| **ejectable**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/ejectable     |
 | **elementally**                         |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/elementally   |
 | **embankment**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/embankment    |
 | **eminently**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/eminently     |
