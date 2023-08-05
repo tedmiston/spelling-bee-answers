@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-318 pangrams
+320 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -67,6 +67,8 @@ Every pangram that's occurred so far.
 | **beatific**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/beatific      |
 | **benefited**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/benefited     |
 | **benefitted**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/benefitted    |
+| **bighead**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/bighead       |
+| **bigheaded**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/bigheaded     |
 | **biotech**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/biotech       |
 | **biplane** <small>*(n.)*</small>       |       1 | *aviation* An airplane that has two pairs of wings, one above the other                                                                                                                                        | https://www.wordnik.com/words/biplane       |
 | **blading**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/blading       |
