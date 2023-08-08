@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-323 pangrams
+324 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -192,6 +192,7 @@ Every pangram that's occurred so far.
 | **hiccuped** <small>*(v.)*</small>      |       1 | Simple past tense and past participle of hiccup (a spasm of the diaphragm, or the resulting sound).                                                                                                            | https://www.wordnik.com/words/hiccuped      |
 | **hiccupped** <small>*(v.)*</small>     |       1 | Simple past tense and past participle of hiccup (a spasm of the diaphragm, or the resulting sound).                                                                                                            | https://www.wordnik.com/words/hiccupped     |
 | **highland**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/highland      |
+| **holiday**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/holiday       |
 | **honeydew**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/honeydew      |
 | **hotline**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/hotline       |
 | **hyacinth** <small>*(n.)*</small>      |       1 | A bulbous plant of the genus Hyacinthus, bearing beautiful spikes of fragrant flowers. Hyacinthus orientalis is a common variety.                                                                              | https://www.wordnik.com/words/hyacinth      |
