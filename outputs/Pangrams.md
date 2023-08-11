@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-326 pangrams
+327 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -43,6 +43,7 @@ Every pangram that's occurred so far.
 | **amicable**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/amicable      |
 | **analyzed**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/analyzed      |
 | **analyzing**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/analyzing     |
+| **anklebone**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/anklebone     |
 | **anticlimactic**                       |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/anticlimactic |
 | **antioxidant**                         |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/antioxidant   |
 | **anytime**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/anytime       |
