@@ -1,0 +1,59 @@
+{
+  "displayWeekday": "Friday",
+  "displayDate": "August 11, 2023",
+  "printDate": "2023-08-11",
+  "centerLetter": "i",
+  "outerLetters": [
+    "d",
+    "l",
+    "q",
+    "t",
+    "u",
+    "y"
+  ],
+  "validLetters": [
+    "i",
+    "d",
+    "l",
+    "q",
+    "t",
+    "u",
+    "y"
+  ],
+  "pangrams": [
+    "illiquidity",
+    "liquidity"
+  ],
+  "answers": [
+    "illiquidity",
+    "liquidity",
+    "diddly",
+    "dill",
+    "dilly",
+    "ditty",
+    "idly",
+    "idyl",
+    "idyll",
+    "illiquid",
+    "illy",
+    "itty",
+    "lilt",
+    "lily",
+    "liquid",
+    "liquidly",
+    "quid",
+    "quiddity",
+    "quill",
+    "quilt",
+    "quit",
+    "tidily",
+    "tidy",
+    "till",
+    "tilt",
+    "tutti",
+    "utility"
+  ],
+  "id": 6786,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
