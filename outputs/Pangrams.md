@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-331 pangrams
+332 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -112,6 +112,7 @@ Every pangram that's occurred so far.
 | **competent** <small>*(adj.)*</small>   |       1 | Properly or sufficiently qualified; capable.                                                                                                                                                                   | https://www.wordnik.com/words/competent     |
 | **compile**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/compile       |
 | **component** <small>*(n.)*</small>     |       1 | A constituent element, as of a system. synonym: element.                                                                                                                                                       | https://www.wordnik.com/words/component     |
+| **concordant**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/concordant    |
 | **condominium**                         |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/condominium   |
 | **confounded**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/confounded    |
 | **contempt** <small>*(n.)*</small>      |       1 | The feeling or attitude of regarding someone or something as inferior, base, or worthless; scorn.                                                                                                              | https://www.wordnik.com/words/contempt      |
