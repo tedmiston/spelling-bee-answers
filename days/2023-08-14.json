@@ -1,0 +1,62 @@
+{
+  "displayWeekday": "Monday",
+  "displayDate": "August 14, 2023",
+  "printDate": "2023-08-14",
+  "centerLetter": "e",
+  "outerLetters": [
+    "b",
+    "g",
+    "m",
+    "n",
+    "o",
+    "y"
+  ],
+  "validLetters": [
+    "e",
+    "b",
+    "g",
+    "m",
+    "n",
+    "o",
+    "y"
+  ],
+  "pangrams": [
+    "bogeymen"
+  ],
+  "answers": [
+    "bogeymen",
+    "been",
+    "begem",
+    "begone",
+    "bogey",
+    "bombe",
+    "bone",
+    "bygone",
+    "ebon",
+    "ebony",
+    "eggnog",
+    "eggy",
+    "enby",
+    "enemy",
+    "gene",
+    "genome",
+    "gnome",
+    "gone",
+    "gooey",
+    "meme",
+    "memo",
+    "money",
+    "moneymen",
+    "nene",
+    "neon",
+    "none",
+    "obey",
+    "oboe",
+    "ogee",
+    "omen",
+    "yeomen"
+  ],
+  "id": 17879,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
