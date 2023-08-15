@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-332 pangrams
+333 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -76,6 +76,7 @@ Every pangram that's occurred so far.
 | **blading**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/blading       |
 | **blocked**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/blocked       |
 | **blurring**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/blurring      |
+| **bogeymen**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/bogeymen      |
 | **braying**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/braying       |
 | **brought** <small>*(v.)*</small>       |       1 | Simple past tense and past participle of bring.                                                                                                                                                                | https://www.wordnik.com/words/brought       |
 | **bullfrog**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/bullfrog      |
