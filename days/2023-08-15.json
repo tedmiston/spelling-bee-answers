@@ -1,0 +1,58 @@
+{
+  "expiration": 1692169200,
+  "displayWeekday": "Tuesday",
+  "displayDate": "August 15, 2023",
+  "printDate": "2023-08-15",
+  "centerLetter": "h",
+  "outerLetters": [
+    "e",
+    "g",
+    "i",
+    "t",
+    "w",
+    "y"
+  ],
+  "validLetters": [
+    "h",
+    "e",
+    "g",
+    "i",
+    "t",
+    "w",
+    "y"
+  ],
+  "pangrams": [
+    "weighty"
+  ],
+  "answers": [
+    "weighty",
+    "eight",
+    "eighth",
+    "eightieth",
+    "eighty",
+    "eyeteeth",
+    "ghee",
+    "height",
+    "high",
+    "teeth",
+    "teethe",
+    "thee",
+    "they",
+    "thigh",
+    "tight",
+    "tithe",
+    "weigh",
+    "weight",
+    "whee",
+    "whet",
+    "whew",
+    "whey",
+    "whit",
+    "white",
+    "wight",
+    "with"
+  ],
+  "id": 15386,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
