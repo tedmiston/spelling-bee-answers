@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-333 pangrams
+334 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -347,6 +347,7 @@ Every pangram that's occurred so far.
 | **voltage**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/voltage       |
 | **weaving** <small>*(n.)*</small>       |       1 | The act of one who or that which weaves; specifically, the act or art of producing cloth or other textile fabrics by means of a loom from the combination of threads or filaments.                             | https://www.wordnik.com/words/weaving       |
 | **wedlock**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/wedlock       |
+| **weighty**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/weighty       |
 | **wheezing**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/wheezing      |
 | **whooping**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/whooping      |
 | **whopping**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/whopping      |
