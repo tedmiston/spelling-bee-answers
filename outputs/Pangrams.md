@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-335 pangrams
+336 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -33,6 +33,7 @@ Every pangram that's occurred so far.
 | **acridity**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/acridity      |
 | **acronym**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/acronym       |
 | **aground** <small>*(adv.)*</small>     |       1 | On the ground; stranded; -- a nautical term applied to a ship when its bottom lodges on the ground.                                                                                                            | https://www.wordnik.com/words/aground       |
+| **alchemy**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/alchemy       |
 | **allowance** <small>*(n.)*</small>     |       1 | Something, such as money, given at regular intervals or for a specific purpose.                                                                                                                                | https://www.wordnik.com/words/allowance     |
 | **although**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/although      |
 | **altitudinal**                         |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/altitudinal   |
