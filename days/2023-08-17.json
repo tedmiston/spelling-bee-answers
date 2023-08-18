@@ -1,0 +1,63 @@
+{
+  "expiration": 1692342000,
+  "displayWeekday": "Thursday",
+  "displayDate": "August 17, 2023",
+  "printDate": "2023-08-17",
+  "centerLetter": "c",
+  "outerLetters": [
+    "a",
+    "e",
+    "h",
+    "l",
+    "m",
+    "y"
+  ],
+  "validLetters": [
+    "c",
+    "a",
+    "e",
+    "h",
+    "l",
+    "m",
+    "y"
+  ],
+  "pangrams": [
+    "alchemy"
+  ],
+  "answers": [
+    "alchemy",
+    "ache",
+    "achy",
+    "acme",
+    "cache",
+    "call",
+    "calla",
+    "calm",
+    "calmly",
+    "came",
+    "camel",
+    "cell",
+    "challah",
+    "chyme",
+    "clam",
+    "clammy",
+    "clay",
+    "clayey",
+    "cycle",
+    "each",
+    "emcee",
+    "lace",
+    "lacy",
+    "leach",
+    "lech",
+    "leech",
+    "lychee",
+    "mace",
+    "mecca",
+    "yecch",
+    "yech"
+  ],
+  "id": 25308,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
