@@ -1,0 +1,55 @@
+{
+  "displayWeekday": "Friday",
+  "displayDate": "August 18, 2023",
+  "printDate": "2023-08-18",
+  "centerLetter": "o",
+  "outerLetters": [
+    "p",
+    "x",
+    "e",
+    "h",
+    "i",
+    "n"
+  ],
+  "validLetters": [
+    "o",
+    "p",
+    "x",
+    "e",
+    "h",
+    "i",
+    "n"
+  ],
+  "pangrams": [
+    "phoenix"
+  ],
+  "answers": [
+    "phoenix",
+    "expo",
+    "hippo",
+    "hone",
+    "hoop",
+    "hope",
+    "neon",
+    "none",
+    "noon",
+    "nope",
+    "onion",
+    "open",
+    "opine",
+    "opinion",
+    "oxen",
+    "peon",
+    "phone",
+    "phono",
+    "pinion",
+    "pone",
+    "pooh",
+    "poop",
+    "pope",
+    "xenon"
+  ],
+  "id": 27691,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
