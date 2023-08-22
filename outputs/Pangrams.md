@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-341 pangrams
+342 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -268,6 +268,7 @@ Every pangram that's occurred so far.
 | **monetize**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/monetize      |
 | **monocracy**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/monocracy     |
 | **monolith**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/monolith      |
+| **monoxide**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/monoxide      |
 | **mortify**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/mortify       |
 | **mothball** <small>*(n.)*</small>      |       1 | A marble-sized ball, originally of camphor but now of naphthalene, stored with clothes to repel moths.                                                                                                         | https://www.wordnik.com/words/mothball      |
 | **motorway**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/motorway      |
