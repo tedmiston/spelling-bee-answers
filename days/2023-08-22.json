@@ -1,0 +1,58 @@
+{
+  "displayWeekday": "Tuesday",
+  "displayDate": "August 22, 2023",
+  "printDate": "2023-08-22",
+  "centerLetter": "t",
+  "outerLetters": [
+    "a",
+    "k",
+    "l",
+    "o",
+    "u",
+    "w"
+  ],
+  "validLetters": [
+    "t",
+    "a",
+    "k",
+    "l",
+    "o",
+    "u",
+    "w"
+  ],
+  "pangrams": [
+    "walkout"
+  ],
+  "answers": [
+    "walkout",
+    "allot",
+    "alto",
+    "atoll",
+    "auto",
+    "kowtow",
+    "lookout",
+    "loot",
+    "lotto",
+    "lout",
+    "outlaw",
+    "outlook",
+    "outtalk",
+    "talk",
+    "tall",
+    "tallow",
+    "tattoo",
+    "taut",
+    "toll",
+    "took",
+    "tool",
+    "toot",
+    "total",
+    "tout",
+    "tutu",
+    "watt",
+    "woot"
+  ],
+  "id": 17664,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
