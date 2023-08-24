@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-343 pangrams
+344 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -309,6 +309,7 @@ Every pangram that's occurred so far.
 | **placenta**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/placenta      |
 | **placental**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/placental     |
 | **planking**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/planking      |
+| **plateful**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/plateful      |
 | **plebeian** <small>*(adj.)*</small>    |       1 | Of, belonging to, or characteristic of commoners.                                                                                                                                                              | https://www.wordnik.com/words/plebeian      |
 | **pocketbook**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/pocketbook    |
 | **polemic**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/polemic       |
