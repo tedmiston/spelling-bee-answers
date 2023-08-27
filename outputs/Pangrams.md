@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-349 pangrams
+350 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -305,6 +305,7 @@ Every pangram that's occurred so far.
 | **payment**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/payment       |
 | **payphone**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/payphone      |
 | **pedagogy** <small>*(n.)*</small>      |       1 | The art or profession of teaching.                                                                                                                                                                             | https://www.wordnik.com/words/pedagogy      |
+| **pendulum**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/pendulum      |
 | **pentacle**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/pentacle      |
 | **phenomena**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/phenomena     |
 | **phoenix**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/phoenix       |
