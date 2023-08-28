@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-350 pangrams
+351 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -42,6 +42,7 @@ Every pangram that's occurred so far.
 | **ambulette**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/ambulette     |
 | **amenity**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/amenity       |
 | **amicable**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/amicable      |
+| **amicably**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/amicably      |
 | **analyzed**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/analyzed      |
 | **analyzing**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/analyzing     |
 | **anklebone**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/anklebone     |
