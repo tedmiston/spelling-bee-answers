@@ -1,0 +1,58 @@
+{
+  "displayWeekday": "Sunday",
+  "displayDate": "August 27, 2023",
+  "printDate": "2023-08-27",
+  "centerLetter": "y",
+  "outerLetters": [
+    "a",
+    "b",
+    "c",
+    "i",
+    "l",
+    "m"
+  ],
+  "validLetters": [
+    "y",
+    "a",
+    "b",
+    "c",
+    "i",
+    "l",
+    "m"
+  ],
+  "pangrams": [
+    "amicably"
+  ],
+  "answers": [
+    "amicably",
+    "abbacy",
+    "ably",
+    "acyclic",
+    "allay",
+    "ally",
+    "amiably",
+    "amyl",
+    "baby",
+    "balmy",
+    "bialy",
+    "biblically",
+    "bicyclic",
+    "billy",
+    "blabby",
+    "cabby",
+    "calmly",
+    "clammy",
+    "clay",
+    "cyclic",
+    "cyclical",
+    "cyclically",
+    "cymbal",
+    "icily",
+    "illy",
+    "lacy",
+    "lily"
+  ],
+  "id": 15752,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
