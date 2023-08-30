@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-354 pangrams
+355 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -176,6 +176,7 @@ Every pangram that's occurred so far.
 | **filename**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/filename      |
 | **finitude**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/finitude      |
 | **fixable** <small>*(adj.)*</small>     |       1 | Capable of being fixed.                                                                                                                                                                                        | https://www.wordnik.com/words/fixable       |
+| **fixated**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/fixated       |
 | **flagpole** <small>*(n.)*</small>      |       1 | A pole used to display a flag.                                                                                                                                                                                 | https://www.wordnik.com/words/flagpole      |
 | **flaking**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/flaking       |
 | **flanking**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/flanking      |
