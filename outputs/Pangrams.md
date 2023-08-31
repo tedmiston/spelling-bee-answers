@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-355 pangrams
+356 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -131,6 +131,7 @@ Every pangram that's occurred so far.
 | **curtain** <small>*(n.)*</small>       |       1 | A piece of fabric or other material that hangs in a window or open space as a decoration, shade, screen, or divider.                                                                                           | https://www.wordnik.com/words/curtain       |
 | **cyanide**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/cyanide       |
 | **dabbling**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/dabbling      |
+| **daintily**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/daintily      |
 | **dancehall**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/dancehall     |
 | **daytime**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/daytime       |
 | **daywork**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/daywork       |
