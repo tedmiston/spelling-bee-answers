@@ -1,0 +1,63 @@
+{
+  "displayWeekday": "Thursday",
+  "displayDate": "August 31, 2023",
+  "printDate": "2023-08-31",
+  "centerLetter": "e",
+  "outerLetters": [
+    "g",
+    "h",
+    "m",
+    "n",
+    "o",
+    "y"
+  ],
+  "validLetters": [
+    "e",
+    "g",
+    "h",
+    "m",
+    "n",
+    "o",
+    "y"
+  ],
+  "pangrams": [
+    "hegemony",
+    "homogeny"
+  ],
+  "answers": [
+    "hegemony",
+    "homogeny",
+    "eggnog",
+    "eggy",
+    "enemy",
+    "gene",
+    "genome",
+    "ghee",
+    "gnome",
+    "gone",
+    "gooey",
+    "hegemon",
+    "heme",
+    "henge",
+    "home",
+    "homey",
+    "hone",
+    "honey",
+    "honeymoon",
+    "hooey",
+    "hymen",
+    "meme",
+    "memo",
+    "money",
+    "moneymen",
+    "nene",
+    "neon",
+    "none",
+    "ogee",
+    "omen",
+    "yeomen"
+  ],
+  "id": 1274,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
