@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-362 pangrams
+363 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -214,6 +214,7 @@ Every pangram that's occurred so far.
 | **holiday**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/holiday       |
 | **homogeny**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/homogeny      |
 | **honeydew**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/honeydew      |
+| **hormonal**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/hormonal      |
 | **hotline**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/hotline       |
 | **hyacinth** <small>*(n.)*</small>      |       1 | A bulbous plant of the genus Hyacinthus, bearing beautiful spikes of fragrant flowers. Hyacinthus orientalis is a common variety.                                                                              | https://www.wordnik.com/words/hyacinth      |
 | **hyphenate** <small>*(v.)*</small>     |       1 | To divide or connect (syllables, word elements, or names) with a hyphen.                                                                                                                                       | https://www.wordnik.com/words/hyphenate     |
