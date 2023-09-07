@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-366 pangrams
+367 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -305,6 +305,7 @@ Every pangram that's occurred so far.
 | **notably** <small>*(adv.)*</small>     |       1 | Especially; in particular.                                                                                                                                                                                     | https://www.wordnik.com/words/notably       |
 | **objected**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/objected      |
 | **obliged** <small>*(adj.)*</small>     |       1 | Under an obligation to do something for someone.                                                                                                                                                               | https://www.wordnik.com/words/obliged       |
+| **offhanded**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/offhanded     |
 | **openable**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/openable      |
 | **opulent** <small>*(adj.)*</small>     |       1 | Characterized by extravagance or rich abundance; lavish or luxuriant.                                                                                                                                          | https://www.wordnik.com/words/opulent       |
 | **outback** <small>*(n.)*</small>       |       1 | The remote rural part of a country, especially of Australia or New Zealand.                                                                                                                                    | https://www.wordnik.com/words/outback       |
