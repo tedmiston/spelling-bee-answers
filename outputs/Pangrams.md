@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-367 pangrams
+368 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -104,6 +104,7 @@ Every pangram that's occurred so far.
 | **cartload**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/cartload      |
 | **channeled**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/channeled     |
 | **checkmate**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/checkmate     |
+| **chutney**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/chutney       |
 | **claimable**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/claimable     |
 | **claimant**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/claimant      |
 | **clawing**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/clawing       |
