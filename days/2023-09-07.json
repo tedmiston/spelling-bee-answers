@@ -1,0 +1,53 @@
+{
+  "expiration": 1694156400,
+  "displayWeekday": "Thursday",
+  "displayDate": "September 7, 2023",
+  "printDate": "2023-09-07",
+  "centerLetter": "n",
+  "outerLetters": [
+    "c",
+    "e",
+    "h",
+    "t",
+    "u",
+    "y"
+  ],
+  "validLetters": [
+    "n",
+    "c",
+    "e",
+    "h",
+    "t",
+    "u",
+    "y"
+  ],
+  "pangrams": [
+    "chutney"
+  ],
+  "answers": [
+    "chutney",
+    "cent",
+    "entente",
+    "eunuch",
+    "hence",
+    "hunch",
+    "hunt",
+    "nene",
+    "netty",
+    "nutty",
+    "teen",
+    "teeny",
+    "tenet",
+    "tent",
+    "tenth",
+    "then",
+    "thence",
+    "tune",
+    "uncut",
+    "untune",
+    "yente"
+  ],
+  "id": 17234,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
