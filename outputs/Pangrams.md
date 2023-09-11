@@ -21,10 +21,11 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-370 pangrams
+371 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
+| **abandoning**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/abandoning    |
 | **abdicate**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/abdicate      |
 | **abdicated**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/abdicated     |
 | **abomination**                         |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/abomination   |
