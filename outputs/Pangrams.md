@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-371 pangrams
+372 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -132,6 +132,7 @@ Every pangram that's occurred so far.
 | **convoyed**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/convoyed      |
 | **corkboard**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/corkboard     |
 | **covenant**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/covenant      |
+| **cowgirl**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/cowgirl       |
 | **curtain** <small>*(n.)*</small>       |       1 | A piece of fabric or other material that hangs in a window or open space as a decoration, shade, screen, or divider.                                                                                           | https://www.wordnik.com/words/curtain       |
 | **cyanide**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/cyanide       |
 | **dabbling**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/dabbling      |
