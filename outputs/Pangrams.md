@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-372 pangrams
+373 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -333,6 +333,7 @@ Every pangram that's occurred so far.
 | **photograph** <small>*(n.)*</small>    |       1 | An image, especially a positive print, recorded by exposing a photosensitive surface to light, especially in a camera.                                                                                         | https://www.wordnik.com/words/photograph    |
 | **pinewood** <small>*(n.)*</small>      |       1 | The wood of the pine tree.                                                                                                                                                                                     | https://www.wordnik.com/words/pinewood      |
 | **pityingly**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/pityingly     |
+| **pivoting**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/pivoting      |
 | **placenta**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/placenta      |
 | **placental**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/placental     |
 | **planking**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/planking      |
