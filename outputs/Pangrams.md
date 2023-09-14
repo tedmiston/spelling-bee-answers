@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-373 pangrams
+374 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -167,6 +167,7 @@ Every pangram that's occurred so far.
 | **embankment**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/embankment    |
 | **eminently**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/eminently     |
 | **emotivity**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/emotivity     |
+| **empathy**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/empathy       |
 | **engulfing** <small>*(v.)*</small>     |       1 | Present participle of engulf (to swallow up or overwhelm by or as if by overflowing and enclosing).                                                                                                            | https://www.wordnik.com/words/engulfing     |
 | **enjoyment**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/enjoyment     |
 | **enlighten**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/enlighten     |
