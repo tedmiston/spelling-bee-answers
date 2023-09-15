@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-374 pangrams
+375 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -72,6 +72,7 @@ Every pangram that's occurred so far.
 | **beachcomb**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/beachcomb     |
 | **beanpole**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/beanpole      |
 | **beatific**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/beatific      |
+| **bedfellow**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/bedfellow     |
 | **belittling**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/belittling    |
 | **belting**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/belting       |
 | **benefited**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/benefited     |
