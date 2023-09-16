@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-375 pangrams
+376 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -83,6 +83,7 @@ Every pangram that's occurred so far.
 | **biotech**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/biotech       |
 | **biplane** <small>*(n.)*</small>       |       1 | *aviation* An airplane that has two pairs of wings, one above the other                                                                                                                                        | https://www.wordnik.com/words/biplane       |
 | **blading**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/blading       |
+| **blizzard**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/blizzard      |
 | **blocked**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/blocked       |
 | **blurring**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/blurring      |
 | **bogeymen**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/bogeymen      |
