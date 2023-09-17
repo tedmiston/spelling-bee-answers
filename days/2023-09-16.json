@@ -1,0 +1,59 @@
+{
+  "expiration": 1694934000,
+  "displayWeekday": "Saturday",
+  "displayDate": "September 16, 2023",
+  "printDate": "2023-09-16",
+  "centerLetter": "r",
+  "outerLetters": [
+    "a",
+    "d",
+    "f",
+    "p",
+    "t",
+    "u"
+  ],
+  "validLetters": [
+    "r",
+    "a",
+    "d",
+    "f",
+    "p",
+    "t",
+    "u"
+  ],
+  "pangrams": [
+    "updraft"
+  ],
+  "answers": [
+    "updraft",
+    "afar",
+    "apart",
+    "apparat",
+    "attar",
+    "aura",
+    "dart",
+    "draft",
+    "drat",
+    "farad",
+    "fart",
+    "frat",
+    "fraud",
+    "part",
+    "prat",
+    "purr",
+    "radar",
+    "raft",
+    "rapt",
+    "ratatat",
+    "rattrap",
+    "ruff",
+    "tarp",
+    "tart",
+    "tartar",
+    "trap",
+    "turf"
+  ],
+  "id": 5921,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
