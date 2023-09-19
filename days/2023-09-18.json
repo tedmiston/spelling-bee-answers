@@ -1,0 +1,59 @@
+{
+  "expiration": 1695106800,
+  "displayWeekday": "Monday",
+  "displayDate": "September 18, 2023",
+  "printDate": "2023-09-18",
+  "centerLetter": "n",
+  "outerLetters": [
+    "a",
+    "d",
+    "h",
+    "o",
+    "t",
+    "u"
+  ],
+  "validLetters": [
+    "n",
+    "a",
+    "d",
+    "h",
+    "o",
+    "t",
+    "u"
+  ],
+  "pangrams": [
+    "handout"
+  ],
+  "answers": [
+    "handout",
+    "anon",
+    "aunt",
+    "daunt",
+    "donut",
+    "dunno",
+    "hand",
+    "haunt",
+    "hound",
+    "hunt",
+    "naan",
+    "nada",
+    "nana",
+    "natant",
+    "noon",
+    "noun",
+    "nunhood",
+    "onto",
+    "taunt",
+    "than",
+    "toon",
+    "tuna",
+    "udon",
+    "undo",
+    "unhand",
+    "unhood",
+    "unto"
+  ],
+  "id": 17265,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
