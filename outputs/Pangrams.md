@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-379 pangrams
+380 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -210,6 +210,7 @@ Every pangram that's occurred so far.
 | **halibut** <small>*(n.)*</small>       |       1 | Any of several large edible flatfishes of the genus Hippoglossus and related genera, of northern Atlantic or Pacific waters.                                                                                   | https://www.wordnik.com/words/halibut       |
 | **handily**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/handily       |
 | **handling**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/handling      |
+| **handout**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/handout       |
 | **harping**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/harping       |
 | **hateful**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/hateful       |
 | **headwind**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/headwind      |
