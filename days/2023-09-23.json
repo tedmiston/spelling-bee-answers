@@ -1,0 +1,60 @@
+{
+  "expiration": 1695538800,
+  "displayWeekday": "Saturday",
+  "displayDate": "September 23, 2023",
+  "printDate": "2023-09-23",
+  "centerLetter": "o",
+  "outerLetters": [
+    "a",
+    "f",
+    "h",
+    "k",
+    "r",
+    "y"
+  ],
+  "validLetters": [
+    "o",
+    "a",
+    "f",
+    "h",
+    "k",
+    "r",
+    "y"
+  ],
+  "pangrams": [
+    "hayfork"
+  ],
+  "answers": [
+    "hayfork",
+    "afro",
+    "ahoy",
+    "arroyo",
+    "farro",
+    "fora",
+    "foray",
+    "fork",
+    "hoar",
+    "hoary",
+    "hoof",
+    "hook",
+    "hookah",
+    "hooky",
+    "hoorah",
+    "hooray",
+    "hora",
+    "horror",
+    "kook",
+    "kooky",
+    "oaky",
+    "okay",
+    "okra",
+    "roar",
+    "roof",
+    "rook",
+    "yahoo",
+    "yoohoo"
+  ],
+  "id": 15192,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
