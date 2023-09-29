@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-397 pangrams
+398 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -414,6 +414,7 @@ Every pangram that's occurred so far.
 | **wheezing**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/wheezing      |
 | **whooping**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/whooping      |
 | **whopping**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/whopping      |
+| **whupping**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/whupping      |
 | **windfall**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/windfall      |
 | **windmilled** <small>*(v.)*</small>    |       1 | Simple past tense and past participle of windmill.                                                                                                                                                             | https://www.wordnik.com/words/windmilled    |
 | **wordily**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/wordily       |
