@@ -1,0 +1,63 @@
+{
+  "expiration": 1696402800,
+  "displayWeekday": "Tuesday",
+  "displayDate": "October 3, 2023",
+  "printDate": "2023-10-03",
+  "centerLetter": "i",
+  "outerLetters": [
+    "c",
+    "d",
+    "l",
+    "t",
+    "u",
+    "y"
+  ],
+  "validLetters": [
+    "i",
+    "c",
+    "d",
+    "l",
+    "t",
+    "u",
+    "y"
+  ],
+  "pangrams": [
+    "ductility",
+    "lucidity"
+  ],
+  "answers": [
+    "ductility",
+    "lucidity",
+    "city",
+    "cultic",
+    "cyclic",
+    "diddly",
+    "dill",
+    "dilly",
+    "ditty",
+    "icily",
+    "idly",
+    "idyl",
+    "idyll",
+    "idyllic",
+    "illicit",
+    "illicitly",
+    "illy",
+    "itty",
+    "licit",
+    "licitly",
+    "lilt",
+    "lily",
+    "lucid",
+    "lucidly",
+    "tidily",
+    "tidy",
+    "till",
+    "tilt",
+    "tutti",
+    "utility"
+  ],
+  "id": 7457,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
