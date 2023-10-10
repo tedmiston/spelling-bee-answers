@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-411 pangrams
+412 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -217,6 +217,7 @@ Every pangram that's occurred so far.
 | **gamecock**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/gamecock      |
 | **genealogy**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/genealogy     |
 | **glamour**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/glamour       |
+| **glitching**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/glitching     |
 | **godchild**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/godchild      |
 | **grandpop**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/grandpop      |
 | **graphing**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/graphing      |
