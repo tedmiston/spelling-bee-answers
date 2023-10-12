@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-413 pangrams
+414 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -126,6 +126,7 @@ Every pangram that's occurred so far.
 | **clutched**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/clutched      |
 | **codable**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/codable       |
 | **cofounded**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/cofounded     |
+| **collectible**                         |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/collectible   |
 | **colorant**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/colorant      |
 | **coloratura**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/coloratura    |
 | **combatant**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/combatant     |
