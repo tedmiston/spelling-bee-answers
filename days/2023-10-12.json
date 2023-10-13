@@ -1,0 +1,60 @@
+{
+  "displayWeekday": "Thursday",
+  "displayDate": "October 12, 2023",
+  "printDate": "2023-10-12",
+  "centerLetter": "y",
+  "outerLetters": [
+    "a",
+    "f",
+    "i",
+    "l",
+    "m",
+    "r"
+  ],
+  "validLetters": [
+    "y",
+    "a",
+    "f",
+    "i",
+    "l",
+    "m",
+    "r"
+  ],
+  "pangrams": [
+    "familiarly"
+  ],
+  "answers": [
+    "familiarly",
+    "affray",
+    "airily",
+    "airy",
+    "allay",
+    "ally",
+    "amyl",
+    "army",
+    "array",
+    "fairly",
+    "fairy",
+    "family",
+    "filially",
+    "filly",
+    "filmy",
+    "firmly",
+    "flay",
+    "fray",
+    "friary",
+    "frilly",
+    "iffy",
+    "illy",
+    "lily",
+    "mammary",
+    "marry",
+    "mayfly",
+    "rally",
+    "ramify",
+    "riyal"
+  ],
+  "id": 10367,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
