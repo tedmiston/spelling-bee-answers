@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-414 pangrams
+415 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -198,6 +198,7 @@ Every pangram that's occurred so far.
 | **expunging**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/expunging     |
 | **extinction**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/extinction    |
 | **exultant** <small>*(adj.)*</small>    |       1 | Marked by great joy or jubilation; triumphant.                                                                                                                                                                 | https://www.wordnik.com/words/exultant      |
+| **familiarly**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/familiarly    |
 | **fanciful** <small>*(adj.)*</small>    |       1 | Tending to indulge in fancy.                                                                                                                                                                                   | https://www.wordnik.com/words/fanciful      |
 | **femininity**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/femininity    |
 | **fidgety**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/fidgety       |
