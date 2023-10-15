@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-416 pangrams
+418 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -40,6 +40,8 @@ Every pangram that's occurred so far.
 | **allowance** <small>*(n.)*</small>     |       1 | Something, such as money, given at regular intervals or for a specific purpose.                                                                                                                                | https://www.wordnik.com/words/allowance     |
 | **although**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/although      |
 | **altitudinal**                         |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/altitudinal   |
+| **ambiance**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/ambiance      |
+| **ambience**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/ambience      |
 | **ambition**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/ambition      |
 | **ambulate**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/ambulate      |
 | **ambulette**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/ambulette     |
