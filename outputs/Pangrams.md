@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-418 pangrams
+419 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -227,6 +227,7 @@ Every pangram that's occurred so far.
 | **godchild**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/godchild      |
 | **grandpop**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/grandpop      |
 | **graphing**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/graphing      |
+| **gravity**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/gravity       |
 | **habitual** <small>*(adj.)*</small>    |       1 | Formed or acquired by habit or use.                                                                                                                                                                            | https://www.wordnik.com/words/habitual      |
 | **haircut**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/haircut       |
 | **halibut** <small>*(n.)*</small>       |       1 | Any of several large edible flatfishes of the genus Hippoglossus and related genera, of northern Atlantic or Pacific waters.                                                                                   | https://www.wordnik.com/words/halibut       |
