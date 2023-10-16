@@ -1,0 +1,57 @@
+{
+  "displayWeekday": "Sunday",
+  "displayDate": "October 15, 2023",
+  "printDate": "2023-10-15",
+  "centerLetter": "t",
+  "outerLetters": [
+    "a",
+    "g",
+    "i",
+    "r",
+    "v",
+    "y"
+  ],
+  "validLetters": [
+    "t",
+    "a",
+    "g",
+    "i",
+    "r",
+    "v",
+    "y"
+  ],
+  "pangrams": [
+    "gravity"
+  ],
+  "answers": [
+    "gravity",
+    "agita",
+    "arty",
+    "atria",
+    "attar",
+    "avatar",
+    "gait",
+    "girt",
+    "grit",
+    "gritty",
+    "itty",
+    "ragtag",
+    "raita",
+    "rarity",
+    "ratatat",
+    "ratty",
+    "taiga",
+    "tarry",
+    "tart",
+    "tartar",
+    "tatty",
+    "tiara",
+    "trait",
+    "tray",
+    "trig",
+    "trivia"
+  ],
+  "id": 4143,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
