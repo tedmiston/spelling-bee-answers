@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-419 pangrams
+420 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -275,6 +275,7 @@ Every pangram that's occurred so far.
 | **included**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/included      |
 | **individual** <small>*(n.)*</small>    |       1 | A human regarded as a distinctive or unique personality.                                                                                                                                                       | https://www.wordnik.com/words/individual    |
 | **ineffective** <small>*(adj.)*</small> |       1 | Not producing an intended effect.                                                                                                                                                                              | https://www.wordnik.com/words/ineffective   |
+| **inexact**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/inexact       |
 | **infected**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/infected      |
 | **infecting**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/infecting     |
 | **infective** <small>*(adj.)*</small>   |       1 | Capable of producing infection; infectious.                                                                                                                                                                    | https://www.wordnik.com/words/infective     |
