@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-421 pangrams
+422 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -237,6 +237,7 @@ Every pangram that's occurred so far.
 | **hardtop**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/hardtop       |
 | **harping**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/harping       |
 | **hateful**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/hateful       |
+| **hawthorn**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/hawthorn      |
 | **hayfork**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/hayfork       |
 | **headwind**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/headwind      |
 | **healthful**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/healthful     |
