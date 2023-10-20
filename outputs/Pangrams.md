@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-422 pangrams
+423 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -283,6 +283,7 @@ Every pangram that's occurred so far.
 | **infinitude**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/infinitude    |
 | **infirmary**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/infirmary     |
 | **inflame**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/inflame       |
+| **ingenuity**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/ingenuity     |
 | **inhibitor**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/inhibitor     |
 | **intelligible**                        |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/intelligible  |
 | **invincible**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/invincible    |
