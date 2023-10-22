@@ -1,0 +1,62 @@
+{
+  "displayWeekday": "Saturday",
+  "displayDate": "October 21, 2023",
+  "printDate": "2023-10-21",
+  "centerLetter": "o",
+  "outerLetters": [
+    "d",
+    "g",
+    "i",
+    "n",
+    "x",
+    "z"
+  ],
+  "validLetters": [
+    "o",
+    "d",
+    "g",
+    "i",
+    "n",
+    "x",
+    "z"
+  ],
+  "pangrams": [
+    "oxidizing"
+  ],
+  "answers": [
+    "oxidizing",
+    "dingo",
+    "dino",
+    "dioxin",
+    "dodging",
+    "dodo",
+    "dogging",
+    "doggo",
+    "doing",
+    "dong",
+    "donning",
+    "doxing",
+    "doxx",
+    "doxxing",
+    "dozing",
+    "going",
+    "gong",
+    "gonging",
+    "gonzo",
+    "good",
+    "goon",
+    "indigo",
+    "iodizing",
+    "ionizing",
+    "nodding",
+    "noggin",
+    "noon",
+    "ongoing",
+    "onion",
+    "oozing",
+    "zoning"
+  ],
+  "id": 14157,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
