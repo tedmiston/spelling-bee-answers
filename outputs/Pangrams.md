@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-425 pangrams
+426 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -184,6 +184,7 @@ Every pangram that's occurred so far.
 | **effecting**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/effecting     |
 | **ejectable**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/ejectable     |
 | **elementally**                         |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/elementally   |
+| **embanked**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/embanked      |
 | **embankment**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/embankment    |
 | **eminently**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/eminently     |
 | **emotivity**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/emotivity     |
