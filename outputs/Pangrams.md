@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-426 pangrams
+427 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -251,6 +251,7 @@ Every pangram that's occurred so far.
 | **hiccupped** <small>*(v.)*</small>     |       1 | Simple past tense and past participle of hiccup (a spasm of the diaphragm, or the resulting sound).                                                                                                            | https://www.wordnik.com/words/hiccupped     |
 | **highland**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/highland      |
 | **holiday**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/holiday       |
+| **hologram**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/hologram      |
 | **homogeny**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/homogeny      |
 | **honeydew**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/honeydew      |
 | **hormonal**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/hormonal      |
