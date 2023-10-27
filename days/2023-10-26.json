@@ -1,0 +1,62 @@
+{
+  "displayWeekday": "Thursday",
+  "displayDate": "October 26, 2023",
+  "printDate": "2023-10-26",
+  "centerLetter": "t",
+  "outerLetters": [
+    "c",
+    "h",
+    "m",
+    "n",
+    "o",
+    "u"
+  ],
+  "validLetters": [
+    "t",
+    "c",
+    "h",
+    "m",
+    "n",
+    "o",
+    "u"
+  ],
+  "pangrams": [
+    "cottonmouth"
+  ],
+  "answers": [
+    "cottonmouth",
+    "coconut",
+    "concoct",
+    "coot",
+    "cotton",
+    "count",
+    "couth",
+    "cutout",
+    "hoot",
+    "hunt",
+    "hutch",
+    "month",
+    "moot",
+    "moth",
+    "motto",
+    "mount",
+    "mouth",
+    "mutt",
+    "mutton",
+    "notch",
+    "onto",
+    "thou",
+    "toon",
+    "toot",
+    "tooth",
+    "touch",
+    "tout",
+    "tutu",
+    "uncouth",
+    "uncut",
+    "unto"
+  ],
+  "id": 1496,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
