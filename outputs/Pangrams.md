@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-429 pangrams
+430 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -150,6 +150,7 @@ Every pangram that's occurred so far.
 | **conveyed**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/conveyed      |
 | **convoyed**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/convoyed      |
 | **corkboard**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/corkboard     |
+| **cottonmouth**                         |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/cottonmouth   |
 | **covenant**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/covenant      |
 | **cowgirl**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/cowgirl       |
 | **curtain** <small>*(n.)*</small>       |       1 | A piece of fabric or other material that hangs in a window or open space as a decoration, shade, screen, or divider.                                                                                           | https://www.wordnik.com/words/curtain       |
