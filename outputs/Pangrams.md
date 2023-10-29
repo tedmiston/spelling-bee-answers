@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-435 pangrams
+436 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -209,6 +209,7 @@ Every pangram that's occurred so far.
 | **familiarly**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/familiarly    |
 | **fanciful** <small>*(adj.)*</small>    |       1 | Tending to indulge in fancy.                                                                                                                                                                                   | https://www.wordnik.com/words/fanciful      |
 | **femininity**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/femininity    |
+| **fettuccine**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/fettuccine    |
 | **fidgety**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/fidgety       |
 | **filename**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/filename      |
 | **finitude**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/finitude      |
