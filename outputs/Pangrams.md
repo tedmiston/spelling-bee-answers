@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-436 pangrams
+437 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -238,6 +238,7 @@ Every pangram that's occurred so far.
 | **habitual** <small>*(adj.)*</small>    |       1 | Formed or acquired by habit or use.                                                                                                                                                                            | https://www.wordnik.com/words/habitual      |
 | **haircut**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/haircut       |
 | **halibut** <small>*(n.)*</small>       |       1 | Any of several large edible flatfishes of the genus Hippoglossus and related genera, of northern Atlantic or Pacific waters.                                                                                   | https://www.wordnik.com/words/halibut       |
+| **handbill**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/handbill      |
 | **handily**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/handily       |
 | **handling**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/handling      |
 | **handout**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/handout       |
