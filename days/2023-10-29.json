@@ -1,0 +1,57 @@
+{
+  "displayWeekday": "Sunday",
+  "displayDate": "October 29, 2023",
+  "printDate": "2023-10-29",
+  "centerLetter": "b",
+  "outerLetters": [
+    "a",
+    "d",
+    "h",
+    "i",
+    "l",
+    "n"
+  ],
+  "validLetters": [
+    "b",
+    "a",
+    "d",
+    "h",
+    "i",
+    "l",
+    "n"
+  ],
+  "pangrams": [
+    "handbill"
+  ],
+  "answers": [
+    "handbill",
+    "alibi",
+    "baba",
+    "bail",
+    "bald",
+    "ball",
+    "ballad",
+    "banal",
+    "banana",
+    "band",
+    "bandana",
+    "bandanna",
+    "bilabial",
+    "bill",
+    "bind",
+    "bindi",
+    "blab",
+    "blah",
+    "bland",
+    "blin",
+    "blind",
+    "blini",
+    "handball",
+    "labia",
+    "labial",
+    "libidinal"
+  ],
+  "id": 2282,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
