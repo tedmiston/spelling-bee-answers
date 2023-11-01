@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-439 pangrams
+440 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -444,6 +444,7 @@ Every pangram that's occurred so far.
 | **vincible**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/vincible      |
 | **violent** <small>*(adj.)*</small>     |       1 | Moving or acting with physical strength; urged or impelled with force; excited by strong feeling or passion; forcible; vehement; impetuous; fierce; furious; severe.                                           | https://www.wordnik.com/words/violent       |
 | **virtual**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/virtual       |
+| **volatility**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/volatility    |
 | **volleyball**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/volleyball    |
 | **voltage**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/voltage       |
 | **walkout**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/walkout       |
