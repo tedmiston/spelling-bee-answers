@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-442 pangrams
+443 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -128,6 +128,7 @@ Every pangram that's occurred so far.
 | **clowned**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/clowned       |
 | **clunked**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/clunked       |
 | **clutched**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/clutched      |
+| **cocktail**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/cocktail      |
 | **codable**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/codable       |
 | **cofounded**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/cofounded     |
 | **collectible**                         |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/collectible   |
