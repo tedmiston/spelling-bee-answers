@@ -1,0 +1,55 @@
+{
+  "expiration": 1699081200,
+  "displayWeekday": "Friday",
+  "displayDate": "November 3, 2023",
+  "printDate": "2023-11-03",
+  "centerLetter": "l",
+  "outerLetters": [
+    "e",
+    "i",
+    "j",
+    "n",
+    "u",
+    "v"
+  ],
+  "validLetters": [
+    "l",
+    "e",
+    "i",
+    "j",
+    "n",
+    "u",
+    "v"
+  ],
+  "pangrams": [
+    "juvenile"
+  ],
+  "answers": [
+    "juvenile",
+    "eleven",
+    "enliven",
+    "evil",
+    "jell",
+    "julienne",
+    "levee",
+    "level",
+    "lien",
+    "lieu",
+    "line",
+    "linen",
+    "live",
+    "liven",
+    "lull",
+    "lulu",
+    "lune",
+    "null",
+    "unlevel",
+    "unveil",
+    "veil",
+    "venule",
+    "vile"
+  ],
+  "id": 26027,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
