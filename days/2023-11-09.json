@@ -1,0 +1,54 @@
+{
+  "expiration": 1699603200,
+  "displayWeekday": "Thursday",
+  "displayDate": "November 9, 2023",
+  "printDate": "2023-11-09",
+  "centerLetter": "u",
+  "outerLetters": [
+    "c",
+    "e",
+    "h",
+    "l",
+    "n",
+    "o"
+  ],
+  "validLetters": [
+    "u",
+    "c",
+    "e",
+    "h",
+    "l",
+    "n",
+    "o"
+  ],
+  "pangrams": [
+    "luncheon"
+  ],
+  "answers": [
+    "luncheon",
+    "cellule",
+    "clue",
+    "couch",
+    "coulee",
+    "cull",
+    "eunuch",
+    "hull",
+    "hunch",
+    "louche",
+    "lull",
+    "lulu",
+    "lunch",
+    "lune",
+    "noun",
+    "nucleon",
+    "null",
+    "ouch",
+    "ounce",
+    "uncle",
+    "unclench",
+    "uncool"
+  ],
+  "id": 27726,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
