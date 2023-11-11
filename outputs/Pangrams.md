@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-455 pangrams
+456 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -118,6 +118,7 @@ Every pangram that's occurred so far.
 | **cartload**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/cartload      |
 | **catholic**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/catholic      |
 | **celibacy**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/celibacy      |
+| **chalked**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/chalked       |
 | **channeled**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/channeled     |
 | **checkmate**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/checkmate     |
 | **childlike**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/childlike     |
