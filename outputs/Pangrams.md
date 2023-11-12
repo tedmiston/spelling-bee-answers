@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-456 pangrams
+457 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -324,6 +324,7 @@ Every pangram that's occurred so far.
 | **leitmotif**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/leitmotif     |
 | **lengthening**                         |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/lengthening   |
 | **lexicon**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/lexicon       |
+| **lifelong**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/lifelong      |
 | **lighten**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/lighten       |
 | **lightening**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/lightening    |
 | **linocut**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/linocut       |
