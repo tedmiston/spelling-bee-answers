@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-459 pangrams
+460 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -173,6 +173,7 @@ Every pangram that's occurred so far.
 | **decommitted**                         |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/decommitted   |
 | **deductive**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/deductive     |
 | **deficient**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/deficient     |
+| **dependently**                         |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/dependently   |
 | **deputize**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/deputize      |
 | **deputized**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/deputized     |
 | **deviant**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/deviant       |
