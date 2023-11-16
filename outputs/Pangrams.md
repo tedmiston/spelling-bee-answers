@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-460 pangrams
+461 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -347,6 +347,7 @@ Every pangram that's occurred so far.
 | **mathematic** <small>*(n.)*</small>    |       1 | Same as mathematics (the study of the measurement, properties, and relationships of quantities and sets, using numbers and symbols).                                                                           | https://www.wordnik.com/words/mathematic    |
 | **matriarch**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/matriarch     |
 | **maturity**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/maturity      |
+| **meatloaf**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/meatloaf      |
 | **medieval**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/medieval      |
 | **megahit**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/megahit       |
 | **melodic**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/melodic       |
