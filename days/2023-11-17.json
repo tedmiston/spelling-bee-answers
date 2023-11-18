@@ -1,0 +1,51 @@
+{
+  "expiration": 1700294400,
+  "displayWeekday": "Friday",
+  "displayDate": "November 17, 2023",
+  "printDate": "2023-11-17",
+  "centerLetter": "q",
+  "outerLetters": [
+    "e",
+    "g",
+    "i",
+    "n",
+    "t",
+    "u"
+  ],
+  "validLetters": [
+    "q",
+    "e",
+    "g",
+    "i",
+    "n",
+    "t",
+    "u"
+  ],
+  "pangrams": [
+    "quieting"
+  ],
+  "answers": [
+    "quieting",
+    "equine",
+    "etiquette",
+    "netiquette",
+    "queen",
+    "queening",
+    "queue",
+    "queueing",
+    "queuing",
+    "quiet",
+    "quieten",
+    "quinine",
+    "quint",
+    "quintet",
+    "quit",
+    "quite",
+    "quitting",
+    "unique",
+    "unquiet"
+  ],
+  "id": 24765,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
