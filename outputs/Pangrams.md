@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-463 pangrams
+464 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -425,6 +425,7 @@ Every pangram that's occurred so far.
 | **potently**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/potently      |
 | **prickly** <small>*(adj.)*</small>     |       1 | - Having prickles.<br>- Causing trouble or vexation; thorny.                                                                                                                                                   | https://www.wordnik.com/words/prickly       |
 | **propaganda**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/propaganda    |
+| **quieting**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/quieting      |
 | **rainbow**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/rainbow       |
 | **rapidly**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/rapidly       |
 | **rotunda**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/rotunda       |
