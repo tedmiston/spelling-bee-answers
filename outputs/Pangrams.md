@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-464 pangrams
+465 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -394,6 +394,7 @@ Every pangram that's occurred so far.
 | **oxidant**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/oxidant       |
 | **oxidation**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/oxidation     |
 | **oxidizing**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/oxidizing     |
+| **packable**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/packable      |
 | **pageboy**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/pageboy       |
 | **painkilling**                         |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/painkilling   |
 | **paintball** <small>*(n.)*</small>     |       1 | A game in which players on one team seek to eliminate those on an opposing team by marking them with a water-soluble dye shot in capsules from air guns.                                                       | https://www.wordnik.com/words/paintball     |
