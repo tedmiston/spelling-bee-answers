@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-465 pangrams
+466 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -383,6 +383,7 @@ Every pangram that's occurred so far.
 | **noncompete** <small>*(adj.)*</small>  |       1 | *law* Of or pertaining to a commitment not to engage in competition with another party.                                                                                                                        | https://www.wordnik.com/words/noncompete    |
 | **nonviolent** <small>*(adj.)*</small>  |       1 | Peacefully resistant in response to injustice; not using violence; -- used of protests and demonstrations.                                                                                                     | https://www.wordnik.com/words/nonviolent    |
 | **notably** <small>*(adv.)*</small>     |       1 | Especially; in particular.                                                                                                                                                                                     | https://www.wordnik.com/words/notably       |
+| **obedience**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/obedience     |
 | **objected**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/objected      |
 | **obliged** <small>*(adj.)*</small>     |       1 | Under an obligation to do something for someone.                                                                                                                                                               | https://www.wordnik.com/words/obliged       |
 | **offhanded**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/offhanded     |
