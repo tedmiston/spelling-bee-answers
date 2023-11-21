@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-466 pangrams
+467 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -243,6 +243,7 @@ Every pangram that's occurred so far.
 | **godchild**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/godchild      |
 | **goodnight**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/goodnight     |
 | **grandpop**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/grandpop      |
+| **graphic**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/graphic       |
 | **graphing**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/graphing      |
 | **gravity**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/gravity       |
 | **habitual** <small>*(adj.)*</small>    |       1 | Formed or acquired by habit or use.                                                                                                                                                                            | https://www.wordnik.com/words/habitual      |
