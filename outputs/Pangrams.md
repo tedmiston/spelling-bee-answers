@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-467 pangrams
+469 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -36,6 +36,8 @@ Every pangram that's occurred so far.
 | **acronym**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/acronym       |
 | **adaptation**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/adaptation    |
 | **adoption**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/adoption      |
+| **advantage**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/advantage     |
+| **advantaged**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/advantaged    |
 | **aground** <small>*(adv.)*</small>     |       1 | On the ground; stranded; -- a nautical term applied to a ship when its bottom lodges on the ground.                                                                                                            | https://www.wordnik.com/words/aground       |
 | **airflow**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/airflow       |
 | **alchemy**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/alchemy       |
