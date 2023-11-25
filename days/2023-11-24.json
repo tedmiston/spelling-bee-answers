@@ -1,0 +1,63 @@
+{
+  "expiration": 1700899200,
+  "displayWeekday": "Friday",
+  "displayDate": "November 24, 2023",
+  "printDate": "2023-11-24",
+  "centerLetter": "o",
+  "outerLetters": [
+    "a",
+    "c",
+    "f",
+    "m",
+    "t",
+    "u"
+  ],
+  "validLetters": [
+    "o",
+    "a",
+    "c",
+    "f",
+    "m",
+    "t",
+    "u"
+  ],
+  "pangrams": [
+    "factotum"
+  ],
+  "answers": [
+    "factotum",
+    "afoot",
+    "ammo",
+    "atom",
+    "auto",
+    "automat",
+    "automata",
+    "cacao",
+    "camo",
+    "coat",
+    "coca",
+    "cocoa",
+    "coma",
+    "comma",
+    "coot",
+    "cutoff",
+    "cutout",
+    "foam",
+    "foot",
+    "moat",
+    "momma",
+    "moot",
+    "motto",
+    "taco",
+    "tattoo",
+    "toccata",
+    "tofu",
+    "tomato",
+    "tomcat",
+    "toot",
+    "tout"
+  ],
+  "id": 18657,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
