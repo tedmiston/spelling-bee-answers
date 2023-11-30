@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-484 pangrams
+486 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -218,6 +218,8 @@ Every pangram that's occurred so far.
 | **excitement**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/excitement    |
 | **expending**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/expending     |
 | **expletive**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/expletive     |
+| **expound**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/expound       |
+| **expounded**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/expounded     |
 | **expunging**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/expunging     |
 | **extinction**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/extinction    |
 | **exultant** <small>*(adj.)*</small>    |       1 | Marked by great joy or jubilation; triumphant.                                                                                                                                                                 | https://www.wordnik.com/words/exultant      |
