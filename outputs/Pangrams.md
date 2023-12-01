@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-486 pangrams
+487 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -64,6 +64,7 @@ Every pangram that's occurred so far.
 | **applicant**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/applicant     |
 | **apricot**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/apricot       |
 | **arachnid** <small>*(n.)*</small>      |       1 | Any of the eight-legged creatures, including spiders and scorpions, of the class Arachnida                                                                                                                     | https://www.wordnik.com/words/arachnid      |
+| **aromatic**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/aromatic      |
 | **arthralgia**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/arthralgia    |
 | **arthropod**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/arthropod     |
 | **atrophy**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/atrophy       |
