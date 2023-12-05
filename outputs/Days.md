@@ -343,5 +343,6 @@
 | **2023-12-01** | [2023-12-01.json](../days/2023-12-01.json) | [Forum](https://www.nytimes.com/2023/12/01/crosswords/spelling-bee-forum.html) |      39 |          1 |
 | **2023-12-02** | [2023-12-02.json](../days/2023-12-02.json) | [Forum](https://www.nytimes.com/2023/12/02/crosswords/spelling-bee-forum.html) |      43 |          2 |
 | **2023-12-03** | [2023-12-03.json](../days/2023-12-03.json) | [Forum](https://www.nytimes.com/2023/12/03/crosswords/spelling-bee-forum.html) |      55 |          2 |
+| **2023-12-04** | [2023-12-04.json](../days/2023-12-04.json) | [Forum](https://www.nytimes.com/2023/12/04/crosswords/spelling-bee-forum.html) |      37 |          1 |
 
 <!-- generated table end -->
