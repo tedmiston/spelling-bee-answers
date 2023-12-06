@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-493 pangrams
+494 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -61,6 +61,7 @@ Every pangram that's occurred so far.
 | **antioxidant**                         |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/antioxidant   |
 | **anytime**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/anytime       |
 | **appendix**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/appendix      |
+| **applejack**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/applejack     |
 | **applicant**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/applicant     |
 | **apricot**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/apricot       |
 | **arachnid** <small>*(n.)*</small>      |       1 | Any of the eight-legged creatures, including spiders and scorpions, of the class Arachnida                                                                                                                     | https://www.wordnik.com/words/arachnid      |
