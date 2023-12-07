@@ -1,0 +1,61 @@
+{
+  "displayWeekday": "Wednesday",
+  "displayDate": "December 6, 2023",
+  "printDate": "2023-12-06",
+  "centerLetter": "o",
+  "outerLetters": [
+    "b",
+    "e",
+    "h",
+    "n",
+    "u",
+    "y"
+  ],
+  "validLetters": [
+    "o",
+    "b",
+    "e",
+    "h",
+    "n",
+    "u",
+    "y"
+  ],
+  "pangrams": [
+    "honeybun"
+  ],
+  "answers": [
+    "honeybun",
+    "boho",
+    "bonbon",
+    "bone",
+    "bonny",
+    "bonobo",
+    "bony",
+    "boob",
+    "booboo",
+    "booby",
+    "boohoo",
+    "boon",
+    "buoy",
+    "ebon",
+    "ebony",
+    "hobby",
+    "hobnob",
+    "hobo",
+    "hone",
+    "honey",
+    "honeybee",
+    "hooey",
+    "neon",
+    "none",
+    "noob",
+    "noon",
+    "noun",
+    "obey",
+    "oboe",
+    "yoohoo"
+  ],
+  "id": 19044,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
