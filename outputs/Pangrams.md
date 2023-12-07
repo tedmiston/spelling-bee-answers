@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-494 pangrams
+495 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -291,6 +291,7 @@ Every pangram that's occurred so far.
 | **hologram**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/hologram      |
 | **hometown**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/hometown      |
 | **homogeny**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/homogeny      |
+| **honeybun**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/honeybun      |
 | **honeydew**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/honeydew      |
 | **hormonal**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/hormonal      |
 | **hotdogging**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/hotdogging    |
