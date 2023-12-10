@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-499 pangrams
+500 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -221,6 +221,7 @@ Every pangram that's occurred so far.
 | **enlighten**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/enlighten     |
 | **enlightening**                        |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/enlightening  |
 | **enveloped** <small>*(adj.)*</small>   |       1 | Enclosed or surrounded completely.                                                                                                                                                                             | https://www.wordnik.com/words/enveloped     |
+| **etymology**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/etymology     |
 | **evoking**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/evoking       |
 | **excitement**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/excitement    |
 | **expending**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/expending     |
