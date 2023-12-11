@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-500 pangrams
+501 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -266,6 +266,7 @@ Every pangram that's occurred so far.
 | **gravity**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/gravity       |
 | **habitual** <small>*(adj.)*</small>    |       1 | Formed or acquired by habit or use.                                                                                                                                                                            | https://www.wordnik.com/words/habitual      |
 | **haircut**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/haircut       |
+| **halcyon**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/halcyon       |
 | **halibut** <small>*(n.)*</small>       |       1 | Any of several large edible flatfishes of the genus Hippoglossus and related genera, of northern Atlantic or Pacific waters.                                                                                   | https://www.wordnik.com/words/halibut       |
 | **handbill**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/handbill      |
 | **handicap**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/handicap      |
