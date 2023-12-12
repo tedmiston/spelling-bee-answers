@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-501 pangrams
+502 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -350,6 +350,7 @@ Every pangram that's occurred so far.
 | **laconically**                         |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/laconically   |
 | **lapidary**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/lapidary      |
 | **latitudinal**                         |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/latitudinal   |
+| **laundry**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/laundry       |
 | **legality** <small>*(n.)*</small>      |       1 | The state or quality of being legal; lawfulness.                                                                                                                                                               | https://www.wordnik.com/words/legality      |
 | **leitmotif**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/leitmotif     |
 | **lengthening**                         |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/lengthening   |
