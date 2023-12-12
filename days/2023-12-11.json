@@ -1,0 +1,63 @@
+{
+  "displayWeekday": "Monday",
+  "displayDate": "December 11, 2023",
+  "printDate": "2023-12-11",
+  "centerLetter": "n",
+  "outerLetters": [
+    "a",
+    "d",
+    "l",
+    "r",
+    "u",
+    "y"
+  ],
+  "validLetters": [
+    "n",
+    "a",
+    "d",
+    "l",
+    "r",
+    "u",
+    "y"
+  ],
+  "pangrams": [
+    "laundry"
+  ],
+  "answers": [
+    "laundry",
+    "anal",
+    "anally",
+    "annal",
+    "annual",
+    "annually",
+    "annul",
+    "annular",
+    "annularly",
+    "dandy",
+    "darn",
+    "land",
+    "landlady",
+    "lanyard",
+    "luna",
+    "lunar",
+    "lunula",
+    "naan",
+    "nada",
+    "nana",
+    "nanny",
+    "nary",
+    "null",
+    "rand",
+    "randy",
+    "runny",
+    "ulna",
+    "ulnar",
+    "unduly",
+    "unruly",
+    "yarn",
+    "yuan"
+  ],
+  "id": 8541,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
