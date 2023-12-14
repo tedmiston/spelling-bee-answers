@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-503 pangrams
+504 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -369,6 +369,7 @@ Every pangram that's occurred so far.
 | **lunched**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/lunched       |
 | **luncheon**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/luncheon      |
 | **machining**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/machining     |
+| **magazine**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/magazine      |
 | **mahogany**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/mahogany      |
 | **mailbox**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/mailbox       |
 | **marijuana**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/marijuana     |
