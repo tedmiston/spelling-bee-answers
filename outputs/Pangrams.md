@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-504 pangrams
+505 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -372,6 +372,7 @@ Every pangram that's occurred so far.
 | **magazine**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/magazine      |
 | **mahogany**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/mahogany      |
 | **mailbox**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/mailbox       |
+| **mandolin**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/mandolin      |
 | **marijuana**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/marijuana     |
 | **marinating**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/marinating    |
 | **matchmake**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/matchmake     |
