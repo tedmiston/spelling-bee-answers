@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-505 pangrams
+506 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -438,6 +438,7 @@ Every pangram that's occurred so far.
 | **paragraphing**                        |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/paragraphing  |
 | **patience**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/patience      |
 | **patriotic**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/patriotic     |
+| **paycheck**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/paycheck      |
 | **payment**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/payment       |
 | **payphone**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/payphone      |
 | **pedagogy** <small>*(n.)*</small>      |       1 | The art or profession of teaching.                                                                                                                                                                             | https://www.wordnik.com/words/pedagogy      |
