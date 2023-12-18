@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-508 pangrams
+509 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -316,6 +316,7 @@ Every pangram that's occurred so far.
 | **imminently**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/imminently    |
 | **immortal**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/immortal      |
 | **impalpable**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/impalpable    |
+| **impatient**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/impatient     |
 | **implement** <small>*(v.)*</small>     |       1 | To put into practical effect; carry out.                                                                                                                                                                       | https://www.wordnik.com/words/implement     |
 | **imputed**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/imputed       |
 | **inability**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/inability     |
