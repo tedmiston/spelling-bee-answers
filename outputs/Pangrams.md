@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-509 pangrams
+510 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -421,6 +421,7 @@ Every pangram that's occurred so far.
 | **obedience**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/obedience     |
 | **objected**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/objected      |
 | **obliged** <small>*(adj.)*</small>     |       1 | Under an obligation to do something for someone.                                                                                                                                                               | https://www.wordnik.com/words/obliged       |
+| **occupant**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/occupant      |
 | **offhanded**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/offhanded     |
 | **openable**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/openable      |
 | **opulent** <small>*(adj.)*</small>     |       1 | Characterized by extravagance or rich abundance; lavish or luxuriant.                                                                                                                                          | https://www.wordnik.com/words/opulent       |
