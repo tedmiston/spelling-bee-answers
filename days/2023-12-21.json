@@ -1,0 +1,63 @@
+{
+  "displayWeekday": "Thursday",
+  "displayDate": "December 21, 2023",
+  "printDate": "2023-12-21",
+  "centerLetter": "l",
+  "outerLetters": [
+    "c",
+    "i",
+    "o",
+    "r",
+    "t",
+    "v"
+  ],
+  "validLetters": [
+    "l",
+    "c",
+    "i",
+    "o",
+    "r",
+    "t",
+    "v"
+  ],
+  "pangrams": [
+    "vitriolic"
+  ],
+  "answers": [
+    "vitriolic",
+    "civil",
+    "clot",
+    "coil",
+    "colic",
+    "color",
+    "colt",
+    "cool",
+    "illicit",
+    "licit",
+    "lilt",
+    "loci",
+    "loco",
+    "loll",
+    "loot",
+    "lotto",
+    "olio",
+    "rill",
+    "roil",
+    "roll",
+    "rototill",
+    "till",
+    "tilt",
+    "toil",
+    "toll",
+    "tool",
+    "tricolor",
+    "trill",
+    "troll",
+    "viol",
+    "vitriol",
+    "volt"
+  ],
+  "id": 6525,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
