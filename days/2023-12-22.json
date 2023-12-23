@@ -1,0 +1,62 @@
+{
+  "displayWeekday": "Friday",
+  "displayDate": "December 22, 2023",
+  "printDate": "2023-12-22",
+  "centerLetter": "o",
+  "outerLetters": [
+    "c",
+    "g",
+    "i",
+    "j",
+    "n",
+    "u"
+  ],
+  "validLetters": [
+    "o",
+    "c",
+    "g",
+    "i",
+    "j",
+    "n",
+    "u"
+  ],
+  "pangrams": [
+    "jouncing"
+  ],
+  "answers": [
+    "jouncing",
+    "cocci",
+    "cocoon",
+    "cocooning",
+    "coin",
+    "coining",
+    "conic",
+    "conjoin",
+    "conjoining",
+    "conning",
+    "cooing",
+    "going",
+    "gong",
+    "gonging",
+    "goon",
+    "gouging",
+    "icon",
+    "iconic",
+    "ionic",
+    "jingo",
+    "jogging",
+    "join",
+    "joining",
+    "junco",
+    "noggin",
+    "noon",
+    "noun",
+    "nuncio",
+    "ongoing",
+    "onion",
+    "union"
+  ],
+  "id": 16101,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
