@@ -1,0 +1,61 @@
+{
+  "displayWeekday": "Wednesday",
+  "displayDate": "December 27, 2023",
+  "printDate": "2023-12-27",
+  "centerLetter": "t",
+  "outerLetters": [
+    "u",
+    "a",
+    "c",
+    "h",
+    "m",
+    "p"
+  ],
+  "validLetters": [
+    "t",
+    "u",
+    "a",
+    "c",
+    "h",
+    "m",
+    "p"
+  ],
+  "pangrams": [
+    "matchup"
+  ],
+  "answers": [
+    "matchup",
+    "attach",
+    "captcha",
+    "catch",
+    "catchup",
+    "chat",
+    "cutup",
+    "hatch",
+    "hath",
+    "hatha",
+    "hutch",
+    "mahatma",
+    "match",
+    "matcha",
+    "math",
+    "mutt",
+    "pact",
+    "patch",
+    "path",
+    "phat",
+    "putt",
+    "tach",
+    "tact",
+    "tamp",
+    "tapa",
+    "taut",
+    "that",
+    "thatch",
+    "thump",
+    "tutu"
+  ],
+  "id": 27719,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
