@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-525 pangrams
+526 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -520,6 +520,7 @@ Every pangram that's occurred so far.
 | **updraft**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/updraft       |
 | **upheaval** <small>*(n.)*</small>      |       1 | A sudden, violent disruption or upset.                                                                                                                                                                         | https://www.wordnik.com/words/upheaval      |
 | **vaccinate**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/vaccinate     |
+| **vaguely**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/vaguely       |
 | **varmint**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/varmint       |
 | **venially**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/venially      |
 | **viability** <small>*(n.)*</small>     |       1 | The property of being viable; the ability to live or to succeed.                                                                                                                                               | https://www.wordnik.com/words/viability     |
