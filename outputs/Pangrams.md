@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-526 pangrams
+527 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -226,6 +226,7 @@ Every pangram that's occurred so far.
 | **enlightening**                        |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/enlightening  |
 | **enveloped** <small>*(adj.)*</small>   |       1 | Enclosed or surrounded completely.                                                                                                                                                                             | https://www.wordnik.com/words/enveloped     |
 | **enviable**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/enviable      |
+| **epiphany**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/epiphany      |
 | **etymology**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/etymology     |
 | **evoking**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/evoking       |
 | **excitement**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/excitement    |
