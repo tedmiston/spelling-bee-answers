@@ -1,0 +1,57 @@
+{
+  "displayWeekday": "Friday",
+  "displayDate": "December 29, 2023",
+  "printDate": "2023-12-29",
+  "centerLetter": "a",
+  "outerLetters": [
+    "e",
+    "h",
+    "i",
+    "n",
+    "p",
+    "y"
+  ],
+  "validLetters": [
+    "a",
+    "e",
+    "h",
+    "i",
+    "n",
+    "p",
+    "y"
+  ],
+  "pangrams": [
+    "epiphany"
+  ],
+  "answers": [
+    "epiphany",
+    "apian",
+    "apnea",
+    "happen",
+    "happy",
+    "heap",
+    "henna",
+    "hiya",
+    "hyena",
+    "inane",
+    "naan",
+    "nana",
+    "nanny",
+    "nape",
+    "neap",
+    "paean",
+    "pain",
+    "pane",
+    "panini",
+    "papa",
+    "papaya",
+    "pappy",
+    "payee",
+    "peahen",
+    "yappy",
+    "yeah"
+  ],
+  "id": 27594,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
