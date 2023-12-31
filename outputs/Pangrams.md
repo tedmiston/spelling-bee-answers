@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-527 pangrams
+528 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -551,6 +551,7 @@ Every pangram that's occurred so far.
 | **wrapping**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/wrapping      |
 | **wrought**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/wrought       |
 | **yardwork**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/yardwork      |
+| **zirconia**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/zirconia      |
 | **zoological**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/zoological    |
 
 <!-- generated all table end -->
