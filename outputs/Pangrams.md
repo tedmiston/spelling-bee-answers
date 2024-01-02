@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-531 pangrams
+532 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -284,6 +284,7 @@ Every pangram that's occurred so far.
 | **handling**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/handling      |
 | **handout**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/handout       |
 | **hardtop**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/hardtop       |
+| **harmony**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/harmony       |
 | **harping**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/harping       |
 | **hateful**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/hateful       |
 | **haunted**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/haunted       |
