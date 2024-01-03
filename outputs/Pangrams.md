@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-532 pangrams
+533 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -103,6 +103,7 @@ Every pangram that's occurred so far.
 | **blizzard**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/blizzard      |
 | **blockable**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/blockable     |
 | **blocked**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/blocked       |
+| **blowpipe**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/blowpipe      |
 | **blurring**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/blurring      |
 | **bogeymen**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/bogeymen      |
 | **bookmobile**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/bookmobile    |
