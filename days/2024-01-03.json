@@ -1,0 +1,58 @@
+{
+  "displayWeekday": "Wednesday",
+  "displayDate": "January 3, 2024",
+  "printDate": "2024-01-03",
+  "centerLetter": "h",
+  "outerLetters": [
+    "a",
+    "c",
+    "e",
+    "g",
+    "l",
+    "n"
+  ],
+  "validLetters": [
+    "h",
+    "a",
+    "c",
+    "e",
+    "g",
+    "l",
+    "n"
+  ],
+  "pangrams": [
+    "challenge"
+  ],
+  "answers": [
+    "challenge",
+    "ache",
+    "cache",
+    "challah",
+    "chance",
+    "chancel",
+    "change",
+    "channel",
+    "clench",
+    "each",
+    "enhance",
+    "ganache",
+    "ghee",
+    "haggle",
+    "halal",
+    "hale",
+    "hall",
+    "hang",
+    "heal",
+    "heel",
+    "hell",
+    "hence",
+    "henge",
+    "henna",
+    "leach",
+    "lech",
+    "leech"
+  ],
+  "id": 19248,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
