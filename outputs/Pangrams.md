@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-534 pangrams
+535 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -440,6 +440,7 @@ Every pangram that's occurred so far.
 | **occupant**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/occupant      |
 | **offhanded**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/offhanded     |
 | **openable**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/openable      |
+| **optimal**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/optimal       |
 | **opulent** <small>*(adj.)*</small>     |       1 | Characterized by extravagance or rich abundance; lavish or luxuriant.                                                                                                                                          | https://www.wordnik.com/words/opulent       |
 | **ordinal**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/ordinal       |
 | **ordinary**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/ordinary      |
