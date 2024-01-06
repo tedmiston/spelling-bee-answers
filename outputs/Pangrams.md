@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-535 pangrams
+536 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -375,6 +375,7 @@ Every pangram that's occurred so far.
 | **lifelong**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/lifelong      |
 | **lighten**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/lighten       |
 | **lightening**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/lightening    |
+| **likelihood**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/likelihood    |
 | **linocut**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/linocut       |
 | **liquidity**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/liquidity     |
 | **livability** <small>*(n.)*</small>    |       1 | The property of being livable (suitable to live in, habitable; possible to bear, endurable).                                                                                                                   | https://www.wordnik.com/words/livability    |
