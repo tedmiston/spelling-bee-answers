@@ -21,7 +21,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-537 pangrams
+538 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -137,6 +137,7 @@ Every pangram that's occurred so far.
 | **challenge**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/challenge     |
 | **channeled**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/channeled     |
 | **checkmate**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/checkmate     |
+| **chemical**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/chemical      |
 | **childlike**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/childlike     |
 | **chimichanga**                         |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/chimichanga   |
 | **chlorophyll**                         |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/chlorophyll   |
