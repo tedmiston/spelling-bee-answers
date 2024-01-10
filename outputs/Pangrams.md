@@ -8,10 +8,11 @@ Pangrams that have occurred more than once.
 
 <!-- generated multi table start -->
 
-0 pangrams
+1 pangrams
 
-| Word   | Count   | Definition Text   | Definition URL   |
-|--------|---------|-------------------|------------------|
+| Word        |   Count | Definition Text   | Definition URL                        |
+|-------------|---------|-------------------|---------------------------------------|
+| **fidgety** |       2 |                   | https://www.wordnik.com/words/fidgety |
 
 <!-- generated multi table end -->
 
@@ -246,7 +247,7 @@ Every pangram that's occurred so far.
 | **fanciful** <small>*(adj.)*</small>    |       1 | Tending to indulge in fancy.                                                                                                                                                                                   | https://www.wordnik.com/words/fanciful        |
 | **femininity**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/femininity      |
 | **fettuccine**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/fettuccine      |
-| **fidgety**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/fidgety         |
+| **fidgety**                             |       2 |                                                                                                                                                                                                                | https://www.wordnik.com/words/fidgety         |
 | **filename**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/filename        |
 | **finitude**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/finitude        |
 | **fivefold**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/fivefold        |
