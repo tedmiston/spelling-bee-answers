@@ -1,0 +1,59 @@
+{
+  "displayWeekday": "Tuesday",
+  "displayDate": "January 9, 2024",
+  "printDate": "2024-01-09",
+  "centerLetter": "f",
+  "outerLetters": [
+    "d",
+    "e",
+    "g",
+    "i",
+    "t",
+    "y"
+  ],
+  "validLetters": [
+    "f",
+    "d",
+    "e",
+    "g",
+    "i",
+    "t",
+    "y"
+  ],
+  "pangrams": [
+    "fidgety"
+  ],
+  "answers": [
+    "fidgety",
+    "defied",
+    "deft",
+    "defy",
+    "deified",
+    "deify",
+    "edified",
+    "edify",
+    "effete",
+    "effigy",
+    "feed",
+    "feet",
+    "fete",
+    "feted",
+    "fetid",
+    "fidget",
+    "fidgeted",
+    "fief",
+    "fife",
+    "fifed",
+    "fifty",
+    "figgy",
+    "fitted",
+    "gift",
+    "gifted",
+    "iffy",
+    "teff",
+    "tiff"
+  ],
+  "id": 17673,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
