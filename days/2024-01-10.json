@@ -1,0 +1,51 @@
+{
+  "displayWeekday": "Wednesday",
+  "displayDate": "January 10, 2024",
+  "printDate": "2024-01-10",
+  "centerLetter": "i",
+  "outerLetters": [
+    "c",
+    "h",
+    "m",
+    "r",
+    "t",
+    "y"
+  ],
+  "validLetters": [
+    "i",
+    "c",
+    "h",
+    "m",
+    "r",
+    "t",
+    "y"
+  ],
+  "pangrams": [
+    "rhythmic"
+  ],
+  "answers": [
+    "rhythmic",
+    "chic",
+    "chichi",
+    "chit",
+    "cirri",
+    "citric",
+    "city",
+    "critic",
+    "hitch",
+    "itch",
+    "itchy",
+    "itty",
+    "mimic",
+    "mimicry",
+    "mirth",
+    "mitt",
+    "mythic",
+    "rich",
+    "thirty",
+    "trim"
+  ],
+  "id": 4728,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
