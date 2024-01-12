@@ -22,7 +22,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-543 pangrams
+544 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -469,6 +469,7 @@ Every pangram that's occurred so far.
 | **paycheck**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/paycheck        |
 | **payment**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/payment         |
 | **payphone**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/payphone        |
+| **peaking**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/peaking         |
 | **pedagogy** <small>*(n.)*</small>      |       1 | The art or profession of teaching.                                                                                                                                                                             | https://www.wordnik.com/words/pedagogy        |
 | **pendulum**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/pendulum        |
 | **pentacle**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/pentacle        |
