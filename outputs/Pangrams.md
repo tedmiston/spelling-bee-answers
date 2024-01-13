@@ -22,7 +22,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-544 pangrams
+545 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -502,6 +502,7 @@ Every pangram that's occurred so far.
 | **rainbow**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/rainbow         |
 | **rapidly**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/rapidly         |
 | **rhythmic**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/rhythmic        |
+| **rollback**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/rollback        |
 | **rotunda**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/rotunda         |
 | **rowdily**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/rowdily         |
 | **taciturn** <small>*(adj.)*</small>    |       1 | Silent or reserved in speech; saying little; not inclined to speak or converse.                                                                                                                                | https://www.wordnik.com/words/taciturn        |
