@@ -22,7 +22,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-545 pangrams
+546 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -405,6 +405,7 @@ Every pangram that's occurred so far.
 | **meatloaf**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/meatloaf        |
 | **medieval**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/medieval        |
 | **megahit**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/megahit         |
+| **megaplex**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/megaplex        |
 | **melodic**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/melodic         |
 | **mentally**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/mentally        |
 | **mezzotint**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/mezzotint       |
