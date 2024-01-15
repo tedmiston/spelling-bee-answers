@@ -22,7 +22,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-546 pangrams
+547 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -35,6 +35,7 @@ Every pangram that's occurred so far.
 | **acquaint**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/acquaint        |
 | **acridity**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/acridity        |
 | **acronym**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/acronym         |
+| **actuality**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/actuality       |
 | **adaptation**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/adaptation      |
 | **adoption**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/adoption        |
 | **advantage**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/advantage       |
