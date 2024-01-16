@@ -1,0 +1,51 @@
+{
+  "displayWeekday": "Monday",
+  "displayDate": "January 15, 2024",
+  "printDate": "2024-01-15",
+  "centerLetter": "i",
+  "outerLetters": [
+    "d",
+    "h",
+    "k",
+    "n",
+    "o",
+    "w"
+  ],
+  "validLetters": [
+    "i",
+    "d",
+    "h",
+    "k",
+    "n",
+    "o",
+    "w"
+  ],
+  "pangrams": [
+    "hoodwink"
+  ],
+  "answers": [
+    "hoodwink",
+    "dink",
+    "dino",
+    "downwind",
+    "hind",
+    "kiddo",
+    "kind",
+    "kink",
+    "kiwi",
+    "oink",
+    "onion",
+    "widow",
+    "widowhood",
+    "wiki",
+    "wind",
+    "window",
+    "wink",
+    "winnow",
+    "wino",
+    "woodwind"
+  ],
+  "id": 18974,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
