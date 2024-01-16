@@ -22,7 +22,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-547 pangrams
+548 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -314,6 +314,7 @@ Every pangram that's occurred so far.
 | **homogeny**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/homogeny        |
 | **honeybun**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/honeybun        |
 | **honeydew**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/honeydew        |
+| **hoodwink**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/hoodwink        |
 | **hormonal**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/hormonal        |
 | **hotdogging**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/hotdogging      |
 | **hotline**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/hotline         |
