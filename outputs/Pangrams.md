@@ -22,7 +22,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-550 pangrams
+551 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -357,6 +357,7 @@ Every pangram that's occurred so far.
 | **inhibitor**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/inhibitor       |
 | **initialization**                      |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/initialization  |
 | **intelligible**                        |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/intelligible    |
+| **invalidly**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/invalidly       |
 | **invincible**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/invincible      |
 | **itemizing** <small>*(v.)*</small>     |       1 | Present participle of itemize (to list the items of).                                                                                                                                                          | https://www.wordnik.com/words/itemizing       |
 | **jackboot**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/jackboot        |
