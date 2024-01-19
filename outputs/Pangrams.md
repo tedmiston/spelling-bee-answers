@@ -22,7 +22,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-551 pangrams
+552 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -310,6 +310,7 @@ Every pangram that's occurred so far.
 | **highland**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/highland        |
 | **holiday**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/holiday         |
 | **hologram**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/hologram        |
+| **homepage**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/homepage        |
 | **hometown**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/hometown        |
 | **homogeny**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/homogeny        |
 | **honeybun**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/honeybun        |
