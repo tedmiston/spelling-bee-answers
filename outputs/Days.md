@@ -388,5 +388,6 @@
 | **2024-01-15** | [2024-01-15.json](../days/2024-01-15.json) | [Forum](https://www.nytimes.com/2024/01/15/crosswords/spelling-bee-forum.html) |      20 |          1 |
 | **2024-01-16** | [2024-01-16.json](../days/2024-01-16.json) | [Forum](https://www.nytimes.com/2024/01/16/crosswords/spelling-bee-forum.html) |      38 |          2 |
 | **2024-01-17** | [2024-01-17.json](../days/2024-01-17.json) | [Forum](https://www.nytimes.com/2024/01/17/crosswords/spelling-bee-forum.html) |      52 |          1 |
+| **2024-01-18** | [2024-01-18.json](../days/2024-01-18.json) | [Forum](https://www.nytimes.com/2024/01/18/crosswords/spelling-bee-forum.html) |      27 |          1 |
 
 <!-- generated table end -->
