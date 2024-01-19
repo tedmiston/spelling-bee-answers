@@ -1,0 +1,58 @@
+{
+  "displayWeekday": "Thursday",
+  "displayDate": "January 18, 2024",
+  "printDate": "2024-01-18",
+  "centerLetter": "p",
+  "outerLetters": [
+    "a",
+    "e",
+    "g",
+    "h",
+    "m",
+    "o"
+  ],
+  "validLetters": [
+    "p",
+    "a",
+    "e",
+    "g",
+    "h",
+    "m",
+    "o"
+  ],
+  "pangrams": [
+    "homepage"
+  ],
+  "answers": [
+    "homepage",
+    "agape",
+    "apogee",
+    "epee",
+    "gape",
+    "goop",
+    "heap",
+    "hemp",
+    "hoop",
+    "hope",
+    "mope",
+    "oompah",
+    "oomph",
+    "page",
+    "pampa",
+    "papa",
+    "peep",
+    "phage",
+    "poem",
+    "pogo",
+    "pome",
+    "pomp",
+    "pompom",
+    "pooh",
+    "poop",
+    "pope",
+    "poppa"
+  ],
+  "id": 22826,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
