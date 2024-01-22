@@ -22,7 +22,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-557 pangrams
+558 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -445,6 +445,7 @@ Every pangram that's occurred so far.
 | **nationalization**                     |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/nationalization |
 | **neolith**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/neolith         |
 | **nicknaming** <small>*(v.)*</small>    |       1 | Present participle of nickname (a descriptive name added to or replacing the actual name of a person, place, or thing).                                                                                        | https://www.wordnik.com/words/nicknaming      |
+| **nomadic**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/nomadic         |
 | **nonbelief**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/nonbelief       |
 | **noncombatant**                        |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/noncombatant    |
 | **noncompete** <small>*(adj.)*</small>  |       1 | *law* Of or pertaining to a commitment not to engage in competition with another party.                                                                                                                        | https://www.wordnik.com/words/noncompete      |
