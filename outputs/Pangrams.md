@@ -22,7 +22,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-558 pangrams
+559 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -260,6 +260,7 @@ Every pangram that's occurred so far.
 | **fixated**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/fixated         |
 | **flagpole** <small>*(n.)*</small>      |       1 | A pole used to display a flag.                                                                                                                                                                                 | https://www.wordnik.com/words/flagpole        |
 | **flaking**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/flaking         |
+| **flanked**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/flanked         |
 | **flanking**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/flanking        |
 | **flavorful**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/flavorful       |
 | **flexion**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/flexion         |
