@@ -1,0 +1,62 @@
+{
+  "displayWeekday": "Tuesday",
+  "displayDate": "January 23, 2024",
+  "printDate": "2024-01-23",
+  "centerLetter": "t",
+  "outerLetters": [
+    "c",
+    "h",
+    "i",
+    "k",
+    "o",
+    "p"
+  ],
+  "validLetters": [
+    "t",
+    "c",
+    "h",
+    "i",
+    "k",
+    "o",
+    "p"
+  ],
+  "pangrams": [
+    "toothpick"
+  ],
+  "answers": [
+    "toothpick",
+    "chit",
+    "cockpit",
+    "cooktop",
+    "coopt",
+    "coot",
+    "hitch",
+    "hoot",
+    "hotpot",
+    "itch",
+    "kith",
+    "octopi",
+    "optic",
+    "photic",
+    "photo",
+    "photopic",
+    "picot",
+    "pipit",
+    "pitch",
+    "pith",
+    "pothook",
+    "thick",
+    "tick",
+    "ticktock",
+    "tiki",
+    "tiptop",
+    "tock",
+    "took",
+    "toot",
+    "tooth",
+    "topic"
+  ],
+  "id": 14839,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
