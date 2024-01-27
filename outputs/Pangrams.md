@@ -22,7 +22,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-564 pangrams
+565 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -273,6 +273,7 @@ Every pangram that's occurred so far.
 | **formula**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/formula         |
 | **fruition**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/fruition        |
 | **fueling** <small>*(v.)*</small>       |       1 | Present participle of fuel (something consumed to produce energy, especially).                                                                                                                                 | https://www.wordnik.com/words/fueling         |
+| **function**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/function        |
 | **funneling** <small>*(v.)*</small>     |       1 | *UK* Alternative spelling of funnelling.                                                                                                                                                                       | https://www.wordnik.com/words/funneling       |
 | **gamecock**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/gamecock        |
 | **genealogy**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/genealogy       |
