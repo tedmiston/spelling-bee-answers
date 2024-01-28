@@ -22,7 +22,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-565 pangrams
+566 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -184,6 +184,7 @@ Every pangram that's occurred so far.
 | **convoyed**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/convoyed        |
 | **cookable**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/cookable        |
 | **corkboard**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/corkboard       |
+| **cornball**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/cornball        |
 | **cottonmouth**                         |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/cottonmouth     |
 | **covenant**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/covenant        |
 | **cowgirl**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/cowgirl         |
