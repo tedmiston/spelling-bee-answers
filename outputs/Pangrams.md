@@ -22,7 +22,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-566 pangrams
+567 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -571,6 +571,7 @@ Every pangram that's occurred so far.
 | **volatility**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/volatility      |
 | **volleyball**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/volleyball      |
 | **voltage**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/voltage         |
+| **vulpine**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/vulpine         |
 | **walkout**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/walkout         |
 | **warping**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/warping         |
 | **weaving** <small>*(n.)*</small>       |       1 | The act of one who or that which weaves; specifically, the act or art of producing cloth or other textile fabrics by means of a loom from the combination of threads or filaments.                             | https://www.wordnik.com/words/weaving         |
