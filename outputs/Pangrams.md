@@ -22,7 +22,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-567 pangrams
+568 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -523,6 +523,7 @@ Every pangram that's occurred so far.
 | **rotunda**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/rotunda         |
 | **rowdily**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/rowdily         |
 | **taciturn** <small>*(adj.)*</small>    |       1 | Silent or reserved in speech; saying little; not inclined to speak or converse.                                                                                                                                | https://www.wordnik.com/words/taciturn        |
+| **tailwind**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/tailwind        |
 | **talkative** <small>*(adj.)*</small>   |       1 | Marked by or having a disposition to talk.                                                                                                                                                                     | https://www.wordnik.com/words/talkative       |
 | **tantalization**                       |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/tantalization   |
 | **telekinetic**                         |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/telekinetic     |
