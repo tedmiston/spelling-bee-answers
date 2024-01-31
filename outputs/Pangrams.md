@@ -22,7 +22,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-568 pangrams
+569 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -210,6 +210,7 @@ Every pangram that's occurred so far.
 | **diabolic**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/diabolic        |
 | **diabolical**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/diabolical      |
 | **diatomic**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/diatomic        |
+| **diffract**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/diffract        |
 | **divebomb**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/divebomb        |
 | **divebombed**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/divebombed      |
 | **doctoral**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/doctoral        |
