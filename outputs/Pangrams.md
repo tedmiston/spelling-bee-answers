@@ -22,7 +22,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-569 pangrams
+570 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -380,6 +380,7 @@ Every pangram that's occurred so far.
 | **kneading**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/kneading        |
 | **knuckled**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/knuckled        |
 | **laconically**                         |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/laconically     |
+| **ladybug**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/ladybug         |
 | **lapidary**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/lapidary        |
 | **latitudinal**                         |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/latitudinal     |
 | **laundry**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/laundry         |
