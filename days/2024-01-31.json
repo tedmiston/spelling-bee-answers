@@ -1,0 +1,56 @@
+{
+  "displayWeekday": "Wednesday",
+  "displayDate": "January 31, 2024",
+  "printDate": "2024-01-31",
+  "centerLetter": "b",
+  "outerLetters": [
+    "a",
+    "d",
+    "g",
+    "l",
+    "u",
+    "y"
+  ],
+  "validLetters": [
+    "b",
+    "a",
+    "d",
+    "g",
+    "l",
+    "u",
+    "y"
+  ],
+  "pangrams": [
+    "ladybug"
+  ],
+  "answers": [
+    "ladybug",
+    "ably",
+    "baba",
+    "baby",
+    "badly",
+    "baggy",
+    "bald",
+    "baldly",
+    "ball",
+    "ballad",
+    "baud",
+    "blab",
+    "blabby",
+    "bubba",
+    "bubbly",
+    "buddy",
+    "buggy",
+    "bulb",
+    "bulgy",
+    "bull",
+    "bully",
+    "daub",
+    "gabby",
+    "laudably",
+    "lullaby"
+  ],
+  "id": 22850,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
