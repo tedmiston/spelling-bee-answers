@@ -22,7 +22,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-570 pangrams
+571 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -328,6 +328,7 @@ Every pangram that's occurred so far.
 | **hormonal**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/hormonal        |
 | **hotdogging**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/hotdogging      |
 | **hotline**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/hotline         |
+| **humbled**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/humbled         |
 | **hyacinth** <small>*(n.)*</small>      |       1 | A bulbous plant of the genus Hyacinthus, bearing beautiful spikes of fragrant flowers. Hyacinthus orientalis is a common variety.                                                                              | https://www.wordnik.com/words/hyacinth        |
 | **hyphenate** <small>*(v.)*</small>     |       1 | To divide or connect (syllables, word elements, or names) with a hyphen.                                                                                                                                       | https://www.wordnik.com/words/hyphenate       |
 | **iconically**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/iconically      |
