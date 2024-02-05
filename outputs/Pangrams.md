@@ -8,11 +8,12 @@ Pangrams that have occurred more than once.
 
 <!-- generated multi table start -->
 
-1 pangrams
+2 pangrams
 
-| Word        |   Count | Definition Text   | Definition URL                        |
-|-------------|---------|-------------------|---------------------------------------|
-| **fidgety** |       2 |                   | https://www.wordnik.com/words/fidgety |
+| Word                               |   Count | Definition Text                                                                                                           | Definition URL                         |
+|------------------------------------|---------|---------------------------------------------------------------------------------------------------------------------------|----------------------------------------|
+| **fidgety**                        |       2 |                                                                                                                           | https://www.wordnik.com/words/fidgety  |
+| **tenacity** <small>*(n.)*</small> |       2 | The quality or state of being tenacious; as, tenacity, or retentiveness, of memory; tenacity, or persistency, of purpose. | https://www.wordnik.com/words/tenacity |
 
 <!-- generated multi table end -->
 
@@ -533,7 +534,7 @@ Every pangram that's occurred so far.
 | **talkative** <small>*(adj.)*</small>   |       1 | Marked by or having a disposition to talk.                                                                                                                                                                     | https://www.wordnik.com/words/talkative       |
 | **tantalization**                       |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/tantalization   |
 | **telekinetic**                         |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/telekinetic     |
-| **tenacity** <small>*(n.)*</small>      |       1 | The quality or state of being tenacious; as, tenacity, or retentiveness, of memory; tenacity, or persistency, of purpose.                                                                                      | https://www.wordnik.com/words/tenacity        |
+| **tenacity** <small>*(n.)*</small>      |       2 | The quality or state of being tenacious; as, tenacity, or retentiveness, of memory; tenacity, or persistency, of purpose.                                                                                      | https://www.wordnik.com/words/tenacity        |
 | **thematic** <small>*(adj.)*</small>    |       1 | Relating to, or having a theme or a topic.                                                                                                                                                                     | https://www.wordnik.com/words/thematic        |
 | **thrilling**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/thrilling       |
 | **toothpick**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/toothpick       |
