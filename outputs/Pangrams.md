@@ -23,7 +23,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-574 pangrams
+575 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -84,6 +84,7 @@ Every pangram that's occurred so far.
 | **backdoor**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/backdoor        |
 | **backfill**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/backfill        |
 | **balding**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/balding         |
+| **bamboozle**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/bamboozle       |
 | **banality**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/banality        |
 | **baptize**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/baptize         |
 | **beachcomb**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/beachcomb       |
