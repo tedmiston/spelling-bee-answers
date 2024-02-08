@@ -1,0 +1,63 @@
+{
+  "displayWeekday": "Wednesday",
+  "displayDate": "February 7, 2024",
+  "printDate": "2024-02-07",
+  "centerLetter": "o",
+  "outerLetters": [
+    "d",
+    "g",
+    "h",
+    "i",
+    "l",
+    "r"
+  ],
+  "validLetters": [
+    "o",
+    "d",
+    "g",
+    "h",
+    "i",
+    "l",
+    "r"
+  ],
+  "pangrams": [
+    "girlhood"
+  ],
+  "answers": [
+    "girlhood",
+    "dildo",
+    "dodo",
+    "doggo",
+    "doll",
+    "dolor",
+    "door",
+    "droid",
+    "droll",
+    "drool",
+    "gigolo",
+    "gold",
+    "good",
+    "googol",
+    "grog",
+    "hold",
+    "hood",
+    "hoodoo",
+    "horrid",
+    "horror",
+    "idol",
+    "igloo",
+    "logo",
+    "logroll",
+    "loll",
+    "lord",
+    "odor",
+    "olio",
+    "rigor",
+    "roil",
+    "roll",
+    "rood"
+  ],
+  "id": 7082,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
