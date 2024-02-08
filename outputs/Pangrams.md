@@ -23,7 +23,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-580 pangrams
+581 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -286,6 +286,7 @@ Every pangram that's occurred so far.
 | **funneling** <small>*(v.)*</small>     |       1 | *UK* Alternative spelling of funnelling.                                                                                                                                                                       | https://www.wordnik.com/words/funneling       |
 | **gamecock**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/gamecock        |
 | **genealogy**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/genealogy       |
+| **girlhood**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/girlhood        |
 | **glamour**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/glamour         |
 | **glitching**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/glitching       |
 | **glorify**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/glorify         |
