@@ -1,0 +1,63 @@
+{
+  "displayWeekday": "Saturday",
+  "displayDate": "February 17, 2024",
+  "printDate": "2024-02-17",
+  "centerLetter": "o",
+  "outerLetters": [
+    "b",
+    "f",
+    "g",
+    "l",
+    "r",
+    "u"
+  ],
+  "validLetters": [
+    "o",
+    "b",
+    "f",
+    "g",
+    "l",
+    "r",
+    "u"
+  ],
+  "pangrams": [
+    "bullfrog"
+  ],
+  "answers": [
+    "bullfrog",
+    "blob",
+    "blog",
+    "boffo",
+    "boll",
+    "bolo",
+    "boob",
+    "booboo",
+    "boor",
+    "burgoo",
+    "burro",
+    "flog",
+    "floor",
+    "flour",
+    "fool",
+    "forgo",
+    "foul",
+    "four",
+    "frog",
+    "froufrou",
+    "furor",
+    "glob",
+    "golf",
+    "goof",
+    "googol",
+    "grog",
+    "lobo",
+    "logo",
+    "logroll",
+    "loll",
+    "roll",
+    "roof"
+  ],
+  "id": 18439,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
