@@ -8,10 +8,11 @@ Pangrams that have occurred more than once.
 
 <!-- generated multi table start -->
 
-2 pangrams
+3 pangrams
 
 | Word                               |   Count | Definition Text                                                                                                           | Definition URL                         |
 |------------------------------------|---------|---------------------------------------------------------------------------------------------------------------------------|----------------------------------------|
+| **bullfrog**                       |       2 |                                                                                                                           | https://www.wordnik.com/words/bullfrog |
 | **fidgety**                        |       2 |                                                                                                                           | https://www.wordnik.com/words/fidgety  |
 | **tenacity** <small>*(n.)*</small> |       2 | The quality or state of being tenacious; as, tenacity, or retentiveness, of memory; tenacity, or persistency, of purpose. | https://www.wordnik.com/words/tenacity |
 
@@ -124,7 +125,7 @@ Every pangram that's occurred so far.
 | **braying**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/braying         |
 | **broadly**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/broadly         |
 | **brought** <small>*(v.)*</small>       |       1 | Simple past tense and past participle of bring.                                                                                                                                                                | https://www.wordnik.com/words/brought         |
-| **bullfrog**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/bullfrog        |
+| **bullfrog**                            |       2 |                                                                                                                                                                                                                | https://www.wordnik.com/words/bullfrog        |
 | **bullring**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/bullring        |
 | **buoyant**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/buoyant         |
 | **burbling**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/burbling        |
