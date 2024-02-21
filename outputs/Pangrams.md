@@ -24,7 +24,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-602 pangrams
+603 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -452,6 +452,7 @@ Every pangram that's occurred so far.
 | **megahit**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/megahit         |
 | **megaplex**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/megaplex        |
 | **melodic**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/melodic         |
+| **menfolk**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/menfolk         |
 | **mentally**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/mentally        |
 | **mezzotint**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/mezzotint       |
 | **microfilm**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/microfilm       |
