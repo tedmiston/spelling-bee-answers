@@ -1,0 +1,61 @@
+{
+  "displayWeekday": "Tuesday",
+  "displayDate": "February 20, 2024",
+  "printDate": "2024-02-20",
+  "centerLetter": "e",
+  "outerLetters": [
+    "f",
+    "k",
+    "l",
+    "m",
+    "n",
+    "o"
+  ],
+  "validLetters": [
+    "e",
+    "f",
+    "k",
+    "l",
+    "m",
+    "n",
+    "o"
+  ],
+  "pangrams": [
+    "menfolk"
+  ],
+  "answers": [
+    "menfolk",
+    "feel",
+    "fell",
+    "felon",
+    "femme",
+    "fennel",
+    "flee",
+    "floe",
+    "keel",
+    "keen",
+    "kennel",
+    "keno",
+    "knee",
+    "kneel",
+    "knell",
+    "leek",
+    "lemon",
+    "lone",
+    "meek",
+    "melee",
+    "melon",
+    "meme",
+    "memo",
+    "mole",
+    "nene",
+    "neon",
+    "noel",
+    "none",
+    "oleo",
+    "omen"
+  ],
+  "id": 1927,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
