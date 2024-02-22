@@ -24,7 +24,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-603 pangrams
+604 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -290,6 +290,7 @@ Every pangram that's occurred so far.
 | **flanking**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/flanking        |
 | **flavorful**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/flavorful       |
 | **flexion**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/flexion         |
+| **flighty**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/flighty         |
 | **flipflopping**                        |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/flipflopping    |
 | **flopping**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/flopping        |
 | **flounce**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/flounce         |
