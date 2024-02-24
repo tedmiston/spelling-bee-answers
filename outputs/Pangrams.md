@@ -24,7 +24,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-605 pangrams
+606 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -628,6 +628,7 @@ Every pangram that's occurred so far.
 | **wordily**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/wordily         |
 | **workaday**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/workaday        |
 | **workday**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/workday         |
+| **workload**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/workload        |
 | **wrapping**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/wrapping        |
 | **wrought**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/wrought         |
 | **yardwork**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/yardwork        |
