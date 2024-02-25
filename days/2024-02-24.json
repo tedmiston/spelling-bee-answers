@@ -1,0 +1,61 @@
+{
+  "displayWeekday": "Saturday",
+  "displayDate": "February 24, 2024",
+  "printDate": "2024-02-24",
+  "centerLetter": "o",
+  "outerLetters": [
+    "c",
+    "g",
+    "i",
+    "n",
+    "u",
+    "v"
+  ],
+  "validLetters": [
+    "o",
+    "c",
+    "g",
+    "i",
+    "n",
+    "u",
+    "v"
+  ],
+  "pangrams": [
+    "unconvincing"
+  ],
+  "answers": [
+    "unconvincing",
+    "cocci",
+    "cocoon",
+    "cocooning",
+    "coin",
+    "coining",
+    "conic",
+    "conning",
+    "conniving",
+    "convincing",
+    "cooing",
+    "going",
+    "gong",
+    "gonging",
+    "goon",
+    "gouging",
+    "icon",
+    "iconic",
+    "invoicing",
+    "ionic",
+    "noggin",
+    "nonunion",
+    "noon",
+    "noun",
+    "nuncio",
+    "ongoing",
+    "onion",
+    "union",
+    "voguing",
+    "voicing"
+  ],
+  "id": 16127,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
