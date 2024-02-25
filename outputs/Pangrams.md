@@ -24,7 +24,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-606 pangrams
+607 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -578,6 +578,7 @@ Every pangram that's occurred so far.
 | **unbuttoned**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/unbuttoned      |
 | **unclenched**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/unclenched      |
 | **uncloak** <small>*(v.)*</small>       |       1 | To expose; reveal.                                                                                                                                                                                             | https://www.wordnik.com/words/uncloak         |
+| **unconvincing**                        |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/unconvincing    |
 | **undoubted**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/undoubted       |
 | **unequaled**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/unequaled       |
 | **unevolved**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/unevolved       |
