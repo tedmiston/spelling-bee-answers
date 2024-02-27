@@ -24,7 +24,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-609 pangrams
+610 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -108,6 +108,7 @@ Every pangram that's occurred so far.
 | **bighead**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/bighead         |
 | **bigheaded**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/bigheaded       |
 | **bigoted**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/bigoted         |
+| **billboard**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/billboard       |
 | **billeting**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/billeting       |
 | **billionth**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/billionth       |
 | **biotech**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/biotech         |
