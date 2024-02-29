@@ -24,7 +24,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-611 pangrams
+612 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -91,6 +91,7 @@ Every pangram that's occurred so far.
 | **backboard**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/backboard       |
 | **backdoor**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/backdoor        |
 | **backfill**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/backfill        |
+| **backroom**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/backroom        |
 | **balding**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/balding         |
 | **bamboozle**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/bamboozle       |
 | **banality**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/banality        |
