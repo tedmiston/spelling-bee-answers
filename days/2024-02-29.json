@@ -1,0 +1,55 @@
+{
+  "displayWeekday": "Thursday",
+  "displayDate": "February 29, 2024",
+  "printDate": "2024-02-29",
+  "centerLetter": "u",
+  "outerLetters": [
+    "a",
+    "d",
+    "i",
+    "l",
+    "p",
+    "t"
+  ],
+  "validLetters": [
+    "u",
+    "a",
+    "d",
+    "i",
+    "l",
+    "p",
+    "t"
+  ],
+  "pangrams": [
+    "plaudit"
+  ],
+  "answers": [
+    "plaudit",
+    "adult",
+    "applaud",
+    "audit",
+    "dual",
+    "dull",
+    "laud",
+    "luau",
+    "lull",
+    "lulu",
+    "puli",
+    "pull",
+    "pulp",
+    "pulpit",
+    "pupa",
+    "pupal",
+    "pupil",
+    "putt",
+    "taut",
+    "tulip",
+    "tutti",
+    "tutu",
+    "uplit",
+    "uptilt"
+  ],
+  "id": 24638,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
