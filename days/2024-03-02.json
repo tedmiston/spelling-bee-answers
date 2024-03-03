@@ -1,0 +1,54 @@
+{
+  "displayWeekday": "Saturday",
+  "displayDate": "March 2, 2024",
+  "printDate": "2024-03-02",
+  "centerLetter": "r",
+  "outerLetters": [
+    "g",
+    "n",
+    "o",
+    "p",
+    "u",
+    "w"
+  ],
+  "validLetters": [
+    "r",
+    "g",
+    "n",
+    "o",
+    "p",
+    "u",
+    "w"
+  ],
+  "pangrams": [
+    "grownup"
+  ],
+  "answers": [
+    "grownup",
+    "gorgon",
+    "gorp",
+    "grog",
+    "group",
+    "grow",
+    "grown",
+    "guru",
+    "poor",
+    "porn",
+    "porno",
+    "pour",
+    "prong",
+    "pronoun",
+    "prop",
+    "prow",
+    "purr",
+    "rung",
+    "ungroup",
+    "unworn",
+    "worn",
+    "wrong",
+    "wrung"
+  ],
+  "id": 8728,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
