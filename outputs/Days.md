@@ -433,5 +433,6 @@
 | **2024-02-29** | [2024-02-29.json](../days/2024-02-29.json) | [Forum](https://www.nytimes.com/2024/02/29/crosswords/spelling-bee-forum.html) |      24 |          1 |
 | **2024-03-01** | [2024-03-01.json](../days/2024-03-01.json) | [Forum](https://www.nytimes.com/2024/03/01/crosswords/spelling-bee-forum.html) |      47 |          2 |
 | **2024-03-02** | [2024-03-02.json](../days/2024-03-02.json) | [Forum](https://www.nytimes.com/2024/03/02/crosswords/spelling-bee-forum.html) |      23 |          1 |
+| **2024-03-03** | [2024-03-03.json](../days/2024-03-03.json) | [Forum](https://www.nytimes.com/2024/03/03/crosswords/spelling-bee-forum.html) |      46 |          2 |
 
 <!-- generated table end -->
