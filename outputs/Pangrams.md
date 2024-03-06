@@ -24,7 +24,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-620 pangrams
+621 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -76,6 +76,7 @@ Every pangram that's occurred so far.
 | **arachnid** <small>*(n.)*</small>      |       1 | Any of the eight-legged creatures, including spiders and scorpions, of the class Arachnida                                                                                                                     | https://www.wordnik.com/words/arachnid        |
 | **archival**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/archival        |
 | **archrival**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/archrival       |
+| **armadillo**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/armadillo       |
 | **aromatic**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/aromatic        |
 | **arthralgia**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/arthralgia      |
 | **arthropod**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/arthropod       |
