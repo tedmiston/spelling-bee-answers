@@ -24,7 +24,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-621 pangrams
+622 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -107,6 +107,7 @@ Every pangram that's occurred so far.
 | **belting**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/belting         |
 | **benefited**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/benefited       |
 | **benefitted**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/benefitted      |
+| **benevolent**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/benevolent      |
 | **bighead**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/bighead         |
 | **bigheaded**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/bigheaded       |
 | **bigoted**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/bigoted         |
