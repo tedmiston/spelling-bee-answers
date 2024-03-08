@@ -24,7 +24,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-622 pangrams
+623 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -609,6 +609,7 @@ Every pangram that's occurred so far.
 | **unmounted**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/unmounted       |
 | **unmuzzling**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/unmuzzling      |
 | **untagged**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/untagged        |
+| **untucked**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/untucked        |
 | **unveiling**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/unveiling       |
 | **unzipped**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/unzipped        |
 | **updraft**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/updraft         |
