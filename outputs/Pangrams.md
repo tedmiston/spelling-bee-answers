@@ -24,7 +24,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-624 pangrams
+625 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -582,6 +582,7 @@ Every pangram that's occurred so far.
 | **tenacity** <small>*(n.)*</small>      |       2 | The quality or state of being tenacious; as, tenacity, or retentiveness, of memory; tenacity, or persistency, of purpose.                                                                                      | https://www.wordnik.com/words/tenacity        |
 | **thematic** <small>*(adj.)*</small>    |       1 | Relating to, or having a theme or a topic.                                                                                                                                                                     | https://www.wordnik.com/words/thematic        |
 | **thrilling**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/thrilling       |
+| **thruway**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/thruway         |
 | **toothpick**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/toothpick       |
 | **toughen**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/toughen         |
 | **townhome**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/townhome        |
