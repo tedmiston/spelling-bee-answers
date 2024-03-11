@@ -24,7 +24,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-625 pangrams
+626 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -615,6 +615,7 @@ Every pangram that's occurred so far.
 | **unveiling**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/unveiling       |
 | **unzipped**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/unzipped        |
 | **updraft**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/updraft         |
+| **upfield**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/upfield         |
 | **upheaval** <small>*(n.)*</small>      |       1 | A sudden, violent disruption or upset.                                                                                                                                                                         | https://www.wordnik.com/words/upheaval        |
 | **vaccinate**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/vaccinate       |
 | **vaguely**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/vaguely         |
