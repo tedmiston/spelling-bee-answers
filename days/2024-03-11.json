@@ -1,0 +1,56 @@
+{
+  "displayWeekday": "Monday",
+  "displayDate": "March 11, 2024",
+  "printDate": "2024-03-11",
+  "centerLetter": "m",
+  "outerLetters": [
+    "a",
+    "d",
+    "l",
+    "n",
+    "t",
+    "y"
+  ],
+  "validLetters": [
+    "m",
+    "a",
+    "d",
+    "l",
+    "n",
+    "t",
+    "y"
+  ],
+  "pangrams": [
+    "adamantly"
+  ],
+  "answers": [
+    "adamantly",
+    "adamant",
+    "adman",
+    "amyl",
+    "damn",
+    "lama",
+    "layman",
+    "llama",
+    "madam",
+    "madly",
+    "madman",
+    "malady",
+    "mall",
+    "malt",
+    "malty",
+    "mama",
+    "mamma",
+    "mammal",
+    "mandala",
+    "manly",
+    "manna",
+    "manta",
+    "many",
+    "mayday",
+    "myna"
+  ],
+  "id": 24271,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
