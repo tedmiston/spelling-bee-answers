@@ -24,7 +24,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-627 pangrams
+628 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -199,6 +199,7 @@ Every pangram that's occurred so far.
 | **confided**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/confided        |
 | **confidence**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/confidence      |
 | **confined**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/confined        |
+| **confirm**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/confirm         |
 | **conflict**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/conflict        |
 | **confluence**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/confluence      |
 | **confounded**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/confounded      |
