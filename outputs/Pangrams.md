@@ -24,7 +24,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-628 pangrams
+629 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -326,6 +326,7 @@ Every pangram that's occurred so far.
 | **graphing**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/graphing        |
 | **gravity**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/gravity         |
 | **grownup**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/grownup         |
+| **guilted**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/guilted         |
 | **habitual** <small>*(adj.)*</small>    |       1 | Formed or acquired by habit or use.                                                                                                                                                                            | https://www.wordnik.com/words/habitual        |
 | **haircut**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/haircut         |
 | **halcyon**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/halcyon         |
