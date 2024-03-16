@@ -1,0 +1,54 @@
+{
+  "displayWeekday": "Friday",
+  "displayDate": "March 15, 2024",
+  "printDate": "2024-03-15",
+  "centerLetter": "e",
+  "outerLetters": [
+    "c",
+    "i",
+    "m",
+    "t",
+    "v",
+    "z"
+  ],
+  "validLetters": [
+    "e",
+    "c",
+    "i",
+    "m",
+    "t",
+    "v",
+    "z"
+  ],
+  "pangrams": [
+    "victimize"
+  ],
+  "answers": [
+    "victimize",
+    "cite",
+    "civet",
+    "emcee",
+    "emetic",
+    "emit",
+    "evict",
+    "evictee",
+    "item",
+    "itemize",
+    "meet",
+    "meme",
+    "mete",
+    "meze",
+    "mezze",
+    "mice",
+    "mime",
+    "mimetic",
+    "mite",
+    "teem",
+    "time",
+    "titmice",
+    "vice"
+  ],
+  "id": 3004,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
