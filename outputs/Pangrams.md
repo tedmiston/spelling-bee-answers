@@ -24,7 +24,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-631 pangrams
+632 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -629,6 +629,7 @@ Every pangram that's occurred so far.
 | **venially**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/venially        |
 | **viability** <small>*(n.)*</small>     |       1 | The property of being viable; the ability to live or to succeed.                                                                                                                                               | https://www.wordnik.com/words/viability       |
 | **vibrant**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/vibrant         |
+| **victimize**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/victimize       |
 | **vincible**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/vincible        |
 | **violent** <small>*(adj.)*</small>     |       1 | Moving or acting with physical strength; urged or impelled with force; excited by strong feeling or passion; forcible; vehement; impetuous; fierce; furious; severe.                                           | https://www.wordnik.com/words/violent         |
 | **virtual**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/virtual         |
