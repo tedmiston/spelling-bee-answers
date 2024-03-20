@@ -24,7 +24,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-638 pangrams
+639 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -436,6 +436,7 @@ Every pangram that's occurred so far.
 | **lapidary**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/lapidary        |
 | **latitudinal**                         |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/latitudinal     |
 | **laundry**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/laundry         |
+| **lavatory**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/lavatory        |
 | **leeching**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/leeching        |
 | **legality** <small>*(n.)*</small>      |       1 | The state or quality of being legal; lawfulness.                                                                                                                                                               | https://www.wordnik.com/words/legality        |
 | **leitmotif**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/leitmotif       |
