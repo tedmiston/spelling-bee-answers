@@ -8,13 +8,14 @@ Pangrams that have occurred more than once.
 
 <!-- generated multi table start -->
 
-3 pangrams
+4 pangrams
 
-| Word                               |   Count | Definition Text                                                                                                           | Definition URL                         |
-|------------------------------------|---------|---------------------------------------------------------------------------------------------------------------------------|----------------------------------------|
-| **bullfrog**                       |       2 |                                                                                                                           | https://www.wordnik.com/words/bullfrog |
-| **fidgety**                        |       2 |                                                                                                                           | https://www.wordnik.com/words/fidgety  |
-| **tenacity** <small>*(n.)*</small> |       2 | The quality or state of being tenacious; as, tenacity, or retentiveness, of memory; tenacity, or persistency, of purpose. | https://www.wordnik.com/words/tenacity |
+| Word                                 |   Count | Definition Text                                                                                                           | Definition URL                         |
+|--------------------------------------|---------|---------------------------------------------------------------------------------------------------------------------------|----------------------------------------|
+| **bullfrog**                         |       2 |                                                                                                                           | https://www.wordnik.com/words/bullfrog |
+| **fanciful** <small>*(adj.)*</small> |       2 | Tending to indulge in fancy.                                                                                              | https://www.wordnik.com/words/fanciful |
+| **fidgety**                          |       2 |                                                                                                                           | https://www.wordnik.com/words/fidgety  |
+| **tenacity** <small>*(n.)*</small>   |       2 | The quality or state of being tenacious; as, tenacity, or retentiveness, of memory; tenacity, or persistency, of purpose. | https://www.wordnik.com/words/tenacity |
 
 <!-- generated multi table end -->
 
@@ -288,7 +289,7 @@ Every pangram that's occurred so far.
 | **exultant** <small>*(adj.)*</small>    |       1 | Marked by great joy or jubilation; triumphant.                                                                                                                                                                 | https://www.wordnik.com/words/exultant        |
 | **factotum**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/factotum        |
 | **familiarly**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/familiarly      |
-| **fanciful** <small>*(adj.)*</small>    |       1 | Tending to indulge in fancy.                                                                                                                                                                                   | https://www.wordnik.com/words/fanciful        |
+| **fanciful** <small>*(adj.)*</small>    |       2 | Tending to indulge in fancy.                                                                                                                                                                                   | https://www.wordnik.com/words/fanciful        |
 | **farcically**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/farcically      |
 | **femininity**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/femininity      |
 | **fettuccine**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/fettuccine      |
