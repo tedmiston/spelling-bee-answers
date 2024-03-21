@@ -1,0 +1,56 @@
+{
+  "displayWeekday": "Wednesday",
+  "displayDate": "March 20, 2024",
+  "printDate": "2024-03-20",
+  "centerLetter": "f",
+  "outerLetters": [
+    "a",
+    "c",
+    "i",
+    "l",
+    "n",
+    "u"
+  ],
+  "validLetters": [
+    "f",
+    "a",
+    "c",
+    "i",
+    "l",
+    "n",
+    "u"
+  ],
+  "pangrams": [
+    "fanciful"
+  ],
+  "answers": [
+    "fanciful",
+    "alfalfa",
+    "calf",
+    "cliff",
+    "cuff",
+    "facial",
+    "fail",
+    "fall",
+    "fanfic",
+    "faun",
+    "fauna",
+    "faunal",
+    "filial",
+    "fill",
+    "final",
+    "financial",
+    "finial",
+    "flail",
+    "flan",
+    "fluff",
+    "fulfill",
+    "full",
+    "infill",
+    "naif",
+    "uncuff"
+  ],
+  "id": 26911,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
