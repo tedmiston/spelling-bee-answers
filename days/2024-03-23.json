@@ -1,0 +1,59 @@
+{
+  "displayWeekday": "Saturday",
+  "displayDate": "March 23, 2024",
+  "printDate": "2024-03-23",
+  "centerLetter": "e",
+  "outerLetters": [
+    "c",
+    "g",
+    "h",
+    "l",
+    "o",
+    "w"
+  ],
+  "validLetters": [
+    "e",
+    "c",
+    "g",
+    "h",
+    "l",
+    "o",
+    "w"
+  ],
+  "pangrams": [
+    "cogwheel"
+  ],
+  "answers": [
+    "cogwheel",
+    "cell",
+    "cello",
+    "chew",
+    "cloche",
+    "college",
+    "echo",
+    "gelee",
+    "ghee",
+    "glee",
+    "goggle",
+    "google",
+    "heel",
+    "hell",
+    "hellhole",
+    "hello",
+    "hole",
+    "lech",
+    "leech",
+    "loge",
+    "ogee",
+    "ogle",
+    "oleo",
+    "well",
+    "whee",
+    "wheel",
+    "whew",
+    "whole"
+  ],
+  "id": 8810,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
