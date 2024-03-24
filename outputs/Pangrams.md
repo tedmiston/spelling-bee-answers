@@ -25,7 +25,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-644 pangrams
+645 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -185,6 +185,7 @@ Every pangram that's occurred so far.
 | **coffined**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/coffined        |
 | **cofounded**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/cofounded       |
 | **cognate**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/cognate         |
+| **cogwheel**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/cogwheel        |
 | **collectible**                         |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/collectible     |
 | **colonially**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/colonially      |
 | **colorant**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/colorant        |
