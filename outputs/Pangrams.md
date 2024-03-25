@@ -25,7 +25,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-645 pangrams
+646 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -218,6 +218,7 @@ Every pangram that's occurred so far.
 | **conveyed**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/conveyed        |
 | **convoyed**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/convoyed        |
 | **cookable**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/cookable        |
+| **cordial**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/cordial         |
 | **corkboard**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/corkboard       |
 | **cornball**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/cornball        |
 | **cotangent**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/cotangent       |
