@@ -25,7 +25,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-647 pangrams
+648 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -42,6 +42,7 @@ Every pangram that's occurred so far.
 | **actuality**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/actuality       |
 | **adamantly**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/adamantly       |
 | **adaptation**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/adaptation      |
+| **adjourn**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/adjourn         |
 | **admonition**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/admonition      |
 | **adoption**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/adoption        |
 | **adorably**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/adorably        |
