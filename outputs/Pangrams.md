@@ -25,7 +25,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-649 pangrams
+650 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -325,6 +325,7 @@ Every pangram that's occurred so far.
 | **fueling** <small>*(v.)*</small>       |       1 | Present participle of fuel (something consumed to produce energy, especially).                                                                                                                                 | https://www.wordnik.com/words/fueling         |
 | **function**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/function        |
 | **funneling** <small>*(v.)*</small>     |       1 | *UK* Alternative spelling of funnelling.                                                                                                                                                                       | https://www.wordnik.com/words/funneling       |
+| **galumph**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/galumph         |
 | **gamecock**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/gamecock        |
 | **genealogy**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/genealogy       |
 | **girlhood**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/girlhood        |
