@@ -1,0 +1,61 @@
+{
+  "displayWeekday": "Thursday",
+  "displayDate": "March 28, 2024",
+  "printDate": "2024-03-28",
+  "centerLetter": "u",
+  "outerLetters": [
+    "a",
+    "g",
+    "h",
+    "l",
+    "m",
+    "p"
+  ],
+  "validLetters": [
+    "u",
+    "a",
+    "g",
+    "h",
+    "l",
+    "m",
+    "p"
+  ],
+  "pangrams": [
+    "galumph"
+  ],
+  "answers": [
+    "galumph",
+    "alum",
+    "glug",
+    "glum",
+    "gulag",
+    "gull",
+    "gulp",
+    "haul",
+    "hula",
+    "hull",
+    "hump",
+    "humph",
+    "laugh",
+    "luau",
+    "lull",
+    "lulu",
+    "lump",
+    "maul",
+    "mull",
+    "mullah",
+    "muumuu",
+    "plug",
+    "plum",
+    "plump",
+    "pull",
+    "pulp",
+    "puma",
+    "pump",
+    "pupa",
+    "pupal"
+  ],
+  "id": 19731,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
