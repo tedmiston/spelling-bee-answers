@@ -1,0 +1,56 @@
+{
+  "displayWeekday": "Saturday",
+  "displayDate": "March 30, 2024",
+  "printDate": "2024-03-30",
+  "centerLetter": "a",
+  "outerLetters": [
+    "c",
+    "j",
+    "k",
+    "o",
+    "p",
+    "t"
+  ],
+  "validLetters": [
+    "a",
+    "c",
+    "j",
+    "k",
+    "o",
+    "p",
+    "t"
+  ],
+  "pangrams": [
+    "jackpot"
+  ],
+  "answers": [
+    "jackpot",
+    "atop",
+    "attack",
+    "cacao",
+    "capo",
+    "coat",
+    "coca",
+    "cockapoo",
+    "cockatoo",
+    "cocoa",
+    "jack",
+    "kapok",
+    "kappa",
+    "pack",
+    "pact",
+    "papa",
+    "poppa",
+    "potato",
+    "tack",
+    "taco",
+    "tact",
+    "tapa",
+    "tattoo",
+    "toccata",
+    "topcoat"
+  ],
+  "id": 8811,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
