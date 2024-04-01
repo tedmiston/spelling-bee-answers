@@ -25,7 +25,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-654 pangrams
+655 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -467,6 +467,7 @@ Every pangram that's occurred so far.
 | **livability** <small>*(n.)*</small>    |       1 | The property of being livable (suitable to live in, habitable; possible to bear, endurable).                                                                                                                   | https://www.wordnik.com/words/livability      |
 | **lockable**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/lockable        |
 | **locution**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/locution        |
+| **lollygagged**                         |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/lollygagged     |
 | **longboat**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/longboat        |
 | **loveably**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/loveably        |
 | **lucidity**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/lucidity        |
