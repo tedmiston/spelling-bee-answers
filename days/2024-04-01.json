@@ -1,0 +1,61 @@
+{
+  "displayWeekday": "Monday",
+  "displayDate": "April 1, 2024",
+  "printDate": "2024-04-01",
+  "centerLetter": "o",
+  "outerLetters": [
+    "g",
+    "i",
+    "l",
+    "r",
+    "v",
+    "y"
+  ],
+  "validLetters": [
+    "o",
+    "g",
+    "i",
+    "l",
+    "r",
+    "v",
+    "y"
+  ],
+  "pangrams": [
+    "virology"
+  ],
+  "answers": [
+    "virology",
+    "gigolo",
+    "glory",
+    "goggly",
+    "golly",
+    "googly",
+    "googol",
+    "gory",
+    "grog",
+    "groggily",
+    "groggy",
+    "groovy",
+    "gyro",
+    "igloo",
+    "ivory",
+    "logo",
+    "logroll",
+    "logy",
+    "loll",
+    "lorry",
+    "oily",
+    "olio",
+    "orgy",
+    "rigor",
+    "roil",
+    "roll",
+    "vigor",
+    "viol",
+    "vlog",
+    "yogi"
+  ],
+  "id": 15063,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
