@@ -25,7 +25,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-655 pangrams
+656 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -656,6 +656,7 @@ Every pangram that's occurred so far.
 | **victimize**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/victimize       |
 | **vincible**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/vincible        |
 | **violent** <small>*(adj.)*</small>     |       1 | Moving or acting with physical strength; urged or impelled with force; excited by strong feeling or passion; forcible; vehement; impetuous; fierce; furious; severe.                                           | https://www.wordnik.com/words/violent         |
+| **virology**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/virology        |
 | **virtual**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/virtual         |
 | **vitriolic**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/vitriolic       |
 | **volatility**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/volatility      |
