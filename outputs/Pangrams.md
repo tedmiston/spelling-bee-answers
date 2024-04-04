@@ -25,7 +25,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-659 pangrams
+660 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -594,6 +594,7 @@ Every pangram that's occurred so far.
 | **prickly** <small>*(adj.)*</small>     |       1 | - Having prickles.<br>- Causing trouble or vexation; thorny.                                                                                                                                                   | https://www.wordnik.com/words/prickly         |
 | **probiotic**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/probiotic       |
 | **propaganda**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/propaganda      |
+| **puppylike**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/puppylike       |
 | **quieting**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/quieting        |
 | **rainbow**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/rainbow         |
 | **raindrop**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/raindrop        |
