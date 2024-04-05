@@ -25,7 +25,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-660 pangrams
+661 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -498,6 +498,7 @@ Every pangram that's occurred so far.
 | **mezzotint**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/mezzotint       |
 | **microfilm**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/microfilm       |
 | **midbrain**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/midbrain        |
+| **midtown**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/midtown         |
 | **migrant**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/migrant         |
 | **migrating**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/migrating       |
 | **millionth**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/millionth       |
