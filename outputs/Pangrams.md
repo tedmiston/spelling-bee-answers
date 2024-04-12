@@ -27,7 +27,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-671 pangrams
+672 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -140,6 +140,7 @@ Every pangram that's occurred so far.
 | **bottleful**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/bottleful       |
 | **braving**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/braving         |
 | **braying**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/braying         |
+| **brickbat**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/brickbat        |
 | **broadly**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/broadly         |
 | **brought** <small>*(v.)*</small>       |       1 | Simple past tense and past participle of bring.                                                                                                                                                                | https://www.wordnik.com/words/brought         |
 | **bullfrog**                            |       2 |                                                                                                                                                                                                                | https://www.wordnik.com/words/bullfrog        |
