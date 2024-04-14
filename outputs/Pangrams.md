@@ -27,7 +27,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-675 pangrams
+676 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -573,6 +573,7 @@ Every pangram that's occurred so far.
 | **parking**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/parking         |
 | **patience**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/patience        |
 | **patriotic**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/patriotic       |
+| **pavilion**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/pavilion        |
 | **paycheck**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/paycheck        |
 | **payment**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/payment         |
 | **payphone**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/payphone        |
