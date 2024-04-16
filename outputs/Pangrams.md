@@ -27,7 +27,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-678 pangrams
+679 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -93,6 +93,7 @@ Every pangram that's occurred so far.
 | **autocracy**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/autocracy       |
 | **autonomy**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/autonomy        |
 | **availability** <small>*(n.)*</small>  |       1 | The quality of being available (present and ready for use; at hand; accessible).                                                                                                                               | https://www.wordnik.com/words/availability    |
+| **avalanche**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/avalanche       |
 | **awkwardly**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/awkwardly       |
 | **axiomatic** <small>*(adj.)*</small>   |       1 | Of, relating to, or resembling an axiom; self-evident.                                                                                                                                                         | https://www.wordnik.com/words/axiomatic       |
 | **backboard**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/backboard       |
