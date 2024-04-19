@@ -27,7 +27,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-682 pangrams
+683 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -441,6 +441,7 @@ Every pangram that's occurred so far.
 | **inhabiting**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/inhabiting      |
 | **inhibitor**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/inhibitor       |
 | **initialization**                      |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/initialization  |
+| **inkblot**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/inkblot         |
 | **intelligible**                        |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/intelligible    |
 | **intimidation**                        |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/intimidation    |
 | **intricacy**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/intricacy       |
