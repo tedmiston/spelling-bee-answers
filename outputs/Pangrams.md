@@ -27,7 +27,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-692 pangrams
+693 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -62,6 +62,7 @@ Every pangram that's occurred so far.
 | **ambiance**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/ambiance        |
 | **ambience**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/ambience        |
 | **ambition**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/ambition        |
+| **ambulant**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/ambulant        |
 | **ambulate**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/ambulate        |
 | **ambulette**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/ambulette       |
 | **amenity**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/amenity         |
