@@ -27,7 +27,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-693 pangrams
+694 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -645,6 +645,7 @@ Every pangram that's occurred so far.
 | **thrilling**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/thrilling       |
 | **thruway**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/thruway         |
 | **toothpick**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/toothpick       |
+| **topiary**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/topiary         |
 | **toughen**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/toughen         |
 | **townhome**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/townhome        |
 | **toxified**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/toxified        |
