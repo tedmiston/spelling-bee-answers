@@ -27,7 +27,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-694 pangrams
+695 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -129,6 +129,7 @@ Every pangram that's occurred so far.
 | **biotech**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/biotech         |
 | **biplane** <small>*(n.)*</small>       |       1 | *aviation* An airplane that has two pairs of wings, one above the other                                                                                                                                        | https://www.wordnik.com/words/biplane         |
 | **blading**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/blading         |
+| **blithely**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/blithely        |
 | **blizzard**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/blizzard        |
 | **blockable**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/blockable       |
 | **blocked**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/blocked         |
