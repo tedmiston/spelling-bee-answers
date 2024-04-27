@@ -27,7 +27,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-695 pangrams
+696 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -621,6 +621,7 @@ Every pangram that's occurred so far.
 | **potbelly**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/potbelly        |
 | **potency**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/potency         |
 | **potently**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/potently        |
+| **pothead**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/pothead         |
 | **pranking**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/pranking        |
 | **prickly** <small>*(adj.)*</small>     |       1 | - Having prickles.<br>- Causing trouble or vexation; thorny.                                                                                                                                                   | https://www.wordnik.com/words/prickly         |
 | **probiotic**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/probiotic       |
