@@ -27,7 +27,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-696 pangrams
+697 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -607,6 +607,7 @@ Every pangram that's occurred so far.
 | **pittance**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/pittance        |
 | **pityingly**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/pityingly       |
 | **pivoting**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/pivoting        |
+| **placebo**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/placebo         |
 | **placenta**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/placenta        |
 | **placental**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/placental       |
 | **planking**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/planking        |
