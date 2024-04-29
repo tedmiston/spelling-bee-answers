@@ -27,7 +27,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-697 pangrams
+698 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -453,6 +453,7 @@ Every pangram that's occurred so far.
 | **invalidly**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/invalidly       |
 | **invincible**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/invincible      |
 | **ironworking**                         |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/ironworking     |
+| **italicize**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/italicize       |
 | **itemizing** <small>*(v.)*</small>     |       1 | Present participle of itemize (to list the items of).                                                                                                                                                          | https://www.wordnik.com/words/itemizing       |
 | **jackboot**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/jackboot        |
 | **jackpot**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/jackpot         |
