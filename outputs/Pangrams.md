@@ -27,7 +27,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-698 pangrams
+699 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -633,6 +633,7 @@ Every pangram that's occurred so far.
 | **rainbow**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/rainbow         |
 | **raindrop**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/raindrop        |
 | **rapidly**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/rapidly         |
+| **raunchy**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/raunchy         |
 | **rhythmic**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/rhythmic        |
 | **rocking**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/rocking         |
 | **rollback**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/rollback        |
