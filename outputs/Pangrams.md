@@ -27,7 +27,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-700 pangrams
+702 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -209,6 +209,8 @@ Every pangram that's occurred so far.
 | **compile**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/compile         |
 | **complicit**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/complicit       |
 | **component** <small>*(n.)*</small>     |       1 | A constituent element, as of a system. synonym: element.                                                                                                                                                       | https://www.wordnik.com/words/component       |
+| **conclude**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/conclude        |
+| **concluded**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/concluded       |
 | **concordant**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/concordant      |
 | **condominium**                         |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/condominium     |
 | **conduction**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/conduction      |
