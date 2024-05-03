@@ -8,7 +8,7 @@ Pangrams that have occurred more than once.
 
 <!-- generated multi table start -->
 
-6 pangrams
+7 pangrams
 
 | Word                                 |   Count | Definition Text                                                                                                           | Definition URL                         |
 |--------------------------------------|---------|---------------------------------------------------------------------------------------------------------------------------|----------------------------------------|
@@ -16,6 +16,7 @@ Pangrams that have occurred more than once.
 | **curtain** <small>*(n.)*</small>    |       2 | A piece of fabric or other material that hangs in a window or open space as a decoration, shade, screen, or divider.      | https://www.wordnik.com/words/curtain  |
 | **fanciful** <small>*(adj.)*</small> |       2 | Tending to indulge in fancy.                                                                                              | https://www.wordnik.com/words/fanciful |
 | **fidgety**                          |       2 |                                                                                                                           | https://www.wordnik.com/words/fidgety  |
+| **motorway**                         |       2 |                                                                                                                           | https://www.wordnik.com/words/motorway |
 | **taciturn** <small>*(adj.)*</small> |       2 | Silent or reserved in speech; saying little; not inclined to speak or converse.                                           | https://www.wordnik.com/words/taciturn |
 | **tenacity** <small>*(n.)*</small>   |       2 | The quality or state of being tenacious; as, tenacity, or retentiveness, of memory; tenacity, or persistency, of purpose. | https://www.wordnik.com/words/tenacity |
 
@@ -540,7 +541,7 @@ Every pangram that's occurred so far.
 | **mortify**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/mortify         |
 | **mothball** <small>*(n.)*</small>      |       1 | A marble-sized ball, originally of camphor but now of naphthalene, stored with clothes to repel moths.                                                                                                         | https://www.wordnik.com/words/mothball        |
 | **motivation**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/motivation      |
-| **motorway**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/motorway        |
+| **motorway**                            |       2 |                                                                                                                                                                                                                | https://www.wordnik.com/words/motorway        |
 | **mounted**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/mounted         |
 | **mouthed**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/mouthed         |
 | **multimillion**                        |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/multimillion    |
