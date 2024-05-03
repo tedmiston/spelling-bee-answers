@@ -1,0 +1,52 @@
+{
+  "displayWeekday": "Thursday",
+  "displayDate": "May 2, 2024",
+  "printDate": "2024-05-02",
+  "centerLetter": "w",
+  "outerLetters": [
+    "a",
+    "m",
+    "o",
+    "r",
+    "t",
+    "y"
+  ],
+  "validLetters": [
+    "w",
+    "a",
+    "m",
+    "o",
+    "r",
+    "t",
+    "y"
+  ],
+  "pangrams": [
+    "motorway"
+  ],
+  "answers": [
+    "motorway",
+    "arrow",
+    "arrowroot",
+    "away",
+    "awry",
+    "marrow",
+    "morrow",
+    "tomorrow",
+    "tramway",
+    "warm",
+    "wart",
+    "warty",
+    "wary",
+    "watt",
+    "woot",
+    "worm",
+    "wormy",
+    "worry",
+    "worrywart",
+    "wort",
+    "yarrow"
+  ],
+  "id": 25292,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
