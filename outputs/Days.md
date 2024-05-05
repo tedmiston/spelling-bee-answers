@@ -495,5 +495,6 @@
 | **2024-05-01** | [2024-05-01.json](../days/2024-05-01.json) | [Forum](https://www.nytimes.com/2024/05/01/crosswords/spelling-bee-forum.html) |      72 |          2 |
 | **2024-05-02** | [2024-05-02.json](../days/2024-05-02.json) | [Forum](https://www.nytimes.com/2024/05/02/crosswords/spelling-bee-forum.html) |      21 |          1 |
 | **2024-05-03** | [2024-05-03.json](../days/2024-05-03.json) | [Forum](https://www.nytimes.com/2024/05/03/crosswords/spelling-bee-forum.html) |      49 |          1 |
+| **2024-05-04** | [2024-05-04.json](../days/2024-05-04.json) | [Forum](https://www.nytimes.com/2024/05/04/crosswords/spelling-bee-forum.html) |      46 |          2 |
 
 <!-- generated table end -->
