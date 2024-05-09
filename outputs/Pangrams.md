@@ -29,7 +29,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-710 pangrams
+711 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -640,6 +640,7 @@ Every pangram that's occurred so far.
 | **pranking**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/pranking        |
 | **prickly** <small>*(adj.)*</small>     |       1 | - Having prickles.<br>- Causing trouble or vexation; thorny.                                                                                                                                                   | https://www.wordnik.com/words/prickly         |
 | **probiotic**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/probiotic       |
+| **promotion**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/promotion       |
 | **propaganda**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/propaganda      |
 | **puppylike**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/puppylike       |
 | **quieting**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/quieting        |
