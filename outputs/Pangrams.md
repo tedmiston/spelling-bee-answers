@@ -29,7 +29,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-711 pangrams
+712 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -251,6 +251,7 @@ Every pangram that's occurred so far.
 | **dancehall**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/dancehall       |
 | **daytime**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/daytime         |
 | **daywork**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/daywork         |
+| **dazzling**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/dazzling        |
 | **deathly**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/deathly         |
 | **deceiving**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/deceiving       |
 | **decimate**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/decimate        |
