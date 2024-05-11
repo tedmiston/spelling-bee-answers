@@ -8,7 +8,7 @@ Pangrams that have occurred more than once.
 
 <!-- generated multi table start -->
 
-8 pangrams
+9 pangrams
 
 | Word                                 |   Count | Definition Text                                                                                                           | Definition URL                         |
 |--------------------------------------|---------|---------------------------------------------------------------------------------------------------------------------------|----------------------------------------|
@@ -20,6 +20,7 @@ Pangrams that have occurred more than once.
 | **motorway**                         |       2 |                                                                                                                           | https://www.wordnik.com/words/motorway |
 | **taciturn** <small>*(adj.)*</small> |       2 | Silent or reserved in speech; saying little; not inclined to speak or converse.                                           | https://www.wordnik.com/words/taciturn |
 | **tenacity** <small>*(n.)*</small>   |       2 | The quality or state of being tenacious; as, tenacity, or retentiveness, of memory; tenacity, or persistency, of purpose. | https://www.wordnik.com/words/tenacity |
+| **uncloak** <small>*(v.)*</small>    |       2 | To expose; reveal.                                                                                                        | https://www.wordnik.com/words/uncloak  |
 
 <!-- generated multi table end -->
 
@@ -677,7 +678,7 @@ Every pangram that's occurred so far.
 | **typeface**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/typeface        |
 | **unbuttoned**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/unbuttoned      |
 | **unclenched**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/unclenched      |
-| **uncloak** <small>*(v.)*</small>       |       1 | To expose; reveal.                                                                                                                                                                                             | https://www.wordnik.com/words/uncloak         |
+| **uncloak** <small>*(v.)*</small>       |       2 | To expose; reveal.                                                                                                                                                                                             | https://www.wordnik.com/words/uncloak         |
 | **unconvincing**                        |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/unconvincing    |
 | **undamaged**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/undamaged       |
 | **undoubted**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/undoubted       |
