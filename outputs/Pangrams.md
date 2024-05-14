@@ -30,7 +30,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-715 pangrams
+716 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -241,6 +241,7 @@ Every pangram that's occurred so far.
 | **corkboard**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/corkboard       |
 | **corking**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/corking         |
 | **cornball**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/cornball        |
+| **cornily**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/cornily         |
 | **cotangent**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/cotangent       |
 | **cottonmouth**                         |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/cottonmouth     |
 | **covenant**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/covenant        |
