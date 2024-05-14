@@ -1,0 +1,53 @@
+{
+  "displayWeekday": "Monday",
+  "displayDate": "May 13, 2024",
+  "printDate": "2024-05-13",
+  "centerLetter": "y",
+  "outerLetters": [
+    "c",
+    "i",
+    "l",
+    "n",
+    "o",
+    "r"
+  ],
+  "validLetters": [
+    "y",
+    "c",
+    "i",
+    "l",
+    "n",
+    "o",
+    "r"
+  ],
+  "pangrams": [
+    "cornily"
+  ],
+  "answers": [
+    "cornily",
+    "cloy",
+    "colony",
+    "coolly",
+    "corny",
+    "coyly",
+    "crony",
+    "cryonic",
+    "cyclic",
+    "cynic",
+    "icily",
+    "illy",
+    "irony",
+    "lily",
+    "loony",
+    "lorry",
+    "lyric",
+    "ninny",
+    "nylon",
+    "oily",
+    "oniony",
+    "only"
+  ],
+  "id": 15866,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
