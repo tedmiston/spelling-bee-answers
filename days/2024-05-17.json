@@ -1,0 +1,61 @@
+{
+  "displayWeekday": "Friday",
+  "displayDate": "May 17, 2024",
+  "printDate": "2024-05-17",
+  "centerLetter": "t",
+  "outerLetters": [
+    "b",
+    "c",
+    "d",
+    "e",
+    "j",
+    "o"
+  ],
+  "validLetters": [
+    "t",
+    "b",
+    "c",
+    "d",
+    "e",
+    "j",
+    "o"
+  ],
+  "pangrams": [
+    "objected"
+  ],
+  "answers": [
+    "objected",
+    "beet",
+    "boot",
+    "booted",
+    "bootee",
+    "coot",
+    "cote",
+    "debt",
+    "decoct",
+    "decocted",
+    "deject",
+    "dejected",
+    "detect",
+    "detected",
+    "dote",
+    "doted",
+    "dotted",
+    "eject",
+    "ejected",
+    "jete",
+    "jetted",
+    "jotted",
+    "object",
+    "octet",
+    "teed",
+    "toed",
+    "toot",
+    "tooted",
+    "tote",
+    "toted"
+  ],
+  "id": 25206,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
