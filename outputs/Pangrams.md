@@ -8,7 +8,7 @@ Pangrams that have occurred more than once.
 
 <!-- generated multi table start -->
 
-9 pangrams
+10 pangrams
 
 | Word                                 |   Count | Definition Text                                                                                                           | Definition URL                         |
 |--------------------------------------|---------|---------------------------------------------------------------------------------------------------------------------------|----------------------------------------|
@@ -18,6 +18,7 @@ Pangrams that have occurred more than once.
 | **fanciful** <small>*(adj.)*</small> |       2 | Tending to indulge in fancy.                                                                                              | https://www.wordnik.com/words/fanciful |
 | **fidgety**                          |       2 |                                                                                                                           | https://www.wordnik.com/words/fidgety  |
 | **motorway**                         |       2 |                                                                                                                           | https://www.wordnik.com/words/motorway |
+| **objected**                         |       2 |                                                                                                                           | https://www.wordnik.com/words/objected |
 | **taciturn** <small>*(adj.)*</small> |       2 | Silent or reserved in speech; saying little; not inclined to speak or converse.                                           | https://www.wordnik.com/words/taciturn |
 | **tenacity** <small>*(n.)*</small>   |       2 | The quality or state of being tenacious; as, tenacity, or retentiveness, of memory; tenacity, or persistency, of purpose. | https://www.wordnik.com/words/tenacity |
 | **uncloak** <small>*(v.)*</small>    |       2 | To expose; reveal.                                                                                                        | https://www.wordnik.com/words/uncloak  |
@@ -586,7 +587,7 @@ Every pangram that's occurred so far.
 | **notably** <small>*(adv.)*</small>     |       1 | Especially; in particular.                                                                                                                                                                                     | https://www.wordnik.com/words/notably         |
 | **nuptial**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/nuptial         |
 | **obedience**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/obedience       |
-| **objected**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/objected        |
+| **objected**                            |       2 |                                                                                                                                                                                                                | https://www.wordnik.com/words/objected        |
 | **obliged** <small>*(adj.)*</small>     |       1 | Under an obligation to do something for someone.                                                                                                                                                               | https://www.wordnik.com/words/obliged         |
 | **occupant**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/occupant        |
 | **offhanded**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/offhanded       |
