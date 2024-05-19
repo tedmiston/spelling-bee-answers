@@ -8,20 +8,21 @@ Pangrams that have occurred more than once.
 
 <!-- generated multi table start -->
 
-10 pangrams
+11 pangrams
 
-| Word                                 |   Count | Definition Text                                                                                                           | Definition URL                         |
-|--------------------------------------|---------|---------------------------------------------------------------------------------------------------------------------------|----------------------------------------|
-| **backfill**                         |       2 |                                                                                                                           | https://www.wordnik.com/words/backfill |
-| **bullfrog**                         |       2 |                                                                                                                           | https://www.wordnik.com/words/bullfrog |
-| **curtain** <small>*(n.)*</small>    |       2 | A piece of fabric or other material that hangs in a window or open space as a decoration, shade, screen, or divider.      | https://www.wordnik.com/words/curtain  |
-| **fanciful** <small>*(adj.)*</small> |       2 | Tending to indulge in fancy.                                                                                              | https://www.wordnik.com/words/fanciful |
-| **fidgety**                          |       2 |                                                                                                                           | https://www.wordnik.com/words/fidgety  |
-| **motorway**                         |       2 |                                                                                                                           | https://www.wordnik.com/words/motorway |
-| **objected**                         |       2 |                                                                                                                           | https://www.wordnik.com/words/objected |
-| **taciturn** <small>*(adj.)*</small> |       2 | Silent or reserved in speech; saying little; not inclined to speak or converse.                                           | https://www.wordnik.com/words/taciturn |
-| **tenacity** <small>*(n.)*</small>   |       2 | The quality or state of being tenacious; as, tenacity, or retentiveness, of memory; tenacity, or persistency, of purpose. | https://www.wordnik.com/words/tenacity |
-| **uncloak** <small>*(v.)*</small>    |       2 | To expose; reveal.                                                                                                        | https://www.wordnik.com/words/uncloak  |
+| Word                                 |   Count | Definition Text                                                                                                           | Definition URL                          |
+|--------------------------------------|---------|---------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|
+| **backfill**                         |       2 |                                                                                                                           | https://www.wordnik.com/words/backfill  |
+| **bullfrog**                         |       2 |                                                                                                                           | https://www.wordnik.com/words/bullfrog  |
+| **curtain** <small>*(n.)*</small>    |       2 | A piece of fabric or other material that hangs in a window or open space as a decoration, shade, screen, or divider.      | https://www.wordnik.com/words/curtain   |
+| **fanciful** <small>*(adj.)*</small> |       2 | Tending to indulge in fancy.                                                                                              | https://www.wordnik.com/words/fanciful  |
+| **fidgety**                          |       2 |                                                                                                                           | https://www.wordnik.com/words/fidgety   |
+| **motorway**                         |       2 |                                                                                                                           | https://www.wordnik.com/words/motorway  |
+| **objected**                         |       2 |                                                                                                                           | https://www.wordnik.com/words/objected  |
+| **taciturn** <small>*(adj.)*</small> |       2 | Silent or reserved in speech; saying little; not inclined to speak or converse.                                           | https://www.wordnik.com/words/taciturn  |
+| **tenacity** <small>*(n.)*</small>   |       2 | The quality or state of being tenacious; as, tenacity, or retentiveness, of memory; tenacity, or persistency, of purpose. | https://www.wordnik.com/words/tenacity  |
+| **tributary** <small>*(n.)*</small>  |       2 | A stream that flows into a larger stream or other body of water.                                                          | https://www.wordnik.com/words/tributary |
+| **uncloak** <small>*(v.)*</small>    |       2 | To expose; reveal.                                                                                                        | https://www.wordnik.com/words/uncloak   |
 
 <!-- generated multi table end -->
 
@@ -683,7 +684,7 @@ Every pangram that's occurred so far.
 | **toxified**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/toxified        |
 | **trackpad**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/trackpad        |
 | **traumatic**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/traumatic       |
-| **tributary** <small>*(n.)*</small>     |       1 | A stream that flows into a larger stream or other body of water.                                                                                                                                               | https://www.wordnik.com/words/tributary       |
+| **tributary** <small>*(n.)*</small>     |       2 | A stream that flows into a larger stream or other body of water.                                                                                                                                               | https://www.wordnik.com/words/tributary       |
 | **turnaround**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/turnaround      |
 | **twitching**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/twitching       |
 | **typeface**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/typeface        |
