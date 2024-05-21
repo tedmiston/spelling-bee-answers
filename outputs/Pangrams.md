@@ -32,7 +32,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-725 pangrams
+726 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -673,6 +673,7 @@ Every pangram that's occurred so far.
 | **tailwind**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/tailwind        |
 | **talkative** <small>*(adj.)*</small>   |       1 | Marked by or having a disposition to talk.                                                                                                                                                                     | https://www.wordnik.com/words/talkative       |
 | **tantalization**                       |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/tantalization   |
+| **taxonomy**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/taxonomy        |
 | **telekinetic**                         |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/telekinetic     |
 | **tenacity** <small>*(n.)*</small>      |       2 | The quality or state of being tenacious; as, tenacity, or retentiveness, of memory; tenacity, or persistency, of purpose.                                                                                      | https://www.wordnik.com/words/tenacity        |
 | **thematic** <small>*(adj.)*</small>    |       1 | Relating to, or having a theme or a topic.                                                                                                                                                                     | https://www.wordnik.com/words/thematic        |
