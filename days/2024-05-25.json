@@ -1,0 +1,62 @@
+{
+  "displayWeekday": "Saturday",
+  "displayDate": "May 25, 2024",
+  "printDate": "2024-05-25",
+  "centerLetter": "i",
+  "outerLetters": [
+    "a",
+    "d",
+    "h",
+    "n",
+    "o",
+    "t"
+  ],
+  "validLetters": [
+    "i",
+    "a",
+    "d",
+    "h",
+    "n",
+    "o",
+    "t"
+  ],
+  "pangrams": [
+    "nationhood"
+  ],
+  "answers": [
+    "nationhood",
+    "addition",
+    "anion",
+    "annotation",
+    "anoint",
+    "anti",
+    "attain",
+    "dhoti",
+    "dino",
+    "dint",
+    "ditto",
+    "donation",
+    "hind",
+    "hint",
+    "idiot",
+    "initiation",
+    "into",
+    "intonation",
+    "iota",
+    "naiad",
+    "nation",
+    "ninth",
+    "notation",
+    "notion",
+    "onion",
+    "tahini",
+    "taint",
+    "tannin",
+    "thin",
+    "tint",
+    "titan"
+  ],
+  "id": 13313,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
