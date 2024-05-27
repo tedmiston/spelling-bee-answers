@@ -8,12 +8,13 @@ Pangrams that have occurred more than once.
 
 <!-- generated multi table start -->
 
-11 pangrams
+12 pangrams
 
 | Word                                 |   Count | Definition Text                                                                                                           | Definition URL                          |
 |--------------------------------------|---------|---------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|
 | **backfill**                         |       2 |                                                                                                                           | https://www.wordnik.com/words/backfill  |
 | **bullfrog**                         |       2 |                                                                                                                           | https://www.wordnik.com/words/bullfrog  |
+| **clickable**                        |       2 |                                                                                                                           | https://www.wordnik.com/words/clickable |
 | **curtain** <small>*(n.)*</small>    |       2 | A piece of fabric or other material that hangs in a window or open space as a decoration, shade, screen, or divider.      | https://www.wordnik.com/words/curtain   |
 | **fanciful** <small>*(adj.)*</small> |       2 | Tending to indulge in fancy.                                                                                              | https://www.wordnik.com/words/fanciful  |
 | **fidgety**                          |       2 |                                                                                                                           | https://www.wordnik.com/words/fidgety   |
@@ -195,7 +196,7 @@ Every pangram that's occurred so far.
 | **clawing**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/clawing         |
 | **clementine**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/clementine      |
 | **clenching**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/clenching       |
-| **clickable**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/clickable       |
+| **clickable**                           |       2 |                                                                                                                                                                                                                | https://www.wordnik.com/words/clickable       |
 | **climbable**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/climbable       |
 | **clippable**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/clippable       |
 | **clowned**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/clowned         |
