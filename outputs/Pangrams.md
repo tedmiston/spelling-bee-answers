@@ -8,7 +8,7 @@ Pangrams that have occurred more than once.
 
 <!-- generated multi table start -->
 
-12 pangrams
+13 pangrams
 
 | Word                                 |   Count | Definition Text                                                                                                           | Definition URL                          |
 |--------------------------------------|---------|---------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|
@@ -18,6 +18,7 @@ Pangrams that have occurred more than once.
 | **curtain** <small>*(n.)*</small>    |       2 | A piece of fabric or other material that hangs in a window or open space as a decoration, shade, screen, or divider.      | https://www.wordnik.com/words/curtain   |
 | **fanciful** <small>*(adj.)*</small> |       2 | Tending to indulge in fancy.                                                                                              | https://www.wordnik.com/words/fanciful  |
 | **fidgety**                          |       2 |                                                                                                                           | https://www.wordnik.com/words/fidgety   |
+| **handily**                          |       2 |                                                                                                                           | https://www.wordnik.com/words/handily   |
 | **motorway**                         |       2 |                                                                                                                           | https://www.wordnik.com/words/motorway  |
 | **objected**                         |       2 |                                                                                                                           | https://www.wordnik.com/words/objected  |
 | **taciturn** <small>*(adj.)*</small> |       2 | Silent or reserved in speech; saying little; not inclined to speak or converse.                                           | https://www.wordnik.com/words/taciturn  |
@@ -393,7 +394,7 @@ Every pangram that's occurred so far.
 | **halogen**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/halogen         |
 | **handbill**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/handbill        |
 | **handicap**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/handicap        |
-| **handily**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/handily         |
+| **handily**                             |       2 |                                                                                                                                                                                                                | https://www.wordnik.com/words/handily         |
 | **handling**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/handling        |
 | **handout**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/handout         |
 | **hangable**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/hangable        |
