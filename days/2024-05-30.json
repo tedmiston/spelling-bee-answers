@@ -1,0 +1,63 @@
+{
+  "displayWeekday": "Thursday",
+  "displayDate": "May 30, 2024",
+  "printDate": "2024-05-30",
+  "centerLetter": "u",
+  "outerLetters": [
+    "g",
+    "i",
+    "n",
+    "o",
+    "q",
+    "t"
+  ],
+  "validLetters": [
+    "u",
+    "g",
+    "i",
+    "n",
+    "o",
+    "q",
+    "t"
+  ],
+  "pangrams": [
+    "quoting"
+  ],
+  "answers": [
+    "quoting",
+    "gouging",
+    "gout",
+    "gunning",
+    "gutting",
+    "intuit",
+    "intuiting",
+    "intuition",
+    "nonunion",
+    "noun",
+    "outgo",
+    "outgoing",
+    "outgun",
+    "outgunning",
+    "outing",
+    "quint",
+    "quit",
+    "quitting",
+    "tonguing",
+    "tout",
+    "touting",
+    "tugging",
+    "tuition",
+    "tuning",
+    "tutti",
+    "tutting",
+    "tutu",
+    "union",
+    "unit",
+    "uniting",
+    "unto",
+    "untuning"
+  ],
+  "id": 11674,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
