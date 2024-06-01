@@ -34,7 +34,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-740 pangrams
+742 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -743,6 +743,8 @@ Every pangram that's occurred so far.
 | **venially**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/venially        |
 | **viability** <small>*(n.)*</small>     |       1 | The property of being viable; the ability to live or to succeed.                                                                                                                                               | https://www.wordnik.com/words/viability       |
 | **vibrant**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/vibrant         |
+| **vibrato**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/vibrato         |
+| **vibrator**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/vibrator        |
 | **victimize**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/victimize       |
 | **vigilant**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/vigilant        |
 | **vincible**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/vincible        |
