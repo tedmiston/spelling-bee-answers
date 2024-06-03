@@ -34,7 +34,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-744 pangrams
+745 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -593,6 +593,7 @@ Every pangram that's occurred so far.
 | **nighttime**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/nighttime       |
 | **noblewomen**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/noblewomen      |
 | **nomadic**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/nomadic         |
+| **nonalcoholic**                        |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/nonalcoholic    |
 | **nonapology**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/nonapology      |
 | **nonbelief**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/nonbelief       |
 | **noncombatant**                        |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/noncombatant    |
