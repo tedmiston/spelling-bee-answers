@@ -1,0 +1,62 @@
+{
+  "displayWeekday": "Monday",
+  "displayDate": "June 3, 2024",
+  "printDate": "2024-06-03",
+  "centerLetter": "t",
+  "outerLetters": [
+    "d",
+    "g",
+    "h",
+    "n",
+    "o",
+    "u"
+  ],
+  "validLetters": [
+    "t",
+    "d",
+    "g",
+    "h",
+    "n",
+    "o",
+    "u"
+  ],
+  "pangrams": [
+    "doughnut"
+  ],
+  "answers": [
+    "doughnut",
+    "donut",
+    "doth",
+    "dugout",
+    "goth",
+    "gout",
+    "hoot",
+    "hotdog",
+    "hunt",
+    "nought",
+    "onto",
+    "ought",
+    "outdo",
+    "outgo",
+    "outgun",
+    "outthought",
+    "thong",
+    "thou",
+    "though",
+    "thought",
+    "thud",
+    "thug",
+    "tong",
+    "toon",
+    "toot",
+    "tooth",
+    "tough",
+    "tout",
+    "tutu",
+    "unthought",
+    "unto"
+  ],
+  "id": 7131,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
