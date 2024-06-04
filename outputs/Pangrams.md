@@ -34,7 +34,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-745 pangrams
+746 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -297,6 +297,7 @@ Every pangram that's occurred so far.
 | **domination**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/domination      |
 | **doornail**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/doornail        |
 | **dormitory** <small>*(n.)*</small>     |       1 | A building for housing a number of persons, as at a school or resort.                                                                                                                                          | https://www.wordnik.com/words/dormitory       |
+| **doughnut**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/doughnut        |
 | **downloaded**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/downloaded      |
 | **draconian** <small>*(adj.)*</small>   |       1 | A code of laws made by Draco. Their measures were so severe that they were said to be written in letters of blood; hence, any laws of excessive rigor.                                                         | https://www.wordnik.com/words/draconian       |
 | **draconic** <small>*(adj.)*</small>    |       1 | - Of or suggestive of a dragon.<br>- Draconian.                                                                                                                                                                | https://www.wordnik.com/words/draconic        |
