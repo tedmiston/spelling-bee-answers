@@ -34,7 +34,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-747 pangrams
+748 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -121,6 +121,7 @@ Every pangram that's occurred so far.
 | **beanpole**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/beanpole        |
 | **beatific**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/beatific        |
 | **bedfellow**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/bedfellow       |
+| **beekeeping**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/beekeeping      |
 | **believing**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/believing       |
 | **belittlement**                        |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/belittlement    |
 | **belittling**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/belittling      |
