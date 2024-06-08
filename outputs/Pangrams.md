@@ -34,7 +34,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-752 pangrams
+753 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -168,6 +168,7 @@ Every pangram that's occurred so far.
 | **burgling**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/burgling        |
 | **buttoned**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/buttoned        |
 | **caboodle**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/caboodle        |
+| **cacophony**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/cacophony       |
 | **calculator**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/calculator      |
 | **calorific**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/calorific       |
 | **canonically**                         |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/canonically     |
