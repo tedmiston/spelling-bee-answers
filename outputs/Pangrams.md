@@ -34,7 +34,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-757 pangrams
+758 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -140,6 +140,7 @@ Every pangram that's occurred so far.
 | **billboard**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/billboard       |
 | **billeting**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/billeting       |
 | **billionth**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/billionth       |
+| **biological**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/biological      |
 | **biotech**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/biotech         |
 | **biplane** <small>*(n.)*</small>       |       1 | *aviation* An airplane that has two pairs of wings, one above the other                                                                                                                                        | https://www.wordnik.com/words/biplane         |
 | **blading**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/blading         |
