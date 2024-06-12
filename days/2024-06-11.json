@@ -1,0 +1,55 @@
+{
+  "displayWeekday": "Tuesday",
+  "displayDate": "June 11, 2024",
+  "printDate": "2024-06-11",
+  "centerLetter": "m",
+  "outerLetters": [
+    "e",
+    "g",
+    "i",
+    "l",
+    "t",
+    "z"
+  ],
+  "validLetters": [
+    "m",
+    "e",
+    "g",
+    "i",
+    "l",
+    "t",
+    "z"
+  ],
+  "pangrams": [
+    "legitimize"
+  ],
+  "answers": [
+    "legitimize",
+    "emit",
+    "gimlet",
+    "gimme",
+    "item",
+    "itemize",
+    "lime",
+    "limit",
+    "meet",
+    "melee",
+    "melt",
+    "meme",
+    "mete",
+    "mettle",
+    "meze",
+    "mezze",
+    "mile",
+    "mill",
+    "millet",
+    "mime",
+    "mite",
+    "mitt",
+    "teem",
+    "time"
+  ],
+  "id": 24940,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
