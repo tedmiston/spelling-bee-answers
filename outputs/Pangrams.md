@@ -34,7 +34,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-759 pangrams
+760 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -311,6 +311,7 @@ Every pangram that's occurred so far.
 | **draconian** <small>*(adj.)*</small>   |       1 | A code of laws made by Draco. Their measures were so severe that they were said to be written in letters of blood; hence, any laws of excessive rigor.                                                         | https://www.wordnik.com/words/draconian       |
 | **draconic** <small>*(adj.)*</small>    |       1 | - Of or suggestive of a dragon.<br>- Draconian.                                                                                                                                                                | https://www.wordnik.com/words/draconic        |
 | **ductility**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/ductility       |
+| **educable**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/educable        |
 | **effecting**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/effecting       |
 | **effectual**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/effectual       |
 | **ejectable**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/ejectable       |
