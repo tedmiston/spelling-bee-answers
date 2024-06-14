@@ -34,7 +34,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-760 pangrams
+761 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -603,6 +603,7 @@ Every pangram that's occurred so far.
 | **nationhood**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/nationhood      |
 | **neolith**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/neolith         |
 | **nicknaming** <small>*(v.)*</small>    |       1 | Present participle of nickname (a descriptive name added to or replacing the actual name of a person, place, or thing).                                                                                        | https://www.wordnik.com/words/nicknaming      |
+| **nightly**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/nightly         |
 | **nighttime**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/nighttime       |
 | **noblewomen**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/noblewomen      |
 | **nomadic**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/nomadic         |
