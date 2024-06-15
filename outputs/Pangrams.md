@@ -34,7 +34,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-761 pangrams
+762 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -710,6 +710,7 @@ Every pangram that's occurred so far.
 | **theming**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/theming         |
 | **thrilling**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/thrilling       |
 | **thruway**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/thruway         |
+| **tomahawk**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/tomahawk        |
 | **toothpick**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/toothpick       |
 | **topiary**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/topiary         |
 | **toughen**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/toughen         |
