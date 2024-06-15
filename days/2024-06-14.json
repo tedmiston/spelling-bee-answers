@@ -1,0 +1,60 @@
+{
+  "displayWeekday": "Friday",
+  "displayDate": "June 14, 2024",
+  "printDate": "2024-06-14",
+  "centerLetter": "a",
+  "outerLetters": [
+    "h",
+    "k",
+    "m",
+    "o",
+    "t",
+    "w"
+  ],
+  "validLetters": [
+    "a",
+    "h",
+    "k",
+    "m",
+    "o",
+    "t",
+    "w"
+  ],
+  "pangrams": [
+    "tomahawk"
+  ],
+  "answers": [
+    "tomahawk",
+    "ammo",
+    "amok",
+    "atom",
+    "haka",
+    "hath",
+    "hatha",
+    "hawk",
+    "hookah",
+    "mahatma",
+    "mako",
+    "mama",
+    "mamma",
+    "mammoth",
+    "math",
+    "moat",
+    "mohawk",
+    "momma",
+    "oath",
+    "tattoo",
+    "that",
+    "thaw",
+    "tomato",
+    "wahoo",
+    "watt",
+    "wham",
+    "whammo",
+    "what",
+    "whoa"
+  ],
+  "id": 1295,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
