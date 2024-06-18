@@ -1,0 +1,53 @@
+{
+  "displayWeekday": "Monday",
+  "displayDate": "June 17, 2024",
+  "printDate": "2024-06-17",
+  "centerLetter": "n",
+  "outerLetters": [
+    "c",
+    "d",
+    "m",
+    "o",
+    "p",
+    "u"
+  ],
+  "validLetters": [
+    "n",
+    "c",
+    "d",
+    "m",
+    "o",
+    "p",
+    "u"
+  ],
+  "pangrams": [
+    "compound"
+  ],
+  "answers": [
+    "compound",
+    "cocoon",
+    "codon",
+    "common",
+    "condo",
+    "condom",
+    "coupon",
+    "dunno",
+    "mondo",
+    "mono",
+    "monopod",
+    "moon",
+    "mound",
+    "noncom",
+    "noon",
+    "noun",
+    "pond",
+    "pound",
+    "udon",
+    "uncommon",
+    "undo",
+    "upon"
+  ],
+  "id": 7956,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
