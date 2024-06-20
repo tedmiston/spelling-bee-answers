@@ -34,7 +34,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-769 pangrams
+770 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -668,6 +668,7 @@ Every pangram that's occurred so far.
 | **pinhead**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/pinhead         |
 | **pinheaded**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/pinheaded       |
 | **pittance**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/pittance        |
+| **pituitary**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/pituitary       |
 | **pityingly**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/pityingly       |
 | **pivoting**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/pivoting        |
 | **placebo**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/placebo         |
