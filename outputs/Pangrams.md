@@ -34,7 +34,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-770 pangrams
+771 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -344,6 +344,7 @@ Every pangram that's occurred so far.
 | **evoking**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/evoking         |
 | **evolving**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/evolving        |
 | **excavated**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/excavated       |
+| **excelling**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/excelling       |
 | **excitement**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/excitement      |
 | **expending**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/expending       |
 | **expletive**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/expletive       |
