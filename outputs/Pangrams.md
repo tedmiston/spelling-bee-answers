@@ -8,10 +8,11 @@ Pangrams that have occurred more than once.
 
 <!-- generated multi table start -->
 
-13 pangrams
+14 pangrams
 
 | Word                                 |   Count | Definition Text                                                                                                           | Definition URL                          |
 |--------------------------------------|---------|---------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|
+| **although**                         |       2 |                                                                                                                           | https://www.wordnik.com/words/although  |
 | **backfill**                         |       2 |                                                                                                                           | https://www.wordnik.com/words/backfill  |
 | **bullfrog**                         |       2 |                                                                                                                           | https://www.wordnik.com/words/bullfrog  |
 | **clickable**                        |       2 |                                                                                                                           | https://www.wordnik.com/words/clickable |
@@ -68,7 +69,7 @@ Every pangram that's occurred so far.
 | **alligator**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/alligator       |
 | **allowance** <small>*(n.)*</small>     |       1 | Something, such as money, given at regular intervals or for a specific purpose.                                                                                                                                | https://www.wordnik.com/words/allowance       |
 | **alright**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/alright         |
-| **although**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/although        |
+| **although**                            |       2 |                                                                                                                                                                                                                | https://www.wordnik.com/words/although        |
 | **altitudinal**                         |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/altitudinal     |
 | **ambiance**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/ambiance        |
 | **ambience**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/ambience        |
