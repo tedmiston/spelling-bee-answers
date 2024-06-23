@@ -35,7 +35,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-771 pangrams
+773 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -83,8 +83,10 @@ Every pangram that's occurred so far.
 | **analyzed**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/analyzed        |
 | **analyzing**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/analyzing       |
 | **anklebone**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/anklebone       |
+| **anonymity**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/anonymity       |
 | **anticipate**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/anticipate      |
 | **anticlimactic**                       |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/anticlimactic   |
+| **antimony**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/antimony        |
 | **antioxidant**                         |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/antioxidant     |
 | **anytime**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/anytime         |
 | **appendix**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/appendix        |
