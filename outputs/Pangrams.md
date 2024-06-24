@@ -8,13 +8,14 @@ Pangrams that have occurred more than once.
 
 <!-- generated multi table start -->
 
-14 pangrams
+15 pangrams
 
 | Word                                 |   Count | Definition Text                                                                                                           | Definition URL                          |
 |--------------------------------------|---------|---------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|
 | **although**                         |       2 |                                                                                                                           | https://www.wordnik.com/words/although  |
 | **backfill**                         |       2 |                                                                                                                           | https://www.wordnik.com/words/backfill  |
 | **bullfrog**                         |       2 |                                                                                                                           | https://www.wordnik.com/words/bullfrog  |
+| **buoyant**                          |       2 |                                                                                                                           | https://www.wordnik.com/words/buoyant   |
 | **clickable**                        |       2 |                                                                                                                           | https://www.wordnik.com/words/clickable |
 | **curtain** <small>*(n.)*</small>    |       2 | A piece of fabric or other material that hangs in a window or open space as a decoration, shade, screen, or divider.      | https://www.wordnik.com/words/curtain   |
 | **fanciful** <small>*(adj.)*</small> |       2 | Tending to indulge in fancy.                                                                                              | https://www.wordnik.com/words/fanciful  |
@@ -169,7 +170,7 @@ Every pangram that's occurred so far.
 | **brought** <small>*(v.)*</small>       |       1 | Simple past tense and past participle of bring.                                                                                                                                                                | https://www.wordnik.com/words/brought         |
 | **bullfrog**                            |       2 |                                                                                                                                                                                                                | https://www.wordnik.com/words/bullfrog        |
 | **bullring**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/bullring        |
-| **buoyant**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/buoyant         |
+| **buoyant**                             |       2 |                                                                                                                                                                                                                | https://www.wordnik.com/words/buoyant         |
 | **burbling**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/burbling        |
 | **burgling**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/burgling        |
 | **buttoned**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/buttoned        |
