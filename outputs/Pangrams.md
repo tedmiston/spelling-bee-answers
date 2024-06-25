@@ -8,7 +8,7 @@ Pangrams that have occurred more than once.
 
 <!-- generated multi table start -->
 
-15 pangrams
+17 pangrams
 
 | Word                                 |   Count | Definition Text                                                                                                           | Definition URL                          |
 |--------------------------------------|---------|---------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|
@@ -21,6 +21,8 @@ Pangrams that have occurred more than once.
 | **fanciful** <small>*(adj.)*</small> |       2 | Tending to indulge in fancy.                                                                                              | https://www.wordnik.com/words/fanciful  |
 | **fidgety**                          |       2 |                                                                                                                           | https://www.wordnik.com/words/fidgety   |
 | **handily**                          |       2 |                                                                                                                           | https://www.wordnik.com/words/handily   |
+| **hiccuped** <small>*(v.)*</small>   |       2 | Simple past tense and past participle of hiccup (a spasm of the diaphragm, or the resulting sound).                       | https://www.wordnik.com/words/hiccuped  |
+| **hiccupped** <small>*(v.)*</small>  |       2 | Simple past tense and past participle of hiccup (a spasm of the diaphragm, or the resulting sound).                       | https://www.wordnik.com/words/hiccupped |
 | **motorway**                         |       2 |                                                                                                                           | https://www.wordnik.com/words/motorway  |
 | **objected**                         |       2 |                                                                                                                           | https://www.wordnik.com/words/objected  |
 | **taciturn** <small>*(adj.)*</small> |       2 | Silent or reserved in speech; saying little; not inclined to speak or converse.                                           | https://www.wordnik.com/words/taciturn  |
@@ -438,8 +440,8 @@ Every pangram that's occurred so far.
 | **hegemony**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/hegemony        |
 | **hematic** <small>*(adj.)*</small>     |       1 | Of, relating to, resembling, containing, or acting on blood.                                                                                                                                                   | https://www.wordnik.com/words/hematic         |
 | **hemlock**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/hemlock         |
-| **hiccuped** <small>*(v.)*</small>      |       1 | Simple past tense and past participle of hiccup (a spasm of the diaphragm, or the resulting sound).                                                                                                            | https://www.wordnik.com/words/hiccuped        |
-| **hiccupped** <small>*(v.)*</small>     |       1 | Simple past tense and past participle of hiccup (a spasm of the diaphragm, or the resulting sound).                                                                                                            | https://www.wordnik.com/words/hiccupped       |
+| **hiccuped** <small>*(v.)*</small>      |       2 | Simple past tense and past participle of hiccup (a spasm of the diaphragm, or the resulting sound).                                                                                                            | https://www.wordnik.com/words/hiccuped        |
+| **hiccupped** <small>*(v.)*</small>     |       2 | Simple past tense and past participle of hiccup (a spasm of the diaphragm, or the resulting sound).                                                                                                            | https://www.wordnik.com/words/hiccupped       |
 | **highland**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/highland        |
 | **holiday**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/holiday         |
 | **hologram**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/hologram        |
