@@ -1,0 +1,55 @@
+{
+  "displayWeekday": "Tuesday",
+  "displayDate": "June 25, 2024",
+  "printDate": "2024-06-25",
+  "centerLetter": "k",
+  "outerLetters": [
+    "a",
+    "g",
+    "i",
+    "l",
+    "n",
+    "r"
+  ],
+  "validLetters": [
+    "k",
+    "a",
+    "g",
+    "i",
+    "l",
+    "n",
+    "r"
+  ],
+  "pangrams": [
+    "rankling"
+  ],
+  "answers": [
+    "rankling",
+    "akin",
+    "alkali",
+    "inking",
+    "inkling",
+    "irking",
+    "kill",
+    "killing",
+    "kiln",
+    "kilning",
+    "king",
+    "kinging",
+    "kink",
+    "kinking",
+    "krill",
+    "lank",
+    "lark",
+    "liking",
+    "link",
+    "linking",
+    "raking",
+    "rank",
+    "ranking",
+    "rink"
+  ],
+  "id": 24201,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
