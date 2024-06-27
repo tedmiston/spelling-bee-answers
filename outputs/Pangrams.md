@@ -8,12 +8,13 @@ Pangrams that have occurred more than once.
 
 <!-- generated multi table start -->
 
-17 pangrams
+18 pangrams
 
 | Word                                 |   Count | Definition Text                                                                                                           | Definition URL                          |
 |--------------------------------------|---------|---------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|
 | **although**                         |       2 |                                                                                                                           | https://www.wordnik.com/words/although  |
 | **backfill**                         |       2 |                                                                                                                           | https://www.wordnik.com/words/backfill  |
+| **beachcomb**                        |       2 |                                                                                                                           | https://www.wordnik.com/words/beachcomb |
 | **bullfrog**                         |       2 |                                                                                                                           | https://www.wordnik.com/words/bullfrog  |
 | **buoyant**                          |       2 |                                                                                                                           | https://www.wordnik.com/words/buoyant   |
 | **clickable**                        |       2 |                                                                                                                           | https://www.wordnik.com/words/clickable |
@@ -126,7 +127,7 @@ Every pangram that's occurred so far.
 | **banality**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/banality        |
 | **baptize**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/baptize         |
 | **bathing**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/bathing         |
-| **beachcomb**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/beachcomb       |
+| **beachcomb**                           |       2 |                                                                                                                                                                                                                | https://www.wordnik.com/words/beachcomb       |
 | **beanpole**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/beanpole        |
 | **beatific**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/beatific        |
 | **bedfellow**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/bedfellow       |
