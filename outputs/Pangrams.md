@@ -39,7 +39,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-774 pangrams
+776 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -812,6 +812,8 @@ Every pangram that's occurred so far.
 | **workday**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/workday         |
 | **working**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/working         |
 | **workload**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/workload        |
+| **workman**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/workman         |
+| **workwoman**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/workwoman       |
 | **wrapping**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/wrapping        |
 | **wrought**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/wrought         |
 | **yardwork**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/yardwork        |
