@@ -8,7 +8,7 @@ Pangrams that have occurred more than once.
 
 <!-- generated multi table start -->
 
-18 pangrams
+19 pangrams
 
 | Word                                 |   Count | Definition Text                                                                                                           | Definition URL                          |
 |--------------------------------------|---------|---------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|
@@ -30,6 +30,7 @@ Pangrams that have occurred more than once.
 | **tenacity** <small>*(n.)*</small>   |       2 | The quality or state of being tenacious; as, tenacity, or retentiveness, of memory; tenacity, or persistency, of purpose. | https://www.wordnik.com/words/tenacity  |
 | **tributary** <small>*(n.)*</small>  |       2 | A stream that flows into a larger stream or other body of water.                                                          | https://www.wordnik.com/words/tributary |
 | **uncloak** <small>*(v.)*</small>    |       2 | To expose; reveal.                                                                                                        | https://www.wordnik.com/words/uncloak   |
+| **voltage**                          |       2 |                                                                                                                           | https://www.wordnik.com/words/voltage   |
 
 <!-- generated multi table end -->
 
@@ -789,7 +790,7 @@ Every pangram that's occurred so far.
 | **vitriolic**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/vitriolic       |
 | **volatility**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/volatility      |
 | **volleyball**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/volleyball      |
-| **voltage**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/voltage         |
+| **voltage**                             |       2 |                                                                                                                                                                                                                | https://www.wordnik.com/words/voltage         |
 | **vulpine**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/vulpine         |
 | **wakening**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/wakening        |
 | **walkout**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/walkout         |
