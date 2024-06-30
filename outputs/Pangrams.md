@@ -40,7 +40,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-776 pangrams
+777 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -403,6 +403,7 @@ Every pangram that's occurred so far.
 | **genealogy**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/genealogy       |
 | **girlhood**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/girlhood        |
 | **glamour**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/glamour         |
+| **glandular**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/glandular       |
 | **glitching**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/glitching       |
 | **glorify**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/glorify         |
 | **godchild**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/godchild        |
