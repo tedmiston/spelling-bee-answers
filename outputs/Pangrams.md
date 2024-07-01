@@ -8,7 +8,7 @@ Pangrams that have occurred more than once.
 
 <!-- generated multi table start -->
 
-19 pangrams
+20 pangrams
 
 | Word                                 |   Count | Definition Text                                                                                                           | Definition URL                          |
 |--------------------------------------|---------|---------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|
@@ -26,6 +26,7 @@ Pangrams that have occurred more than once.
 | **hiccupped** <small>*(v.)*</small>  |       2 | Simple past tense and past participle of hiccup (a spasm of the diaphragm, or the resulting sound).                       | https://www.wordnik.com/words/hiccupped |
 | **motorway**                         |       2 |                                                                                                                           | https://www.wordnik.com/words/motorway  |
 | **objected**                         |       2 |                                                                                                                           | https://www.wordnik.com/words/objected  |
+| **rainbow**                          |       2 |                                                                                                                           | https://www.wordnik.com/words/rainbow   |
 | **taciturn** <small>*(adj.)*</small> |       2 | Silent or reserved in speech; saying little; not inclined to speak or converse.                                           | https://www.wordnik.com/words/taciturn  |
 | **tenacity** <small>*(n.)*</small>   |       2 | The quality or state of being tenacious; as, tenacity, or retentiveness, of memory; tenacity, or persistency, of purpose. | https://www.wordnik.com/words/tenacity  |
 | **tributary** <small>*(n.)*</small>  |       2 | A stream that flows into a larger stream or other body of water.                                                          | https://www.wordnik.com/words/tributary |
@@ -706,7 +707,7 @@ Every pangram that's occurred so far.
 | **puppylike**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/puppylike       |
 | **quieting**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/quieting        |
 | **quoting**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/quoting         |
-| **rainbow**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/rainbow         |
+| **rainbow**                             |       2 |                                                                                                                                                                                                                | https://www.wordnik.com/words/rainbow         |
 | **raindrop**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/raindrop        |
 | **rankling**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/rankling        |
 | **rapidly**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/rapidly         |
