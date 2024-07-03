@@ -1,0 +1,62 @@
+{
+  "displayWeekday": "Tuesday",
+  "displayDate": "July 2, 2024",
+  "printDate": "2024-07-02",
+  "centerLetter": "r",
+  "outerLetters": [
+    "a",
+    "f",
+    "l",
+    "o",
+    "u",
+    "v"
+  ],
+  "validLetters": [
+    "r",
+    "a",
+    "f",
+    "l",
+    "o",
+    "u",
+    "v"
+  ],
+  "pangrams": [
+    "flavorful"
+  ],
+  "answers": [
+    "flavorful",
+    "afar",
+    "afro",
+    "aura",
+    "aural",
+    "aurora",
+    "auroral",
+    "farro",
+    "favor",
+    "flavor",
+    "floor",
+    "flora",
+    "floral",
+    "flour",
+    "fora",
+    "four",
+    "froufrou",
+    "furl",
+    "furor",
+    "larva",
+    "larval",
+    "oral",
+    "ovular",
+    "roar",
+    "roll",
+    "roof",
+    "ruff",
+    "rural",
+    "uvular",
+    "valor",
+    "vulvar"
+  ],
+  "id": 27187,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
