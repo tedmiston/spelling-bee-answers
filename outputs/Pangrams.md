@@ -8,7 +8,7 @@ Pangrams that have occurred more than once.
 
 <!-- generated multi table start -->
 
-20 pangrams
+21 pangrams
 
 | Word                                 |   Count | Definition Text                                                                                                           | Definition URL                          |
 |--------------------------------------|---------|---------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|
@@ -21,6 +21,7 @@ Pangrams that have occurred more than once.
 | **curtain** <small>*(n.)*</small>    |       2 | A piece of fabric or other material that hangs in a window or open space as a decoration, shade, screen, or divider.      | https://www.wordnik.com/words/curtain   |
 | **fanciful** <small>*(adj.)*</small> |       2 | Tending to indulge in fancy.                                                                                              | https://www.wordnik.com/words/fanciful  |
 | **fidgety**                          |       2 |                                                                                                                           | https://www.wordnik.com/words/fidgety   |
+| **flavorful**                        |       2 |                                                                                                                           | https://www.wordnik.com/words/flavorful |
 | **handily**                          |       2 |                                                                                                                           | https://www.wordnik.com/words/handily   |
 | **hiccuped** <small>*(v.)*</small>   |       2 | Simple past tense and past participle of hiccup (a spasm of the diaphragm, or the resulting sound).                       | https://www.wordnik.com/words/hiccuped  |
 | **hiccupped** <small>*(v.)*</small>  |       2 | Simple past tense and past participle of hiccup (a spasm of the diaphragm, or the resulting sound).                       | https://www.wordnik.com/words/hiccupped |
@@ -381,7 +382,7 @@ Every pangram that's occurred so far.
 | **flaking**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/flaking         |
 | **flanked**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/flanked         |
 | **flanking**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/flanking        |
-| **flavorful**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/flavorful       |
+| **flavorful**                           |       2 |                                                                                                                                                                                                                | https://www.wordnik.com/words/flavorful       |
 | **flexion**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/flexion         |
 | **flighty**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/flighty         |
 | **flipflopping**                        |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/flipflopping    |
