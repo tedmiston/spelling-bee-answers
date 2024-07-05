@@ -42,7 +42,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-782 pangrams
+783 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -527,6 +527,7 @@ Every pangram that's occurred so far.
 | **jailbird**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/jailbird        |
 | **janitor** <small>*(n.)*</small>       |       1 | One who attends to the maintenance or cleaning of a building.                                                                                                                                                  | https://www.wordnik.com/words/janitor         |
 | **jocular**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/jocular         |
+| **jollying**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/jollying        |
 | **jouncing**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/jouncing        |
 | **judicial** <small>*(adj.)*</small>    |       1 | Of, relating to, or proper to courts of law or to the administration of justice.                                                                                                                               | https://www.wordnik.com/words/judicial        |
 | **juvenile**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/juvenile        |
