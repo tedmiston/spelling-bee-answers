@@ -1,0 +1,49 @@
+{
+  "displayWeekday": "Thursday",
+  "displayDate": "July 4, 2024",
+  "printDate": "2024-07-04",
+  "centerLetter": "j",
+  "outerLetters": [
+    "g",
+    "i",
+    "l",
+    "n",
+    "o",
+    "y"
+  ],
+  "validLetters": [
+    "j",
+    "g",
+    "i",
+    "l",
+    "n",
+    "o",
+    "y"
+  ],
+  "pangrams": [
+    "jollying"
+  ],
+  "answers": [
+    "jollying",
+    "jigging",
+    "jiggling",
+    "jiggly",
+    "jiggy",
+    "jillion",
+    "jingling",
+    "jingly",
+    "jingo",
+    "jinn",
+    "jinni",
+    "jogging",
+    "joggling",
+    "join",
+    "joining",
+    "jollily",
+    "jolly",
+    "joying"
+  ],
+  "id": 14187,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
