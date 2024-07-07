@@ -8,13 +8,14 @@ Pangrams that have occurred more than once.
 
 <!-- generated multi table start -->
 
-21 pangrams
+22 pangrams
 
 | Word                                 |   Count | Definition Text                                                                                                           | Definition URL                          |
 |--------------------------------------|---------|---------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|
 | **although**                         |       2 |                                                                                                                           | https://www.wordnik.com/words/although  |
 | **backfill**                         |       2 |                                                                                                                           | https://www.wordnik.com/words/backfill  |
 | **beachcomb**                        |       2 |                                                                                                                           | https://www.wordnik.com/words/beachcomb |
+| **biotech**                          |       2 |                                                                                                                           | https://www.wordnik.com/words/biotech   |
 | **bullfrog**                         |       2 |                                                                                                                           | https://www.wordnik.com/words/bullfrog  |
 | **buoyant**                          |       2 |                                                                                                                           | https://www.wordnik.com/words/buoyant   |
 | **clickable**                        |       2 |                                                                                                                           | https://www.wordnik.com/words/clickable |
@@ -152,7 +153,7 @@ Every pangram that's occurred so far.
 | **billeting**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/billeting       |
 | **billionth**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/billionth       |
 | **biological**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/biological      |
-| **biotech**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/biotech         |
+| **biotech**                             |       2 |                                                                                                                                                                                                                | https://www.wordnik.com/words/biotech         |
 | **biplane** <small>*(n.)*</small>       |       1 | *aviation* An airplane that has two pairs of wings, one above the other                                                                                                                                        | https://www.wordnik.com/words/biplane         |
 | **blading**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/blading         |
 | **blithely**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/blithely        |
