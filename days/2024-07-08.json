@@ -1,0 +1,60 @@
+{
+  "displayWeekday": "Monday",
+  "displayDate": "July 8, 2024",
+  "printDate": "2024-07-08",
+  "centerLetter": "h",
+  "outerLetters": [
+    "a",
+    "i",
+    "l",
+    "n",
+    "o",
+    "t"
+  ],
+  "validLetters": [
+    "h",
+    "a",
+    "i",
+    "l",
+    "n",
+    "o",
+    "t"
+  ],
+  "pangrams": [
+    "annihilation",
+    "inhalation"
+  ],
+  "answers": [
+    "annihilation",
+    "inhalation",
+    "aloha",
+    "anthill",
+    "hail",
+    "halal",
+    "hall",
+    "halo",
+    "halt",
+    "hath",
+    "hatha",
+    "hill",
+    "hilt",
+    "hint",
+    "holt",
+    "hoot",
+    "inhalant",
+    "lath",
+    "litho",
+    "loath",
+    "ninth",
+    "oath",
+    "tahini",
+    "than",
+    "that",
+    "thin",
+    "tilth",
+    "tooth"
+  ],
+  "id": 16971,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
