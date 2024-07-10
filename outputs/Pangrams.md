@@ -43,7 +43,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-791 pangrams
+792 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -175,6 +175,7 @@ Every pangram that's occurred so far.
 | **braying**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/braying         |
 | **brickbat**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/brickbat        |
 | **broadly**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/broadly         |
+| **bronzing**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/bronzing        |
 | **brought** <small>*(v.)*</small>       |       1 | Simple past tense and past participle of bring.                                                                                                                                                                | https://www.wordnik.com/words/brought         |
 | **bullfrog**                            |       2 |                                                                                                                                                                                                                | https://www.wordnik.com/words/bullfrog        |
 | **bullring**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/bullring        |
