@@ -43,7 +43,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-793 pangrams
+794 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -755,6 +755,7 @@ Every pangram that's occurred so far.
 | **traumatic**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/traumatic       |
 | **tributary** <small>*(n.)*</small>     |       2 | A stream that flows into a larger stream or other body of water.                                                                                                                                               | https://www.wordnik.com/words/tributary       |
 | **turnaround**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/turnaround      |
+| **twitched**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/twitched        |
 | **twitching**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/twitching       |
 | **typeface**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/typeface        |
 | **unacceptance**                        |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/unacceptance    |
