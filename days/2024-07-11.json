@@ -1,0 +1,57 @@
+{
+  "displayWeekday": "Thursday",
+  "displayDate": "July 11, 2024",
+  "printDate": "2024-07-11",
+  "centerLetter": "w",
+  "outerLetters": [
+    "c",
+    "d",
+    "e",
+    "h",
+    "i",
+    "t"
+  ],
+  "validLetters": [
+    "w",
+    "c",
+    "d",
+    "e",
+    "h",
+    "i",
+    "t"
+  ],
+  "pangrams": [
+    "twitched"
+  ],
+  "answers": [
+    "twitched",
+    "chew",
+    "chewed",
+    "hewed",
+    "twee",
+    "tweed",
+    "tweet",
+    "tweeted",
+    "twice",
+    "twit",
+    "twitch",
+    "wedded",
+    "weed",
+    "weeded",
+    "wetted",
+    "whee",
+    "whet",
+    "whetted",
+    "whew",
+    "which",
+    "whit",
+    "white",
+    "wide",
+    "width",
+    "witch",
+    "with"
+  ],
+  "id": 13596,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
