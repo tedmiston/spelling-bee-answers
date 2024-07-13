@@ -1,0 +1,60 @@
+{
+  "displayWeekday": "Friday",
+  "displayDate": "July 12, 2024",
+  "printDate": "2024-07-12",
+  "centerLetter": "m",
+  "outerLetters": [
+    "c",
+    "d",
+    "i",
+    "n",
+    "o",
+    "u"
+  ],
+  "validLetters": [
+    "m",
+    "c",
+    "d",
+    "i",
+    "n",
+    "o",
+    "u"
+  ],
+  "pangrams": [
+    "condominium"
+  ],
+  "answers": [
+    "condominium",
+    "comic",
+    "common",
+    "communion",
+    "condom",
+    "cumin",
+    "dominion",
+    "domino",
+    "doom",
+    "dumdum",
+    "idiom",
+    "indium",
+    "midi",
+    "mimic",
+    "mind",
+    "mini",
+    "minim",
+    "minimum",
+    "minion",
+    "modicum",
+    "mondo",
+    "mono",
+    "mood",
+    "moon",
+    "mound",
+    "muumuu",
+    "noncom",
+    "odium",
+    "uncommon"
+  ],
+  "id": 16352,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
