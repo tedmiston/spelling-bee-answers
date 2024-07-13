@@ -8,32 +8,33 @@ Pangrams that have occurred more than once.
 
 <!-- generated multi table start -->
 
-22 pangrams
+23 pangrams
 
-| Word                                 |   Count | Definition Text                                                                                                           | Definition URL                          |
-|--------------------------------------|---------|---------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|
-| **although**                         |       2 |                                                                                                                           | https://www.wordnik.com/words/although  |
-| **backfill**                         |       2 |                                                                                                                           | https://www.wordnik.com/words/backfill  |
-| **beachcomb**                        |       2 |                                                                                                                           | https://www.wordnik.com/words/beachcomb |
-| **biotech**                          |       2 |                                                                                                                           | https://www.wordnik.com/words/biotech   |
-| **bullfrog**                         |       2 |                                                                                                                           | https://www.wordnik.com/words/bullfrog  |
-| **buoyant**                          |       2 |                                                                                                                           | https://www.wordnik.com/words/buoyant   |
-| **clickable**                        |       2 |                                                                                                                           | https://www.wordnik.com/words/clickable |
-| **curtain** <small>*(n.)*</small>    |       2 | A piece of fabric or other material that hangs in a window or open space as a decoration, shade, screen, or divider.      | https://www.wordnik.com/words/curtain   |
-| **fanciful** <small>*(adj.)*</small> |       2 | Tending to indulge in fancy.                                                                                              | https://www.wordnik.com/words/fanciful  |
-| **fidgety**                          |       2 |                                                                                                                           | https://www.wordnik.com/words/fidgety   |
-| **flavorful**                        |       2 |                                                                                                                           | https://www.wordnik.com/words/flavorful |
-| **handily**                          |       2 |                                                                                                                           | https://www.wordnik.com/words/handily   |
-| **hiccuped** <small>*(v.)*</small>   |       2 | Simple past tense and past participle of hiccup (a spasm of the diaphragm, or the resulting sound).                       | https://www.wordnik.com/words/hiccuped  |
-| **hiccupped** <small>*(v.)*</small>  |       2 | Simple past tense and past participle of hiccup (a spasm of the diaphragm, or the resulting sound).                       | https://www.wordnik.com/words/hiccupped |
-| **motorway**                         |       2 |                                                                                                                           | https://www.wordnik.com/words/motorway  |
-| **objected**                         |       2 |                                                                                                                           | https://www.wordnik.com/words/objected  |
-| **rainbow**                          |       2 |                                                                                                                           | https://www.wordnik.com/words/rainbow   |
-| **taciturn** <small>*(adj.)*</small> |       2 | Silent or reserved in speech; saying little; not inclined to speak or converse.                                           | https://www.wordnik.com/words/taciturn  |
-| **tenacity** <small>*(n.)*</small>   |       2 | The quality or state of being tenacious; as, tenacity, or retentiveness, of memory; tenacity, or persistency, of purpose. | https://www.wordnik.com/words/tenacity  |
-| **tributary** <small>*(n.)*</small>  |       2 | A stream that flows into a larger stream or other body of water.                                                          | https://www.wordnik.com/words/tributary |
-| **uncloak** <small>*(v.)*</small>    |       2 | To expose; reveal.                                                                                                        | https://www.wordnik.com/words/uncloak   |
-| **voltage**                          |       2 |                                                                                                                           | https://www.wordnik.com/words/voltage   |
+| Word                                 |   Count | Definition Text                                                                                                           | Definition URL                            |
+|--------------------------------------|---------|---------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|
+| **although**                         |       2 |                                                                                                                           | https://www.wordnik.com/words/although    |
+| **backfill**                         |       2 |                                                                                                                           | https://www.wordnik.com/words/backfill    |
+| **beachcomb**                        |       2 |                                                                                                                           | https://www.wordnik.com/words/beachcomb   |
+| **biotech**                          |       2 |                                                                                                                           | https://www.wordnik.com/words/biotech     |
+| **bullfrog**                         |       2 |                                                                                                                           | https://www.wordnik.com/words/bullfrog    |
+| **buoyant**                          |       2 |                                                                                                                           | https://www.wordnik.com/words/buoyant     |
+| **clickable**                        |       2 |                                                                                                                           | https://www.wordnik.com/words/clickable   |
+| **condominium**                      |       2 |                                                                                                                           | https://www.wordnik.com/words/condominium |
+| **curtain** <small>*(n.)*</small>    |       2 | A piece of fabric or other material that hangs in a window or open space as a decoration, shade, screen, or divider.      | https://www.wordnik.com/words/curtain     |
+| **fanciful** <small>*(adj.)*</small> |       2 | Tending to indulge in fancy.                                                                                              | https://www.wordnik.com/words/fanciful    |
+| **fidgety**                          |       2 |                                                                                                                           | https://www.wordnik.com/words/fidgety     |
+| **flavorful**                        |       2 |                                                                                                                           | https://www.wordnik.com/words/flavorful   |
+| **handily**                          |       2 |                                                                                                                           | https://www.wordnik.com/words/handily     |
+| **hiccuped** <small>*(v.)*</small>   |       2 | Simple past tense and past participle of hiccup (a spasm of the diaphragm, or the resulting sound).                       | https://www.wordnik.com/words/hiccuped    |
+| **hiccupped** <small>*(v.)*</small>  |       2 | Simple past tense and past participle of hiccup (a spasm of the diaphragm, or the resulting sound).                       | https://www.wordnik.com/words/hiccupped   |
+| **motorway**                         |       2 |                                                                                                                           | https://www.wordnik.com/words/motorway    |
+| **objected**                         |       2 |                                                                                                                           | https://www.wordnik.com/words/objected    |
+| **rainbow**                          |       2 |                                                                                                                           | https://www.wordnik.com/words/rainbow     |
+| **taciturn** <small>*(adj.)*</small> |       2 | Silent or reserved in speech; saying little; not inclined to speak or converse.                                           | https://www.wordnik.com/words/taciturn    |
+| **tenacity** <small>*(n.)*</small>   |       2 | The quality or state of being tenacious; as, tenacity, or retentiveness, of memory; tenacity, or persistency, of purpose. | https://www.wordnik.com/words/tenacity    |
+| **tributary** <small>*(n.)*</small>  |       2 | A stream that flows into a larger stream or other body of water.                                                          | https://www.wordnik.com/words/tributary   |
+| **uncloak** <small>*(v.)*</small>    |       2 | To expose; reveal.                                                                                                        | https://www.wordnik.com/words/uncloak     |
+| **voltage**                          |       2 |                                                                                                                           | https://www.wordnik.com/words/voltage     |
 
 <!-- generated multi table end -->
 
@@ -249,7 +250,7 @@ Every pangram that's occurred so far.
 | **conclude**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/conclude        |
 | **concluded**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/concluded       |
 | **concordant**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/concordant      |
-| **condominium**                         |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/condominium     |
+| **condominium**                         |       2 |                                                                                                                                                                                                                | https://www.wordnik.com/words/condominium     |
 | **conduction**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/conduction      |
 | **conduit**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/conduit         |
 | **confide**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/confide         |
