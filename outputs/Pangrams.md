@@ -44,7 +44,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-797 pangrams
+798 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -651,6 +651,7 @@ Every pangram that's occurred so far.
 | **nonvalid**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/nonvalid        |
 | **nonviolent** <small>*(adj.)*</small>  |       1 | Peacefully resistant in response to injustice; not using violence; -- used of protests and demonstrations.                                                                                                     | https://www.wordnik.com/words/nonviolent      |
 | **nonworking**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/nonworking      |
+| **normally**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/normally        |
 | **notably** <small>*(adv.)*</small>     |       1 | Especially; in particular.                                                                                                                                                                                     | https://www.wordnik.com/words/notably         |
 | **nuptial**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/nuptial         |
 | **obedience**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/obedience       |
