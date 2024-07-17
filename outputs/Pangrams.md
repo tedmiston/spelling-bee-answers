@@ -44,7 +44,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-798 pangrams
+799 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -833,6 +833,7 @@ Every pangram that's occurred so far.
 | **windfall**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/windfall        |
 | **windmilled** <small>*(v.)*</small>    |       1 | Simple past tense and past participle of windmill.                                                                                                                                                             | https://www.wordnik.com/words/windmilled      |
 | **witching**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/witching        |
+| **wizardry**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/wizardry        |
 | **wolfing**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/wolfing         |
 | **wordily**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/wordily         |
 | **workaday**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/workaday        |
