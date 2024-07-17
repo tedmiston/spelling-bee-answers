@@ -1,0 +1,49 @@
+{
+  "displayWeekday": "Tuesday",
+  "displayDate": "July 16, 2024",
+  "printDate": "2024-07-16",
+  "centerLetter": "d",
+  "outerLetters": [
+    "a",
+    "i",
+    "r",
+    "w",
+    "y",
+    "z"
+  ],
+  "validLetters": [
+    "d",
+    "a",
+    "i",
+    "r",
+    "w",
+    "y",
+    "z"
+  ],
+  "pangrams": [
+    "wizardry"
+  ],
+  "answers": [
+    "wizardry",
+    "arid",
+    "award",
+    "daddy",
+    "dairy",
+    "diary",
+    "dizzy",
+    "draw",
+    "dray",
+    "dryad",
+    "dyad",
+    "radar",
+    "radii",
+    "raid",
+    "ward",
+    "wayward",
+    "wizard",
+    "yard"
+  ],
+  "id": 24171,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
