@@ -44,7 +44,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-799 pangrams
+800 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -778,6 +778,7 @@ Every pangram that's occurred so far.
 | **unfledged**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/unfledged       |
 | **unheated**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/unheated        |
 | **unidentified**                        |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/unidentified    |
+| **uninvited**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/uninvited       |
 | **unjamming**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/unjamming       |
 | **unkempt**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/unkempt         |
 | **unknowing**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/unknowing       |
