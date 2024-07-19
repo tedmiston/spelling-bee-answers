@@ -8,12 +8,13 @@ Pangrams that have occurred more than once.
 
 <!-- generated multi table start -->
 
-23 pangrams
+24 pangrams
 
 | Word                                 |   Count | Definition Text                                                                                                           | Definition URL                            |
 |--------------------------------------|---------|---------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|
 | **although**                         |       2 |                                                                                                                           | https://www.wordnik.com/words/although    |
 | **backfill**                         |       2 |                                                                                                                           | https://www.wordnik.com/words/backfill    |
+| **baptize**                          |       2 |                                                                                                                           | https://www.wordnik.com/words/baptize     |
 | **beachcomb**                        |       2 |                                                                                                                           | https://www.wordnik.com/words/beachcomb   |
 | **biotech**                          |       2 |                                                                                                                           | https://www.wordnik.com/words/biotech     |
 | **bullfrog**                         |       2 |                                                                                                                           | https://www.wordnik.com/words/bullfrog    |
@@ -131,7 +132,7 @@ Every pangram that's occurred so far.
 | **balding**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/balding         |
 | **bamboozle**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/bamboozle       |
 | **banality**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/banality        |
-| **baptize**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/baptize         |
+| **baptize**                             |       2 |                                                                                                                                                                                                                | https://www.wordnik.com/words/baptize         |
 | **bathing**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/bathing         |
 | **beachcomb**                           |       2 |                                                                                                                                                                                                                | https://www.wordnik.com/words/beachcomb       |
 | **beanpole**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/beanpole        |
