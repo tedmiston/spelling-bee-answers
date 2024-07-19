@@ -1,0 +1,63 @@
+{
+  "displayWeekday": "Thursday",
+  "displayDate": "July 18, 2024",
+  "printDate": "2024-07-18",
+  "centerLetter": "t",
+  "outerLetters": [
+    "z",
+    "a",
+    "b",
+    "e",
+    "i",
+    "p"
+  ],
+  "validLetters": [
+    "t",
+    "z",
+    "a",
+    "b",
+    "e",
+    "i",
+    "p"
+  ],
+  "pangrams": [
+    "baptize"
+  ],
+  "answers": [
+    "baptize",
+    "abate",
+    "abet",
+    "appetite",
+    "appetize",
+    "bait",
+    "bate",
+    "beat",
+    "beet",
+    "beta",
+    "bite",
+    "pate",
+    "peat",
+    "pepita",
+    "petit",
+    "petite",
+    "pipet",
+    "pipette",
+    "pipit",
+    "pita",
+    "pitapat",
+    "tapa",
+    "tape",
+    "teat",
+    "teepee",
+    "tepee",
+    "tibia",
+    "tibiae",
+    "tipi",
+    "tippet",
+    "zeta",
+    "ziti"
+  ],
+  "id": 27722,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
