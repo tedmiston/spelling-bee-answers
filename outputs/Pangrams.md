@@ -45,7 +45,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-806 pangrams
+807 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -603,6 +603,7 @@ Every pangram that's occurred so far.
 | **medicate**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/medicate        |
 | **medicated**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/medicated       |
 | **medieval**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/medieval        |
+| **megabit**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/megabit         |
 | **megahit**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/megahit         |
 | **megaplex**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/megaplex        |
 | **melodic**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/melodic         |
