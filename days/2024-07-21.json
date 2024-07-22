@@ -1,0 +1,61 @@
+{
+  "displayWeekday": "Sunday",
+  "displayDate": "July 21, 2024",
+  "printDate": "2024-07-21",
+  "centerLetter": "g",
+  "outerLetters": [
+    "a",
+    "b",
+    "e",
+    "i",
+    "m",
+    "t"
+  ],
+  "validLetters": [
+    "g",
+    "a",
+    "b",
+    "e",
+    "i",
+    "m",
+    "t"
+  ],
+  "pangrams": [
+    "megabit"
+  ],
+  "answers": [
+    "megabit",
+    "agate",
+    "agita",
+    "agitate",
+    "baggage",
+    "baggie",
+    "begat",
+    "begem",
+    "beget",
+    "beige",
+    "biggie",
+    "gaga",
+    "gage",
+    "gait",
+    "gambit",
+    "game",
+    "gamete",
+    "gamma",
+    "gate",
+    "gibe",
+    "gigabit",
+    "gimme",
+    "image",
+    "mage",
+    "magi",
+    "magma",
+    "mega",
+    "mitigate",
+    "taiga",
+    "teabag"
+  ],
+  "id": 15946,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
