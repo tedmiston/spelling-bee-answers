@@ -45,7 +45,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-807 pangrams
+808 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -473,6 +473,7 @@ Every pangram that's occurred so far.
 | **homophonic**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/homophonic      |
 | **honeybun**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/honeybun        |
 | **honeydew**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/honeydew        |
+| **honeymooned**                         |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/honeymooned     |
 | **hoodwink**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/hoodwink        |
 | **hormonal**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/hormonal        |
 | **hotdogging**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/hotdogging      |
