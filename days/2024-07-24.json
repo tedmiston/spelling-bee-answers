@@ -1,0 +1,52 @@
+{
+  "displayWeekday": "Wednesday",
+  "displayDate": "July 24, 2024",
+  "printDate": "2024-07-24",
+  "centerLetter": "n",
+  "outerLetters": [
+    "d",
+    "i",
+    "k",
+    "l",
+    "u",
+    "y"
+  ],
+  "validLetters": [
+    "n",
+    "d",
+    "i",
+    "k",
+    "l",
+    "u",
+    "y"
+  ],
+  "pangrams": [
+    "unkindly"
+  ],
+  "answers": [
+    "unkindly",
+    "dink",
+    "dinky",
+    "dunk",
+    "inky",
+    "kiln",
+    "kind",
+    "kindly",
+    "kink",
+    "kinkily",
+    "kinky",
+    "link",
+    "lunk",
+    "ninny",
+    "nudnik",
+    "null",
+    "undid",
+    "unduly",
+    "unkind",
+    "unkink",
+    "unlink"
+  ],
+  "id": 7970,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
