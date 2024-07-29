@@ -46,7 +46,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-817 pangrams
+818 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -816,6 +816,7 @@ Every pangram that's occurred so far.
 | **vaguely**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/vaguely         |
 | **validity**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/validity        |
 | **valuated**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/valuated        |
+| **variform**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/variform        |
 | **varmint**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/varmint         |
 | **vaulted**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/vaulted         |
 | **venially**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/venially        |
