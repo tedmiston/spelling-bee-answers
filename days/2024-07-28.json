@@ -1,0 +1,59 @@
+{
+  "displayWeekday": "Sunday",
+  "displayDate": "July 28, 2024",
+  "printDate": "2024-07-28",
+  "centerLetter": "a",
+  "outerLetters": [
+    "f",
+    "i",
+    "m",
+    "o",
+    "r",
+    "v"
+  ],
+  "validLetters": [
+    "a",
+    "f",
+    "i",
+    "m",
+    "o",
+    "r",
+    "v"
+  ],
+  "pangrams": [
+    "variform"
+  ],
+  "answers": [
+    "variform",
+    "afar",
+    "affair",
+    "affirm",
+    "afro",
+    "ammo",
+    "aria",
+    "armor",
+    "aroma",
+    "fair",
+    "farm",
+    "farro",
+    "fava",
+    "favor",
+    "foam",
+    "fora",
+    "friar",
+    "imam",
+    "mafia",
+    "maim",
+    "mama",
+    "mamma",
+    "marm",
+    "momma",
+    "raffia",
+    "riffraff",
+    "roam",
+    "roar"
+  ],
+  "id": 9203,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
