@@ -1,0 +1,56 @@
+{
+  "displayWeekday": "Friday",
+  "displayDate": "August 2, 2024",
+  "printDate": "2024-08-02",
+  "centerLetter": "h",
+  "outerLetters": [
+    "a",
+    "c",
+    "e",
+    "k",
+    "n",
+    "y"
+  ],
+  "validLetters": [
+    "h",
+    "a",
+    "c",
+    "e",
+    "k",
+    "n",
+    "y"
+  ],
+  "pangrams": [
+    "hackney"
+  ],
+  "answers": [
+    "hackney",
+    "ache",
+    "achy",
+    "ankh",
+    "cache",
+    "chance",
+    "chancy",
+    "check",
+    "cheek",
+    "cheeky",
+    "each",
+    "enhance",
+    "hack",
+    "haka",
+    "hake",
+    "hank",
+    "hanky",
+    "heck",
+    "hence",
+    "henna",
+    "hyena",
+    "khan",
+    "yeah",
+    "yecch",
+    "yech"
+  ],
+  "id": 1989,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
