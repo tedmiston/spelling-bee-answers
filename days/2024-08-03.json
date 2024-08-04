@@ -1,0 +1,60 @@
+{
+  "displayWeekday": "Saturday",
+  "displayDate": "August 3, 2024",
+  "printDate": "2024-08-03",
+  "centerLetter": "v",
+  "outerLetters": [
+    "a",
+    "c",
+    "i",
+    "l",
+    "n",
+    "o"
+  ],
+  "validLetters": [
+    "v",
+    "a",
+    "c",
+    "i",
+    "l",
+    "n",
+    "o"
+  ],
+  "pangrams": [
+    "convivial",
+    "volcanic"
+  ],
+  "answers": [
+    "convivial",
+    "volcanic",
+    "anvil",
+    "avail",
+    "avian",
+    "cava",
+    "cavil",
+    "civic",
+    "civil",
+    "civilian",
+    "lava",
+    "naval",
+    "nonvocal",
+    "nova",
+    "oval",
+    "vain",
+    "vanilla",
+    "vanillin",
+    "vial",
+    "villa",
+    "villain",
+    "viol",
+    "viola",
+    "violin",
+    "vocal",
+    "vocalic",
+    "voila",
+    "volcano"
+  ],
+  "id": 24078,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
