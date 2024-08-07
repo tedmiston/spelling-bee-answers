@@ -1,0 +1,57 @@
+{
+  "displayWeekday": "Tuesday",
+  "displayDate": "August 6, 2024",
+  "printDate": "2024-08-06",
+  "centerLetter": "r",
+  "outerLetters": [
+    "c",
+    "g",
+    "i",
+    "m",
+    "n",
+    "p"
+  ],
+  "validLetters": [
+    "r",
+    "c",
+    "g",
+    "i",
+    "m",
+    "n",
+    "p"
+  ],
+  "pangrams": [
+    "crimping"
+  ],
+  "answers": [
+    "crimping",
+    "cirri",
+    "crimp",
+    "cringing",
+    "grim",
+    "grin",
+    "grinning",
+    "grip",
+    "griping",
+    "gripping",
+    "mirin",
+    "miring",
+    "nigiri",
+    "pricing",
+    "prig",
+    "prim",
+    "priming",
+    "primp",
+    "primping",
+    "ricin",
+    "ricing",
+    "rigging",
+    "rimming",
+    "ring",
+    "ringing",
+    "ripping"
+  ],
+  "id": 18288,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
