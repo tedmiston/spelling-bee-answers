@@ -47,6 +47,10 @@ def generate_table():
     headers = ["Date", "File", "Forum", "Words", "Pangrams"]
     table = []
     for date in puzzle_dates:
+        # FIXME: backfill missing file
+        if date == "2024-07-30":
+            continue
+ 
         filepath = f"days/{date}.json"
         path_link = f"[{date}.json](../{filepath})"
         date_str = date.strftime("%Y/%m/%d")
