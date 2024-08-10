@@ -582,5 +582,15 @@
 | **2024-07-27** | [2024-07-27.json](../days/2024-07-27.json) | [Forum](https://www.nytimes.com/2024/07/27/crosswords/spelling-bee-forum.html) |      39 |          2 |
 | **2024-07-28** | [2024-07-28.json](../days/2024-07-28.json) | [Forum](https://www.nytimes.com/2024/07/28/crosswords/spelling-bee-forum.html) |      28 |          1 |
 | **2024-07-29** | [2024-07-29.json](../days/2024-07-29.json) | [Forum](https://www.nytimes.com/2024/07/29/crosswords/spelling-bee-forum.html) |      61 |          6 |
+| **2024-07-31** | [2024-07-31.json](../days/2024-07-31.json) | [Forum](https://www.nytimes.com/2024/07/31/crosswords/spelling-bee-forum.html) |      39 |          1 |
+| **2024-08-01** | [2024-08-01.json](../days/2024-08-01.json) | [Forum](https://www.nytimes.com/2024/08/01/crosswords/spelling-bee-forum.html) |      54 |          2 |
+| **2024-08-02** | [2024-08-02.json](../days/2024-08-02.json) | [Forum](https://www.nytimes.com/2024/08/02/crosswords/spelling-bee-forum.html) |      25 |          1 |
+| **2024-08-03** | [2024-08-03.json](../days/2024-08-03.json) | [Forum](https://www.nytimes.com/2024/08/03/crosswords/spelling-bee-forum.html) |      28 |          2 |
+| **2024-08-04** | [2024-08-04.json](../days/2024-08-04.json) | [Forum](https://www.nytimes.com/2024/08/04/crosswords/spelling-bee-forum.html) |      47 |          1 |
+| **2024-08-05** | [2024-08-05.json](../days/2024-08-05.json) | [Forum](https://www.nytimes.com/2024/08/05/crosswords/spelling-bee-forum.html) |      54 |          1 |
+| **2024-08-06** | [2024-08-06.json](../days/2024-08-06.json) | [Forum](https://www.nytimes.com/2024/08/06/crosswords/spelling-bee-forum.html) |      26 |          1 |
+| **2024-08-07** | [2024-08-07.json](../days/2024-08-07.json) | [Forum](https://www.nytimes.com/2024/08/07/crosswords/spelling-bee-forum.html) |      37 |          1 |
+| **2024-08-08** | [2024-08-08.json](../days/2024-08-08.json) | [Forum](https://www.nytimes.com/2024/08/08/crosswords/spelling-bee-forum.html) |      46 |          1 |
+| **2024-08-09** | [2024-08-09.json](../days/2024-08-09.json) | [Forum](https://www.nytimes.com/2024/08/09/crosswords/spelling-bee-forum.html) |      16 |          1 |
 
 <!-- generated table end -->
