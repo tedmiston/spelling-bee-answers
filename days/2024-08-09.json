@@ -1,0 +1,47 @@
+{
+  "displayWeekday": "Friday",
+  "displayDate": "August 9, 2024",
+  "printDate": "2024-08-09",
+  "centerLetter": "z",
+  "outerLetters": [
+    "a",
+    "g",
+    "i",
+    "n",
+    "o",
+    "t"
+  ],
+  "validLetters": [
+    "z",
+    "a",
+    "g",
+    "i",
+    "n",
+    "o",
+    "t"
+  ],
+  "pangrams": [
+    "antagonizing"
+  ],
+  "answers": [
+    "antagonizing",
+    "agonizing",
+    "gazing",
+    "gonzo",
+    "ionization",
+    "ionizing",
+    "oozing",
+    "zagging",
+    "zigging",
+    "zigzag",
+    "zigzagging",
+    "zing",
+    "zinging",
+    "zinnia",
+    "ziti",
+    "zoning"
+  ],
+  "id": 20133,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
