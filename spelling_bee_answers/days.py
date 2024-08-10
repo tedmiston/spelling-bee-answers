@@ -48,7 +48,7 @@ def generate_table():
     table = []
     for date in puzzle_dates:
         # FIXME: backfill missing file
-        if date == "2024-07-30":
+        if str(date) == "2024-07-30":
             continue
  
         filepath = f"days/{date}.json"
