@@ -1,0 +1,63 @@
+{
+  "displayWeekday": "Monday",
+  "displayDate": "August 12, 2024",
+  "printDate": "2024-08-12",
+  "centerLetter": "c",
+  "outerLetters": [
+    "a",
+    "d",
+    "i",
+    "m",
+    "n",
+    "y"
+  ],
+  "validLetters": [
+    "c",
+    "a",
+    "d",
+    "i",
+    "m",
+    "n",
+    "y"
+  ],
+  "pangrams": [
+    "dynamic"
+  ],
+  "answers": [
+    "dynamic",
+    "acacia",
+    "acai",
+    "acid",
+    "acidic",
+    "acidy",
+    "adamancy",
+    "caddy",
+    "caiman",
+    "cami",
+    "cancan",
+    "candid",
+    "candidacy",
+    "candy",
+    "candyman",
+    "canid",
+    "canna",
+    "canny",
+    "cayman",
+    "cicada",
+    "cyan",
+    "cynic",
+    "indica",
+    "indicia",
+    "macadam",
+    "macadamia",
+    "maniac",
+    "manic",
+    "mica",
+    "mimic",
+    "minicam",
+    "niacin"
+  ],
+  "id": 25619,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
