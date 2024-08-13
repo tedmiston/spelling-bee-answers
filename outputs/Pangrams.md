@@ -51,7 +51,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-836 pangrams
+837 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -354,6 +354,7 @@ Every pangram that's occurred so far.
 | **draconic** <small>*(adj.)*</small>    |       1 | - Of or suggestive of a dragon.<br>- Draconian.                                                                                                                                                                | https://www.wordnik.com/words/draconic        |
 | **ductility**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/ductility       |
 | **dwelling**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/dwelling        |
+| **dynamic**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/dynamic         |
 | **educable**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/educable        |
 | **effecting**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/effecting       |
 | **effectual**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/effectual       |
