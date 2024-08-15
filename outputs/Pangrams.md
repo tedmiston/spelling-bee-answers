@@ -53,7 +53,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-837 pangrams
+838 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -660,6 +660,7 @@ Every pangram that's occurred so far.
 | **mortify**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/mortify         |
 | **mothball** <small>*(n.)*</small>      |       1 | A marble-sized ball, originally of camphor but now of naphthalene, stored with clothes to repel moths.                                                                                                         | https://www.wordnik.com/words/mothball        |
 | **motivation**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/motivation      |
+| **motivator**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/motivator       |
 | **motorway**                            |       2 |                                                                                                                                                                                                                | https://www.wordnik.com/words/motorway        |
 | **mounted**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/mounted         |
 | **mouthed**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/mouthed         |
