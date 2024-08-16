@@ -1,0 +1,51 @@
+{
+  "displayWeekday": "Thursday",
+  "displayDate": "August 15, 2024",
+  "printDate": "2024-08-15",
+  "centerLetter": "u",
+  "outerLetters": [
+    "b",
+    "c",
+    "i",
+    "l",
+    "p",
+    "y"
+  ],
+  "validLetters": [
+    "u",
+    "b",
+    "c",
+    "i",
+    "l",
+    "p",
+    "y"
+  ],
+  "pangrams": [
+    "publicly"
+  ],
+  "answers": [
+    "publicly",
+    "bubbly",
+    "bulb",
+    "bull",
+    "bully",
+    "club",
+    "clubby",
+    "cubby",
+    "cubic",
+    "cull",
+    "lull",
+    "lulu",
+    "pubic",
+    "public",
+    "puli",
+    "pull",
+    "pulp",
+    "pulpy",
+    "pupil",
+    "puppy"
+  ],
+  "id": 24818,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
