@@ -53,7 +53,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-838 pangrams
+839 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -763,6 +763,7 @@ Every pangram that's occurred so far.
 | **probiotic**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/probiotic       |
 | **promotion**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/promotion       |
 | **propaganda**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/propaganda      |
+| **publicly**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/publicly        |
 | **punctuate**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/punctuate       |
 | **puppylike**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/puppylike       |
 | **quieting**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/quieting        |
