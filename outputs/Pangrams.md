@@ -53,7 +53,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-839 pangrams
+840 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -581,6 +581,7 @@ Every pangram that's occurred so far.
 | **kitchenette**                         |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/kitchenette     |
 | **kneading**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/kneading        |
 | **knuckled**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/knuckled        |
+| **laboratory**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/laboratory      |
 | **laconically**                         |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/laconically     |
 | **ladybug**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/ladybug         |
 | **lapidary**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/lapidary        |
