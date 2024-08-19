@@ -1,0 +1,58 @@
+{
+  "displayWeekday": "Sunday",
+  "displayDate": "August 18, 2024",
+  "printDate": "2024-08-18",
+  "centerLetter": "d",
+  "outerLetters": [
+    "g",
+    "h",
+    "n",
+    "o",
+    "r",
+    "u"
+  ],
+  "validLetters": [
+    "d",
+    "g",
+    "h",
+    "n",
+    "o",
+    "r",
+    "u"
+  ],
+  "pangrams": [
+    "groundhog"
+  ],
+  "answers": [
+    "groundhog",
+    "dodo",
+    "doggo",
+    "dong",
+    "donor",
+    "door",
+    "dough",
+    "dour",
+    "drug",
+    "dugong",
+    "dung",
+    "dunno",
+    "good",
+    "gourd",
+    "ground",
+    "hood",
+    "hoodoo",
+    "hound",
+    "nunhood",
+    "odor",
+    "rondo",
+    "rood",
+    "round",
+    "udon",
+    "undo",
+    "unground",
+    "unhood"
+  ],
+  "id": 27616,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
