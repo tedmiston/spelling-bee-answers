@@ -8,11 +8,12 @@ Pangrams that have occurred more than once.
 
 <!-- generated multi table start -->
 
-32 pangrams
+33 pangrams
 
 | Word                                   |   Count | Definition Text                                                                                                                                                      | Definition URL                             |
 |----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
 | **although**                           |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/although     |
+| **atrophy**                            |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/atrophy      |
 | **backfill**                           |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/backfill     |
 | **baptize**                            |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/baptize      |
 | **beachcomb**                          |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/beachcomb    |
@@ -122,7 +123,7 @@ Every pangram that's occurred so far.
 | **aromatic**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/aromatic        |
 | **arthralgia**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/arthralgia      |
 | **arthropod**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/arthropod       |
-| **atrophy**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/atrophy         |
+| **atrophy**                             |       2 |                                                                                                                                                                                                                | https://www.wordnik.com/words/atrophy         |
 | **attachment**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/attachment      |
 | **attainability**                       |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/attainability   |
 | **attitudinal**                         |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/attitudinal     |
