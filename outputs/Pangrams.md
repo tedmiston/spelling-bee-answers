@@ -8,7 +8,7 @@ Pangrams that have occurred more than once.
 
 <!-- generated multi table start -->
 
-33 pangrams
+34 pangrams
 
 | Word                                   |   Count | Definition Text                                                                                                                                                      | Definition URL                             |
 |----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
@@ -37,6 +37,7 @@ Pangrams that have occurred more than once.
 | **motorway**                           |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/motorway     |
 | **nonviolent** <small>*(adj.)*</small> |       2 | Peacefully resistant in response to injustice; not using violence; -- used of protests and demonstrations.                                                           | https://www.wordnik.com/words/nonviolent   |
 | **objected**                           |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/objected     |
+| **phoenix**                            |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/phoenix      |
 | **rainbow**                            |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/rainbow      |
 | **taciturn** <small>*(adj.)*</small>   |       2 | Silent or reserved in speech; saying little; not inclined to speak or converse.                                                                                      | https://www.wordnik.com/words/taciturn     |
 | **talkative** <small>*(adj.)*</small>  |       2 | Marked by or having a disposition to talk.                                                                                                                           | https://www.wordnik.com/words/talkative    |
@@ -735,7 +736,7 @@ Every pangram that's occurred so far.
 | **pentacle**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/pentacle        |
 | **pentathlete**                         |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/pentathlete     |
 | **phenomena**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/phenomena       |
-| **phoenix**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/phoenix         |
+| **phoenix**                             |       2 |                                                                                                                                                                                                                | https://www.wordnik.com/words/phoenix         |
 | **photograph** <small>*(n.)*</small>    |       1 | An image, especially a positive print, recorded by exposing a photosensitive surface to light, especially in a camera.                                                                                         | https://www.wordnik.com/words/photograph      |
 | **picante**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/picante         |
 | **pinewood** <small>*(n.)*</small>      |       1 | The wood of the pine tree.                                                                                                                                                                                     | https://www.wordnik.com/words/pinewood        |
