@@ -8,7 +8,7 @@ Pangrams that have occurred more than once.
 
 <!-- generated multi table start -->
 
-34 pangrams
+35 pangrams
 
 | Word                                   |   Count | Definition Text                                                                                                                                                      | Definition URL                             |
 |----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
@@ -21,6 +21,7 @@ Pangrams that have occurred more than once.
 | **bullfrog**                           |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/bullfrog     |
 | **buoyant**                            |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/buoyant      |
 | **clickable**                          |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/clickable    |
+| **companion**                          |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/companion    |
 | **competed**                           |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/competed     |
 | **condominium**                        |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/condominium  |
 | **curtain** <small>*(n.)*</small>      |       2 | A piece of fabric or other material that hangs in a window or open space as a decoration, shade, screen, or divider.                                                 | https://www.wordnik.com/words/curtain      |
@@ -264,7 +265,7 @@ Every pangram that's occurred so far.
 | **combatant**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/combatant       |
 | **committed**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/committed       |
 | **commodity**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/commodity       |
-| **companion**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/companion       |
+| **companion**                           |       2 |                                                                                                                                                                                                                | https://www.wordnik.com/words/companion       |
 | **competed**                            |       2 |                                                                                                                                                                                                                | https://www.wordnik.com/words/competed        |
 | **competence** <small>*(n.)*</small>    |       1 | The ability to do something well or efficiently.                                                                                                                                                               | https://www.wordnik.com/words/competence      |
 | **competent** <small>*(adj.)*</small>   |       1 | Properly or sufficiently qualified; capable.                                                                                                                                                                   | https://www.wordnik.com/words/competent       |
