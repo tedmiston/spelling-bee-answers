@@ -8,7 +8,7 @@ Pangrams that have occurred more than once.
 
 <!-- generated multi table start -->
 
-35 pangrams
+36 pangrams
 
 | Word                                   |   Count | Definition Text                                                                                                                                                      | Definition URL                             |
 |----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
@@ -35,6 +35,7 @@ Pangrams that have occurred more than once.
 | **hiccuped** <small>*(v.)*</small>     |       2 | Simple past tense and past participle of hiccup (a spasm of the diaphragm, or the resulting sound).                                                                  | https://www.wordnik.com/words/hiccuped     |
 | **hiccupped** <small>*(v.)*</small>    |       2 | Simple past tense and past participle of hiccup (a spasm of the diaphragm, or the resulting sound).                                                                  | https://www.wordnik.com/words/hiccupped    |
 | **inhibitor**                          |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/inhibitor    |
+| **leitmotif**                          |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/leitmotif    |
 | **motorway**                           |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/motorway     |
 | **nonviolent** <small>*(adj.)*</small> |       2 | Peacefully resistant in response to injustice; not using violence; -- used of protests and demonstrations.                                                           | https://www.wordnik.com/words/nonviolent   |
 | **objected**                           |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/objected     |
@@ -600,7 +601,7 @@ Every pangram that's occurred so far.
 | **leeching**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/leeching        |
 | **legality** <small>*(n.)*</small>      |       1 | The state or quality of being legal; lawfulness.                                                                                                                                                               | https://www.wordnik.com/words/legality        |
 | **legitimize**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/legitimize      |
-| **leitmotif**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/leitmotif       |
+| **leitmotif**                           |       2 |                                                                                                                                                                                                                | https://www.wordnik.com/words/leitmotif       |
 | **lengthened**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/lengthened      |
 | **lengthening**                         |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/lengthening     |
 | **lexicon**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/lexicon         |
