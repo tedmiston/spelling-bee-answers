@@ -8,7 +8,7 @@ Pangrams that have occurred more than once.
 
 <!-- generated multi table start -->
 
-36 pangrams
+37 pangrams
 
 | Word                                   |   Count | Definition Text                                                                                                                                                      | Definition URL                             |
 |----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
@@ -34,6 +34,7 @@ Pangrams that have occurred more than once.
 | **handily**                            |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/handily      |
 | **hiccuped** <small>*(v.)*</small>     |       2 | Simple past tense and past participle of hiccup (a spasm of the diaphragm, or the resulting sound).                                                                  | https://www.wordnik.com/words/hiccuped     |
 | **hiccupped** <small>*(v.)*</small>    |       2 | Simple past tense and past participle of hiccup (a spasm of the diaphragm, or the resulting sound).                                                                  | https://www.wordnik.com/words/hiccupped    |
+| **holiday**                            |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/holiday      |
 | **inhibitor**                          |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/inhibitor    |
 | **leitmotif**                          |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/leitmotif    |
 | **motorway**                           |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/motorway     |
@@ -501,7 +502,7 @@ Every pangram that's occurred so far.
 | **hiccupped** <small>*(v.)*</small>     |       2 | Simple past tense and past participle of hiccup (a spasm of the diaphragm, or the resulting sound).                                                                                                            | https://www.wordnik.com/words/hiccupped       |
 | **highland**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/highland        |
 | **highlighted**                         |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/highlighted     |
-| **holiday**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/holiday         |
+| **holiday**                             |       2 |                                                                                                                                                                                                                | https://www.wordnik.com/words/holiday         |
 | **hologram**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/hologram        |
 | **homepage**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/homepage        |
 | **hometown**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/hometown        |
