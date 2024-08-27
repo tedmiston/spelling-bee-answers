@@ -1,0 +1,58 @@
+{
+  "displayWeekday": "Monday",
+  "displayDate": "August 26, 2024",
+  "printDate": "2024-08-26",
+  "centerLetter": "a",
+  "outerLetters": [
+    "d",
+    "h",
+    "i",
+    "l",
+    "o",
+    "y"
+  ],
+  "validLetters": [
+    "a",
+    "d",
+    "h",
+    "i",
+    "l",
+    "o",
+    "y"
+  ],
+  "pangrams": [
+    "holiday"
+  ],
+  "answers": [
+    "holiday",
+    "ahoy",
+    "aioli",
+    "allay",
+    "alloy",
+    "ally",
+    "aloha",
+    "daddy",
+    "dahlia",
+    "daily",
+    "dally",
+    "daylily",
+    "dial",
+    "dillydally",
+    "doodad",
+    "dyad",
+    "hail",
+    "halal",
+    "hall",
+    "halo",
+    "hiya",
+    "lady",
+    "laid",
+    "load",
+    "loyal",
+    "loyally",
+    "yahoo"
+  ],
+  "id": 27593,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
