@@ -58,7 +58,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-850 pangrams
+852 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -337,6 +337,8 @@ Every pangram that's occurred so far.
 | **dehumidified**                        |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/dehumidified    |
 | **delight**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/delight         |
 | **delighted**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/delighted       |
+| **demonize**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/demonize        |
+| **demonized**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/demonized       |
 | **denouement**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/denouement      |
 | **dependently**                         |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/dependently     |
 | **deputize**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/deputize        |
