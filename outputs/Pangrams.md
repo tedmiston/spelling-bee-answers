@@ -8,7 +8,7 @@ Pangrams that have occurred more than once.
 
 <!-- generated multi table start -->
 
-37 pangrams
+38 pangrams
 
 | Word                                   |   Count | Definition Text                                                                                                                                                      | Definition URL                             |
 |----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
@@ -32,6 +32,7 @@ Pangrams that have occurred more than once.
 | **flipflopping**                       |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/flipflopping |
 | **flopping**                           |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/flopping     |
 | **handily**                            |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/handily      |
+| **hawthorn**                           |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/hawthorn     |
 | **hiccuped** <small>*(v.)*</small>     |       2 | Simple past tense and past participle of hiccup (a spasm of the diaphragm, or the resulting sound).                                                                  | https://www.wordnik.com/words/hiccuped     |
 | **hiccupped** <small>*(v.)*</small>    |       2 | Simple past tense and past participle of hiccup (a spasm of the diaphragm, or the resulting sound).                                                                  | https://www.wordnik.com/words/hiccupped    |
 | **holiday**                            |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/holiday      |
@@ -485,7 +486,7 @@ Every pangram that's occurred so far.
 | **harping**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/harping         |
 | **hateful**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/hateful         |
 | **haunted**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/haunted         |
-| **hawthorn**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/hawthorn        |
+| **hawthorn**                            |       2 |                                                                                                                                                                                                                | https://www.wordnik.com/words/hawthorn        |
 | **hayfork**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/hayfork         |
 | **headhunt**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/headhunt        |
 | **headhunted**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/headhunted      |
