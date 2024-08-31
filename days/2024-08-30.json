@@ -1,0 +1,61 @@
+{
+  "displayWeekday": "Friday",
+  "displayDate": "August 30, 2024",
+  "printDate": "2024-08-30",
+  "centerLetter": "i",
+  "outerLetters": [
+    "a",
+    "c",
+    "m",
+    "o",
+    "t",
+    "x"
+  ],
+  "validLetters": [
+    "i",
+    "a",
+    "c",
+    "m",
+    "o",
+    "t",
+    "x"
+  ],
+  "pangrams": [
+    "axiomatic"
+  ],
+  "answers": [
+    "axiomatic",
+    "acacia",
+    "acai",
+    "ataxia",
+    "atomic",
+    "attic",
+    "axiom",
+    "cacti",
+    "cami",
+    "ciao",
+    "coati",
+    "cocci",
+    "comic",
+    "commit",
+    "imam",
+    "iota",
+    "maim",
+    "maxi",
+    "maxim",
+    "maxima",
+    "mica",
+    "mimic",
+    "mitt",
+    "omit",
+    "tacit",
+    "tactic",
+    "tatami",
+    "taxi",
+    "tomtit",
+    "toxic"
+  ],
+  "id": 19468,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
