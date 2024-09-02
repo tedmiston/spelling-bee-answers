@@ -1,0 +1,60 @@
+{
+  "displayWeekday": "Sunday",
+  "displayDate": "September 1, 2024",
+  "printDate": "2024-09-01",
+  "centerLetter": "a",
+  "outerLetters": [
+    "b",
+    "d",
+    "h",
+    "k",
+    "n",
+    "o"
+  ],
+  "validLetters": [
+    "a",
+    "b",
+    "d",
+    "h",
+    "k",
+    "n",
+    "o"
+  ],
+  "pangrams": [
+    "handbook"
+  ],
+  "answers": [
+    "handbook",
+    "abandon",
+    "adobo",
+    "ankh",
+    "anon",
+    "baba",
+    "babka",
+    "baboon",
+    "banana",
+    "band",
+    "bandana",
+    "bandanna",
+    "bank",
+    "baobab",
+    "boba",
+    "dank",
+    "doodad",
+    "haboob",
+    "haka",
+    "hand",
+    "hank",
+    "hookah",
+    "kabob",
+    "khan",
+    "koan",
+    "naan",
+    "nabob",
+    "nada",
+    "nana"
+  ],
+  "id": 20852,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
