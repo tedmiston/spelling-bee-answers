@@ -60,7 +60,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-858 pangrams
+859 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -293,6 +293,7 @@ Every pangram that's occurred so far.
 | **confluence**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/confluence      |
 | **confounded**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/confounded      |
 | **conically**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/conically       |
+| **conjoined**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/conjoined       |
 | **contempt** <small>*(n.)*</small>      |       1 | The feeling or attitude of regarding someone or something as inferior, base, or worthless; scorn.                                                                                                              | https://www.wordnik.com/words/contempt        |
 | **continuum**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/continuum       |
 | **contralto**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/contralto       |
