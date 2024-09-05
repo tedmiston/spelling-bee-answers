@@ -61,7 +61,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-859 pangrams
+860 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -774,6 +774,7 @@ Every pangram that's occurred so far.
 | **pliantly**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/pliantly        |
 | **pocketbook**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/pocketbook      |
 | **polemic**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/polemic         |
+| **polygamy**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/polygamy        |
 | **polygonal**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/polygonal       |
 | **pompadour**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/pompadour       |
 | **potable**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/potable         |
