@@ -1,0 +1,60 @@
+{
+  "displayWeekday": "Thursday",
+  "displayDate": "September 5, 2024",
+  "printDate": "2024-09-05",
+  "centerLetter": "r",
+  "outerLetters": [
+    "a",
+    "f",
+    "g",
+    "h",
+    "t",
+    "u"
+  ],
+  "validLetters": [
+    "r",
+    "a",
+    "f",
+    "g",
+    "h",
+    "t",
+    "u"
+  ],
+  "pangrams": [
+    "fraught"
+  ],
+  "answers": [
+    "fraught",
+    "aargh",
+    "afar",
+    "agar",
+    "arhat",
+    "attar",
+    "augur",
+    "aura",
+    "fart",
+    "frag",
+    "frat",
+    "frug",
+    "graft",
+    "gruff",
+    "guar",
+    "guru",
+    "hart",
+    "hurrah",
+    "hurt",
+    "raft",
+    "raga",
+    "ragtag",
+    "ragu",
+    "ratatat",
+    "ruff",
+    "tart",
+    "tartar",
+    "truth",
+    "turf"
+  ],
+  "id": 2425,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
