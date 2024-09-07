@@ -8,7 +8,7 @@ Pangrams that have occurred more than once.
 
 <!-- generated multi table start -->
 
-40 pangrams
+41 pangrams
 
 | Word                                   |   Count | Definition Text                                                                                                                                                      | Definition URL                             |
 |----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
@@ -28,6 +28,7 @@ Pangrams that have occurred more than once.
 | **curtain** <small>*(n.)*</small>      |       2 | A piece of fabric or other material that hangs in a window or open space as a decoration, shade, screen, or divider.                                                 | https://www.wordnik.com/words/curtain      |
 | **fanciful** <small>*(adj.)*</small>   |       2 | Tending to indulge in fancy.                                                                                                                                         | https://www.wordnik.com/words/fanciful     |
 | **fidgety**                            |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/fidgety      |
+| **fivefold**                           |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/fivefold     |
 | **fixable** <small>*(adj.)*</small>    |       2 | Capable of being fixed.                                                                                                                                              | https://www.wordnik.com/words/fixable      |
 | **flavorful**                          |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/flavorful    |
 | **flipflopping**                       |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/flipflopping |
@@ -424,7 +425,7 @@ Every pangram that's occurred so far.
 | **filename**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/filename        |
 | **finality**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/finality        |
 | **finitude**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/finitude        |
-| **fivefold**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/fivefold        |
+| **fivefold**                            |       2 |                                                                                                                                                                                                                | https://www.wordnik.com/words/fivefold        |
 | **fixable** <small>*(adj.)*</small>     |       2 | Capable of being fixed.                                                                                                                                                                                        | https://www.wordnik.com/words/fixable         |
 | **fixated**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/fixated         |
 | **fixation**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/fixation        |
