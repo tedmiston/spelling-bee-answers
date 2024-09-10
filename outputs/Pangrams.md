@@ -8,7 +8,7 @@ Pangrams that have occurred more than once.
 
 <!-- generated multi table start -->
 
-43 pangrams
+44 pangrams
 
 | Word                                   |   Count | Definition Text                                                                                                                                                      | Definition URL                             |
 |----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
@@ -51,6 +51,7 @@ Pangrams that have occurred more than once.
 | **talkative** <small>*(adj.)*</small>  |       2 | Marked by or having a disposition to talk.                                                                                                                           | https://www.wordnik.com/words/talkative    |
 | **tenacity** <small>*(n.)*</small>     |       2 | The quality or state of being tenacious; as, tenacity, or retentiveness, of memory; tenacity, or persistency, of purpose.                                            | https://www.wordnik.com/words/tenacity     |
 | **tributary** <small>*(n.)*</small>    |       2 | A stream that flows into a larger stream or other body of water.                                                                                                     | https://www.wordnik.com/words/tributary    |
+| **typeface**                           |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/typeface     |
 | **uncloak** <small>*(v.)*</small>      |       2 | To expose; reveal.                                                                                                                                                   | https://www.wordnik.com/words/uncloak      |
 | **vibrant**                            |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/vibrant      |
 | **violent** <small>*(adj.)*</small>    |       2 | Moving or acting with physical strength; urged or impelled with force; excited by strong feeling or passion; forcible; vehement; impetuous; fierce; furious; severe. | https://www.wordnik.com/words/violent      |
@@ -836,7 +837,7 @@ Every pangram that's occurred so far.
 | **turnaround**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/turnaround      |
 | **twitched**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/twitched        |
 | **twitching**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/twitching       |
-| **typeface**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/typeface        |
+| **typeface**                            |       2 |                                                                                                                                                                                                                | https://www.wordnik.com/words/typeface        |
 | **unacceptance**                        |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/unacceptance    |
 | **unbelief**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/unbelief        |
 | **unbuttoned**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/unbuttoned      |
