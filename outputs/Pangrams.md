@@ -65,7 +65,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-864 pangrams
+865 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -361,6 +361,7 @@ Every pangram that's occurred so far.
 | **divebomb**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/divebomb        |
 | **divebombed**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/divebombed      |
 | **divulging**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/divulging       |
+| **docility**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/docility        |
 | **doctoral**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/doctoral        |
 | **dogpile**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/dogpile         |
 | **domicile**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/domicile        |
