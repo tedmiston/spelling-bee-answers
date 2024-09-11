@@ -1,0 +1,59 @@
+{
+  "displayWeekday": "Tuesday",
+  "displayDate": "September 10, 2024",
+  "printDate": "2024-09-10",
+  "centerLetter": "c",
+  "outerLetters": [
+    "d",
+    "i",
+    "l",
+    "o",
+    "t",
+    "y"
+  ],
+  "validLetters": [
+    "c",
+    "d",
+    "i",
+    "l",
+    "o",
+    "t",
+    "y"
+  ],
+  "pangrams": [
+    "docility"
+  ],
+  "answers": [
+    "docility",
+    "city",
+    "clod",
+    "clot",
+    "cloy",
+    "cocci",
+    "codicil",
+    "coil",
+    "cold",
+    "coldly",
+    "colic",
+    "colloid",
+    "colt",
+    "cool",
+    "coolly",
+    "coot",
+    "coyly",
+    "cyclic",
+    "icily",
+    "idiocy",
+    "idiotic",
+    "idyllic",
+    "illicit",
+    "illicitly",
+    "licit",
+    "licitly",
+    "loci",
+    "loco"
+  ],
+  "id": 10013,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
