@@ -66,7 +66,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-867 pangrams
+868 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -243,6 +243,7 @@ Every pangram that's occurred so far.
 | **checkable**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/checkable       |
 | **checkmate**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/checkmate       |
 | **chemical**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/chemical        |
+| **chickadee**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/chickadee       |
 | **childlike**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/childlike       |
 | **chimichanga**                         |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/chimichanga     |
 | **chivalric**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/chivalric       |
