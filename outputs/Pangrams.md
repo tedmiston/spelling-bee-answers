@@ -66,7 +66,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-868 pangrams
+870 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -602,6 +602,8 @@ Every pangram that's occurred so far.
 | **jackpot**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/jackpot         |
 | **jailbird**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/jailbird        |
 | **janitor** <small>*(n.)*</small>       |       1 | One who attends to the maintenance or cleaning of a building.                                                                                                                                                  | https://www.wordnik.com/words/janitor         |
+| **javelin**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/javelin         |
+| **javelina**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/javelina        |
 | **jocular**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/jocular         |
 | **jollying**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/jollying        |
 | **jouncing**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/jouncing        |
