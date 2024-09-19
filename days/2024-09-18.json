@@ -1,0 +1,55 @@
+{
+  "displayWeekday": "Wednesday",
+  "displayDate": "September 18, 2024",
+  "printDate": "2024-09-18",
+  "centerLetter": "c",
+  "outerLetters": [
+    "h",
+    "m",
+    "p",
+    "t",
+    "u",
+    "a"
+  ],
+  "validLetters": [
+    "c",
+    "h",
+    "m",
+    "p",
+    "t",
+    "u",
+    "a"
+  ],
+  "pangrams": [
+    "matchup"
+  ],
+  "answers": [
+    "matchup",
+    "attach",
+    "camp",
+    "captcha",
+    "catch",
+    "catchup",
+    "champ",
+    "chap",
+    "chat",
+    "chum",
+    "chump",
+    "chuppah",
+    "cuppa",
+    "cutup",
+    "hatch",
+    "hutch",
+    "match",
+    "matcha",
+    "much",
+    "pact",
+    "patch",
+    "tach",
+    "tact",
+    "thatch"
+  ],
+  "id": 27611,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
