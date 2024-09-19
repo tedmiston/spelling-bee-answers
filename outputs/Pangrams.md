@@ -8,7 +8,7 @@ Pangrams that have occurred more than once.
 
 <!-- generated multi table start -->
 
-48 pangrams
+49 pangrams
 
 | Word                                   |   Count | Definition Text                                                                                                                                                      | Definition URL                             |
 |----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
@@ -45,6 +45,7 @@ Pangrams that have occurred more than once.
 | **holiday**                            |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/holiday      |
 | **inhibitor**                          |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/inhibitor    |
 | **leitmotif**                          |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/leitmotif    |
+| **matchup**                            |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/matchup      |
 | **mothball** <small>*(n.)*</small>     |       2 | A marble-sized ball, originally of camphor but now of naphthalene, stored with clothes to repel moths.                                                               | https://www.wordnik.com/words/mothball     |
 | **motorway**                           |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/motorway     |
 | **nonviolent** <small>*(adj.)*</small> |       2 | Peacefully resistant in response to injustice; not using violence; -- used of protests and demonstrations.                                                           | https://www.wordnik.com/words/nonviolent   |
@@ -661,7 +662,7 @@ Every pangram that's occurred so far.
 | **marijuana**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/marijuana       |
 | **marinating**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/marinating      |
 | **matchmake**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/matchmake       |
-| **matchup**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/matchup         |
+| **matchup**                             |       2 |                                                                                                                                                                                                                | https://www.wordnik.com/words/matchup         |
 | **mathematic** <small>*(n.)*</small>    |       1 | Same as mathematics (the study of the measurement, properties, and relationships of quantities and sets, using numbers and symbols).                                                                           | https://www.wordnik.com/words/mathematic      |
 | **matriarch**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/matriarch       |
 | **maturity**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/maturity        |
