@@ -70,7 +70,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-877 pangrams
+878 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -461,6 +461,7 @@ Every pangram that's occurred so far.
 | **following**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/following       |
 | **formula**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/formula         |
 | **fraught**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/fraught         |
+| **friction**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/friction        |
 | **frontman**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/frontman        |
 | **fruition**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/fruition        |
 | **fueling** <small>*(v.)*</small>       |       1 | Present participle of fuel (something consumed to produce energy, especially).                                                                                                                                 | https://www.wordnik.com/words/fueling         |
