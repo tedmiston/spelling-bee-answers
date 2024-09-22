@@ -1,0 +1,59 @@
+{
+  "displayWeekday": "Saturday",
+  "displayDate": "September 21, 2024",
+  "printDate": "2024-09-21",
+  "centerLetter": "n",
+  "outerLetters": [
+    "a",
+    "b",
+    "e",
+    "j",
+    "o",
+    "w"
+  ],
+  "validLetters": [
+    "n",
+    "a",
+    "b",
+    "e",
+    "j",
+    "o",
+    "w"
+  ],
+  "pangrams": [
+    "jawbone"
+  ],
+  "answers": [
+    "jawbone",
+    "aeon",
+    "anew",
+    "anon",
+    "baboon",
+    "banana",
+    "bane",
+    "banjo",
+    "bean",
+    "been",
+    "bonbon",
+    "bone",
+    "bonobo",
+    "boon",
+    "ebon",
+    "jean",
+    "naan",
+    "nabob",
+    "nana",
+    "nene",
+    "neon",
+    "none",
+    "noob",
+    "noon",
+    "wane",
+    "wanna",
+    "wannabe",
+    "wean"
+  ],
+  "id": 15324,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
