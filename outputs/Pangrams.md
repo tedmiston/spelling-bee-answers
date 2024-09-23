@@ -70,7 +70,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-879 pangrams
+881 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -364,6 +364,8 @@ Every pangram that's occurred so far.
 | **diabetic**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/diabetic        |
 | **diabolic**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/diabolic        |
 | **diabolical**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/diabolical      |
+| **dialyze**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/dialyze         |
+| **dialyzed**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/dialyzed        |
 | **diatomic**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/diatomic        |
 | **diffract**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/diffract        |
 | **divebomb**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/divebomb        |
