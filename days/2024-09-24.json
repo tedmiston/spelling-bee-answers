@@ -1,0 +1,57 @@
+{
+  "displayWeekday": "Tuesday",
+  "displayDate": "September 24, 2024",
+  "printDate": "2024-09-24",
+  "centerLetter": "p",
+  "outerLetters": [
+    "d",
+    "g",
+    "i",
+    "o",
+    "r",
+    "y"
+  ],
+  "validLetters": [
+    "p",
+    "d",
+    "g",
+    "i",
+    "o",
+    "r",
+    "y"
+  ],
+  "pangrams": [
+    "prodigy"
+  ],
+  "answers": [
+    "prodigy",
+    "dippy",
+    "dopy",
+    "drip",
+    "drippy",
+    "droop",
+    "droopy",
+    "drop",
+    "goop",
+    "goopy",
+    "gorp",
+    "grip",
+    "grippy",
+    "opioid",
+    "piggy",
+    "pogo",
+    "poop",
+    "poor",
+    "poppy",
+    "prig",
+    "prior",
+    "priory",
+    "prod",
+    "prop",
+    "pyro",
+    "ropy"
+  ],
+  "id": 24470,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
