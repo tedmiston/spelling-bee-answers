@@ -8,7 +8,7 @@ Pangrams that have occurred more than once.
 
 <!-- generated multi table start -->
 
-51 pangrams
+52 pangrams
 
 | Word                                   |   Count | Definition Text                                                                                                                                                      | Definition URL                             |
 |----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
@@ -45,6 +45,7 @@ Pangrams that have occurred more than once.
 | **hiccuped** <small>*(v.)*</small>     |       2 | Simple past tense and past participle of hiccup (a spasm of the diaphragm, or the resulting sound).                                                                  | https://www.wordnik.com/words/hiccuped     |
 | **hiccupped** <small>*(v.)*</small>    |       2 | Simple past tense and past participle of hiccup (a spasm of the diaphragm, or the resulting sound).                                                                  | https://www.wordnik.com/words/hiccupped    |
 | **holiday**                            |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/holiday      |
+| **individual** <small>*(n.)*</small>   |       2 | A human regarded as a distinctive or unique personality.                                                                                                             | https://www.wordnik.com/words/individual   |
 | **inhibitor**                          |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/inhibitor    |
 | **leitmotif**                          |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/leitmotif    |
 | **matchup**                            |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/matchup      |
@@ -580,7 +581,7 @@ Every pangram that's occurred so far.
 | **inclement**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/inclement       |
 | **include**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/include         |
 | **included**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/included        |
-| **individual** <small>*(n.)*</small>    |       1 | A human regarded as a distinctive or unique personality.                                                                                                                                                       | https://www.wordnik.com/words/individual      |
+| **individual** <small>*(n.)*</small>    |       2 | A human regarded as a distinctive or unique personality.                                                                                                                                                       | https://www.wordnik.com/words/individual      |
 | **induction**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/induction       |
 | **ineffable**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/ineffable       |
 | **ineffective** <small>*(adj.)*</small> |       1 | Not producing an intended effect.                                                                                                                                                                              | https://www.wordnik.com/words/ineffective     |
