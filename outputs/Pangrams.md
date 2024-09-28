@@ -73,7 +73,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-885 pangrams
+886 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -851,6 +851,7 @@ Every pangram that's occurred so far.
 | **thicken**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/thicken         |
 | **thoracic**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/thoracic        |
 | **thrilling**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/thrilling       |
+| **throwaway**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/throwaway       |
 | **thruway**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/thruway         |
 | **tieback**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/tieback         |
 | **tomahawk**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/tomahawk        |
