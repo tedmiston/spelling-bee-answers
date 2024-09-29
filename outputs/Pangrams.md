@@ -73,7 +73,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-886 pangrams
+887 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -848,6 +848,7 @@ Every pangram that's occurred so far.
 | **tenacity** <small>*(n.)*</small>      |       2 | The quality or state of being tenacious; as, tenacity, or retentiveness, of memory; tenacity, or persistency, of purpose.                                                                                      | https://www.wordnik.com/words/tenacity        |
 | **thematic** <small>*(adj.)*</small>    |       1 | Relating to, or having a theme or a topic.                                                                                                                                                                     | https://www.wordnik.com/words/thematic        |
 | **theming**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/theming         |
+| **theology**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/theology        |
 | **thicken**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/thicken         |
 | **thoracic**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/thoracic        |
 | **thrilling**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/thrilling       |
