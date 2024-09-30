@@ -1,0 +1,56 @@
+{
+  "displayWeekday": "Sunday",
+  "displayDate": "September 29, 2024",
+  "printDate": "2024-09-29",
+  "centerLetter": "g",
+  "outerLetters": [
+    "f",
+    "i",
+    "l",
+    "n",
+    "v",
+    "y"
+  ],
+  "validLetters": [
+    "g",
+    "f",
+    "i",
+    "l",
+    "n",
+    "v",
+    "y"
+  ],
+  "pangrams": [
+    "vilifying"
+  ],
+  "answers": [
+    "vilifying",
+    "fifing",
+    "figgy",
+    "filing",
+    "filling",
+    "fining",
+    "fling",
+    "flinging",
+    "flying",
+    "gigging",
+    "giggling",
+    "giggly",
+    "gill",
+    "gilling",
+    "ginning",
+    "giving",
+    "infilling",
+    "inning",
+    "lining",
+    "living",
+    "lying",
+    "niggling",
+    "vigil",
+    "vivifying",
+    "vying"
+  ],
+  "id": 9341,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
