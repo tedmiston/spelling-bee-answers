@@ -73,7 +73,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-887 pangrams
+888 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -918,6 +918,7 @@ Every pangram that's occurred so far.
 | **vibrator**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/vibrator        |
 | **victimize**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/victimize       |
 | **vigilant**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/vigilant        |
+| **vilifying**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/vilifying       |
 | **vincible**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/vincible        |
 | **vindaloo**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/vindaloo        |
 | **violent** <small>*(adj.)*</small>     |       2 | Moving or acting with physical strength; urged or impelled with force; excited by strong feeling or passion; forcible; vehement; impetuous; fierce; furious; severe.                                           | https://www.wordnik.com/words/violent         |
