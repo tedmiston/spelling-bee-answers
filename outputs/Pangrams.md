@@ -8,7 +8,7 @@ Pangrams that have occurred more than once.
 
 <!-- generated multi table start -->
 
-52 pangrams
+53 pangrams
 
 | Word                                   |   Count | Definition Text                                                                                                                                                      | Definition URL                             |
 |----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
@@ -49,6 +49,7 @@ Pangrams that have occurred more than once.
 | **inhibitor**                          |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/inhibitor    |
 | **leitmotif**                          |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/leitmotif    |
 | **matchup**                            |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/matchup      |
+| **monoxide**                           |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/monoxide     |
 | **mothball** <small>*(n.)*</small>     |       2 | A marble-sized ball, originally of camphor but now of naphthalene, stored with clothes to repel moths.                                                               | https://www.wordnik.com/words/mothball     |
 | **motorway**                           |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/motorway     |
 | **nonviolent** <small>*(adj.)*</small> |       2 | Peacefully resistant in response to injustice; not using violence; -- used of protests and demonstrations.                                                           | https://www.wordnik.com/words/nonviolent   |
@@ -710,7 +711,7 @@ Every pangram that's occurred so far.
 | **monocracy**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/monocracy       |
 | **monolith**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/monolith        |
 | **monophonic**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/monophonic      |
-| **monoxide**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/monoxide        |
+| **monoxide**                            |       2 |                                                                                                                                                                                                                | https://www.wordnik.com/words/monoxide        |
 | **mortify**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/mortify         |
 | **mothball** <small>*(n.)*</small>      |       2 | A marble-sized ball, originally of camphor but now of naphthalene, stored with clothes to repel moths.                                                                                                         | https://www.wordnik.com/words/mothball        |
 | **motivation**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/motivation      |
