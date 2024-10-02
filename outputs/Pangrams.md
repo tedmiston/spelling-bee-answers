@@ -74,7 +74,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-888 pangrams
+889 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -281,6 +281,7 @@ Every pangram that's occurred so far.
 | **cognate**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/cognate         |
 | **cogwheel**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/cogwheel        |
 | **collectible**                         |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/collectible     |
+| **collective**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/collective      |
 | **colonially**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/colonially      |
 | **colorant**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/colorant        |
 | **coloratura**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/coloratura      |
