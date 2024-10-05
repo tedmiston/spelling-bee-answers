@@ -8,7 +8,7 @@ Pangrams that have occurred more than once.
 
 <!-- generated multi table start -->
 
-55 pangrams
+56 pangrams
 
 | Word                                   |   Count | Definition Text                                                                                                                                                      | Definition URL                             |
 |----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
@@ -55,6 +55,7 @@ Pangrams that have occurred more than once.
 | **motorway**                           |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/motorway     |
 | **nonviolent** <small>*(adj.)*</small> |       2 | Peacefully resistant in response to injustice; not using violence; -- used of protests and demonstrations.                                                           | https://www.wordnik.com/words/nonviolent   |
 | **objected**                           |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/objected     |
+| **payphone**                           |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/payphone     |
 | **phoenix**                            |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/phoenix      |
 | **rainbow**                            |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/rainbow      |
 | **taciturn** <small>*(adj.)*</small>   |       2 | Silent or reserved in speech; saying little; not inclined to speak or converse.                                                                                      | https://www.wordnik.com/words/taciturn     |
@@ -783,7 +784,7 @@ Every pangram that's occurred so far.
 | **pavilion**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/pavilion        |
 | **paycheck**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/paycheck        |
 | **payment**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/payment         |
-| **payphone**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/payphone        |
+| **payphone**                            |       2 |                                                                                                                                                                                                                | https://www.wordnik.com/words/payphone        |
 | **peaking**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/peaking         |
 | **pedagogy** <small>*(n.)*</small>      |       1 | The art or profession of teaching.                                                                                                                                                                             | https://www.wordnik.com/words/pedagogy        |
 | **pendulum**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/pendulum        |
