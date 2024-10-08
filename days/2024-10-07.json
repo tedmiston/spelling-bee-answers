@@ -1,0 +1,59 @@
+{
+  "displayWeekday": "Monday",
+  "displayDate": "October 7, 2024",
+  "printDate": "2024-10-07",
+  "centerLetter": "m",
+  "outerLetters": [
+    "a",
+    "c",
+    "e",
+    "g",
+    "k",
+    "o"
+  ],
+  "validLetters": [
+    "m",
+    "a",
+    "c",
+    "e",
+    "g",
+    "k",
+    "o"
+  ],
+  "pangrams": [
+    "gamecock"
+  ],
+  "answers": [
+    "gamecock",
+    "acme",
+    "ammo",
+    "amok",
+    "came",
+    "cameo",
+    "camo",
+    "coma",
+    "come",
+    "comma",
+    "emcee",
+    "game",
+    "gamma",
+    "mace",
+    "mage",
+    "magma",
+    "make",
+    "mako",
+    "mama",
+    "mamma",
+    "mecca",
+    "meek",
+    "mega",
+    "meme",
+    "memo",
+    "mock",
+    "momma",
+    "omega"
+  ],
+  "id": 17269,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
