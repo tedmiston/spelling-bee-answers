@@ -8,7 +8,7 @@ Pangrams that have occurred more than once.
 
 <!-- generated multi table start -->
 
-56 pangrams
+57 pangrams
 
 | Word                                   |   Count | Definition Text                                                                                                                                                      | Definition URL                             |
 |----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
@@ -38,6 +38,7 @@ Pangrams that have occurred more than once.
 | **flavorful**                          |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/flavorful    |
 | **flipflopping**                       |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/flipflopping |
 | **flopping**                           |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/flopping     |
+| **gamecock**                           |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/gamecock     |
 | **habitual** <small>*(adj.)*</small>   |       2 | Formed or acquired by habit or use.                                                                                                                                  | https://www.wordnik.com/words/habitual     |
 | **halibut** <small>*(n.)*</small>      |       2 | Any of several large edible flatfishes of the genus Hippoglossus and related genera, of northern Atlantic or Pacific waters.                                         | https://www.wordnik.com/words/halibut      |
 | **handily**                            |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/handily      |
@@ -483,7 +484,7 @@ Every pangram that's occurred so far.
 | **gallivanting**                        |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/gallivanting    |
 | **galumph**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/galumph         |
 | **gambling**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/gambling        |
-| **gamecock**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/gamecock        |
+| **gamecock**                            |       2 |                                                                                                                                                                                                                | https://www.wordnik.com/words/gamecock        |
 | **genealogy**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/genealogy       |
 | **girlhood**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/girlhood        |
 | **glamour**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/glamour         |
