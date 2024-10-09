@@ -8,7 +8,7 @@ Pangrams that have occurred more than once.
 
 <!-- generated multi table start -->
 
-57 pangrams
+58 pangrams
 
 | Word                                   |   Count | Definition Text                                                                                                                                                      | Definition URL                             |
 |----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
@@ -69,6 +69,7 @@ Pangrams that have occurred more than once.
 | **vibrant**                            |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/vibrant      |
 | **violent** <small>*(adj.)*</small>    |       2 | Moving or acting with physical strength; urged or impelled with force; excited by strong feeling or passion; forcible; vehement; impetuous; fierce; furious; severe. | https://www.wordnik.com/words/violent      |
 | **voltage**                            |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/voltage      |
+| **wheezing**                           |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/wheezing     |
 
 <!-- generated multi table end -->
 
@@ -952,7 +953,7 @@ Every pangram that's occurred so far.
 | **weighty**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/weighty         |
 | **welding**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/welding         |
 | **wheeling**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/wheeling        |
-| **wheezing**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/wheezing        |
+| **wheezing**                            |       2 |                                                                                                                                                                                                                | https://www.wordnik.com/words/wheezing        |
 | **whetting**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/whetting        |
 | **whitening**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/whitening       |
 | **whooping**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/whooping        |
