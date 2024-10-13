@@ -8,7 +8,7 @@ Pangrams that have occurred more than once.
 
 <!-- generated multi table start -->
 
-58 pangrams
+59 pangrams
 
 | Word                                   |   Count | Definition Text                                                                                                                                                      | Definition URL                             |
 |----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
@@ -22,6 +22,7 @@ Pangrams that have occurred more than once.
 | **backfill**                           |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/backfill     |
 | **baptize**                            |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/baptize      |
 | **beachcomb**                          |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/beachcomb    |
+| **billionth**                          |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/billionth    |
 | **biotech**                            |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/biotech      |
 | **bullfrog**                           |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/bullfrog     |
 | **buoyant**                            |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/buoyant      |
@@ -195,7 +196,7 @@ Every pangram that's occurred so far.
 | **bilingual**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/bilingual       |
 | **billboard**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/billboard       |
 | **billeting**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/billeting       |
-| **billionth**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/billionth       |
+| **billionth**                           |       2 |                                                                                                                                                                                                                | https://www.wordnik.com/words/billionth       |
 | **biological**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/biological      |
 | **biotech**                             |       2 |                                                                                                                                                                                                                | https://www.wordnik.com/words/biotech         |
 | **biplane** <small>*(n.)*</small>       |       1 | *aviation* An airplane that has two pairs of wings, one above the other                                                                                                                                        | https://www.wordnik.com/words/biplane         |
