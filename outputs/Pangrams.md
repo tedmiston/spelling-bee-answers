@@ -80,7 +80,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-900 pangrams
+901 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -477,6 +477,7 @@ Every pangram that's occurred so far.
 | **flounce**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/flounce         |
 | **flowing**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/flowing         |
 | **fluctuate**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/fluctuate       |
+| **folktale**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/folktale        |
 | **following**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/following       |
 | **formula**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/formula         |
 | **fraught**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/fraught         |
