@@ -1,0 +1,55 @@
+{
+  "displayWeekday": "Sunday",
+  "displayDate": "October 13, 2024",
+  "printDate": "2024-10-13",
+  "centerLetter": "k",
+  "outerLetters": [
+    "a",
+    "e",
+    "f",
+    "l",
+    "o",
+    "t"
+  ],
+  "validLetters": [
+    "k",
+    "a",
+    "e",
+    "f",
+    "l",
+    "o",
+    "t"
+  ],
+  "pangrams": [
+    "folktale"
+  ],
+  "answers": [
+    "folktale",
+    "fake",
+    "flak",
+    "flake",
+    "folk",
+    "kale",
+    "keel",
+    "keto",
+    "kettle",
+    "koala",
+    "kola",
+    "kook",
+    "lake",
+    "latke",
+    "leak",
+    "leek",
+    "look",
+    "take",
+    "takeoff",
+    "talk",
+    "teak",
+    "teakettle",
+    "toke",
+    "took"
+  ],
+  "id": 26428,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
