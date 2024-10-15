@@ -8,7 +8,7 @@ Pangrams that have occurred more than once.
 
 <!-- generated multi table start -->
 
-59 pangrams
+60 pangrams
 
 | Word                                   |   Count | Definition Text                                                                                                                                                      | Definition URL                             |
 |----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
@@ -58,6 +58,7 @@ Pangrams that have occurred more than once.
 | **nonviolent** <small>*(adj.)*</small> |       2 | Peacefully resistant in response to injustice; not using violence; -- used of protests and demonstrations.                                                           | https://www.wordnik.com/words/nonviolent   |
 | **objected**                           |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/objected     |
 | **payphone**                           |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/payphone     |
+| **pendulum**                           |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/pendulum     |
 | **phoenix**                            |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/phoenix      |
 | **rainbow**                            |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/rainbow      |
 | **taciturn** <small>*(adj.)*</small>   |       2 | Silent or reserved in speech; saying little; not inclined to speak or converse.                                                                                      | https://www.wordnik.com/words/taciturn     |
@@ -800,7 +801,7 @@ Every pangram that's occurred so far.
 | **payphone**                            |       2 |                                                                                                                                                                                                                | https://www.wordnik.com/words/payphone        |
 | **peaking**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/peaking         |
 | **pedagogy** <small>*(n.)*</small>      |       1 | The art or profession of teaching.                                                                                                                                                                             | https://www.wordnik.com/words/pedagogy        |
-| **pendulum**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/pendulum        |
+| **pendulum**                            |       2 |                                                                                                                                                                                                                | https://www.wordnik.com/words/pendulum        |
 | **pentacle**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/pentacle        |
 | **pentathlete**                         |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/pentathlete     |
 | **phenomena**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/phenomena       |
