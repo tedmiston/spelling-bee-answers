@@ -81,7 +81,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-902 pangrams
+903 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -325,6 +325,7 @@ Every pangram that's occurred so far.
 | **conically**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/conically       |
 | **conjoined**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/conjoined       |
 | **contempt** <small>*(n.)*</small>      |       1 | The feeling or attitude of regarding someone or something as inferior, base, or worthless; scorn.                                                                                                              | https://www.wordnik.com/words/contempt        |
+| **continuity**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/continuity      |
 | **continuum**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/continuum       |
 | **contralto**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/contralto       |
 | **conveyed**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/conveyed        |
