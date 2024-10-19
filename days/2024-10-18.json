@@ -1,0 +1,56 @@
+{
+  "displayWeekday": "Friday",
+  "displayDate": "October 18, 2024",
+  "printDate": "2024-10-18",
+  "centerLetter": "f",
+  "outerLetters": [
+    "d",
+    "g",
+    "i",
+    "n",
+    "o",
+    "u"
+  ],
+  "validLetters": [
+    "f",
+    "d",
+    "g",
+    "i",
+    "n",
+    "o",
+    "u"
+  ],
+  "pangrams": [
+    "founding"
+  ],
+  "answers": [
+    "founding",
+    "doff",
+    "doffing",
+    "duff",
+    "duffing",
+    "fifing",
+    "find",
+    "finding",
+    "fining",
+    "fogging",
+    "fond",
+    "food",
+    "found",
+    "fudging",
+    "fugu",
+    "fund",
+    "funding",
+    "fungi",
+    "fungo",
+    "goof",
+    "goofing",
+    "guff",
+    "info",
+    "offing",
+    "unfound"
+  ],
+  "id": 10679,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
