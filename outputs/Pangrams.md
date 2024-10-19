@@ -81,7 +81,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-906 pangrams
+907 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -484,6 +484,7 @@ Every pangram that's occurred so far.
 | **folktale**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/folktale        |
 | **following**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/following       |
 | **formula**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/formula         |
+| **founding**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/founding        |
 | **fraught**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/fraught         |
 | **friction**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/friction        |
 | **frontman**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/frontman        |
