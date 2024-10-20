@@ -8,7 +8,7 @@ Pangrams that have occurred more than once.
 
 <!-- generated multi table start -->
 
-60 pangrams
+61 pangrams
 
 | Word                                   |   Count | Definition Text                                                                                                                                                      | Definition URL                             |
 |----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
@@ -50,6 +50,7 @@ Pangrams that have occurred more than once.
 | **individual** <small>*(n.)*</small>   |       2 | A human regarded as a distinctive or unique personality.                                                                                                             | https://www.wordnik.com/words/individual   |
 | **inhibitor**                          |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/inhibitor    |
 | **leitmotif**                          |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/leitmotif    |
+| **luncheon**                           |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/luncheon     |
 | **matchup**                            |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/matchup      |
 | **mathematic** <small>*(n.)*</small>   |       2 | Same as mathematics (the study of the measurement, properties, and relationships of quantities and sets, using numbers and symbols).                                 | https://www.wordnik.com/words/mathematic   |
 | **monoxide**                           |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/monoxide     |
@@ -686,7 +687,7 @@ Every pangram that's occurred so far.
 | **loveably**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/loveably        |
 | **lucidity**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/lucidity        |
 | **lunched**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/lunched         |
-| **luncheon**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/luncheon        |
+| **luncheon**                            |       2 |                                                                                                                                                                                                                | https://www.wordnik.com/words/luncheon        |
 | **machine**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/machine         |
 | **machining**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/machining       |
 | **magazine**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/magazine        |
