@@ -82,7 +82,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-907 pangrams
+908 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -949,6 +949,7 @@ Every pangram that's occurred so far.
 | **vilifying**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/vilifying       |
 | **vincible**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/vincible        |
 | **vindaloo**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/vindaloo        |
+| **vindictive**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/vindictive      |
 | **violent** <small>*(adj.)*</small>     |       2 | Moving or acting with physical strength; urged or impelled with force; excited by strong feeling or passion; forcible; vehement; impetuous; fierce; furious; severe.                                           | https://www.wordnik.com/words/violent         |
 | **virology**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/virology        |
 | **virtual**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/virtual         |
