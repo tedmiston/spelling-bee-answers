@@ -8,7 +8,7 @@ Pangrams that have occurred more than once.
 
 <!-- generated multi table start -->
 
-61 pangrams
+62 pangrams
 
 | Word                                   |   Count | Definition Text                                                                                                                                                      | Definition URL                             |
 |----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
@@ -47,6 +47,7 @@ Pangrams that have occurred more than once.
 | **hiccuped** <small>*(v.)*</small>     |       2 | Simple past tense and past participle of hiccup (a spasm of the diaphragm, or the resulting sound).                                                                  | https://www.wordnik.com/words/hiccuped     |
 | **hiccupped** <small>*(v.)*</small>    |       2 | Simple past tense and past participle of hiccup (a spasm of the diaphragm, or the resulting sound).                                                                  | https://www.wordnik.com/words/hiccupped    |
 | **holiday**                            |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/holiday      |
+| **hologram**                           |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/hologram     |
 | **individual** <small>*(n.)*</small>   |       2 | A human regarded as a distinctive or unique personality.                                                                                                             | https://www.wordnik.com/words/individual   |
 | **inhibitor**                          |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/inhibitor    |
 | **leitmotif**                          |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/leitmotif    |
@@ -558,7 +559,7 @@ Every pangram that's occurred so far.
 | **highland**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/highland        |
 | **highlighted**                         |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/highlighted     |
 | **holiday**                             |       2 |                                                                                                                                                                                                                | https://www.wordnik.com/words/holiday         |
-| **hologram**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/hologram        |
+| **hologram**                            |       2 |                                                                                                                                                                                                                | https://www.wordnik.com/words/hologram        |
 | **homepage**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/homepage        |
 | **hometown**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/hometown        |
 | **homogeny**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/homogeny        |
