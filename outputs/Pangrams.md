@@ -8,7 +8,7 @@ Pangrams that have occurred more than once.
 
 <!-- generated multi table start -->
 
-62 pangrams
+63 pangrams
 
 | Word                                   |   Count | Definition Text                                                                                                                                                      | Definition URL                             |
 |----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
@@ -41,6 +41,7 @@ Pangrams that have occurred more than once.
 | **flopping**                           |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/flopping     |
 | **gamecock**                           |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/gamecock     |
 | **habitual** <small>*(adj.)*</small>   |       2 | Formed or acquired by habit or use.                                                                                                                                  | https://www.wordnik.com/words/habitual     |
+| **haircut**                            |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/haircut      |
 | **halibut** <small>*(n.)*</small>      |       2 | Any of several large edible flatfishes of the genus Hippoglossus and related genera, of northern Atlantic or Pacific waters.                                         | https://www.wordnik.com/words/halibut      |
 | **handily**                            |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/handily      |
 | **hawthorn**                           |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/hawthorn     |
@@ -521,7 +522,7 @@ Every pangram that's occurred so far.
 | **habitual** <small>*(adj.)*</small>    |       2 | Formed or acquired by habit or use.                                                                                                                                                                            | https://www.wordnik.com/words/habitual        |
 | **hackable**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/hackable        |
 | **hackney**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/hackney         |
-| **haircut**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/haircut         |
+| **haircut**                             |       2 |                                                                                                                                                                                                                | https://www.wordnik.com/words/haircut         |
 | **halcyon**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/halcyon         |
 | **halibut** <small>*(n.)*</small>       |       2 | Any of several large edible flatfishes of the genus Hippoglossus and related genera, of northern Atlantic or Pacific waters.                                                                                   | https://www.wordnik.com/words/halibut         |
 | **halogen**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/halogen         |
