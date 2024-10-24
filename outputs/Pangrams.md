@@ -8,7 +8,7 @@ Pangrams that have occurred more than once.
 
 <!-- generated multi table start -->
 
-63 pangrams
+64 pangrams
 
 | Word                                   |   Count | Definition Text                                                                                                                                                      | Definition URL                             |
 |----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
@@ -32,6 +32,7 @@ Pangrams that have occurred more than once.
 | **condominium**                        |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/condominium  |
 | **corkboard**                          |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/corkboard    |
 | **curtain** <small>*(n.)*</small>      |       2 | A piece of fabric or other material that hangs in a window or open space as a decoration, shade, screen, or divider.                                                 | https://www.wordnik.com/words/curtain      |
+| **enjoyment**                          |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/enjoyment    |
 | **fanciful** <small>*(adj.)*</small>   |       2 | Tending to indulge in fancy.                                                                                                                                         | https://www.wordnik.com/words/fanciful     |
 | **fidgety**                            |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/fidgety      |
 | **fivefold**                           |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/fivefold     |
@@ -429,7 +430,7 @@ Every pangram that's occurred so far.
 | **engulfed**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/engulfed        |
 | **engulfing** <small>*(v.)*</small>     |       1 | Present participle of engulf (to swallow up or overwhelm by or as if by overflowing and enclosing).                                                                                                            | https://www.wordnik.com/words/engulfing       |
 | **enhancement**                         |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/enhancement     |
-| **enjoyment**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/enjoyment       |
+| **enjoyment**                           |       2 |                                                                                                                                                                                                                | https://www.wordnik.com/words/enjoyment       |
 | **enlighten**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/enlighten       |
 | **enlightening**                        |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/enlightening    |
 | **enveloped** <small>*(adj.)*</small>   |       1 | Enclosed or surrounded completely.                                                                                                                                                                             | https://www.wordnik.com/words/enveloped       |
