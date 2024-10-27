@@ -1,0 +1,63 @@
+{
+  "displayWeekday": "Saturday",
+  "displayDate": "October 26, 2024",
+  "printDate": "2024-10-26",
+  "centerLetter": "h",
+  "outerLetters": [
+    "a",
+    "b",
+    "d",
+    "e",
+    "l",
+    "u"
+  ],
+  "validLetters": [
+    "h",
+    "a",
+    "b",
+    "d",
+    "e",
+    "l",
+    "u"
+  ],
+  "pangrams": [
+    "bullheaded"
+  ],
+  "answers": [
+    "bullheaded",
+    "ahead",
+    "bedhead",
+    "behead",
+    "beheaded",
+    "beheld",
+    "blah",
+    "deadhead",
+    "deadheaded",
+    "halal",
+    "hale",
+    "hall",
+    "haul",
+    "hauled",
+    "head",
+    "headed",
+    "heal",
+    "healable",
+    "healed",
+    "heed",
+    "heeded",
+    "heel",
+    "heeled",
+    "held",
+    "hell",
+    "hubbub",
+    "huddle",
+    "huddled",
+    "hued",
+    "hula",
+    "hull",
+    "hulled"
+  ],
+  "id": 19156,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
