@@ -669,5 +669,6 @@
 | **2024-10-23** | [2024-10-23.json](../days/2024-10-23.json) | [Forum](https://www.nytimes.com/2024/10/23/crosswords/spelling-bee-forum.html) |      40 |          1 |
 | **2024-10-24** | [2024-10-24.json](../days/2024-10-24.json) | [Forum](https://www.nytimes.com/2024/10/24/crosswords/spelling-bee-forum.html) |      43 |          2 |
 | **2024-10-25** | [2024-10-25.json](../days/2024-10-25.json) | [Forum](https://www.nytimes.com/2024/10/25/crosswords/spelling-bee-forum.html) |      38 |          2 |
+| **2024-10-26** | [2024-10-26.json](../days/2024-10-26.json) | [Forum](https://www.nytimes.com/2024/10/26/crosswords/spelling-bee-forum.html) |      32 |          1 |
 
 <!-- generated table end -->
