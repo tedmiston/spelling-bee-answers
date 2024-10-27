@@ -85,7 +85,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-912 pangrams
+913 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -231,6 +231,7 @@ Every pangram that's occurred so far.
 | **bronzing**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/bronzing        |
 | **brought** <small>*(v.)*</small>       |       1 | Simple past tense and past participle of bring.                                                                                                                                                                | https://www.wordnik.com/words/brought         |
 | **bullfrog**                            |       2 |                                                                                                                                                                                                                | https://www.wordnik.com/words/bullfrog        |
+| **bullheaded**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/bullheaded      |
 | **bullring**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/bullring        |
 | **buoyant**                             |       2 |                                                                                                                                                                                                                | https://www.wordnik.com/words/buoyant         |
 | **burbling**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/burbling        |
