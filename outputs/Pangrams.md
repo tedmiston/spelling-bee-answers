@@ -8,7 +8,7 @@ Pangrams that have occurred more than once.
 
 <!-- generated multi table start -->
 
-64 pangrams
+65 pangrams
 
 | Word                                   |   Count | Definition Text                                                                                                                                                      | Definition URL                             |
 |----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
@@ -37,6 +37,7 @@ Pangrams that have occurred more than once.
 | **fidgety**                            |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/fidgety      |
 | **fivefold**                           |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/fivefold     |
 | **fixable** <small>*(adj.)*</small>    |       2 | Capable of being fixed.                                                                                                                                              | https://www.wordnik.com/words/fixable      |
+| **flagpole** <small>*(n.)*</small>     |       2 | A pole used to display a flag.                                                                                                                                       | https://www.wordnik.com/words/flagpole     |
 | **flavorful**                          |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/flavorful    |
 | **flipflopping**                       |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/flipflopping |
 | **flopping**                           |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/flopping     |
@@ -472,7 +473,7 @@ Every pangram that's occurred so far.
 | **fixable** <small>*(adj.)*</small>     |       2 | Capable of being fixed.                                                                                                                                                                                        | https://www.wordnik.com/words/fixable         |
 | **fixated**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/fixated         |
 | **fixation**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/fixation        |
-| **flagpole** <small>*(n.)*</small>      |       1 | A pole used to display a flag.                                                                                                                                                                                 | https://www.wordnik.com/words/flagpole        |
+| **flagpole** <small>*(n.)*</small>      |       2 | A pole used to display a flag.                                                                                                                                                                                 | https://www.wordnik.com/words/flagpole        |
 | **flaking**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/flaking         |
 | **flanked**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/flanked         |
 | **flanking**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/flanking        |
