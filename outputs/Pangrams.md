@@ -86,7 +86,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-913 pangrams
+914 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -971,6 +971,7 @@ Every pangram that's occurred so far.
 | **wakening**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/wakening        |
 | **walkout**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/walkout         |
 | **warlock**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/warlock         |
+| **warming**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/warming         |
 | **warping**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/warping         |
 | **weakening**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/weakening       |
 | **weaving** <small>*(n.)*</small>       |       1 | The act of one who or that which weaves; specifically, the act or art of producing cloth or other textile fabrics by means of a loom from the combination of threads or filaments.                             | https://www.wordnik.com/words/weaving         |
