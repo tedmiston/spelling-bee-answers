@@ -87,7 +87,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-914 pangrams
+915 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -613,6 +613,7 @@ Every pangram that's occurred so far.
 | **inclement**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/inclement       |
 | **include**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/include         |
 | **included**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/included        |
+| **indictment**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/indictment      |
 | **individual** <small>*(n.)*</small>    |       2 | A human regarded as a distinctive or unique personality.                                                                                                                                                       | https://www.wordnik.com/words/individual      |
 | **induction**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/induction       |
 | **ineffable**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/ineffable       |
