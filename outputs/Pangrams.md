@@ -87,7 +87,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-915 pangrams
+916 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -890,6 +890,7 @@ Every pangram that's occurred so far.
 | **theology**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/theology        |
 | **thicken**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/thicken         |
 | **thoracic**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/thoracic        |
+| **thoughtful**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/thoughtful      |
 | **thrilling**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/thrilling       |
 | **throwaway**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/throwaway       |
 | **thruway**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/thruway         |
