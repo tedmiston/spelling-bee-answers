@@ -87,7 +87,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-916 pangrams
+917 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -443,6 +443,7 @@ Every pangram that's occurred so far.
 | **epiphany**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/epiphany        |
 | **ethanol**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/ethanol         |
 | **etymology**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/etymology       |
+| **evading**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/evading         |
 | **evaluated**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/evaluated       |
 | **evidencing**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/evidencing      |
 | **evoking**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/evoking         |
