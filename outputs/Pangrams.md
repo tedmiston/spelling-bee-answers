@@ -8,7 +8,7 @@ Pangrams that have occurred more than once.
 
 <!-- generated multi table start -->
 
-66 pangrams
+67 pangrams
 
 | Word                                   |   Count | Definition Text                                                                                                                                                      | Definition URL                             |
 |----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
@@ -42,6 +42,7 @@ Pangrams that have occurred more than once.
 | **flipflopping**                       |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/flipflopping |
 | **flopping**                           |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/flopping     |
 | **gamecock**                           |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/gamecock     |
+| **graphic**                            |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/graphic      |
 | **habitual** <small>*(adj.)*</small>   |       2 | Formed or acquired by habit or use.                                                                                                                                  | https://www.wordnik.com/words/habitual     |
 | **haircut**                            |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/haircut      |
 | **halibut** <small>*(n.)*</small>      |       2 | Any of several large edible flatfishes of the genus Hippoglossus and related genera, of northern Atlantic or Pacific waters.                                         | https://www.wordnik.com/words/halibut      |
@@ -519,7 +520,7 @@ Every pangram that's occurred so far.
 | **graffitiing**                         |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/graffitiing     |
 | **grafting**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/grafting        |
 | **grandpop**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/grandpop        |
-| **graphic**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/graphic         |
+| **graphic**                             |       2 |                                                                                                                                                                                                                | https://www.wordnik.com/words/graphic         |
 | **graphing**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/graphing        |
 | **gravity**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/gravity         |
 | **groundhog**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/groundhog       |
