@@ -1,0 +1,58 @@
+{
+  "displayWeekday": "Saturday",
+  "displayDate": "November 2, 2024",
+  "printDate": "2024-11-02",
+  "centerLetter": "c",
+  "outerLetters": [
+    "g",
+    "h",
+    "i",
+    "p",
+    "r",
+    "a"
+  ],
+  "validLetters": [
+    "c",
+    "g",
+    "h",
+    "i",
+    "p",
+    "r",
+    "a"
+  ],
+  "pangrams": [
+    "graphic"
+  ],
+  "answers": [
+    "graphic",
+    "acacia",
+    "acai",
+    "arch",
+    "archaic",
+    "carp",
+    "carpi",
+    "chai",
+    "chair",
+    "chap",
+    "char",
+    "chia",
+    "chic",
+    "chica",
+    "chichi",
+    "chip",
+    "chirp",
+    "cigar",
+    "circa",
+    "cirri",
+    "crag",
+    "crap",
+    "highchair",
+    "parch",
+    "pica",
+    "priapic",
+    "rich"
+  ],
+  "id": 27608,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
