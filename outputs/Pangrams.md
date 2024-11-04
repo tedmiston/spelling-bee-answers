@@ -88,7 +88,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-917 pangrams
+918 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -849,6 +849,7 @@ Every pangram that's occurred so far.
 | **polygamy**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/polygamy        |
 | **polygonal**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/polygonal       |
 | **pompadour**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/pompadour       |
+| **portrayal**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/portrayal       |
 | **potable**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/potable         |
 | **potbelly**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/potbelly        |
 | **potency**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/potency         |
