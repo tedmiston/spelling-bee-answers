@@ -88,7 +88,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-918 pangrams
+919 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -823,6 +823,7 @@ Every pangram that's occurred so far.
 | **pendulum**                            |       2 |                                                                                                                                                                                                                | https://www.wordnik.com/words/pendulum        |
 | **pentacle**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/pentacle        |
 | **pentathlete**                         |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/pentathlete     |
+| **phantom**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/phantom         |
 | **phenomena**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/phenomena       |
 | **phoenix**                             |       2 |                                                                                                                                                                                                                | https://www.wordnik.com/words/phoenix         |
 | **photograph** <small>*(n.)*</small>    |       1 | An image, especially a positive print, recorded by exposing a photosensitive surface to light, especially in a camera.                                                                                         | https://www.wordnik.com/words/photograph      |
