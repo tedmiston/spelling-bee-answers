@@ -90,7 +90,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-919 pangrams
+920 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -657,6 +657,7 @@ Every pangram that's occurred so far.
 | **javelin**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/javelin         |
 | **javelina**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/javelina        |
 | **jawbone**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/jawbone         |
+| **jellybean**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/jellybean       |
 | **jocular**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/jocular         |
 | **jollying**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/jollying        |
 | **jouncing**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/jouncing        |
