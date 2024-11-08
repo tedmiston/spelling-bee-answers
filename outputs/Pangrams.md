@@ -90,7 +90,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-920 pangrams
+921 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -271,6 +271,7 @@ Every pangram that's occurred so far.
 | **charging**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/charging        |
 | **chariot**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/chariot         |
 | **charring**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/charring        |
+| **chateaux**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/chateaux        |
 | **checkable**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/checkable       |
 | **checkmate**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/checkmate       |
 | **chemical**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/chemical        |
