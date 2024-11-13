@@ -8,7 +8,7 @@ Pangrams that have occurred more than once.
 
 <!-- generated multi table start -->
 
-74 pangrams
+75 pangrams
 
 | Word                                   |   Count | Definition Text                                                                                                                                                      | Definition URL                             |
 |----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
@@ -86,6 +86,7 @@ Pangrams that have occurred more than once.
 | **violent** <small>*(adj.)*</small>    |       2 | Moving or acting with physical strength; urged or impelled with force; excited by strong feeling or passion; forcible; vehement; impetuous; fierce; furious; severe. | https://www.wordnik.com/words/violent      |
 | **voltage**                            |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/voltage      |
 | **wheezing**                           |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/wheezing     |
+| **windmilled** <small>*(v.)*</small>   |       2 | Simple past tense and past participle of windmill.                                                                                                                   | https://www.wordnik.com/words/windmilled   |
 
 <!-- generated multi table end -->
 
@@ -1006,7 +1007,7 @@ Every pangram that's occurred so far.
 | **whupping**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/whupping        |
 | **wielding**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/wielding        |
 | **windfall**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/windfall        |
-| **windmilled** <small>*(v.)*</small>    |       1 | Simple past tense and past participle of windmill.                                                                                                                                                             | https://www.wordnik.com/words/windmilled      |
+| **windmilled** <small>*(v.)*</small>    |       2 | Simple past tense and past participle of windmill.                                                                                                                                                             | https://www.wordnik.com/words/windmilled      |
 | **witching**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/witching        |
 | **wizardry**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/wizardry        |
 | **wolfing**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/wolfing         |
