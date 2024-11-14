@@ -8,7 +8,7 @@ Pangrams that have occurred more than once.
 
 <!-- generated multi table start -->
 
-75 pangrams
+76 pangrams
 
 | Word                                   |   Count | Definition Text                                                                                                                                                      | Definition URL                             |
 |----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
@@ -35,6 +35,7 @@ Pangrams that have occurred more than once.
 | **corkboard**                          |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/corkboard    |
 | **curtain** <small>*(n.)*</small>      |       2 | A piece of fabric or other material that hangs in a window or open space as a decoration, shade, screen, or divider.                                                 | https://www.wordnik.com/words/curtain      |
 | **diatomic**                           |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/diatomic     |
+| **dormitory** <small>*(n.)*</small>    |       2 | A building for housing a number of persons, as at a school or resort.                                                                                                | https://www.wordnik.com/words/dormitory    |
 | **enjoyment**                          |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/enjoyment    |
 | **fanciful** <small>*(adj.)*</small>   |       2 | Tending to indulge in fancy.                                                                                                                                         | https://www.wordnik.com/words/fanciful     |
 | **fidgety**                            |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/fidgety      |
@@ -419,7 +420,7 @@ Every pangram that's occurred so far.
 | **domination**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/domination      |
 | **doornail**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/doornail        |
 | **dormant**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/dormant         |
-| **dormitory** <small>*(n.)*</small>     |       1 | A building for housing a number of persons, as at a school or resort.                                                                                                                                          | https://www.wordnik.com/words/dormitory       |
+| **dormitory** <small>*(n.)*</small>     |       2 | A building for housing a number of persons, as at a school or resort.                                                                                                                                          | https://www.wordnik.com/words/dormitory       |
 | **doughnut**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/doughnut        |
 | **downloaded**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/downloaded      |
 | **draconian** <small>*(adj.)*</small>   |       1 | A code of laws made by Draco. Their measures were so severe that they were said to be written in letters of blood; hence, any laws of excessive rigor.                                                         | https://www.wordnik.com/words/draconian       |
