@@ -1,0 +1,59 @@
+{
+  "displayWeekday": "Wednesday",
+  "displayDate": "November 13, 2024",
+  "printDate": "2024-11-13",
+  "centerLetter": "i",
+  "outerLetters": [
+    "d",
+    "m",
+    "o",
+    "r",
+    "t",
+    "y"
+  ],
+  "validLetters": [
+    "i",
+    "d",
+    "m",
+    "o",
+    "r",
+    "t",
+    "y"
+  ],
+  "pangrams": [
+    "dormitory"
+  ],
+  "answers": [
+    "dormitory",
+    "dimity",
+    "dirt",
+    "dirty",
+    "ditto",
+    "ditty",
+    "droid",
+    "idiom",
+    "idiot",
+    "itty",
+    "midi",
+    "mirror",
+    "mitt",
+    "oddity",
+    "omit",
+    "riot",
+    "roti",
+    "tidy",
+    "timid",
+    "timidity",
+    "tomtit",
+    "tori",
+    "torii",
+    "toroid",
+    "torrid",
+    "torridity",
+    "trim",
+    "trio"
+  ],
+  "id": 17524,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
