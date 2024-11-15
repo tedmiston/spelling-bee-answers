@@ -8,7 +8,7 @@ Pangrams that have occurred more than once.
 
 <!-- generated multi table start -->
 
-76 pangrams
+77 pangrams
 
 | Word                                   |   Count | Definition Text                                                                                                                                                      | Definition URL                             |
 |----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
@@ -60,6 +60,7 @@ Pangrams that have occurred more than once.
 | **idiomatic**                          |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/idiomatic    |
 | **individual** <small>*(n.)*</small>   |       2 | A human regarded as a distinctive or unique personality.                                                                                                             | https://www.wordnik.com/words/individual   |
 | **inhibitor**                          |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/inhibitor    |
+| **itemizing** <small>*(v.)*</small>    |       2 | Present participle of itemize (to list the items of).                                                                                                                | https://www.wordnik.com/words/itemizing    |
 | **leitmotif**                          |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/leitmotif    |
 | **luncheon**                           |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/luncheon     |
 | **matchup**                            |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/matchup      |
@@ -658,7 +659,7 @@ Every pangram that's occurred so far.
 | **invincible**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/invincible      |
 | **ironworking**                         |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/ironworking     |
 | **italicize**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/italicize       |
-| **itemizing** <small>*(v.)*</small>     |       1 | Present participle of itemize (to list the items of).                                                                                                                                                          | https://www.wordnik.com/words/itemizing       |
+| **itemizing** <small>*(v.)*</small>     |       2 | Present participle of itemize (to list the items of).                                                                                                                                                          | https://www.wordnik.com/words/itemizing       |
 | **jackboot**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/jackboot        |
 | **jackpot**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/jackpot         |
 | **jailbird**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/jailbird        |
