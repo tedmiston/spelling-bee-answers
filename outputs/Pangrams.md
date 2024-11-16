@@ -98,7 +98,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-923 pangrams
+924 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -819,6 +819,7 @@ Every pangram that's occurred so far.
 | **pageboy**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/pageboy         |
 | **painkilling**                         |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/painkilling     |
 | **paintball** <small>*(n.)*</small>     |       1 | A game in which players on one team seek to eliminate those on an opposing team by marking them with a water-soluble dye shot in capsules from air guns.                                                       | https://www.wordnik.com/words/paintball       |
+| **palmetto**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/palmetto        |
 | **panhandle**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/panhandle       |
 | **panhandled**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/panhandled      |
 | **pantheon**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/pantheon        |
