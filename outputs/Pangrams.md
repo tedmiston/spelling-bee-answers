@@ -8,7 +8,7 @@ Pangrams that have occurred more than once.
 
 <!-- generated multi table start -->
 
-77 pangrams
+78 pangrams
 
 | Word                                   |   Count | Definition Text                                                                                                                                                      | Definition URL                             |
 |----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
@@ -18,6 +18,7 @@ Pangrams that have occurred more than once.
 | **ambition**                           |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/ambition     |
 | **arthropod**                          |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/arthropod    |
 | **atrophy**                            |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/atrophy      |
+| **autonomy**                           |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/autonomy     |
 | **axiomatic** <small>*(adj.)*</small>  |       2 | Of, relating to, or resembling an axiom; self-evident.                                                                                                               | https://www.wordnik.com/words/axiomatic    |
 | **backboard**                          |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/backboard    |
 | **backdoor**                           |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/backdoor     |
@@ -177,7 +178,7 @@ Every pangram that's occurred so far.
 | **attitudinal**                         |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/attitudinal     |
 | **audibly**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/audibly         |
 | **autocracy**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/autocracy       |
-| **autonomy**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/autonomy        |
+| **autonomy**                            |       2 |                                                                                                                                                                                                                | https://www.wordnik.com/words/autonomy        |
 | **availability** <small>*(n.)*</small>  |       1 | The quality of being available (present and ready for use; at hand; accessible).                                                                                                                               | https://www.wordnik.com/words/availability    |
 | **avalanche**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/avalanche       |
 | **awakening**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/awakening       |
