@@ -1,0 +1,61 @@
+{
+  "displayWeekday": "Saturday",
+  "displayDate": "November 16, 2024",
+  "printDate": "2024-11-16",
+  "centerLetter": "u",
+  "outerLetters": [
+    "a",
+    "m",
+    "n",
+    "o",
+    "t",
+    "y"
+  ],
+  "validLetters": [
+    "u",
+    "a",
+    "m",
+    "n",
+    "o",
+    "t",
+    "y"
+  ],
+  "pangrams": [
+    "autonomy"
+  ],
+  "answers": [
+    "autonomy",
+    "amount",
+    "aunt",
+    "aunty",
+    "auto",
+    "automat",
+    "automata",
+    "automaton",
+    "autumn",
+    "mount",
+    "mummy",
+    "mutant",
+    "mutt",
+    "mutton",
+    "muumuu",
+    "noun",
+    "nutty",
+    "outman",
+    "tantamount",
+    "taunt",
+    "taut",
+    "tout",
+    "tummy",
+    "tuna",
+    "tutu",
+    "unman",
+    "unmount",
+    "unto",
+    "yuan",
+    "yummy"
+  ],
+  "id": 24791,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
