@@ -8,7 +8,7 @@ Pangrams that have occurred more than once.
 
 <!-- generated multi table start -->
 
-80 pangrams
+81 pangrams
 
 | Word                                   |   Count | Definition Text                                                                                                                                                      | Definition URL                             |
 |----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
@@ -76,6 +76,7 @@ Pangrams that have occurred more than once.
 | **payphone**                           |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/payphone     |
 | **pendulum**                           |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/pendulum     |
 | **phoenix**                            |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/phoenix      |
+| **pinewood** <small>*(n.)*</small>     |       2 | The wood of the pine tree.                                                                                                                                           | https://www.wordnik.com/words/pinewood     |
 | **plebeian** <small>*(adj.)*</small>   |       2 | Of, belonging to, or characteristic of commoners.                                                                                                                    | https://www.wordnik.com/words/plebeian     |
 | **rainbow**                            |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/rainbow      |
 | **rotunda**                            |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/rotunda      |
@@ -846,7 +847,7 @@ Every pangram that's occurred so far.
 | **phoenix**                             |       2 |                                                                                                                                                                                                                | https://www.wordnik.com/words/phoenix         |
 | **photograph** <small>*(n.)*</small>    |       1 | An image, especially a positive print, recorded by exposing a photosensitive surface to light, especially in a camera.                                                                                         | https://www.wordnik.com/words/photograph      |
 | **picante**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/picante         |
-| **pinewood** <small>*(n.)*</small>      |       1 | The wood of the pine tree.                                                                                                                                                                                     | https://www.wordnik.com/words/pinewood        |
+| **pinewood** <small>*(n.)*</small>      |       2 | The wood of the pine tree.                                                                                                                                                                                     | https://www.wordnik.com/words/pinewood        |
 | **pinhead**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/pinhead         |
 | **pinheaded**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/pinheaded       |
 | **pittance**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/pittance        |
