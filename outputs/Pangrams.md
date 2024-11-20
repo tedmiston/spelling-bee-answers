@@ -8,7 +8,7 @@ Pangrams that have occurred more than once.
 
 <!-- generated multi table start -->
 
-81 pangrams
+82 pangrams
 
 | Word                                   |   Count | Definition Text                                                                                                                                                      | Definition URL                             |
 |----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
@@ -55,6 +55,7 @@ Pangrams that have occurred more than once.
 | **handily**                            |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/handily      |
 | **hardtop**                            |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/hardtop      |
 | **hawthorn**                           |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/hawthorn     |
+| **heavily**                            |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/heavily      |
 | **hiccuped** <small>*(v.)*</small>     |       2 | Simple past tense and past participle of hiccup (a spasm of the diaphragm, or the resulting sound).                                                                  | https://www.wordnik.com/words/hiccuped     |
 | **hiccupped** <small>*(v.)*</small>    |       2 | Simple past tense and past participle of hiccup (a spasm of the diaphragm, or the resulting sound).                                                                  | https://www.wordnik.com/words/hiccupped    |
 | **holiday**                            |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/holiday      |
@@ -574,7 +575,7 @@ Every pangram that's occurred so far.
 | **headwind**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/headwind        |
 | **healthful**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/healthful       |
 | **heatedly**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/heatedly        |
-| **heavily**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/heavily         |
+| **heavily**                             |       2 |                                                                                                                                                                                                                | https://www.wordnik.com/words/heavily         |
 | **hegemony**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/hegemony        |
 | **hematic** <small>*(adj.)*</small>     |       1 | Of, relating to, resembling, containing, or acting on blood.                                                                                                                                                   | https://www.wordnik.com/words/hematic         |
 | **hemlock**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/hemlock         |
