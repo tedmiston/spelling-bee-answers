@@ -1,0 +1,51 @@
+{
+  "displayWeekday": "Tuesday",
+  "displayDate": "November 19, 2024",
+  "printDate": "2024-11-19",
+  "centerLetter": "h",
+  "outerLetters": [
+    "a",
+    "e",
+    "i",
+    "l",
+    "v",
+    "y"
+  ],
+  "validLetters": [
+    "h",
+    "a",
+    "e",
+    "i",
+    "l",
+    "v",
+    "y"
+  ],
+  "pangrams": [
+    "heavily"
+  ],
+  "answers": [
+    "heavily",
+    "hail",
+    "halal",
+    "hale",
+    "hall",
+    "halva",
+    "halvah",
+    "halve",
+    "have",
+    "heal",
+    "heave",
+    "heavy",
+    "heel",
+    "hell",
+    "helve",
+    "hill",
+    "hilly",
+    "hive",
+    "hiya",
+    "yeah"
+  ],
+  "id": 18440,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
