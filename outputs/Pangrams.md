@@ -103,7 +103,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-924 pangrams
+925 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -748,6 +748,7 @@ Every pangram that's occurred so far.
 | **menfolk**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/menfolk         |
 | **mentally**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/mentally        |
 | **mezzotint**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/mezzotint       |
+| **microcrack**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/microcrack      |
 | **microfilm**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/microfilm       |
 | **midbrain**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/midbrain        |
 | **midtown**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/midtown         |
