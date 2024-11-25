@@ -103,7 +103,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-930 pangrams
+931 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -121,6 +121,7 @@ Every pangram that's occurred so far.
 | **actuality**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/actuality       |
 | **adamantly**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/adamantly       |
 | **adaptation**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/adaptation      |
+| **adapting**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/adapting        |
 | **addictive**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/addictive       |
 | **adjacency**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/adjacency       |
 | **adjourn**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/adjourn         |
