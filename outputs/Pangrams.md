@@ -8,7 +8,7 @@ Pangrams that have occurred more than once.
 
 <!-- generated multi table start -->
 
-82 pangrams
+83 pangrams
 
 | Word                                   |   Count | Definition Text                                                                                                                                                      | Definition URL                             |
 |----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
@@ -52,6 +52,7 @@ Pangrams that have occurred more than once.
 | **habitual** <small>*(adj.)*</small>   |       2 | Formed or acquired by habit or use.                                                                                                                                  | https://www.wordnik.com/words/habitual     |
 | **haircut**                            |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/haircut      |
 | **halibut** <small>*(n.)*</small>      |       2 | Any of several large edible flatfishes of the genus Hippoglossus and related genera, of northern Atlantic or Pacific waters.                                         | https://www.wordnik.com/words/halibut      |
+| **handbill**                           |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/handbill     |
 | **handily**                            |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/handily      |
 | **hardtop**                            |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/hardtop      |
 | **hawthorn**                           |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/hawthorn     |
@@ -554,7 +555,7 @@ Every pangram that's occurred so far.
 | **halcyon**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/halcyon         |
 | **halibut** <small>*(n.)*</small>       |       2 | Any of several large edible flatfishes of the genus Hippoglossus and related genera, of northern Atlantic or Pacific waters.                                                                                   | https://www.wordnik.com/words/halibut         |
 | **halogen**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/halogen         |
-| **handbill**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/handbill        |
+| **handbill**                            |       2 |                                                                                                                                                                                                                | https://www.wordnik.com/words/handbill        |
 | **handbook**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/handbook        |
 | **handicap**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/handicap        |
 | **handily**                             |       2 |                                                                                                                                                                                                                | https://www.wordnik.com/words/handily         |
