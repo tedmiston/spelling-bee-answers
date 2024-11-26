@@ -1,0 +1,59 @@
+{
+  "displayWeekday": "Monday",
+  "displayDate": "November 25, 2024",
+  "printDate": "2024-11-25",
+  "centerLetter": "n",
+  "outerLetters": [
+    "a",
+    "b",
+    "d",
+    "h",
+    "i",
+    "l"
+  ],
+  "validLetters": [
+    "n",
+    "a",
+    "b",
+    "d",
+    "h",
+    "i",
+    "l"
+  ],
+  "pangrams": [
+    "handbill"
+  ],
+  "answers": [
+    "handbill",
+    "anal",
+    "annal",
+    "banal",
+    "banana",
+    "band",
+    "bandana",
+    "bandanna",
+    "bind",
+    "bindi",
+    "bland",
+    "blin",
+    "blind",
+    "blini",
+    "hand",
+    "handball",
+    "hind",
+    "inlaid",
+    "inland",
+    "lain",
+    "lanai",
+    "land",
+    "libidinal",
+    "naan",
+    "nada",
+    "naiad",
+    "nail",
+    "nana"
+  ],
+  "id": 2042,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
