@@ -1,0 +1,56 @@
+{
+  "displayWeekday": "Tuesday",
+  "displayDate": "November 26, 2024",
+  "printDate": "2024-11-26",
+  "centerLetter": "l",
+  "outerLetters": [
+    "o",
+    "p",
+    "r",
+    "y",
+    "c",
+    "h"
+  ],
+  "validLetters": [
+    "l",
+    "o",
+    "p",
+    "r",
+    "y",
+    "c",
+    "h"
+  ],
+  "pangrams": [
+    "chlorophyll"
+  ],
+  "answers": [
+    "chlorophyll",
+    "clop",
+    "cloy",
+    "color",
+    "cool",
+    "coolly",
+    "coyly",
+    "holly",
+    "holy",
+    "loch",
+    "loco",
+    "loll",
+    "lollop",
+    "loop",
+    "loopy",
+    "lorry",
+    "phyllo",
+    "plop",
+    "ploy",
+    "poll",
+    "polo",
+    "polyp",
+    "pool",
+    "poorly",
+    "roll"
+  ],
+  "id": 27668,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
