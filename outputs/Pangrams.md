@@ -8,7 +8,7 @@ Pangrams that have occurred more than once.
 
 <!-- generated multi table start -->
 
-83 pangrams
+84 pangrams
 
 | Word                                   |   Count | Definition Text                                                                                                                                                      | Definition URL                             |
 |----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
@@ -30,6 +30,7 @@ Pangrams that have occurred more than once.
 | **biplane** <small>*(n.)*</small>      |       2 | *aviation* An airplane that has two pairs of wings, one above the other                                                                                              | https://www.wordnik.com/words/biplane      |
 | **bullfrog**                           |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/bullfrog     |
 | **buoyant**                            |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/buoyant      |
+| **chlorophyll**                        |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/chlorophyll  |
 | **clickable**                          |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/clickable    |
 | **companion**                          |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/companion    |
 | **competed**                           |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/competed     |
@@ -297,7 +298,7 @@ Every pangram that's occurred so far.
 | **childlike**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/childlike       |
 | **chimichanga**                         |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/chimichanga     |
 | **chivalric**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/chivalric       |
-| **chlorophyll**                         |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/chlorophyll     |
+| **chlorophyll**                         |       2 |                                                                                                                                                                                                                | https://www.wordnik.com/words/chlorophyll     |
 | **chunked**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/chunked         |
 | **chutney**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/chutney         |
 | **claimable**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/claimable       |
