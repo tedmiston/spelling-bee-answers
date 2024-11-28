@@ -8,7 +8,7 @@ Pangrams that have occurred more than once.
 
 <!-- generated multi table start -->
 
-84 pangrams
+85 pangrams
 
 | Word                                   |   Count | Definition Text                                                                                                                                                      | Definition URL                             |
 |----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
@@ -77,6 +77,7 @@ Pangrams that have occurred more than once.
 | **nonviolent** <small>*(adj.)*</small> |       2 | Peacefully resistant in response to injustice; not using violence; -- used of protests and demonstrations.                                                           | https://www.wordnik.com/words/nonviolent   |
 | **objected**                           |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/objected     |
 | **payphone**                           |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/payphone     |
+| **pedagogy** <small>*(n.)*</small>     |       2 | The art or profession of teaching.                                                                                                                                   | https://www.wordnik.com/words/pedagogy     |
 | **pendulum**                           |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/pendulum     |
 | **phoenix**                            |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/phoenix      |
 | **pinewood** <small>*(n.)*</small>     |       2 | The wood of the pine tree.                                                                                                                                           | https://www.wordnik.com/words/pinewood     |
@@ -846,7 +847,7 @@ Every pangram that's occurred so far.
 | **payment**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/payment         |
 | **payphone**                            |       2 |                                                                                                                                                                                                                | https://www.wordnik.com/words/payphone        |
 | **peaking**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/peaking         |
-| **pedagogy** <small>*(n.)*</small>      |       1 | The art or profession of teaching.                                                                                                                                                                             | https://www.wordnik.com/words/pedagogy        |
+| **pedagogy** <small>*(n.)*</small>      |       2 | The art or profession of teaching.                                                                                                                                                                             | https://www.wordnik.com/words/pedagogy        |
 | **pendulum**                            |       2 |                                                                                                                                                                                                                | https://www.wordnik.com/words/pendulum        |
 | **pentacle**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/pentacle        |
 | **pentathlete**                         |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/pentathlete     |
