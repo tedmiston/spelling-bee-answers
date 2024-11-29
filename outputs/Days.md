@@ -702,5 +702,6 @@
 | **2024-11-25** | [2024-11-25.json](../days/2024-11-25.json) | [Forum](https://www.nytimes.com/2024/11/25/crosswords/spelling-bee-forum.html) |      28 |          1 |
 | **2024-11-26** | [2024-11-26.json](../days/2024-11-26.json) | [Forum](https://www.nytimes.com/2024/11/26/crosswords/spelling-bee-forum.html) |      25 |          1 |
 | **2024-11-27** | [2024-11-27.json](../days/2024-11-27.json) | [Forum](https://www.nytimes.com/2024/11/27/crosswords/spelling-bee-forum.html) |      44 |          1 |
+| **2024-11-28** | [2024-11-28.json](../days/2024-11-28.json) | [Forum](https://www.nytimes.com/2024/11/28/crosswords/spelling-bee-forum.html) |      30 |          2 |
 
 <!-- generated table end -->
