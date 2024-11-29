@@ -1,0 +1,62 @@
+{
+  "displayWeekday": "Thursday",
+  "displayDate": "November 28, 2024",
+  "printDate": "2024-11-28",
+  "centerLetter": "g",
+  "outerLetters": [
+    "c",
+    "f",
+    "h",
+    "i",
+    "l",
+    "n"
+  ],
+  "validLetters": [
+    "g",
+    "c",
+    "f",
+    "h",
+    "i",
+    "l",
+    "n"
+  ],
+  "pangrams": [
+    "filching",
+    "flinching"
+  ],
+  "answers": [
+    "filching",
+    "flinching",
+    "chilling",
+    "chinning",
+    "cinching",
+    "clinching",
+    "cling",
+    "clinging",
+    "fifing",
+    "filing",
+    "filling",
+    "fining",
+    "fling",
+    "flinging",
+    "gigging",
+    "giggling",
+    "gill",
+    "gilling",
+    "ginning",
+    "high",
+    "hilling",
+    "hinging",
+    "icing",
+    "inching",
+    "inclining",
+    "infilling",
+    "inning",
+    "lining",
+    "niggling",
+    "nigh"
+  ],
+  "id": 16330,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
