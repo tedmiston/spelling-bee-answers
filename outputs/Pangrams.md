@@ -8,7 +8,7 @@ Pangrams that have occurred more than once.
 
 <!-- generated multi table start -->
 
-85 pangrams
+86 pangrams
 
 | Word                                   |   Count | Definition Text                                                                                                                                                      | Definition URL                             |
 |----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
@@ -76,6 +76,7 @@ Pangrams that have occurred more than once.
 | **motorway**                           |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/motorway     |
 | **nonviolent** <small>*(adj.)*</small> |       2 | Peacefully resistant in response to injustice; not using violence; -- used of protests and demonstrations.                                                           | https://www.wordnik.com/words/nonviolent   |
 | **objected**                           |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/objected     |
+| **outback** <small>*(n.)*</small>      |       2 | The remote rural part of a country, especially of Australia or New Zealand.                                                                                          | https://www.wordnik.com/words/outback      |
 | **payphone**                           |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/payphone     |
 | **pedagogy** <small>*(n.)*</small>     |       2 | The art or profession of teaching.                                                                                                                                   | https://www.wordnik.com/words/pedagogy     |
 | **pendulum**                           |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/pendulum     |
@@ -824,7 +825,7 @@ Every pangram that's occurred so far.
 | **opulent** <small>*(adj.)*</small>     |       1 | Characterized by extravagance or rich abundance; lavish or luxuriant.                                                                                                                                          | https://www.wordnik.com/words/opulent         |
 | **ordinal**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/ordinal         |
 | **ordinary**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/ordinary        |
-| **outback** <small>*(n.)*</small>       |       1 | The remote rural part of a country, especially of Australia or New Zealand.                                                                                                                                    | https://www.wordnik.com/words/outback         |
+| **outback** <small>*(n.)*</small>       |       2 | The remote rural part of a country, especially of Australia or New Zealand.                                                                                                                                    | https://www.wordnik.com/words/outback         |
 | **outfoxed**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/outfoxed        |
 | **outgrowth**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/outgrowth       |
 | **oxidant**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/oxidant         |
