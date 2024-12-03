@@ -111,7 +111,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-933 pangrams
+934 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -335,6 +335,7 @@ Every pangram that's occurred so far.
 | **colorant**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/colorant        |
 | **coloratura**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/coloratura      |
 | **combatant**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/combatant       |
+| **comically**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/comically       |
 | **committed**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/committed       |
 | **commodity**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/commodity       |
 | **companion**                           |       2 |                                                                                                                                                                                                                | https://www.wordnik.com/words/companion       |
