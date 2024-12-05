@@ -8,7 +8,7 @@ Pangrams that have occurred more than once.
 
 <!-- generated multi table start -->
 
-92 pangrams
+93 pangrams
 
 | Word                                   |   Count | Definition Text                                                                                                                                                      | Definition URL                              |
 |----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -43,6 +43,7 @@ Pangrams that have occurred more than once.
 | **curtain** <small>*(n.)*</small>      |       2 | A piece of fabric or other material that hangs in a window or open space as a decoration, shade, screen, or divider.                                                 | https://www.wordnik.com/words/curtain       |
 | **diatomic**                           |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/diatomic      |
 | **dormitory** <small>*(n.)*</small>    |       2 | A building for housing a number of persons, as at a school or resort.                                                                                                | https://www.wordnik.com/words/dormitory     |
+| **embanked**                           |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/embanked      |
 | **enjoyment**                          |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/enjoyment     |
 | **fanciful** <small>*(adj.)*</small>   |       2 | Tending to indulge in fancy.                                                                                                                                         | https://www.wordnik.com/words/fanciful      |
 | **fidgety**                            |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/fidgety       |
@@ -457,7 +458,7 @@ Every pangram that's occurred so far.
 | **elephant**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/elephant        |
 | **eligibility**                         |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/eligibility     |
 | **emaciated**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/emaciated       |
-| **embanked**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/embanked        |
+| **embanked**                            |       2 |                                                                                                                                                                                                                | https://www.wordnik.com/words/embanked        |
 | **embankment**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/embankment      |
 | **eminently**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/eminently       |
 | **emotivity**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/emotivity       |
