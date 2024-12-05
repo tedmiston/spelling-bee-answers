@@ -1,0 +1,55 @@
+{
+  "displayWeekday": "Wednesday",
+  "displayDate": "December 4, 2024",
+  "printDate": "2024-12-04",
+  "centerLetter": "k",
+  "outerLetters": [
+    "a",
+    "b",
+    "d",
+    "e",
+    "m",
+    "n"
+  ],
+  "validLetters": [
+    "k",
+    "a",
+    "b",
+    "d",
+    "e",
+    "m",
+    "n"
+  ],
+  "pangrams": [
+    "embanked"
+  ],
+  "answers": [
+    "embanked",
+    "babka",
+    "bake",
+    "baked",
+    "bank",
+    "banked",
+    "beak",
+    "beaked",
+    "dank",
+    "deke",
+    "deked",
+    "eked",
+    "embank",
+    "kebab",
+    "keen",
+    "keened",
+    "knead",
+    "kneaded",
+    "knee",
+    "kneed",
+    "make",
+    "meek",
+    "naked",
+    "nankeen"
+  ],
+  "id": 18622,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
