@@ -114,7 +114,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-935 pangrams
+936 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -866,6 +866,7 @@ Every pangram that's occurred so far.
 | **phantom**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/phantom         |
 | **phenomena**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/phenomena       |
 | **phoenix**                             |       2 |                                                                                                                                                                                                                | https://www.wordnik.com/words/phoenix         |
+| **phonily**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/phonily         |
 | **photograph** <small>*(n.)*</small>    |       1 | An image, especially a positive print, recorded by exposing a photosensitive surface to light, especially in a camera.                                                                                         | https://www.wordnik.com/words/photograph      |
 | **picante**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/picante         |
 | **pinewood** <small>*(n.)*</small>      |       2 | The wood of the pine tree.                                                                                                                                                                                     | https://www.wordnik.com/words/pinewood        |
