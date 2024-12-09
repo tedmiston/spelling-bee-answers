@@ -8,7 +8,7 @@ Pangrams that have occurred more than once.
 
 <!-- generated multi table start -->
 
-93 pangrams
+94 pangrams
 
 | Word                                   |   Count | Definition Text                                                                                                                                                      | Definition URL                              |
 |----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -70,6 +70,7 @@ Pangrams that have occurred more than once.
 | **hometown**                           |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/hometown      |
 | **idiomatic**                          |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/idiomatic     |
 | **individual** <small>*(n.)*</small>   |       2 | A human regarded as a distinctive or unique personality.                                                                                                             | https://www.wordnik.com/words/individual    |
+| **inexact**                            |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/inexact       |
 | **inhibitor**                          |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/inhibitor     |
 | **itemizing** <small>*(v.)*</small>    |       2 | Present participle of itemize (to list the items of).                                                                                                                | https://www.wordnik.com/words/itemizing     |
 | **leitmotif**                          |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/leitmotif     |
@@ -655,7 +656,7 @@ Every pangram that's occurred so far.
 | **induction**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/induction       |
 | **ineffable**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/ineffable       |
 | **ineffective** <small>*(adj.)*</small> |       1 | Not producing an intended effect.                                                                                                                                                                              | https://www.wordnik.com/words/ineffective     |
-| **inexact**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/inexact         |
+| **inexact**                             |       2 |                                                                                                                                                                                                                | https://www.wordnik.com/words/inexact         |
 | **infallible**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/infallible      |
 | **infantility**                         |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/infantility     |
 | **infantry**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/infantry        |
