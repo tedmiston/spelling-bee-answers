@@ -8,7 +8,7 @@ Pangrams that have occurred more than once.
 
 <!-- generated multi table start -->
 
-94 pangrams
+95 pangrams
 
 | Word                                   |   Count | Definition Text                                                                                                                                                      | Definition URL                              |
 |----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -101,6 +101,7 @@ Pangrams that have occurred more than once.
 | **turnaround**                         |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/turnaround    |
 | **typeface**                           |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/typeface      |
 | **uncloak** <small>*(v.)*</small>      |       2 | To expose; reveal.                                                                                                                                                   | https://www.wordnik.com/words/uncloak       |
+| **unknowing**                          |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/unknowing     |
 | **vibrant**                            |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/vibrant       |
 | **violent** <small>*(adj.)*</small>    |       2 | Moving or acting with physical strength; urged or impelled with force; excited by strong feeling or passion; forcible; vehement; impetuous; fierce; furious; severe. | https://www.wordnik.com/words/violent       |
 | **voltage**                            |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/voltage       |
@@ -977,7 +978,7 @@ Every pangram that's occurred so far.
 | **unkempt**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/unkempt         |
 | **unkindly**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/unkindly        |
 | **unknotting**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/unknotting      |
-| **unknowing**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/unknowing       |
+| **unknowing**                           |       2 |                                                                                                                                                                                                                | https://www.wordnik.com/words/unknowing       |
 | **unlatch**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/unlatch         |
 | **unloved**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/unloved         |
 | **unlovely**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/unlovely        |
