@@ -1,0 +1,50 @@
+{
+  "displayWeekday": "Wednesday",
+  "displayDate": "December 11, 2024",
+  "printDate": "2024-12-11",
+  "centerLetter": "y",
+  "outerLetters": [
+    "b",
+    "c",
+    "d",
+    "e",
+    "o",
+    "t"
+  ],
+  "validLetters": [
+    "y",
+    "b",
+    "c",
+    "d",
+    "e",
+    "o",
+    "t"
+  ],
+  "pangrams": [
+    "boycotted"
+  ],
+  "answers": [
+    "boycotted",
+    "body",
+    "booby",
+    "booty",
+    "boycott",
+    "byte",
+    "coyote",
+    "decoy",
+    "decoyed",
+    "dotty",
+    "dyed",
+    "eddy",
+    "eyed",
+    "obey",
+    "obeyed",
+    "oocyte",
+    "teddy",
+    "toddy",
+    "toyed"
+  ],
+  "id": 21937,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
