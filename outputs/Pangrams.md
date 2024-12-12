@@ -118,7 +118,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-937 pangrams
+938 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -260,6 +260,7 @@ Every pangram that's occurred so far.
 | **bootblack**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/bootblack       |
 | **bootjack**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/bootjack        |
 | **bottleful**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/bottleful       |
+| **boycotted**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/boycotted       |
 | **braving**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/braving         |
 | **braying**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/braying         |
 | **brickbat**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/brickbat        |
