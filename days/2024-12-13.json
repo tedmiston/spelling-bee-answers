@@ -1,0 +1,58 @@
+{
+  "displayWeekday": "Friday",
+  "displayDate": "December 13, 2024",
+  "printDate": "2024-12-13",
+  "centerLetter": "t",
+  "outerLetters": [
+    "a",
+    "c",
+    "k",
+    "r",
+    "w",
+    "y"
+  ],
+  "validLetters": [
+    "t",
+    "a",
+    "c",
+    "k",
+    "r",
+    "w",
+    "y"
+  ],
+  "pangrams": [
+    "trackway"
+  ],
+  "answers": [
+    "trackway",
+    "arty",
+    "attack",
+    "attar",
+    "attract",
+    "carat",
+    "cart",
+    "cartway",
+    "cataract",
+    "catty",
+    "karat",
+    "kart",
+    "ratatat",
+    "ratty",
+    "tack",
+    "tacky",
+    "tact",
+    "tarry",
+    "tart",
+    "tartar",
+    "tatty",
+    "track",
+    "tract",
+    "tray",
+    "wart",
+    "warty",
+    "watt"
+  ],
+  "id": 2099,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
