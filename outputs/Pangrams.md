@@ -118,7 +118,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-940 pangrams
+941 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -956,6 +956,7 @@ Every pangram that's occurred so far.
 | **townhome**                            |       2 |                                                                                                                                                                                                                | https://www.wordnik.com/words/townhome        |
 | **toxified**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/toxified        |
 | **trackpad**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/trackpad        |
+| **trackway**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/trackway        |
 | **traumatic**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/traumatic       |
 | **tributary** <small>*(n.)*</small>     |       2 | A stream that flows into a larger stream or other body of water.                                                                                                                                               | https://www.wordnik.com/words/tributary       |
 | **turnaround**                          |       2 |                                                                                                                                                                                                                | https://www.wordnik.com/words/turnaround      |
