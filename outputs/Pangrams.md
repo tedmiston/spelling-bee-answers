@@ -118,7 +118,7 @@ Every pangram that's occurred so far.
 
 <!-- generated all table start -->
 
-941 pangrams
+942 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                                                                | Definition URL                                |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
@@ -818,6 +818,7 @@ Every pangram that's occurred so far.
 | **nonalcoholic**                        |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/nonalcoholic    |
 | **nonapology**                          |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/nonapology      |
 | **nonbelief**                           |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/nonbelief       |
+| **nonchalance**                         |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/nonchalance     |
 | **noncombatant**                        |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/noncombatant    |
 | **noncompete** <small>*(adj.)*</small>  |       1 | *law* Of or pertaining to a commitment not to engage in competition with another party.                                                                                                                        | https://www.wordnik.com/words/noncompete      |
 | **nonconductor**                        |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/nonconductor    |
