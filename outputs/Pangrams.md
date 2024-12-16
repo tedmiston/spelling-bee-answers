@@ -8,7 +8,7 @@ Pangrams that have occurred more than once.
 
 <!-- generated multi table start -->
 
-97 pangrams
+98 pangrams
 
 | Word                                    |   Count | Definition Text                                                                                                                                                      | Definition URL                              |
 |-----------------------------------------|---------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------|
@@ -53,6 +53,7 @@ Pangrams that have occurred more than once.
 | **flavorful**                           |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/flavorful     |
 | **flipflopping**                        |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/flipflopping  |
 | **flopping**                            |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/flopping      |
+| **fruition**                            |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/fruition      |
 | **gamecock**                            |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/gamecock      |
 | **graphic**                             |       2 |                                                                                                                                                                      | https://www.wordnik.com/words/graphic       |
 | **habitual** <small>*(adj.)*</small>    |       2 | Formed or acquired by habit or use.                                                                                                                                  | https://www.wordnik.com/words/habitual      |
@@ -539,7 +540,7 @@ Every pangram that's occurred so far.
 | **fraught**                             |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/fraught         |
 | **friction**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/friction        |
 | **frontman**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/frontman        |
-| **fruition**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/fruition        |
+| **fruition**                            |       2 |                                                                                                                                                                                                                | https://www.wordnik.com/words/fruition        |
 | **fueling** <small>*(v.)*</small>       |       1 | Present participle of fuel (something consumed to produce energy, especially).                                                                                                                                 | https://www.wordnik.com/words/fueling         |
 | **function**                            |       1 |                                                                                                                                                                                                                | https://www.wordnik.com/words/function        |
 | **funneling** <small>*(v.)*</small>     |       1 | *UK* Alternative spelling of funnelling.                                                                                                                                                                       | https://www.wordnik.com/words/funneling       |
