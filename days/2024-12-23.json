@@ -1,0 +1,52 @@
+{
+  "displayWeekday": "Monday",
+  "displayDate": "December 23, 2024",
+  "printDate": "2024-12-23",
+  "centerLetter": "w",
+  "outerLetters": [
+    "d",
+    "h",
+    "i",
+    "l",
+    "n",
+    "o"
+  ],
+  "validLetters": [
+    "w",
+    "d",
+    "h",
+    "i",
+    "l",
+    "n",
+    "o"
+  ],
+  "pangrams": [
+    "downhill"
+  ],
+  "answers": [
+    "downhill",
+    "down",
+    "downwind",
+    "hollow",
+    "howl",
+    "lowdown",
+    "nohow",
+    "widow",
+    "widowhood",
+    "wild",
+    "wildwood",
+    "will",
+    "willow",
+    "wind",
+    "window",
+    "winnow",
+    "wino",
+    "wood",
+    "woodwind",
+    "woohoo",
+    "wool"
+  ],
+  "id": 22875,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
