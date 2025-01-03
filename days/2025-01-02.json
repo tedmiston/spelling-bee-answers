@@ -1,0 +1,55 @@
+{
+  "displayWeekday": "Thursday",
+  "displayDate": "January 2, 2025",
+  "printDate": "2025-01-02",
+  "centerLetter": "v",
+  "outerLetters": [
+    "a",
+    "d",
+    "e",
+    "n",
+    "t",
+    "u"
+  ],
+  "validLetters": [
+    "v",
+    "a",
+    "d",
+    "e",
+    "n",
+    "t",
+    "u"
+  ],
+  "pangrams": [
+    "vaunted"
+  ],
+  "answers": [
+    "vaunted",
+    "advent",
+    "avaunt",
+    "avenue",
+    "duvet",
+    "eave",
+    "eaved",
+    "evade",
+    "evaded",
+    "even",
+    "evened",
+    "event",
+    "nave",
+    "uneven",
+    "uvea",
+    "vane",
+    "vaunt",
+    "vend",
+    "vended",
+    "vendetta",
+    "vent",
+    "vented",
+    "venue",
+    "vetted"
+  ],
+  "id": 13912,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
