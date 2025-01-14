@@ -1,0 +1,60 @@
+{
+  "displayWeekday": "Monday",
+  "displayDate": "January 13, 2025",
+  "printDate": "2025-01-13",
+  "centerLetter": "a",
+  "outerLetters": [
+    "b",
+    "c",
+    "j",
+    "k",
+    "o",
+    "t"
+  ],
+  "validLetters": [
+    "a",
+    "b",
+    "c",
+    "j",
+    "k",
+    "o",
+    "t"
+  ],
+  "pangrams": [
+    "bootjack",
+    "jackboot"
+  ],
+  "answers": [
+    "bootjack",
+    "jackboot",
+    "aback",
+    "abbot",
+    "attack",
+    "baba",
+    "babka",
+    "back",
+    "baobab",
+    "boat",
+    "boba",
+    "bobcat",
+    "cacao",
+    "coat",
+    "coca",
+    "cockatoo",
+    "cocoa",
+    "jabot",
+    "jack",
+    "jojoba",
+    "kabob",
+    "taboo",
+    "tack",
+    "taco",
+    "tact",
+    "tattoo",
+    "tobacco",
+    "toccata"
+  ],
+  "id": 5632,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
