@@ -1,0 +1,61 @@
+{
+  "displayWeekday": "Saturday",
+  "displayDate": "January 18, 2025",
+  "printDate": "2025-01-18",
+  "centerLetter": "h",
+  "outerLetters": [
+    "a",
+    "d",
+    "e",
+    "l",
+    "m",
+    "p"
+  ],
+  "validLetters": [
+    "h",
+    "a",
+    "d",
+    "e",
+    "l",
+    "m",
+    "p"
+  ],
+  "pangrams": [
+    "headlamp"
+  ],
+  "answers": [
+    "headlamp",
+    "ahead",
+    "ahem",
+    "aleph",
+    "alpha",
+    "deadhead",
+    "deadheaded",
+    "halal",
+    "hale",
+    "hall",
+    "hammed",
+    "head",
+    "headed",
+    "heal",
+    "healed",
+    "heap",
+    "heaped",
+    "heed",
+    "heeded",
+    "heel",
+    "heeled",
+    "held",
+    "hell",
+    "helm",
+    "helmed",
+    "help",
+    "helped",
+    "heme",
+    "hemmed",
+    "hemp"
+  ],
+  "id": 18534,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
