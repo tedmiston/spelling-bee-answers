@@ -1,0 +1,62 @@
+{
+  "displayWeekday": "Saturday",
+  "displayDate": "January 25, 2025",
+  "printDate": "2025-01-25",
+  "centerLetter": "i",
+  "outerLetters": [
+    "a",
+    "e",
+    "g",
+    "h",
+    "m",
+    "t"
+  ],
+  "validLetters": [
+    "i",
+    "a",
+    "e",
+    "g",
+    "h",
+    "m",
+    "t"
+  ],
+  "pangrams": [
+    "megahit"
+  ],
+  "answers": [
+    "megahit",
+    "agita",
+    "agitate",
+    "eight",
+    "eighth",
+    "eightieth",
+    "emit",
+    "gait",
+    "gimme",
+    "height",
+    "hematite",
+    "high",
+    "image",
+    "imam",
+    "imitate",
+    "item",
+    "magi",
+    "mahimahi",
+    "maim",
+    "might",
+    "mime",
+    "mite",
+    "mitigate",
+    "mitt",
+    "taiga",
+    "tatami",
+    "teatime",
+    "thigh",
+    "tight",
+    "time",
+    "tithe"
+  ],
+  "id": 12678,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
