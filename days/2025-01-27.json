@@ -1,0 +1,58 @@
+{
+  "displayWeekday": "Monday",
+  "displayDate": "January 27, 2025",
+  "printDate": "2025-01-27",
+  "centerLetter": "h",
+  "outerLetters": [
+    "a",
+    "b",
+    "c",
+    "e",
+    "l",
+    "y"
+  ],
+  "validLetters": [
+    "h",
+    "a",
+    "b",
+    "c",
+    "e",
+    "l",
+    "y"
+  ],
+  "pangrams": [
+    "bellyache"
+  ],
+  "answers": [
+    "bellyache",
+    "ache",
+    "achy",
+    "beach",
+    "beachy",
+    "beech",
+    "belch",
+    "blah",
+    "bleach",
+    "blech",
+    "cache",
+    "challah",
+    "each",
+    "halal",
+    "hale",
+    "hall",
+    "heal",
+    "healable",
+    "heel",
+    "hell",
+    "leach",
+    "lech",
+    "leech",
+    "lychee",
+    "yeah",
+    "yecch",
+    "yech"
+  ],
+  "id": 19243,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
