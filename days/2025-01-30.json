@@ -1,0 +1,56 @@
+{
+  "displayWeekday": "Thursday",
+  "displayDate": "January 30, 2025",
+  "printDate": "2025-01-30",
+  "centerLetter": "n",
+  "outerLetters": [
+    "d",
+    "g",
+    "i",
+    "l",
+    "y",
+    "z"
+  ],
+  "validLetters": [
+    "n",
+    "d",
+    "g",
+    "i",
+    "l",
+    "y",
+    "z"
+  ],
+  "pangrams": [
+    "dizzyingly"
+  ],
+  "answers": [
+    "dizzyingly",
+    "diddling",
+    "digging",
+    "ding",
+    "dinging",
+    "dingy",
+    "dining",
+    "dizzying",
+    "dying",
+    "gigging",
+    "giggling",
+    "gilding",
+    "gilling",
+    "ginning",
+    "gliding",
+    "idling",
+    "inning",
+    "lining",
+    "lying",
+    "niggling",
+    "ninny",
+    "zigging",
+    "zing",
+    "zinging",
+    "zingy"
+  ],
+  "id": 18831,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
