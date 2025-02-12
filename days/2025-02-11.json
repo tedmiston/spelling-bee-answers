@@ -1,0 +1,60 @@
+{
+  "displayWeekday": "Tuesday",
+  "displayDate": "February 11, 2025",
+  "printDate": "2025-02-11",
+  "centerLetter": "o",
+  "outerLetters": [
+    "a",
+    "d",
+    "h",
+    "n",
+    "t",
+    "u"
+  ],
+  "validLetters": [
+    "o",
+    "a",
+    "d",
+    "h",
+    "n",
+    "t",
+    "u"
+  ],
+  "pangrams": [
+    "handout"
+  ],
+  "answers": [
+    "handout",
+    "anon",
+    "auto",
+    "dodo",
+    "donut",
+    "doodad",
+    "doth",
+    "dunno",
+    "hood",
+    "hoodoo",
+    "hoot",
+    "hound",
+    "noon",
+    "noun",
+    "nunhood",
+    "oath",
+    "onto",
+    "outdo",
+    "tattoo",
+    "thou",
+    "toad",
+    "toon",
+    "toot",
+    "tooth",
+    "tout",
+    "udon",
+    "undo",
+    "unhood",
+    "unto"
+  ],
+  "id": 14158,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
