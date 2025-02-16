@@ -1,0 +1,60 @@
+{
+  "displayWeekday": "Saturday",
+  "displayDate": "February 15, 2025",
+  "printDate": "2025-02-15",
+  "centerLetter": "b",
+  "outerLetters": [
+    "a",
+    "d",
+    "i",
+    "j",
+    "l",
+    "r"
+  ],
+  "validLetters": [
+    "b",
+    "a",
+    "d",
+    "i",
+    "j",
+    "l",
+    "r"
+  ],
+  "pangrams": [
+    "jailbird"
+  ],
+  "answers": [
+    "jailbird",
+    "airball",
+    "alibi",
+    "baba",
+    "bail",
+    "bald",
+    "ball",
+    "ballad",
+    "barb",
+    "bard",
+    "bilabial",
+    "bill",
+    "billiard",
+    "biradial",
+    "bird",
+    "birria",
+    "blab",
+    "brad",
+    "braid",
+    "briar",
+    "bridal",
+    "drab",
+    "drib",
+    "labia",
+    "labial",
+    "rabbi",
+    "rabid",
+    "railbird",
+    "ribald"
+  ],
+  "id": 4117,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
