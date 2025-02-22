@@ -1,0 +1,51 @@
+{
+  "displayWeekday": "Friday",
+  "displayDate": "February 21, 2025",
+  "printDate": "2025-02-21",
+  "centerLetter": "h",
+  "outerLetters": [
+    "i",
+    "l",
+    "n",
+    "o",
+    "r",
+    "t"
+  ],
+  "validLetters": [
+    "h",
+    "i",
+    "l",
+    "n",
+    "o",
+    "r",
+    "t"
+  ],
+  "pangrams": [
+    "trillionth"
+  ],
+  "answers": [
+    "trillionth",
+    "hill",
+    "hilt",
+    "hint",
+    "holt",
+    "honor",
+    "hoot",
+    "horn",
+    "horror",
+    "litho",
+    "ninth",
+    "north",
+    "rhino",
+    "thin",
+    "thorn",
+    "thrill",
+    "tilth",
+    "tinhorn",
+    "tooth",
+    "troth"
+  ],
+  "id": 10913,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
