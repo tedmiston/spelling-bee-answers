@@ -1,0 +1,59 @@
+{
+  "displayWeekday": "Wednesday",
+  "displayDate": "February 26, 2025",
+  "printDate": "2025-02-26",
+  "centerLetter": "l",
+  "outerLetters": [
+    "a",
+    "k",
+    "m",
+    "n",
+    "o",
+    "w"
+  ],
+  "validLetters": [
+    "l",
+    "a",
+    "k",
+    "m",
+    "n",
+    "o",
+    "w"
+  ],
+  "pangrams": [
+    "moonwalk"
+  ],
+  "answers": [
+    "moonwalk",
+    "allow",
+    "anal",
+    "annal",
+    "knoll",
+    "koala",
+    "kola",
+    "lama",
+    "lank",
+    "lawman",
+    "lawn",
+    "llama",
+    "llano",
+    "loam",
+    "loan",
+    "loll",
+    "look",
+    "loom",
+    "loon",
+    "mall",
+    "mallow",
+    "mammal",
+    "moll",
+    "moola",
+    "walk",
+    "wall",
+    "wallow",
+    "wool"
+  ],
+  "id": 20759,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
