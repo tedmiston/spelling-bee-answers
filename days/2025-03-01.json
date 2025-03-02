@@ -1,0 +1,62 @@
+{
+  "displayWeekday": "Saturday",
+  "displayDate": "March 1, 2025",
+  "printDate": "2025-03-01",
+  "centerLetter": "t",
+  "outerLetters": [
+    "a",
+    "d",
+    "h",
+    "n",
+    "r",
+    "y"
+  ],
+  "validLetters": [
+    "t",
+    "a",
+    "d",
+    "h",
+    "n",
+    "r",
+    "y"
+  ],
+  "pangrams": [
+    "hydrant"
+  ],
+  "answers": [
+    "hydrant",
+    "arhat",
+    "arrant",
+    "arty",
+    "attar",
+    "dart",
+    "data",
+    "drat",
+    "hardhat",
+    "hart",
+    "hath",
+    "hatha",
+    "natant",
+    "natty",
+    "rant",
+    "ratatat",
+    "rattan",
+    "ratty",
+    "tantara",
+    "tantra",
+    "tardy",
+    "tarry",
+    "tart",
+    "tartan",
+    "tartar",
+    "tatty",
+    "than",
+    "that",
+    "tray",
+    "tyranny",
+    "tyrant"
+  ],
+  "id": 16040,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
