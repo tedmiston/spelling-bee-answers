@@ -1,0 +1,56 @@
+{
+  "displayWeekday": "Sunday",
+  "displayDate": "March 2, 2025",
+  "printDate": "2025-03-02",
+  "centerLetter": "a",
+  "outerLetters": [
+    "d",
+    "g",
+    "i",
+    "j",
+    "n",
+    "u"
+  ],
+  "validLetters": [
+    "a",
+    "d",
+    "g",
+    "i",
+    "j",
+    "n",
+    "u"
+  ],
+  "pangrams": [
+    "adjudging"
+  ],
+  "answers": [
+    "adjudging",
+    "adding",
+    "again",
+    "aging",
+    "aiding",
+    "angina",
+    "dang",
+    "gadding",
+    "gaga",
+    "gagging",
+    "gain",
+    "gaining",
+    "gang",
+    "ganging",
+    "ganja",
+    "gauging",
+    "iguana",
+    "jading",
+    "jagging",
+    "naan",
+    "nada",
+    "nagging",
+    "naiad",
+    "nana",
+    "ninja"
+  ],
+  "id": 25284,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
