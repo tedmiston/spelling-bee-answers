@@ -1,0 +1,55 @@
+{
+  "displayWeekday": "Tuesday",
+  "displayDate": "March 4, 2025",
+  "printDate": "2025-03-04",
+  "centerLetter": "e",
+  "outerLetters": [
+    "g",
+    "h",
+    "l",
+    "m",
+    "p",
+    "y"
+  ],
+  "validLetters": [
+    "e",
+    "g",
+    "h",
+    "l",
+    "m",
+    "p",
+    "y"
+  ],
+  "pangrams": [
+    "phlegmy"
+  ],
+  "answers": [
+    "phlegmy",
+    "eely",
+    "eggy",
+    "elegy",
+    "epee",
+    "gelee",
+    "ghee",
+    "glee",
+    "heel",
+    "hell",
+    "helm",
+    "help",
+    "heme",
+    "hemp",
+    "hype",
+    "leggy",
+    "melee",
+    "meme",
+    "peel",
+    "peep",
+    "peppy",
+    "phlegm",
+    "yell",
+    "yelp"
+  ],
+  "id": 6367,
+  "freeExpiration": 0,
+  "editor": "Sam Ezersky"
+}
